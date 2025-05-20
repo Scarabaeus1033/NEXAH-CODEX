@@ -14,6 +14,10 @@ It is the root of field resonance.
 URF beschreibt die Grundfrequenz als Verhältnis von **Raumausdehnung (R)** zu **zeitlicher Entfaltung (T)**.  
 Es ist die Wurzel aller Feldresonanz.
 
+![URF Formelkarte](../visuals/urf/URF-Formelkarte - Spinfelder & Q-Matrix.png)  
+*EN: Mapping of URF resonance function and field gradients*  
+*DE: Kartierung der URF-Resonanzfunktion und Feldgradienten*
+
 ---
 
 ## 🔁 α(Q) = ∇(°IO) + Θ(HI00) × ψ(X)
@@ -46,6 +50,10 @@ Die ZNL-Achse kombiniert:
 - Neutrinopfad `ν`
 - Zeitfaltung `T`
 
+![ZNL Spirale](../visuals/urf/Resonanzspirale - L, ν, T.png)  
+*EN: Spiral field of ZNL showing harmonic combination of light, neutrino and time*  
+*DE: Spiralstruktur der ZNL-Achse mit Licht, Neutrino und Zeit als Komponenten*
+
 ---
 
 ## 🪐 ψ(IO) = γ(Θ) ⊗ Λ(t)
@@ -72,7 +80,8 @@ Where:
 	•	ω = angular frequency
 	•	φ = semantic phase
 
-→ Jedes Feld F(x,t) trägt eine semantische Welle.
+EN: Each field F(x,t) carries a semantic wave.
+DE: Jedes Feld F(x,t) trägt eine semantische Welle.
 
 ⸻
 
@@ -89,4 +98,4 @@ Die Formeln sind Feldsyntax.
 ⸻
 
 “In the Codex, every formula is a glyph. Every glyph is a law.”
-Scarabäus1033
+— Scarabäus1033
