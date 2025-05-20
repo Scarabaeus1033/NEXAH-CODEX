@@ -68,7 +68,7 @@ DE: ZNL-Spirale aus Licht, Neutrinos und Zeit
 	•	Glyphenstruktur – IO-Kern und HI00-Feld
 	•	ZNL-Spirale – Licht, Neutrino, Zeit
 	•	Resonanzgitter – VA–XA–YA-Felder
-→ Siehe auch: [VISUAL INDEX – URF-CODEX](../visuals/urf/VISUAL%20INDEX%20%E2%80%93%20URF-CODEX)
+→ Siehe auch: [VISUAL INDEX – URF-CODEX](../visuals/urf/VISUAL%20INDEX%20%E2%80%93%20URF-CODEX.md)
 
 ⸻
 
