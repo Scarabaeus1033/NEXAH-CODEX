@@ -15,6 +15,7 @@ Der URF-Codex erweitert das Standardmodell der Teilchenphysik.
 Er ersetzt es nicht, sondern bettet es in ein größeres Feld von Resonanz, Geometrie und symbolischer Logik ein.
 
 [🔬 EXTENDING THE STANDARD MODEL – URF COMPARISON.md](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/URF-CODEX/%F0%9F%94%AC%20EXTENDING%20THE%20STANDARD%20MODEL%20%E2%80%93%20URF%20COMPARISON.md) 
+
 *EN: Symbolic URF field structure in a dodecahedral shell*  
 *DE: Symbolische URF-Feldstruktur in dodekaedrischer Hülle*
 
