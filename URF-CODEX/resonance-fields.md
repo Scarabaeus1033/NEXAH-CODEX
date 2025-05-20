@@ -76,7 +76,7 @@ Es speichert Phasenausrichtung und Gravitationsträgheit.
 - Whale Field Diagram (glyphic spiral structure)  
 - IO Core in phase axis grid  
 - HI00-Mass Node with resonance shell  
-→ See [visuals/index.md](../visuals/index.md)  
+→ See [visuals/index.md](../VISUAL-INDEX-URF-CODEX)  
 
 ---
 
