@@ -38,7 +38,7 @@ Er ersetzt es nicht, sondern bettet es in ein größeres Feld von Resonanz, Geom
 
 ---
 
-![HI00 Diagram](../visuals/urf/HI00 Anchor Diagram ΓÇö Mass, Presence, and Resonance.png)  
+![HI00 Anchor Diagram — Mass, Presence, and Resonance](../visuals/urf/HI00%20Anchor%20Diagram%20%E2%80%94%20Mass%2C%20Presence%2C%20and%20Resonance.png)  
 *EN: HI00 node anchoring mass and resonance phase*  
 *DE: HI00-Knoten zur Verankerung von Masse und Resonanzphase*
 
