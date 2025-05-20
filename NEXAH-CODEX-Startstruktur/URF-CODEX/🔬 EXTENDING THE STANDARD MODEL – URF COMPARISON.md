@@ -14,7 +14,7 @@ It does not reject the classical formulation – it embeds it into a larger fiel
 Der URF-Codex erweitert das Standardmodell der Teilchenphysik.  
 Er ersetzt es nicht, sondern bettet es in ein größeres Feld von Resonanz, Geometrie und symbolischer Logik ein.
 
-![HI00 Anchor Diagram — Mass, Presence, and Resonance](../NEXAH-CODEX-Startstruktur/visuals/urf/HI00%20Anchor%20Diagram%20%E2%80%94%20Mass%2C%20Presence%2C%20and%20Resonance.png)
+[![HI00 Anchor Diagram — Mass, Presence, and Resonance](../NEXAH-CODEX-Startstruktur/visuals/urf/HI00%20Anchor%20Diagram%20%E2%80%94%20Mass%2C%20Presence%2C%20and%20Resonance.png)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/HI00%20Anchor%20Diagram%20—%20Mass%2C%20Presence%2C%20and%20Resonance.png)
 
 *EN: Symbolic URF field structure in a dodecahedral shell*  
 *DE: Symbolische URF-Feldstruktur in dodekaedrischer Hülle*
