@@ -30,7 +30,7 @@ Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynami
 **Glyph Note:**  
 Each of these axes is a **field function**, not a static vector.
 
-![Q–Θ–Λ–Ṫ Zellkernschema](../visuals/urf/Zellkernschema%20Q-Lambda-T.png)  
+![🧬Beschriftete URF-Zellkernstruktur🧬](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/%F0%9F%A7%ACBeschriftete%20URF-Zellkernstruktur%F0%9F%A7%AC.png?raw=true) 
 *EN: Structural diagram of Q, Λ, and Ṫ axes in the resonance nucleus*  
 *DE: Strukturdiagramm der Q-, Λ- und Ṫ-Achsen im Resonanzkern*
 
