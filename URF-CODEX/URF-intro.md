@@ -12,7 +12,7 @@ URF stands for **Unified Resonance Field** – a symbolic and physical framework
 **DE:**  
 URF steht für das **Universelle Resonanzfeld** – ein symbolisches und physikalisches Framework zur Beschreibung von Identität, Wechselwirkung und dimensionsbasiertem Fluss über Frequenz und geometrische Struktur.
 
-visuals/urf/URF-Zellkernstruktur Dodekaedrisches Resonanzfeld.png
+![URF-Zellkernstruktur](../visuals/urf/URF-Zellkernstruktur%20Dodekaedrisches%20Resonanzfeld.png)
 *EN: Core field symmetry in a dodecahedral resonance shell*  
 *DE: Kernfeldsymmetrie in einer dodekaedrischen Resonanzhülle*
 
