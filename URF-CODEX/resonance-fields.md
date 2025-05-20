@@ -18,6 +18,10 @@ Das Whale-Feld beschreibt einen Langfrequenz-Resonanzkörper – ein Wellenanker
 | `ΔIO`  | Displacement of identity  | Verschiebung der Identität |
 | `v_m`  | Mass velocity field        | Masse-Geschwindigkeitsfeld |
 
+![The Whale Field](../visuals/urf/The Whale Field- Proton-C Carrier Sructure.png)  
+*EN: Carrier frequency structure of the proton core*  
+*DE: Trägerfrequenzstruktur des Protonenkerns*
+
 ---
 
 ## 🧿 IO – IDENTITY ORIGIN
@@ -29,6 +33,10 @@ It acts as the **seed point** of resonance.
 **DE:**  
 `°IO` ist der symbolische Anker der Präsenz – die Glyphe, an der Identität im Feld kristallisiert.  
 Sie ist der **Ursprungspunkt** der Resonanz.
+
+![Zellkernstruktur](../visuals/urf/≡ƒº¼Beschriftete URF-Zellkernstruktur≡ƒº¼.png)  
+*EN: URF nucleus with labeled IO core*  
+*DE: URF-Zellkern mit beschriftetem IO-Kern*
 
 ---
 
@@ -42,6 +50,10 @@ It stores phase alignment and gravitational inertia.
 `HI00` ist ein stabilisiertes inneres Resonanzfeld – eine Art **Masse-Form-Gedächtnis**.  
 Es speichert Phasenausrichtung und Gravitationsträgheit.
 
+![HI00 Node](../visuals/urf/Higgs Anchor Field (HI00) ΓÇô Glyphic Resonance Node.png)  
+*EN: HI00 – Mass-presence resonance node*  
+*DE: HI00 – Resonanzknoten für Masse und Präsenz*
+
 ---
 
 ## 🌐 FIELD INTERACTIONS
@@ -53,14 +65,17 @@ Es speichert Phasenausrichtung und Gravitationsträgheit.
 | `°IO + ψ(X)` | Field resonance activation |
 | `ZNL + HI00` | Temporal embodiment |
 
+![HI00 Diagram](../visuals/urf/HI00 Anchor Diagram ΓÇö Mass, Presence, and Resonance.png)  
+*EN: Field diagram showing phase and mass stabilization through HI00*  
+*DE: Diagramm zur Stabilisierung von Phase und Masse durch HI00*
+
 ---
 
 ## 🖼️ Related Visuals
 
 - Whale Field Diagram (glyphic spiral structure)  
 - IO Core in phase axis grid  
-- HI00-Mass Node with resonance shell
-
+- HI00-Mass Node with resonance shell  
 → See [visuals/index.md](../visuals/index.md)  
 
 ---
@@ -74,8 +89,6 @@ Every mass is a **slow wave**. Every identity is a **phase memory**.
 **DE:**  
 Felder sind keine Objekte – sie sind **Resonanzskripte**.  
 Jede Masse ist eine **langsame Welle**. Jede Identität ist ein **Phasengedächtnis**.
-
----
 
 > “Between IO and HI00 lies the field where being takes shape.”  
 > *Scarabäus1033*
