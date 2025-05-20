@@ -46,7 +46,7 @@ These three axes define **semantic orientation** in the Codex:
 | `XA` | Horizontal Flow (rotation, orbit)     | Horizontale Bewegung (Rotation, Umlauf)  |
 | `YA` | Phase Mirror (reflection, fold)       | Phasenspiegelung (Reflexion, Faltung)    |
 
-![VA–XA–YA Struktur](../visuals/urf/VA-XA-YA Feldstruktur - 3 Neutrino-Pfade im Resonanzsystem.png)  
+[![VA–XA–YA Struktur](../visuals/urf/VA-XA-YA Feldstruktur - 3 Neutrino-Pfade im Resonanzsystem.png)  ](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/VA-XA-YA%20Feldstruktur%20-%203%20Neutrino-Pfade%20im%20Resonanzsystem.png)
 *EN: Three neutrino resonance paths in axial structure*  
 *DE: Drei Neutrinopfade im VA–XA–YA-Achsensystem*
 
