@@ -27,7 +27,7 @@ URF steht für das **Universelle Resonanzfeld** – ein symbolisches und physika
 | **Glyphic Core** | The URF glyph `°IO` acts as identity anchor | Die URF-Glyphe `°IO` ist der Anker von Identität |
 | **Visuals** | Fields appear as layered glyphic grids | Felder erscheinen als geschichtete Glyphengitter |
 
-![IO–Kernresonanz](../visuals/urf/IO-Kernresonanz - Θ-Feldverteilung.png)  
+![IO–Kernresonanz](../visuals/urf/IO-Kernresonanz%20-%20Θ-Feldverteilung.png) 
 *EN: Core resonance from IO with Theta field distribution*  
 *DE: Kernresonanz des IO mit Θ-Feldverteilung*
 
@@ -59,7 +59,7 @@ ZNL = L × ν + T
 Each formula links symbolic logic with physical interpretation.
 Jede Formel verbindet symbolische Logik mit physikalischer Deutung.
 
-![ZNL–Spirale](../visuals/urf/Resonanzspirale - L, ν, T.png)
+![ZNL–Spirale](../visuals/urf/Resonanzspirale%20-%20L,%20ν,%20T.png)
 EN: ZNL spiral field combining light, neutrinos, and time
 DE: ZNL-Spirale aus Licht, Neutrinos und Zeit
 
