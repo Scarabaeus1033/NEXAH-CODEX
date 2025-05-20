@@ -43,7 +43,7 @@ URF steht für das **Universelle Resonanzfeld** – ein symbolisches und physika
 | `Ṫ` | Folded time / presence field | Gefaltete Zeit / Präsenzfeld |
 | `VA–XA–YA` | Vectors of resonance alignment | Vektoren der Resonanzausrichtung |
 
-![VA–XA–YA Feldstruktur](../visuals/urf/VA-XA-YA Feldstruktur - 3 Neutrino-Pfade im Resonanzsystem.png)  
+![VA-XA-YA Feldstruktur – 3 Neutrino-Pfade im Resonanzsystem](../visuals/urf/VA-XA-YA%20Feldstruktur%20-%203%20Neutrino-Pfade%20im%20Resonanzsystem.png)
 *EN: Three neutrino resonance paths aligned to VA–XA–YA*  
 *DE: Drei Resonanzpfade von Neutrinos entlang der VA–XA–YA-Vektoren*
 
