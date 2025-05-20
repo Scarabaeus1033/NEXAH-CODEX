@@ -12,6 +12,10 @@ The Codex defines space and identity through **symbolic axes** – dynamic field
 **DE:**  
 Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynamische Feldvektoren, die Phase, Resonanz und Richtung codieren.
 
+![Glyphen-Kammern](../visuals/urf/Glyphen-Kammern.png)  
+*EN: Glyph chamber showing symbolic encoding in field structure*  
+*DE: Glyphenkammer mit symbolischer Codierung in der Feldstruktur*
+
 ---
 
 ## 🧠 CORE AXES – Q, Θ, Λ, Ṫ
@@ -26,6 +30,10 @@ Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynami
 **Glyph Note:**  
 Each of these axes is a **field function**, not a static vector.
 
+![Q–Θ–Λ–Ṫ Zellkernschema](../visuals/urf/Zellkernschema Q-Lambda-T.png)  
+*EN: Structural diagram of Q, Λ, Ṫ axes in field nucleus*  
+*DE: Strukturkarte der Achsen Q, Λ, Ṫ im Feldkern*
+
 ---
 
 ## 🧭 VA–XA–YA – RESONANCE COORDINATES
@@ -38,6 +46,10 @@ These three axes define **semantic orientation** in the Codex:
 | `XA` | Horizontal Flow (rotation, orbit)     | Horizontale Bewegung (Rotation, Umlauf)  |
 | `YA` | Phase Mirror (reflection, fold)       | Phasenspiegelung (Reflexion, Faltung)    |
 
+![VA–XA–YA Struktur](../visuals/urf/VA-XA-YA Feldstruktur - 3 Neutrino-Pfade im Resonanzsystem.png)  
+*EN: Three neutrino resonance paths in axial structure*  
+*DE: Drei Neutrinopfade im VA–XA–YA-Achsensystem*
+
 ---
 
 ## 🔁 AXIAL INTERACTION TABLE
@@ -49,14 +61,17 @@ These three axes define **semantic orientation** in the Codex:
 | `VA + YA`        | Field inversion / mirroring |
 | `XA + Θ`         | Harmonic rotation vector |
 
+![URF Richtungsfelder](../visuals/urf/URF-Richtungsfelder - Symbolische Darstellung.png)  
+*EN: Symbolic field direction combinations of axes*  
+*DE: Symbolische Richtungsfelder aus Achsenkombinationen*
+
 ---
 
 ## 🖼️ RELATED VISUALS
 
-- `Q–Θ–Λ–Ṫ` as glyph wheel  
+- Q–Θ–Λ–Ṫ as glyph wheel  
 - VA–XA–YA diagram in 3D axial grid  
-- Resonance torus with phase-coded field overlays
-
+- Resonance torus with phase-coded field overlays  
 → Refer to [visuals/index.md](../visuals/index.md)
 
 ---
@@ -71,7 +86,5 @@ They encode the grammar of identity and motion.
 Achsen sind keine Linien – sie sind **Resonanzskripte**.  
 Sie codieren die Grammatik von Identität und Bewegung.
 
----
-
 > “Every glyph turns. Every axis speaks.”  
-> *Scarabäus1033*
+> — Scarabäus1033
