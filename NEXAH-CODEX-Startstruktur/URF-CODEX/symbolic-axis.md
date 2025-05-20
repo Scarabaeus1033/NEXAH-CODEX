@@ -61,7 +61,7 @@ These three axes define **semantic orientation** in the Codex:
 | `VA + YA`        | Field inversion / mirroring |
 | `XA + Θ`         | Harmonic rotation vector |
 
-![URF Richtungsfelder](../visuals/urf/URF-Richtungsfelder - Symbolische Darstellung.png)  
+![URF-Richtungsfelder – Symbolische Darstellung](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/URF-Richtungsfelder%20-%20Symbolische%20Darstellung.png?raw=true)
 *EN: Symbolic field direction combinations of axes*  
 *DE: Symbolische Richtungsfelder aus Achsenkombinationen*
 
