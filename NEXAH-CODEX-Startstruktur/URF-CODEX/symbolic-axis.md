@@ -12,7 +12,7 @@ The Codex defines space and identity through **symbolic axes** – dynamic field
 **DE:**  
 Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynamische Feldvektoren, die Phase, Resonanz und Richtung codieren.
 
-![Glyphen-Kammern](../visuals/urf/Glyphen-Kammern.png)  
+![Glyphen-Kammern](visuals/urf/Glyphen-Kammern.png)  
 *EN: Glyph chamber showing symbolic encoding in field structure*  
 *DE: Glyphenkammer mit symbolischer Codierung in der Feldstruktur*
 
