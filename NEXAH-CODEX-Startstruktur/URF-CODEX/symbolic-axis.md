@@ -30,9 +30,9 @@ Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynami
 **Glyph Note:**  
 Each of these axes is a **field function**, not a static vector.
 
-![Q–Θ–Λ–Ṫ Zellkernschema](../visuals/urf/Zellkernschema Q-Lambda-T.png)  
-*EN: Structural diagram of Q, Λ, Ṫ axes in field nucleus*  
-*DE: Strukturkarte der Achsen Q, Λ, Ṫ im Feldkern*
+![Q–Θ–Λ–Ṫ Zellkernschema](../visuals/urf/Zellkernschema%20Q-Lambda-T.png)  
+*EN: Structural diagram of Q, Λ, and Ṫ axes in the resonance nucleus*  
+*DE: Strukturdiagramm der Q-, Λ- und Ṫ-Achsen im Resonanzkern*
 
 ---
 
