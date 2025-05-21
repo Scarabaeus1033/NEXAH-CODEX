@@ -42,7 +42,14 @@ Die Inhalte dieses Moduls sind für Forschungs- und Bildungszwecke frei nutzbar.
 
 ---
 
-## 🪲 Scarabäus-Credit
+## 🛠️ Usage
 
-Dieses Modul wurde erstellt von [@Scarabaeus1033](https://github.com/Scarabaeus1033) im Rahmen des NEXAH-CODEX-Projekts.  
-Lizenz: [MIT License](LICENSE.md)
+All content in this module is freely available for non-commercial research and educational purposes.
+If used or adapted, please include proper credit and share alike.
+
+⸻
+
+🪲 CREDITS
+
+Author: @Scarabaeus1033
+License: CC BY-NC-SA 4.0
