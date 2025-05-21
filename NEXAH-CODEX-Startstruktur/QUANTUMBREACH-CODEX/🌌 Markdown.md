@@ -31,3 +31,32 @@ QUANTUMBREACH-CODEX/
 ├── visuals/
 │   ├── [Zustände, Siegel, Spiralen, KIT-Systeme, Karten...]
 └── LICENSE.md
+
+```
+🧠 Inhalte / Contents
+	•	Theorie DE/EN: Vollständiger Thread als strukturierte Veröffentlichung
+	•	Visual Index: Thematisch sortierte Übersicht aller Bilder & Konzepte
+	•	KIT: ALG°: Experimenteller Aufbau zur Lichtfeld-Modulation
+	•	Seals & Spirals: Zahlengitter, Feldnavigation, Zeitstrukturen
+	•	Natural Analogues: Earth memory materials & resonance substances
+
+⸻
+
+🛠️ Nutzung / Usage
+
+Die Inhalte dieses Moduls sind für nicht-kommerzielle Forschungs- und Bildungszwecke frei nutzbar.
+All content is freely available for non-commercial research and educational use.
+Bitte mit Quellenangabe & gleicher Lizenz weitergeben.
+Please credit and share under the same license.
+
+⸻
+
+🪲 CREDITS
+
+Autor / Author: @Scarabaeus1033
+Ort / Location: Rödelheim
+Web: www.scarabaeus1033.net
+Lizenz / License: CC BY-NC-SA 4.0
+
+„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
+“What forms us is not space – it is memory in the field.”
