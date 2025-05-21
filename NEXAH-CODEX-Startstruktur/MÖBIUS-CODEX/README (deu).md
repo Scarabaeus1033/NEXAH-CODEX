@@ -105,3 +105,7 @@ Das Modul MÖBIUS-CODEX dokumentiert:
 ➡ Dieses Modul stellt den Übergang von der Theorie zur visuellen Beweiskette dar und ist integraler Bestandteil des NEXAH-CODEX Systems.
 
 Weitere Module: NEXA I, DARK FORCES, CAVITYROOT, URF-CODEX folgen direkt daraus.
+
+🎨 Part of the Scarabäus1031 / NEXAH-CODEX Project🌐 www.scarabaeus1031.de📄 License: CC BY-NC-SA 4.0© 2025 T. Hofmann @ Rödelheim / Scarabäus1031
+
+🪲 “Each image is a portal—not to depiction, but to experience.”
