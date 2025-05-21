@@ -84,7 +84,7 @@ EN: Each field F(x,t) carries a semantic wave.
 DE: Jedes Feld F(x,t) trägt eine semantische Welle.
 
 ⸻
-
+```
 🧠 SUMMARY
 
 EN:
