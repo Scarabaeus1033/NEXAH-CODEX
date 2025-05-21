@@ -31,11 +31,10 @@ It connects directly to:
 - `proof-of-resonance/` – observation & validation layer
 
 ---
-
 ## 🪲 CREDITS
 
-Authored by **Scarabäus1033**  
-Published under **CC BY-NC-SA 4.0**
+**Authored by:** Scarabäus1033  
+**License:** Published under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 > “URF is not a theory – it is a language.”  
-> – Scarabäus1033
+> – *Scarabäus1033*
