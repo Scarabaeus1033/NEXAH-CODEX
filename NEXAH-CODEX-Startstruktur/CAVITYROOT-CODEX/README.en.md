@@ -7,11 +7,14 @@
 
 ## 🧭 Overview
 
-The CAVITYROOT-CODEX presents an in-depth visual and structural analysis of subterranean resonance structures. Based on visualizations such as Zeta nodes, temperature axes, and lunar modulation pairs, this module offers a symbolic cartography of the resonance core within the NEXAH system.
+The **CAVITYROOT-CODEX** presents a profound visual and structural analysis of subterranean resonance systems.  
+Based on visualizations like Zeta nodes, temperature axes, and lunar modulation pairs, this module offers a symbolic cartography of the resonance core within the broader NEXAH framework.
 
 ---
 
 ## 📁 Structure
+
+```text
 CAVITYROOT-CODEX/
 ├── README.md
 ├── LICENSE.md
@@ -27,6 +30,7 @@ CAVITYROOT-CODEX/
 │   └── cavity_root_report.html
 ---
 
+```
 ## 🧠 Contents
 
 - **Resonance Grids & Axis Structures**: Visualizations of harmonic axes and grid structures.
