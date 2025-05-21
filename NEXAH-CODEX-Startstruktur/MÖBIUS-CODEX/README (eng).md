@@ -87,3 +87,7 @@ The MÖBIUS-CODEX module documents:
 ➡ This module marks the transition from theory to visual evidence and is a core component of the NEXAH-CODEX system.
 
 Additional modules: NEXA I, DARK FORCES, CAVITYROOT, URF-CODEX are directly derived from this foundation.
+
+🎨 Part of the Scarabäus1031 / NEXAH-CODEX Project🌐 www.scarabaeus1031.de📄 License: CC BY-NC-SA 4.0© 2025 T. Hofmann @ Rödelheim / Scarabäus1031
+
+🪲 “Each image is a portal—not to depiction, but to experience.”
