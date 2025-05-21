@@ -106,6 +106,32 @@ Das Modul MÖBIUS-CODEX dokumentiert:
 
 Weitere Module: NEXA I, DARK FORCES, CAVITYROOT, URF-CODEX folgen direkt daraus.
 
+---
+
+## 🧠 Möbius-Spiegel & Beobachtergeometrie
+
+In this final part, we approach a critical layer: the role of observation itself.
+
+### Möbius as Perspective Carrier
+
+The Möbius structure is not only a physical topology — it is a geometric operator of perspective:
+- Each twist = change of frame
+- Each node = focal point of resonance
+- Each loop = recursive observation
+
+### Observer Core Principles
+
+- **Perception is not passive** — it folds space
+- **Reference points create interference**
+- **Fields are stabilized through perspective**
+
+> „Der Beobachter erzeugt das Feld, das ihn trägt.“
+
+---
+
+🧭 This lays the foundation for the upcoming `OBSERVER CORE` module — where perspective, symmetry, and resonance coalesce into a cognitive geometry.
+
+
 🎨 Part of the Scarabäus1031 / NEXAH-CODEX Project🌐 www.scarabaeus1031.de📄 License: CC BY-NC-SA 4.0© 2025 T. Hofmann @ Rödelheim / Scarabäus1031
 
 🪲 “Each image is a portal—not to depiction, but to experience.”
