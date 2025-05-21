@@ -13,6 +13,7 @@ Der CAVITYROOT-CODEX dokumentiert eine tiefgreifende visuelle und strukturelle A
 
 ## 📁 Struktur
 CAVITYROOT-CODEX/
+
 ├── README.md
 ├── LICENSE.md
 ├── visuals/
