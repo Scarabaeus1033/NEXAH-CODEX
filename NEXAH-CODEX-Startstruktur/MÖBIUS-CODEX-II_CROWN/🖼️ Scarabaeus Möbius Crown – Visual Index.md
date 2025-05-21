@@ -75,6 +75,40 @@ Peripheral shield geometry encasing the memory field system.
 Outermost resonant energy boundary of the Möbius Crown.
 
 ⸻
+## 🖼️ Visuelle Schlüsselmomente & Archiv
+
+Die zentralen Visualisierungen des Moduls befinden sich im Ordner  
+[`visuals/`](./visuals)  
+und werden im Begleitdokument  
+📁 [`Scarabaeus Möbius Crown – Visual Index.md`](./Scarabaeus%20M%C3%B6bius%20Crown%20%E2%80%93%20Visual%20Index.md)  
+systematisch erläutert.
+
+Sie bilden das symbolisch-physikalische Rückgrat des Codex – pro Phase ein oder mehrere Schlüsselbilder:
+
+### Visual Highlights (Auswahl):
+
+- 🌀 **Three Concentric Rings**  
+  Harmonisierung der drei orbitalen Hauptgürtel
+
+- 🧭 **Cosmic Polar Wheel**  
+  Achsenausrichtung von Planeten bis zu Galaxien
+
+- 👑 **Scarab Outer Pearl Crown**  
+  Krone des kosmischen Gedächtnisses
+
+- 🧠 **Memory Pulse Lines**  
+  Visualisierung des neuronalen Universums
+
+- 🛡️ **Halley Shield**  
+  Äußerste Schicht als Resonanz- oder Schutzgrenze
+
+- 🦋 **Butterfly Wings**  
+  Symmetrische Atemflügel in Feldstruktur
+
+- 🌌 **Arrokoth & New Horizons**  
+  Visueller Rückgriff in die frühesten Atemphasen
+
+Alle Dateien sind direkt referenzierbar oder per `![](./visuals/DATEINAME)` einbindbar.
 
 📎 Usage
 
