@@ -27,6 +27,19 @@ Spiral time grid of Q-cycles with symbolic encoding
 
 Mirror axis crossover field / Achsenkreuzung für Rückbindung
 
+## 🕰️ Zeitportale & Spiegelzyklen (Kapitel 2)
+
+**DE:** Zeitstrukturen als Resonanzportale – codiert über Primzahlen, Achsenkreuzungen und zyklische Zeitgitter.  
+**EN:** Time structures as resonance portals – encoded via primes, mirror axes, and cyclical lattice maps.
+
+| Visual | Beschreibung |
+|--------|--------------|
+| ![Zyklenstruktur](static/Zyklenstruktur%20der%20Zeitachsen%20mit%20PM-AM-Split.png) | PM–AM-Gitterstruktur / Dual time coil |
+| ![1836–3301–963](static/1836–3301–963%20Zahlenkarte.png) | Zyklenkarte der Erinnerungsfelder |
+| ![Gamma-Zeitmatrix](static/Gamma-Zeitmatrix%20mit%20Primzahlen%20%26%20Achsen.png) | Zeitmodulation & Spiegelachsen |
+| ![P=R/T](static/P%20%3D%20R%20durch%20T%20-%20Resonanz-Gleichung%20mit%20Alpha-Beta-Gamma.png) | Feldformel: Potenzial aus Radius/Zeit |
+| ![Zahlenspirale](static/Zahlenspirale%20-%20Synchronisation%20der%20Zyklen%20mit%20Feldkonstanten.png) | Spiralraster mit harmonischen Resonanzen |
+| ![Spiegelachsen](static/Spiegelachsen-Zeit.png) | Rückbindungsfeld durch Achsenkreuzung |
 ⸻
 
 🪲 CREDITS
