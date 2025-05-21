@@ -15,9 +15,7 @@ Der CAVITYROOT-CODEX dokumentiert eine tiefgreifende visuelle und strukturelle A
 CAVITYROOT-CODEX/
 
 ├── README.md
-
 ├── LICENSE.md
-
 ├── visuals/
 
 │   ├── resonance_grid.png
