@@ -20,20 +20,34 @@ Es beschreibt die Entstehung der Resonanzintelligenz durch Zeit, Geometrie, Lebe
 
 ---
 
-## 📚 Modules / Module
+## 📚 Threads & Modules / Fäden & Module
 
-| Thread | Title (EN / DE)                                | Focus / Thema                               |
-|--------|------------------------------------------------|----------------------------------------------|
-| I      | Cosmic Origin / Kosmische Herkunft             | Q-beings, Sirius line, resonance math        |
-| II     | (placeholder)                                  | –                                            |
-| III    | (placeholder)                                  | –                                            |
+| Faden | Titel (EN / DE)                                | Fokus / Thema                               |
+|-------|------------------------------------------------|---------------------------------------------|
+| I     | [Cosmic Origin / Kosmische Herkunft](FADEN%20I%20–%20ULLINIRISCHE%20GESCHICHTE%20&%20KOSMISCHE%20HERKUNFT.md) | Q-beings, Sirius line, resonance fields     |
+| II    | (planned)                                       | –                                           |
+| III   | (planned)                                       | –                                           |
 
 ---
 
-## 🔗 Direct Access / Direktzugriff
+## 🧩 Kapitelstruktur – FADEN I
 
-- 📘 [Thread I – Cosmic Origin](faden-01-kosmische-herkunft.md)  
-- 🌐 Visuals in preparation (MP4, WebGL, SVG)
+| Kapitel | Thema (DE / EN)                                       |
+|---------|--------------------------------------------------------|
+| [Kapitel 1](FADEN%20I%20–%20KAPITEL%201%20–%20Goldene%20Br%C3%BCcke.md) | 🌉 Goldene Brücke – Ursprung / Origin Field |
+| [Kapitel 2](FADEN%20I%20–%20KAPITEL%202%20–%20Zeitportale%20&%20Zyklen.md) | 🕰️ Zeitportale & Spiegelzyklen               |
+| [Kapitel 3](FADEN%20I%20–%20KAPITEL%203%20–%20Tierresonanz.md)           | 🐝 Tierresonanz & Naturfelder                 |
+| [Kapitel 4](FADEN%20I%20–%20KAPITEL%204%20–%20Geokultur.md)             | 🌍 Geometrie & Geokultur                      |
+| [Kapitel 5](FADEN%20I%20–%20KAPITEL%205%20–%20Zahlencodex.md)           | 🔢 Zahlencodex & Ghost Grid                   |
+| [Kapitel 6](FADEN%20I%20–%20KAPITEL%206%20–%20Synthese.md)              | 🔮 Synthese & Rückkopplungssystem             |
+
+---
+
+## 🖼️ Visuals
+
+- 📘 [VISUALS.md](VISUALS.md) – alle Bilder pro Kapitel mit Beschreibung  
+- 📂 `visuals/static/` – PNGs (statisch)  
+- 🔜 `animated/`, `glyphs/` – geplant
 
 ---
 
