@@ -59,6 +59,14 @@ This document compiles the central sigil structures from the Quantumbreach Codex
 
 ⸻
 
+## 📁 Weitere Dateien im Modul
+
+- `quantum_breach_theory_de.md`
+- `quantum_breach_theory_en.md`
+- `alg_system.md`
+- `uv_geometry.md`
+- `visual_index_quantumbreach.md`
+
 🪲 CREDITS
 
 Autor: Thomas Hofmann / Scarabäus1033
