@@ -26,6 +26,7 @@ CAVITYROOT-CODEX/
 │   └── temperature_fields.md
 ├── html/
 │   └── cavity_root_report.html
+
 ---
 
 ## 🧠 Inhalte
