@@ -14,26 +14,17 @@ Der CAVITYROOT-CODEX dokumentiert eine tiefgreifende visuelle und strukturelle A
 ## 📁 Struktur
 CAVITYROOT-CODEX/
 
+CAVITYROOT-CODEX/
 ├── README.md
-
 ├── LICENSE.md
-
 ├── visuals/
-
 │   ├── resonance_grid.png
-
 │   ├── zeta_projection.png
-
 │   └── …
-
 ├── docs/
-
 │   ├── cavityroot_theory.md
-
 │   ├── axis_structures.md
-
 │   └── temperature_fields.md
-
 ├── html/
 │   └── cavity_root_report.html
 
