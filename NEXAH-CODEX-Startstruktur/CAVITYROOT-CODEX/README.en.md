@@ -39,13 +39,15 @@ CAVITYROOT-CODEX/
 
 ---
 
-## 🛠️ Usage
+🛠️ Usage
 
-The contents of this module are freely usable for research and educational purposes. When using or processing the materials, please provide appropriate attribution.
+All content in this module is freely available for non-commercial research and educational purposes.
+If used or adapted, please include proper credit and share alike.
 
----
+⸻
 
-## 🪲 Scarabäus Credit
+🪲 CREDITS
 
-This module was created by [@Scarabaeus1033](https://github.com/Scarabaeus1033) as part of the NEXAH-CODEX project.  
-License: [MIT License](LICENSE.md)
+Author: @Scarabaeus1033
+License: CC BY-NC-SA 4.0
+
