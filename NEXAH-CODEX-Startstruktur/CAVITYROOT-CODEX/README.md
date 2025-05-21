@@ -21,12 +21,17 @@ CAVITYROOT-CODEX/
 ├── visuals/
 
 │   ├── resonance_grid.png
+
 │   ├── zeta_projection.png
+
 │   └── …
 
 ├── docs/
+
 │   ├── cavityroot_theory.md
+
 │   ├── axis_structures.md
+
 │   └── temperature_fields.md
 
 ├── html/
