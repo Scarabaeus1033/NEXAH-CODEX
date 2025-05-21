@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Trinity Cube Player v3 – Autoplay & Fixed Frame</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+      color: #0ff;
+    }
+    .container {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      gap: 2rem;
+    }
+    .block {
+      flex: 1 1 30%;
+      background: #222;
+      padding: 1rem;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 0 10px #000;
+    }
+    .block h2 {
+      color: #fff;
+      font-size: 1.2rem;
+    }
+    video {
+      width: 100%;
+      border-radius: 6px;
+    }
+    iframe {
+      width: 100%;
+      height: 200px;
+      border: none;
+      background: #111;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <h1>Trinity Cube Player v3 – Autoplay & Sizing Fix 🌗☀️</h1>
+
+  <div class="container">
+    <div class="block">
+      <h2>A – Rotierender Cube (HTML)</h2>
+      <iframe src="cube_3x3_rotation.html"></iframe>
+    </div>
+    <div class="block">
+      <h2>B – ψC(t) MP4-Oszillation (Lunar)</h2>
+      <video autoplay loop muted>
+        <source src="psiC_t_stream_x4.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="block">
+      <h2>C – Tensorfeld cube_3x3x3 (Solar)</h2>
+      <video autoplay loop muted>
+        <source src="cube3x3x3_tensor_animation.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</body>
+</html>

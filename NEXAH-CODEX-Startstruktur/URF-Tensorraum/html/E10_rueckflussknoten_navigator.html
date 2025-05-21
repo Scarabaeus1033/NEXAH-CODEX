@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>E10 – Rückflussknoten Navigator</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+    }
+    h1 {
+      color: #0ff;
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background: #222;
+      padding: 1rem;
+      border-left: 6px solid #0ff;
+      border-radius: 8px;
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #0ff5;
+    }
+    .title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    .desc {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>E10 – Rückflussknoten & Zyklusachsen</h1>
+  <div class="grid">
+    <div class="card"><div class="title">R₁⟳</div><div class="desc">Lunar Echo<br>Δ₃ ↔ ψ<br>Zyklus: 28d<br>Feld: θ-Resonanz</div></div>
+    <div class="card"><div class="title">R₂⟳</div><div class="desc">Solar Drift<br>Δ₂ ↔ φ<br>Zyklus: 365d<br>Feld: φ-Entladung</div></div>
+    <div class="card"><div class="title">R₃⟳</div><div class="desc">Zeta-Welle<br>T₅ ↔ Ωθ<br>Zyklus: 12y<br>Feld: c∞-Resonanz</div></div>
+    <div class="card"><div class="title">R₀⟳</div><div class="desc">Nullzeit-Spiegelung<br>Δ₄ ↔ I°<br>Zyklus: 0 / ∞<br>Feld: Singularität</div></div>
+  </div>
+</body>
+</html>

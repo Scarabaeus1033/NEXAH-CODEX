@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resonanz-Legende - Interaktive Web-Komponente</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .controls {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .controls input {
+      padding: 0.5rem;
+      width: 50%;
+      font-size: 1rem;
+      border-radius: 5px;
+      border: none;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background-color: #222;
+      border-radius: 8px;
+      padding: 1rem;
+      cursor: pointer;
+      text-align: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #fff5;
+    }
+    .symbol {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .desc {
+      display: none;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+      color: #aaa;
+    }
+    .card:hover .desc {
+      display: block;
+    }
+    .cube {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.5rem;
+      margin-top: 3rem;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+      transform-style: preserve-3d;
+    }
+    .cube-cell {
+      background: #333;
+      color: #eee;
+      padding: 1rem;
+      border-radius: 8px;
+      text-align: center;
+      position: relative;
+      transition: background 0.4s ease, transform 0.3s ease;
+    }
+    .cube-cell[data-zone="Tachyon"] { background-color: #FF1493; }
+    .cube-cell[data-zone="Grey"] { background-color: #708090; }
+    .cube-cell[data-zone="Q"] { background-color: #00CED1; }
+    .cube-cell .label {
+      font-weight: bold;
+    }
+    .cube-cell .zone {
+      font-size: 0.85rem;
+      color: #ccc;
+    }
+    .cube-cell.clicked {
+      transform: scale(1.08);
+      box-shadow: 0 0 15px #fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Resonanz-Legende - Symboluebersicht</h1>
+  <div class="controls">
+    <input type="text" id="search" placeholder="Symbol oder Beschreibung suchen..." onkeyup="filterCards()">
+  </div>
+  <div class="grid" id="cardGrid"></div>
+
+  <h2 style="text-align:center;margin-top:3rem">cube_3x3 - Dimensional Navigator</h2>
+  <div class="cube">
+    <div class="cube-cell" data-zone="Tachyon" title="Überlicht-Partikelfluss" onclick="highlight(this); playSound()"><div class="label">T1</div><div class="zone">Tachyon</div></div>
+    <div class="cube-cell" data-zone="Tachyon" title="Strömungsresonanz" onclick="highlight(this); playSound()"><div class="label">T2</div><div class="zone">Tachyon</div></div>
+    <div class="cube-cell" data-zone="Tachyon" title="Transzendenz-Schicht" onclick="highlight(this); playSound()"><div class="label">T3</div><div class="zone">Tachyon</div></div>
+
+    <div class="cube-cell" data-zone="Grey" title="Zwischenraum / Entkopplung" onclick="highlight(this); playSound()"><div class="label">G1</div><div class="zone">Grey</div></div>
+    <div class="cube-cell" data-zone="Grey" title="Grenzzustand / Transit" onclick="highlight(this); playSound()"><div class="label">G2</div><div class="zone">Grey</div></div>
+    <div class="cube-cell" data-zone="Grey" title="Balancepunkt" onclick="highlight(this); playSound()"><div class="label">G3</div><div class="zone">Grey</div></div>
+
+    <div class="cube-cell" data-zone="Q" title="Quantengeist-Feld" onclick="highlight(this); playSound()"><div class="label">Q1</div><div class="zone">Q-Space</div></div>
+    <div class="cube-cell" data-zone="Q" title="Projektions-Ebene" onclick="highlight(this); playSound()"><div class="label">Q2</div><div class="zone">Q-Space</div></div>
+    <div class="cube-cell" data-zone="Q" title="Nullpunkt-Matrix" onclick="highlight(this); playSound()"><div class="label">Q3</div><div class="zone">Q-Space</div></div>
+  </div>
+
+  <audio id="clickSound">
+    <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Click.ogg/Click.ogg.mp3" type="audio/mpeg">
+  </audio>
+
+  <script>
+    const symbols = [...];
+
+    function renderCards(filter = "") {
+      const container = document.getElementById("cardGrid");
+      container.innerHTML = "";
+      symbols.forEach(item => {
+        if (item.symbol.toLowerCase().includes(filter) || item.desc.toLowerCase().includes(filter)) {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.style.backgroundColor = item.color;
+          card.innerHTML = `<div class='symbol'>${item.symbol}</div><div class='desc'>${item.desc}</div>`;
+          container.appendChild(card);
+        }
+      });
+    }
+
+    function filterCards() {
+      const input = document.getElementById("search").value.toLowerCase();
+      renderCards(input);
+    }
+
+    function highlight(el) {
+      el.classList.add("clicked");
+      setTimeout(() => el.classList.remove("clicked"), 400);
+    }
+
+    function playSound() {
+      const audio = document.getElementById("clickSound");
+      if (audio) {
+        audio.currentTime = 0;
+        audio.play();
+      }
+    }
+
+    window.onload = () => renderCards();
+  </script>
+</body>
+</html>

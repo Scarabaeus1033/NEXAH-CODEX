@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Resonanzfeld – cube_3x3</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #111;
+      color: #eee;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #0ff;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: 600px;
+      margin: auto;
+      gap: 1rem;
+    }
+    .cell {
+      border-radius: 10px;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+      transition: 0.3s ease-in-out;
+      box-shadow: 0 0 10px #000;
+    }
+    .Tachyon {
+      background-color: #FF1493;
+    }
+    .Grey {
+      background-color: #708090;
+    }
+    .Q-Space {
+      background-color: #00CED1;
+    }
+    .cell:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px #fff;
+    }
+    .label {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    .sub {
+      font-size: 0.9rem;
+      color: #ddd;
+      margin-top: 0.2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Resonanzfeld cube_3x3</h1>
+  <div class="grid">
+
+    <div class="cell Tachyon">
+      <div class="label">T1</div>
+      <div class="sub">Zone: Tachyon</div>
+      <div class="sub">Formel: φK</div>
+      <div class="sub">Wert: 1.618e+32</div>
+      <div class="sub">Koordinaten: (0, 2)</div>
+    </div>
+    
+    <div class="cell Tachyon">
+      <div class="label">T2</div>
+      <div class="sub">Zone: Tachyon</div>
+      <div class="sub">Formel: φK</div>
+      <div class="sub">Wert: 1.618e+32</div>
+      <div class="sub">Koordinaten: (1, 2)</div>
+    </div>
+    
+    <div class="cell Tachyon">
+      <div class="label">T3</div>
+      <div class="sub">Zone: Tachyon</div>
+      <div class="sub">Formel: φK</div>
+      <div class="sub">Wert: 1.618e+32</div>
+      <div class="sub">Koordinaten: (2, 2)</div>
+    </div>
+    
+    <div class="cell Grey">
+      <div class="label">G1</div>
+      <div class="sub">Zone: Grey</div>
+      <div class="sub">Formel: θFlow</div>
+      <div class="sub">Wert: 314.0</div>
+      <div class="sub">Koordinaten: (0, 1)</div>
+    </div>
+    
+    <div class="cell Grey">
+      <div class="label">G2</div>
+      <div class="sub">Zone: Grey</div>
+      <div class="sub">Formel: θFlow</div>
+      <div class="sub">Wert: 376.8</div>
+      <div class="sub">Koordinaten: (1, 1)</div>
+    </div>
+    
+    <div class="cell Grey">
+      <div class="label">G3</div>
+      <div class="sub">Zone: Grey</div>
+      <div class="sub">Formel: θFlow</div>
+      <div class="sub">Wert: 439.6</div>
+      <div class="sub">Koordinaten: (2, 1)</div>
+    </div>
+    
+    <div class="cell Q-Space">
+      <div class="label">Q1</div>
+      <div class="sub">Zone: Q-Space</div>
+      <div class="sub">Formel: ψC</div>
+      <div class="sub">Wert: 50000.0</div>
+      <div class="sub">Koordinaten: (0, 0)</div>
+    </div>
+    
+    <div class="cell Q-Space">
+      <div class="label">Q2</div>
+      <div class="sub">Zone: Q-Space</div>
+      <div class="sub">Formel: ψC</div>
+      <div class="sub">Wert: 62500.0</div>
+      <div class="sub">Koordinaten: (1, 0)</div>
+    </div>
+    
+    <div class="cell Q-Space">
+      <div class="label">Q3</div>
+      <div class="sub">Zone: Q-Space</div>
+      <div class="sub">Formel: ψC</div>
+      <div class="sub">Wert: 83333.33</div>
+      <div class="sub">Koordinaten: (2, 0)</div>
+    </div>
+    
+  </div>
+</body>
+</html>

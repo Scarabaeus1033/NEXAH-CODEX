@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>E9 – Q-Bridge Verschränkung</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+    }
+    h1 {
+      color: #0ff;
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background: #222;
+      padding: 1rem;
+      border-left: 6px solid #0ff;
+      border-radius: 8px;
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #0ff5;
+    }
+    .title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    .desc {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>E9 – Q-Bridge Navigator</h1>
+  <div class="grid">
+    <div class="card"><div class="title">Q₁</div><div class="desc">ψ ↔ φ<br>X-Y-Ebene<br>90° Versatz<br>Spiegelung</div></div>
+    <div class="card"><div class="title">Q₂</div><div class="desc">Ω ↔ Δ<br>Y-Z-Ebene<br>180° Versatz<br>Antiparallel</div></div>
+    <div class="card"><div class="title">Q₃</div><div class="desc">φ ↔ ∞<br>Z-X-Ebene<br>45° Versatz<br>Überlagerung</div></div>
+    <div class="card"><div class="title">Q₄</div><div class="desc">θ ↔ Ωθ<br>X-Z-Ebene<br>360° Versatz<br>Kreisflucht</div></div>
+  </div>
+</body>
+</html>

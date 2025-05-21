@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>E6 – Tensorraum Navigator</title>
+  <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+  <style>
+    body { background: #111; color: #fff; font-family: sans-serif; text-align: center; }
+    #cy { width: 100%; height: 600px; display: block; margin: auto; background: #222; border: 2px solid #555; }
+    h1 { color: #0ff; }
+  </style>
+</head>
+<body>
+  <h1>E6 – Tensorraum & Navigationssystem</h1>
+  <div id="cy"></div>
+  <script>
+    const cy = cytoscape({
+      container: document.getElementById('cy'),
+      style: [
+        {
+          selector: 'node',
+          style: {
+            'background-color': '#0ff',
+            'label': 'data(label)',
+            'font-size': 12,
+            'text-valign': 'center',
+            'color': '#000',
+            'text-outline-width': 1,
+            'text-outline-color': '#0ff'
+          }
+        },
+        {
+          selector: 'edge',
+          style: {
+            'width': 2,
+            'line-color': '#888',
+            'target-arrow-color': '#f00',
+            'target-arrow-shape': 'triangle',
+            'label': 'data(label)',
+            'font-size': 10,
+            'color': '#fff'
+          }
+        }
+      ],
+      elements: {
+        nodes: [
+          { data: { id: 'D5', label: 'D5 (ψC)' }},
+          { data: { id: 'D6', label: 'D6 (φK)' }},
+          { data: { id: 'D7', label: 'D7 (Ωθ)' }},
+          { data: { id: 'D8', label: 'D8 (Ω)' }},
+          { data: { id: 'D9', label: 'D9 (Δ)' }},
+          { data: { id: 'D12', label: 'D12 (c∞)' }}
+        ],
+        edges: [
+          { data: { source: 'D5', target: 'D6', label: 'T₁: ψφ' }},
+          { data: { source: 'D6', target: 'D7', label: 'T₅: Ωθ' }},
+          { data: { source: 'D5', target: 'D8', label: 'T₃: Ωψ' }},
+          { data: { source: 'D6', target: 'D9', label: 'T₂: θΔ' }},
+          { data: { source: 'D9', target: 'D12', label: 'T₄: Δ∞' }}
+        ]
+      },
+      layout: {
+        name: 'circle'
+      }
+    });
+  </script>
+</body>
+</html>

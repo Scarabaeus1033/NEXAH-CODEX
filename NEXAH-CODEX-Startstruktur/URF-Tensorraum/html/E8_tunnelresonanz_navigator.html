@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>E8 – Tunnelresonanz Navigator</title>
+  <style>
+    body {
+      background: #111;
+      color: #eee;
+      font-family: sans-serif;
+      padding: 2rem;
+    }
+    h1 {
+      color: #0ff;
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background: #222;
+      padding: 1rem;
+      border-left: 6px solid #0ff;
+      border-radius: 8px;
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #0ff5;
+    }
+    .title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    .desc {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>E8 – Tunnelresonanz & Synchronisation</h1>
+  <div class="grid">
+    <div class="card"><div class="title">T₁ → Δ₁</div><div class="desc">ψC ↔ Moon<br>π/6 → R₁<br>963 Hz (Rücklauf)</div></div>
+    <div class="card"><div class="title">T₂ → Δ₂</div><div class="desc">φK ↔ Solar<br>π/3 → R₂<br>1414 Hz (Impulsleitung)</div></div>
+    <div class="card"><div class="title">T₃ → Δ₃</div><div class="desc">θFlow ↔ Echo<br>π/4 → R₃<br>480 Hz (Reentry-Schleife)</div></div>
+    <div class="card"><div class="title">T₄ → Δ₄</div><div class="desc">c₀ ↔ Zero<br>π → R₀<br>0 Hz (Singularität)</div></div>
+    <div class="card"><div class="title">T₅ → Δ₅</div><div class="desc">Ωθ ↔ ∞<br>2π → R∞<br>∞ Hz (Fluchtpfad)</div></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mode D - Photonic Crossfield</title>
+  <style>
+    body { margin: 0; overflow: hidden; background: #111; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/three@0.150.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.150.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.1, 1000);
+  camera.position.set(4, 3, 6);
+
+  const renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  document.body.appendChild(renderer.domElement);
+
+  const controls = new THREE.OrbitControls(camera, renderer.domElement);
+  controls.enableDamping = true;
+
+  // Licht – Sichtbarer Strahl
+  const spotlight = new THREE.SpotLight(0xffee88, 1.5, 100, Math.PI / 6, 0.5);
+  spotlight.position.set(5, 5, 5);
+  spotlight.castShadow = true;
+  scene.add(spotlight);
+  scene.add(new THREE.AmbientLight(0x222222));
+
+  // Gold-Material (reflektierend)
+  const material = new THREE.MeshStandardMaterial({
+    color: 0xffd700,
+    metalness: 0.7,
+    roughness: 0.25,
+    emissive: 0x331100,
+    emissiveIntensity: 0.1
+  });
+
+  // Doppelpyramide – MV Shape
+  const top = new THREE.Mesh(new THREE.TetrahedronGeometry(1), material);
+  const bottom = new THREE.Mesh(new THREE.TetrahedronGeometry(1), material);
+  bottom.rotation.x = Math.PI;
+  bottom.position.y = -1.4;
+  top.position.y = 1.4;
+
+  const group = new THREE.Group();
+  group.add(top);
+  group.add(bottom);
+  scene.add(group);
+
+  // Glühende Endpunkte auf Achsen
+  function createGlowSphere(pos, color=0xffcc00) {
+    const glowMaterial = new THREE.MeshBasicMaterial({ color });
+    const glow = new THREE.Mesh(new THREE.SphereGeometry(0.08), glowMaterial);
+    glow.position.copy(pos);
+    return glow;
+  }
+
+  const glowPoints = [
+    createGlowSphere(new THREE.Vector3(2, 0, 0)),
+    createGlowSphere(new THREE.Vector3(-2, 0, 0)),
+    createGlowSphere(new THREE.Vector3(0, 2, 0)),
+    createGlowSphere(new THREE.Vector3(0, -2, 0)),
+    createGlowSphere(new THREE.Vector3(0, 0, 2)),
+    createGlowSphere(new THREE.Vector3(0, 0, -2)),
+  ];
+  glowPoints.forEach(p => scene.add(p));
+
+  // Goldene Achsenlinien
+  const axisMaterial = new THREE.LineBasicMaterial({ color: 0xffcc00 });
+  const axisPoints = [];
+  axisPoints.push(
+    new THREE.Vector3(-2, 0, 0), new THREE.Vector3(2, 0, 0), // X
+    new THREE.Vector3(0, -2, 0), new THREE.Vector3(0, 2, 0), // Y
+    new THREE.Vector3(0, 0, -2), new THREE.Vector3(0, 0, 2)  // Z
+  );
+  const axisGeometry = new THREE.BufferGeometry().setFromPoints(axisPoints);
+  const axisLines = new THREE.LineSegments(axisGeometry, axisMaterial);
+  scene.add(axisLines);
+
+  // Rotation & Animation
+  function animate() {
+    requestAnimationFrame(animate);
+    group.rotation.y += 0.005;
+    group.rotation.x += 0.003;
+    controls.update();
+    renderer.render(scene, camera);
+  }
+  animate();
+
+  window.addEventListener('resize', () => {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resonanz-Legende - Interaktive Web-Komponente</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .controls {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .controls input {
+      padding: 0.5rem;
+      width: 50%;
+      font-size: 1rem;
+      border-radius: 5px;
+      border: none;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background-color: #222;
+      border-radius: 8px;
+      padding: 1rem;
+      cursor: pointer;
+      text-align: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #fff5;
+    }
+    .symbol {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .desc {
+      display: none;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+      color: #aaa;
+    }
+    .card:hover .desc {
+      display: block;
+    }
+    .cube {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.5rem;
+      margin-top: 3rem;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .cube-cell {
+      background: #333;
+      color: #eee;
+      padding: 1rem;
+      border-radius: 8px;
+      text-align: center;
+      position: relative;
+    }
+    .cube-cell[data-zone="Tachyon"] { background-color: #FF1493; }
+    .cube-cell[data-zone="Grey"] { background-color: #708090; }
+    .cube-cell[data-zone="Q"] { background-color: #00CED1; }
+    .cube-cell .label {
+      font-weight: bold;
+    }
+    .cube-cell .zone {
+      font-size: 0.85rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Resonanz-Legende - Symboluebersicht</h1>
+  <div class="controls">
+    <input type="text" id="search" placeholder="Symbol oder Beschreibung suchen..." onkeyup="filterCards()">
+  </div>
+  <div class="grid" id="cardGrid"></div>
+
+  <h2 style="text-align:center;margin-top:3rem">cube_3x3 - Dimensional Navigator</h2>
+  <div class="cube">
+    <div class="cube-cell" data-zone="Tachyon"><div class="label">T1</div><div class="zone">Tachyon</div></div>
+    <div class="cube-cell" data-zone="Tachyon"><div class="label">T2</div><div class="zone">Tachyon</div></div>
+    <div class="cube-cell" data-zone="Tachyon"><div class="label">T3</div><div class="zone">Tachyon</div></div>
+
+    <div class="cube-cell" data-zone="Grey"><div class="label">G1</div><div class="zone">Grey</div></div>
+    <div class="cube-cell" data-zone="Grey"><div class="label">G2</div><div class="zone">Grey</div></div>
+    <div class="cube-cell" data-zone="Grey"><div class="label">G3</div><div class="zone">Grey</div></div>
+
+    <div class="cube-cell" data-zone="Q"><div class="label">Q1</div><div class="zone">Q-Space</div></div>
+    <div class="cube-cell" data-zone="Q"><div class="label">Q2</div><div class="zone">Q-Space</div></div>
+    <div class="cube-cell" data-zone="Q"><div class="label">Q3</div><div class="zone">Q-Space</div></div>
+  </div>
+
+  <script>
+    const symbols = [
+      { symbol: "phiK", desc: "Goldene Temperatur (phiK)", color: "#FFD700" },
+      { symbol: "piK", desc: "Kreisfrequenz-Temperatur (piK)", color: "#FF6347" },
+      { symbol: "c_theta", desc: "Lichtfluss in Theta-Ebene", color: "#1E90FF" },
+      { symbol: "c_zero", desc: "Nullraum-Geschwindigkeit", color: "#778899" },
+      { symbol: "c_Omega", desc: "Omega-Zustand / Rueckkopplung", color: "#6A5ACD" },
+      { symbol: "c_infinity", desc: "Unendlicher Fluss (infinity)", color: "#4B0082" },
+      { symbol: "T_psi", desc: "Bewusstseinsfeld-Temperatur", color: "#00CED1" },
+      { symbol: "thetaFlow", desc: "Rotation / Uebergang", color: "#DC143C" },
+      { symbol: "psiC", desc: "Geist-Lichtkonstante", color: "#FF8C00" },
+      { symbol: "zeroPoint", desc: "Nullpunkt / Singularitaet", color: "#2E8B57" },
+      { symbol: "phiSpin", desc: "Goldene Rotation", color: "#DA70D6" },
+      { symbol: "zetaK", desc: "Zeta-Feld-Temperatur", color: "#A52A2A" },
+      { symbol: "timeLoop_9I6", desc: "Spiegelzeitzyklus", color: "#D2691E" },
+      { symbol: "sunFlux", desc: "Solarer Tachyonfluss", color: "#FFA07A" },
+      { symbol: "moonEcho", desc: "Lunarer Rueckfluss", color: "#B0C4DE" },
+      { symbol: "I_transit", desc: "Uebergangspunkt I", color: "#BA55D3" },
+      { symbol: "I_star", desc: "Resonanzzentrum aktiviert", color: "#20B2AA" },
+      { symbol: "mirrorDim", desc: "Spiegelrealitaet", color: "#696969" },
+      { symbol: "cube_3x3", desc: "Unterstruktur / Matrix", color: "#A9A9A9" },
+      { symbol: "dimC", desc: "Dimensionale Lichtkonstante", color: "#483D8B" }
+    ];
+
+    function renderCards(filter = "") {
+      const container = document.getElementById("cardGrid");
+      container.innerHTML = "";
+      symbols.forEach(item => {
+        if (item.symbol.toLowerCase().includes(filter) || item.desc.toLowerCase().includes(filter)) {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.style.backgroundColor = item.color;
+          card.innerHTML = `<div class='symbol'>${item.symbol}</div><div class='desc'>${item.desc}</div>`;
+          container.appendChild(card);
+        }
+      });
+    }
+
+    function filterCards() {
+      const input = document.getElementById("search").value.toLowerCase();
+      renderCards(input);
+    }
+
+    window.onload = () => renderCards();
+  </script>
+</body>
+</html>

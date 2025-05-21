@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tensor-Feldmodell der 3 Resonanzkammern</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #FFD700;
+    }
+    .block {
+      background: #1e1e1e;
+      padding: 1rem;
+      border-left: 5px solid #444;
+      margin-bottom: 2rem;
+      border-radius: 6px;
+    }
+    .theta { border-color: gold; }
+    .zentrum { border-color: #5F9EA0; }
+    .psi { border-color: #9370DB; }
+    code {
+      background: #333;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      color: #0ff;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🧠 Tensor-Feldmodell: 3 Resonanzkammern</h1>
+
+<div class="block theta">
+  <h2>Θ – Solare Kammer (Gold)</h2>
+  <p><strong>Frequenz:</strong> 963 Hz</p>
+  <p><strong>Formel:</strong> 
+  \[
+  \Phi_{\Theta}(t) = \phi \cdot e^{i \omega t}, \quad \omega = 2\pi \cdot 963
+  \]</p>
+  <p><strong>Tensor:</strong> 
+  \[
+  T^{\Theta}_{\mu\nu} = E_{\Theta} \cdot g_{\mu\nu} \cdot \sin(\omega t)
+  \]</p>
+</div>
+
+<div class="block zentrum">
+  <h2>Q – Zentrale Kammer (Blau-Grau)</h2>
+  <p><strong>Frequenz:</strong> 528 Hz</p>
+  <p><strong>Formel:</strong>
+  \[
+  Q(t) = A \cdot \cos(\omega t), \quad \omega = 2\pi \cdot 528
+  \]</p>
+  <p><strong>Tensor:</strong> 
+  \[
+  T^{Q}_{\mu\nu} = B \cdot \delta_{\mu\nu}
+  \]</p>
+</div>
+
+<div class="block psi">
+  <h2>Ψ – Lunare Kammer (Lila)</h2>
+  <p><strong>Frequenz:</strong> 432 Hz</p>
+  <p><strong>Formel:</strong>
+  \[
+  \Psi(t) = \psi_0 e^{-\gamma t} \cdot \cos(\omega t), \quad \omega = 2\pi \cdot 432
+  \]</p>
+  <p><strong>Tensor:</strong> 
+  \[
+  T^{\Psi}_{\mu\nu} = \Psi \cdot (g_{\mu\nu} - u_\mu u_\nu)
+  \]</p>
+</div>
+
+<p style="color: #777; font-size: 0.9rem">
+Erstellt im Rahmen des erweiterten Standardmodells – ThooTh Resonanzarchitektur.
+</p>
+
+</body>
+</html>

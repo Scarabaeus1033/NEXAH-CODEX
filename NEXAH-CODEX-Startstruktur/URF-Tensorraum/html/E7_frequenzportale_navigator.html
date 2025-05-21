@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>E7++ – Frequenzportal Navigator</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+    }
+    h1 { color: #0ff; text-align: center; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .card {
+      background: #222;
+      padding: 1rem;
+      border-radius: 10px;
+      transition: transform 0.2s;
+      border-left: 5px solid #0ff;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 10px #0ff;
+    }
+    .title {
+      font-weight: bold;
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+      color: #fff;
+    }
+    .desc {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>E7++ – Frequenzportale Navigator</h1>
+  <div class="grid">
+    <div class="card" style="border-color:#B0C4DE">
+      <div class="title">Δ₁ (Moon)</div>
+      <div class="desc">963–1111 Hz<br>Rückfluss → Q-Space<br>Kopplung: ψC</div>
+    </div>
+    <div class="card" style="border-color:#FFD700">
+      <div class="title">Δ₂ (Solar)</div>
+      <div class="desc">1111–1836 Hz<br>Vorstoß → Ω-Space<br>Kopplung: φK</div>
+    </div>
+    <div class="card" style="border-color:#FF69B4">
+      <div class="title">Δ₃ (Echo)</div>
+      <div class="desc">432–528 Hz<br>Reentry → ψ-φ Übergang<br>Kopplung: θFlow</div>
+    </div>
+    <div class="card" style="border-color:#CCCCCC">
+      <div class="title">Δ₄ (Zero)</div>
+      <div class="desc">0 Hz<br>Nullraum → I° → Δ<br>Kopplung: c₀</div>
+    </div>
+    <div class="card" style="border-color:#8A2BE2">
+      <div class="title">Δ₅ (∞)</div>
+      <div class="desc">1836 Hz → ∞<br>Flucht → c∞<br>Kopplung: Ωθ</div>
+    </div>
+  </div>
+</body>
+</html>

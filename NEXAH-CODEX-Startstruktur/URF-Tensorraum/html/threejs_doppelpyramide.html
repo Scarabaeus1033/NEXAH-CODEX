@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>E12 – Doppelpyramiden Szene (Three.js)</title>
+  <style>
+    body { margin: 0; background: #000; overflow: hidden; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/three@0.150.0/build/three.min.js"></script>
+<script>
+  // Szene und Kamera
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(60, window.innerWidth/window.innerHeight, 0.1, 1000);
+  camera.position.z = 5;
+
+  // Renderer
+  const renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  document.body.appendChild(renderer.domElement);
+
+  // Licht
+  const ambient = new THREE.AmbientLight(0x888888);
+  scene.add(ambient);
+  const pointLight = new THREE.PointLight(0xffffff, 1);
+  pointLight.position.set(5, 5, 5);
+  scene.add(pointLight);
+
+  // Doppelpyramide: zwei Tetraeder, gespiegelt
+  const material = new THREE.MeshStandardMaterial({ color: 0xffcc00, wireframe: true });
+  const top = new THREE.Mesh(new THREE.TetrahedronGeometry(1), material);
+  const bottom = new THREE.Mesh(new THREE.TetrahedronGeometry(1), material);
+  bottom.rotation.x = Math.PI;
+  bottom.position.y = -1.5;
+  top.position.y = 1.5;
+
+  const group = new THREE.Group();
+  group.add(top);
+  group.add(bottom);
+  scene.add(group);
+
+  // Animation
+  function animate() {
+    requestAnimationFrame(animate);
+    group.rotation.y += 0.01;
+    group.rotation.x += 0.005;
+    renderer.render(scene, camera);
+  }
+  animate();
+
+  // Responsive Canvas
+  window.addEventListener('resize', () => {
+    camera.aspect = window.innerWidth/window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+  });
+</script>
+</body>
+</html>

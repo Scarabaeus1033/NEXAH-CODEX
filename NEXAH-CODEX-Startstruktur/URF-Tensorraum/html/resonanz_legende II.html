@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resonanz-Legende - Interaktive Web-Komponente</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background-color: #222;
+      border-radius: 8px;
+      padding: 1rem;
+      cursor: pointer;
+      text-align: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #fff5;
+    }
+    .symbol {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .desc {
+      display: none;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+      color: #aaa;
+    }
+    .card:hover .desc {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Resonanz-Legende - Symboluebersicht</h1>
+  <div class="grid">
+    <div class="card" style="background:#FFD700"><div class="symbol">phiK</div><div class="desc">Goldene Temperatur (phiK)</div></div>
+    <div class="card" style="background:#FF6347"><div class="symbol">piK</div><div class="desc">Kreisfrequenz-Temperatur (piK)</div></div>
+    <div class="card" style="background:#1E90FF"><div class="symbol">c_theta</div><div class="desc">Lichtfluss in Theta-Ebene</div></div>
+    <div class="card" style="background:#778899"><div class="symbol">c_zero</div><div class="desc">Nullraum-Geschwindigkeit</div></div>
+    <div class="card" style="background:#6A5ACD"><div class="symbol">c_Omega</div><div class="desc">Omega-Zustand / Rueckkopplung</div></div>
+    <div class="card" style="background:#4B0082"><div class="symbol">c_infinity</div><div class="desc">Unendlicher Fluss (infinity)</div></div>
+    <div class="card" style="background:#00CED1"><div class="symbol">T_psi</div><div class="desc">Bewusstseinsfeld-Temperatur</div></div>
+    <div class="card" style="background:#DC143C"><div class="symbol">thetaFlow</div><div class="desc">Rotation / Uebergang</div></div>
+    <div class="card" style="background:#FF8C00"><div class="symbol">psiC</div><div class="desc">Geist-Lichtkonstante</div></div>
+    <div class="card" style="background:#2E8B57"><div class="symbol">zeroPoint</div><div class="desc">Nullpunkt / Singularitaet</div></div>
+    <div class="card" style="background:#DA70D6"><div class="symbol">phiSpin</div><div class="desc">Goldene Rotation</div></div>
+    <div class="card" style="background:#A52A2A"><div class="symbol">zetaK</div><div class="desc">Zeta-Feld-Temperatur</div></div>
+    <div class="card" style="background:#D2691E"><div class="symbol">timeLoop_9I6</div><div class="desc">Spiegelzeitzyklus</div></div>
+    <div class="card" style="background:#FFA07A"><div class="symbol">sunFlux</div><div class="desc">Solarer Tachyonfluss</div></div>
+    <div class="card" style="background:#B0C4DE"><div class="symbol">moonEcho</div><div class="desc">Lunarer Rueckfluss</div></div>
+    <div class="card" style="background:#BA55D3"><div class="symbol">I_transit</div><div class="desc">Uebergangspunkt I</div></div>
+    <div class="card" style="background:#20B2AA"><div class="symbol">I_star</div><div class="desc">Resonanzzentrum aktiviert</div></div>
+    <div class="card" style="background:#696969"><div class="symbol">mirrorDim</div><div class="desc">Spiegelrealitaet</div></div>
+    <div class="card" style="background:#A9A9A9"><div class="symbol">cube_3x3</div><div class="desc">Unterstruktur / Matrix</div></div>
+    <div class="card" style="background:#483D8B"><div class="symbol">dimC</div><div class="desc">Dimensionale Lichtkonstante</div></div>
+  </div>
+</body>
+</html>

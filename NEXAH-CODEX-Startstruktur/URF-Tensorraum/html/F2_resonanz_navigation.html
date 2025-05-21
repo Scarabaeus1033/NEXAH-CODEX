@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>F2 – Interaktive Resonanz-Navigation</title>
+  <style>
+    body {
+      background: #0d0d0d;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      color: #FFD700;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      align-items: center;
+      justify-items: center;
+      margin-top: 3rem;
+    }
+    .node {
+      background-color: #222;
+      padding: 1.5rem;
+      border-radius: 10px;
+      width: 200px;
+      position: relative;
+      transition: transform 0.3s;
+    }
+    .node:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px #fff2;
+    }
+    .theta { border: 2px solid gold; }
+    .zentrum { border: 2px solid #5F9EA0; }
+    .psi { border: 2px solid #9370DB; }
+    .arrow {
+      font-size: 2rem;
+      margin: 1rem 0;
+    }
+    .label {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+    }
+    .desc {
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+<h1>F2 – Interaktive Resonanz-Navigation</h1>
+<p>Visualisierung des energetischen Durchflusses durch die 3-Kammer-Struktur</p>
+
+<div class="container">
+  <div class="node theta">
+    <div class="label">Θ – Solare Kammer</div>
+    <div class="desc">Startimpuls<br>Expansion / Frequenzaufbau</div>
+  </div>
+
+  <div class="arrow">⟶</div>
+
+  <div class="node zentrum">
+    <div class="label">Q – Zentrum</div>
+    <div class="desc">Feldkopplung<br>Koherenz & Interlock</div>
+  </div>
+
+  <div class="arrow">⟶</div>
+
+  <div class="node psi">
+    <div class="label">Ψ – Lunare Kammer</div>
+    <div class="desc">Rückfluss<br>Implosion / Integration</div>
+  </div>
+</div>
+
+<p style="margin-top: 3rem; font-size: 0.8rem; color: #888;">ThooTh-Framework © – Erweiterung des Standardmodells</p>
+
+</body>
+</html>
