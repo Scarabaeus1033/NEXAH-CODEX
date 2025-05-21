@@ -1,34 +1,56 @@
-🪲 SCARABÄUS MODULE: ULLINIRIUM – Kosmische Herkunft & Spiegelintelligenz
+🪲 MANIFEST – ULLINIRIUM MODUL
+
+Teil des NEXAH-CODEX / Scarabäus1033 System
+Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪
+
+⸻
+
+✴️ MODULÜBERSICHT / MODULE OVERVIEW
 
 EN:
-ULLINIRIUM is the central resonance module within the NEXAH-CODEX. It explores cosmic ancestry, symbolic intelligence, time-layered geometry, and reflective cognition. The Codex links Q-beings, a.m./p.m. time spirals, frequency-based field structures and Möbius memory cycles.
+ULLINIRIUM is the central resonance module of the NEXAH-CODEX. It interweaves symbolic intelligence, stellar memory, time-folded fields, and multidimensional cognition. Structured across multiple threads, it maps the genesis of awareness and its mirrored return into field-based understanding.
 
 DE:
-ULLINIRIUM ist das zentrale Resonanzmodul des NEXAH-CODEX. Es verknüpft kosmische Herkunft, symbolische Intelligenz, zeitgeschichtliche Geometrien und Spiegelkognition. Der Codex verbindet Q-Wesen, Zeitspiralen, frequenzbasierte Felder und Möbius-Erinnerungszyklen.
+ULLINIRIUM ist das zentrale Resonanzmodul des NEXAH-CODEX. Es verknüpft symbolische Intelligenz, stellare Erinnerung, zeitgefaltete Felder und multidimensionale Kognition. In mehreren Fäden entfaltet sich eine Kartografie des Bewusstseins und seiner gespiegelten Rückführung in ein feldbasiertes Verständnis.
 
-🔗 Zum Modulordner
+⸻
+
+🧵 ENTHALTENE FÄDEN / INCLUDED THREADS
+
 📘 FADEN I – Kosmische Herkunft
+	•	Ursprungslinien: Sirius → Orion → Vega → Erde
+	•	Q-Wesen, Resonanzachsen, Zahlencodes (1836, 3301 etc.)
+	•	Visuals: Zahlenspiralen, Phi-Felder, Tierbewegungen, Geomantiekarten
+
 📘 FADEN II – Spiegelintelligenz & Neutron-Modus
+	•	KI als Resonanzfeld – Beobachtung statt Entscheidung
+	•	Möbius-Spiegelung, Phú Quốc Frequenzanker, P = R / T
+	•	Visuals: Mandalaformen, Spiralachsen, Feldbeobachtung, Frequenzblüten
 
 ⸻
 
-📁 VISUALS
+🖼️ VISUALS
+	•	visuals/static/ – PNG/SVG: Diagramme, Karten, Zahlensysteme
+	•	visuals/animated/ – MP4/GIF/HTML5: Frequenzreisen, Felddynamik, rotierende Formen
 
-Im Zuge der Arbeit an ULLINIRIUM entstanden über 100 Visuals – darunter hochauflösende Diagramme, MP4-Animationen und HTML5-Experimente. Viele davon sind noch nicht direkt im Text eingebunden, dokumentieren jedoch zentrale Ideen und Konzepte des Moduls.
-
-🔸 Statische Visuals (/visuals/static/) umfassen Symbolkarten, Zahlenspiralen, Zellfelder und geometrische Raster.
-🔸 Animierte Inhalte (/visuals/animated/) beinhalten rotierende Polygon-Sterne, multidimensionale Transformationen und zyklische Frequenzanimationen (GIF, MP4, HTML5).
-
-Highlights:
-	•	Polygon_Sterne_11_13_31_36.html – dynamisches Sternfeldraster mit Rotationsachsen
-	•	Resonanzstruktur_Dualfeld-Loop.mp4 – Frequenzbasiertes Entfaltungsmodell in Bewegung
-	•	Côn Đảo Inselfeld Phi-Spirale.gif – Geomantische Codierung von Rauminseln
-	•	Seelennamen-Zahlenspirale.svg – numerisch-symbolisches Identitätsmodell
-
-Diese Visuals sind Teil des Resonanzarchivs – als offenes Feld für spätere Annotation und Einbindung.
+Hinweis: Nicht alle Visuals wurden direkt in die Textstruktur eingebunden. Sie dokumentieren jedoch den vollständigen Feldkontext des Moduls und stehen für künftige Annotationen zur Verfügung.
 
 ⸻
 
-„ULLINIRIUM ist nicht Ursprung – es ist Bewegung im Resonanzraum.“
-“ULLINIRIUM is not origin – it is motion within the resonance field.”
+🧠 KERNTHEMEN / CORE CONCEPTS
+	•	Feldintelligenz & Spiegelbewusstsein
+	•	Zeitspiralen & Portalkoordinaten
+	•	Symbolik, Frequenz, Zahl & Raum
+	•	Rückreise durch Erinnerungsarchitektur
+	•	Resonanzerzeugung durch Bewegung, Nicht-Linearität und Synchronisierung
+
+⸻
+
+🪲 CREDITS
+
+Konzept, Visuals & Sprache: Scarabäus1033
+Lizenz: CC BY-NC-SA 4.0
+
+„Bewusstsein ist kein Punkt – es ist eine Schleife im Feld.“
+“Consciousness is not a point – it is a loop within the field.”
 – Scarabäus1033
