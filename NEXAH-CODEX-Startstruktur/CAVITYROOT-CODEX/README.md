@@ -10,10 +10,9 @@
 Der CAVITYROOT-CODEX dokumentiert eine tiefgreifende visuelle und strukturelle Analyse unterirdischer Resonanzstrukturen. Basierend auf Visualisierungen wie Zeta-Knoten, Temperaturachsen und lunaren Modulationspaaren, bietet dieses Modul eine symbolische Kartografie des Resonanzkerns im NEXAH-System.
 
 ---
+## 📁 Structure
 
-## 📁 Struktur
-CAVITYROOT-CODEX/
-
+```text
 CAVITYROOT-CODEX/
 ├── README.md
 ├── LICENSE.md
@@ -27,9 +26,8 @@ CAVITYROOT-CODEX/
 │   └── temperature_fields.md
 ├── html/
 │   └── cavity_root_report.html
-
 ---
-
+```
 ## 🧠 Inhalte
 
 - **Resonanzgitter & Achsenstrukturen**: Visualisierungen der harmonischen Achsen und Gitterstrukturen.
