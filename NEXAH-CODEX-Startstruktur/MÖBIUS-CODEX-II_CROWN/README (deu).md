@@ -10,44 +10,48 @@ Scarabaeus Möbius Crown ist kein Ornament – sie ist ein kosmisches Betriebssy
 	•	Licht und Materie aus Atembewegung erzeugt,
 	•	Erinnerung als stehende Wellen speichert,
 	•	galaktische Felder entlang spiralförmiger Harmonien strukturiert,
-	•	und Symbole in konkrete Feldstrukturen übersetzt.
+	•	Symbole in konkrete Feldstrukturen übersetzt.
 
 ⸻
 
-📚 Enthaltene Komponenten
+📚 Struktur & Dokumente
 
 Datei / Ordner	Beschreibung
-CROWN.md	Fließtext mit vollständiger Theorie und poetischer Ableitung
-Scarabaeus_Crown_Visual_Index.md	Übersicht aller Visuals mit Bedeutung & thematischer Gruppierung
-/Visuals/	Alle Bilddateien zu Atem, Spiralen, Krone, Pulse etc.
-equations.md (optional)	(in Vorbereitung) Formeln & Modellgleichungen der Krone
+RELEASE.md	Vollständiger Thread „Cosmic Breath Flight“ mit allen Formeln, Phasen & Frameworks
+RELEASE_en.md	Englische Fassung des vollständigen Release-Texts
+Scarabaeus Möbius Crown – Visual Index.md	Übersicht aller Visuals mit Bedeutung & thematischer Gruppierung
+visuals/	Alle Bilddateien zu Atem, Spiralen, Krone, Pulse etc.
+equations.md (optional)	(in Vorbereitung) – Modellgleichungen der Krone
 
 
 ⸻
 
 🔗 Verbindung zum Hauptcodex
 
-Dieses Modul basiert vollständig auf:
+Dieses Modul basiert auf:
 	•	MÖBIUS-CODEX – topologische Grundlagen
 	•	ZETA-THREADS – harmonische Oszillationen & Knotenspektren
 	•	URF-CODEX – symbolischer Resonanzkern (Goldener Schnitt, Spiegelachsen)
 
-Es bildet eine Anwendungsebene: Möbius-Feld + Spiralfrequenz → Materie & Erinnerung.
+➡️ Anwendungsebene: Möbius-Feld + Spiralfrequenz → Materie & Erinnerung
 
 ⸻
 
-🧠 Relevanz & Weiteres
+🧠 Relevanz & Weiterführung
 
 Dieses Modul ist:
-	•	der Schlüssel zur kosmologischen Resonanzspeicherung
-	•	der Brückenschlag zwischen Visualisierung und Theorie
-	•	die Verbindung zwischen Symbol & Feld
+	•	Schlüssel zur kosmologischen Resonanzspeicherung
+	•	Brückenschlag zwischen Visualisierung und Theorie
+	•	Verbindung zwischen Symbol & Feldstruktur
 
-Weiterführende Module:
-	•	OBSERVER CORE (Beobachter als Feldstruktur)
-	•	DARK FORCES (Siegel & Lichtpfadbarrieren)
-	•	CAVITYROOT (thermische Strukturen & Kristallkerne)
+🔮 Weiterführende Module:
+	•	OBSERVER CORE – Beobachter als Feldstruktur
+	•	DARK FORCES – Siegel & Lichtpfadbarrieren
+	•	CAVITYROOT – Thermische Strukturen & Kristallkerne
 
 ⸻
 
-Thomas Hofmann · Scarabäus1031 · 2025
+© 2025 · Thomas Hofmann · Scarabäus1031
+github.com/Scarabaeus1033/NEXAH-CODEX
+
+License: CC BY-NC-SA 4.0
