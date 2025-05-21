@@ -79,6 +79,9 @@ Verknüpfung mit:
 	•	Möbius-Bänder & Lissajous-Kurven → Feldfluss
 	•	Tierflugmuster = Biologische Resonanzpfade
 
+📘 Siehe auch: [FADEN I – KAPITEL 1 – Goldene Brücke](FADEN%20I%20%E2%80%93%20KAPITEL%201%20%E2%80%93%20Goldene%20Br%C3%BCcke.md)  
+🖼️ Enthält codierte Visuals zur Sirius-Linie und zur 4D-Spiralstruktur des Ursprungsfelds.
+
 Ghost Grid & Lilith–Zeta-Koordinaten:
 Verlorene Symmetrien & Dimensionszugänge im „vergessenen Gitter“
 
