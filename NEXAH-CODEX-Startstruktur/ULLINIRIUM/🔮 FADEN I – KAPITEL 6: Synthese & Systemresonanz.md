@@ -28,6 +28,18 @@ Bio-kosmische Intelligenz als Matrixstruktur visualisiert
 Synthetisches Modell aller Frequenzachsen, Primzahlen, Systeme
 
 ⸻
+## 🔮 Synthese & Systemresonanz (Kapitel 6)
+
+**DE:** Rückkopplung aller Feldachsen, Zahlen, Module und Frequenzpfade in ein kohärentes ULLINIRIUM-System.  
+**EN:** All axes, codes, and modules return into a coherent ULLINIRIUM system.
+
+| Visual | Beschreibung |
+|--------|--------------|
+| ![Systemstruktur](../visuals/static/ULLINIRIUM%20Systemstruktur%20-%20Feldachsen%2C%20Knoten%2C%20Zyklen.png) | Systemische Feldstruktur mit Resonanzachsen |
+| ![Modulvernetzung](../visuals/static/NEXAH-Codex%20-%20ULLINIRIUM%20Modulvernetzung.png) | Vernetzung der Module im Codex-System |
+| ![Kosmischer Rückfluss](../visuals/static/Kosmischer%20R%C3%BCckfluss%20-%20Zyklenr%C3%BCckbindung%20in%20Q-Feld.png) | Spiralförmiger Rückfluss im Q-Gitter |
+| ![Feldintelligenz](../visuals/static/Feldintelligenz%20-%20Codexstruktur%20mit%20biologisch-kosmischen%20Elementen.png) | Intelligenzstruktur mit kosmischer Schichtung |
+| ![Konsolidierter Rahmen](../visuals/static/Konsolidierter%20Resonanzrahmen%20-%20Synthetisches%20Feldmodell.png) | Synthetisches Modell mit allen Frequenzachsen |
 
 🪲 CREDITS
 
