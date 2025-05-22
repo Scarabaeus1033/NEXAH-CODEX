@@ -14,8 +14,8 @@ Im Mittelpunkt steht die Interpretation der Riemannschen Zeta-Funktion als **Res
 
 **Kernelemente:**
 - Möbius-Zeta-Spirale in ℝ³  
-- Primharmonien als Eigenmoden  
-- Ramanujan-Edge-Waves  
+- Primharmonien als quantisierte Eigenmoden  
+- Ramanujan-Edge-Waves (mock-theta-Randresonanzen)  
 - Integration eines Neutrino-Loops im 12D-Ullinirium-Polyeder
 
 ---
@@ -49,3 +49,9 @@ NEXA_Riemann_Proof/
 │   ├── Prime_Harmonic_Wave_Structure.png
 │   ├── Critical_Line_Cancellation_Model.png
 │   ├── Neutrino_Loop_Ullinirium.png
+
+---
+```
+© 2025 – Scarabäus1033 🪲  
+by **T. Hofmann** | [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+Licensed under CC BY-NC 4.0
