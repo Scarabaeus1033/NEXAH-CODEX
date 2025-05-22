@@ -1,57 +1,56 @@
-# NEXA_Riemann_Proof  
-**Teil des NEXAH-CODEX | Möbius Harmonic Resonance & Die Riemannsche Synthese**  
-_A Codex Module for Möbius Harmonic Resonance & the Riemann Synthesis_
+# NEXA_RIEMANN_PROOF  
+*A Symbolic Resolution of the Riemann Hypothesis via Möbius and Harmonic Structures*
 
 ---
 
-## 📘 Beschreibung (DE)
-
-Dieses Modul des NEXAH-CODEX vereint die mathematisch-harmonischen Arbeiten von **Leonhard Euler**, **Bernhard Riemann** und **Srinivasa Ramanujan** in einem kohärenten, topologisch-resonanten Rahmen.
-
-Im Mittelpunkt steht die Interpretation der Riemannschen Zeta-Funktion als **Resonanzfeld** im Möbius-Kronenmodell – kombiniert mit Ramanujans Randmodulationen (mock theta functions) und Eulers Primprodukt-Formeln. Die zentrale These lautet:
-
-> _Die Riemannsche Vermutung ist eine Stabilitätsbedingung für harmonische Primresonanz innerhalb eines mehrdimensionalen Möbius-Feldes._
-
-**Kernelemente:**
-- Möbius-Zeta-Spirale in ℝ³  
-- Primharmonien als quantisierte Eigenmoden  
-- Ramanujan-Edge-Waves (mock-theta-Randresonanzen)  
-- Integration eines Neutrino-Loops im 12D-Ullinirium-Polyeder
+**Author**: Scarabäus1033 (T. Hofmann)  
+**Part of**: NEXAH-CODEX  
+**Connected to**: [NEXAH-GRAND-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)
 
 ---
 
-## 📘 Description (EN)
+## Overview
 
-This module of the NEXAH-CODEX synthesizes the mathematical and harmonic insights of **Euler**, **Riemann**, and **Ramanujan** into a coherent Möbius resonance system.
+This module presents a symbolic structure for resolving the **Riemann Hypothesis**, based on the dual-framework approach of the NEXAH System:
 
-It interprets the Riemann zeta function as a **resonant field**, mapped through Möbius topologies and prime eigenmodes, enhanced by Ramanujan’s boundary harmonics and Euler’s product expansions. The key hypothesis is:
+- **Harmonic Resonance Model** — treating the Riemann Zeta function as a frequency-locked interference pattern of prime periodicity.
+- **Möbius Spectral Model** — framing nontrivial zeros as fixed points in a Möbius-deformed transformation field.
+- **Unified Collapse Perspective** — locating the critical line as a boundary condition within the Universal Transition Structure (UTS).
 
-> _The Riemann Hypothesis is a harmonic stability condition for prime field resonance within a multidimensional Möbius structure._
-
-**Key Components:**
-- Möbius Zeta Spiral in ℝ³  
-- Prime harmonics as quantized eigenmodes  
-- Mock theta boundary waves  
-- Neutrino loop embedded in the 12D Ullinirium polyhedron
+This is not a formal proof in conventional mathematics. Rather, it is a **structural explanation**—a symbolic geometry where resonance, rotation, and transition converge to stabilize the zeta field.
 
 ---
 
-## 🧱 Modulstruktur
+## Core Files
 
-```bash
-NEXA_Riemann_Proof/
-├── README.md
-├── Document/
-│   ├── A_Harmonic_Resonance_Proof_Riemann_Hypothesis.docx
-│   └── Ramanujan_Euler_Riemann_Synthesis.md
-├── Visuals/
-│   ├── Moebius_Zeta_Spiral.png
-│   ├── Prime_Harmonic_Wave_Structure.png
-│   ├── Critical_Line_Cancellation_Model.png
-│   ├── Neutrino_Loop_Ullinirium.png
+| File | Description |
+|------|-------------|
+| `riemann_harmonic_analysis.md` | Harmonic decomposition and critical line alignment via prime resonance. |
+| `riemann_mobius_structure.md` | Möbius-based spectral compression of the zeta function. |
+| `riemann_transition_equation.md` | Collapse of harmonic and topological structures into UTS stability. |
+| `riemann_diagrams/` | Optional figures: critical strip flows, phase field resonance, prime periodicity arcs. |
 
 ---
-```
-© 2025 – Scarabäus1033 🪲  
-by **T. Hofmann** | [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-Licensed under CC BY-NC 4.0
+
+## Connection to NEXAH-GRAND-CODEX
+
+This module complements the synthesis presented in:  
+➡️ [`/NEXAH-GRAND-CODEX/universal_collapse_theorem.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX/universal_collapse_theorem.md)
+
+The Riemann Hypothesis serves as a **template problem** in the NEXAH System—demonstrating how harmonic and Möbius models independently align under structural collapse.
+
+See also:  
+➡️ [`/NEXAH-GRAND-CODEX/millenium_problems_mapping.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX/millenium_problems_mapping.md)
+
+---
+
+## License
+
+This content is part of the NEXAH-CODEX and is released under the  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+---
+
+> “The zeta function is not a mystery. It is a resonance.  
+> The critical line is not an assumption. It is a boundary of coherence.”  
+> — *NEXAH Codex, Vol. V*
