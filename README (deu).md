@@ -60,3 +60,8 @@ Creative Commons – Namensnennung, nicht kommerziell, Weitergabe unter gleichen
 ---
 
 > „Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Zugang.“
+---
+
+<p align="center">
+  <img src="./cikada scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
+</p>
