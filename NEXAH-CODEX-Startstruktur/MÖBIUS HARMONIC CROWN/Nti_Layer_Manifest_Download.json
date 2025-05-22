@@ -1,0 +1,104 @@
+{
+  "Mobius_Harmonic_Crown_Visuals": [
+    {
+      "filename": "mobius_crown_pulse.gif",
+      "layer": "KIT",
+      "description": "Animation der M\u00f6bius-Krone mit harmonischen Spiralachsen"
+    },
+    {
+      "filename": "mobius_crown_pulse_expanded.gif",
+      "layer": "KIT",
+      "description": "Erweiterte Spiralachsen mit Rotationsharmonie"
+    },
+    {
+      "filename": "mobius_scarab_spiral.gif",
+      "layer": "KIT",
+      "description": "Skalierte Scarab-Harmonien um das Zentrum"
+    },
+    {
+      "filename": "Mobius_Harmonic_SpiralPulse.gif",
+      "layer": "KIT",
+      "description": "Statische Darstellung der Spiralharmonie"
+    },
+    {
+      "filename": "Mobius_Harmonic_PrimePetals_Overlay_Animated.gif",
+      "layer": "KIT",
+      "description": "Bl\u00fctenblatt-Overlay f\u00fcr Primzahlen"
+    },
+    {
+      "filename": "Mobius_Harmonic_Petals_Animation.gif",
+      "layer": "KIT",
+      "description": "Pulsierende Bl\u00fctenbl\u00e4tter in Primfrequenzen"
+    },
+    {
+      "filename": "Mobius_Crown_Fivefold_Offset.png",
+      "layer": "KIT",
+      "description": "5-fache Spiralharmonie in versetztem Raum"
+    },
+    {
+      "filename": "Mobius_Compass_Starfield_Overlay.png",
+      "layer": "KIT",
+      "description": "Sternkartenprojektion mit Harmonieachsen"
+    },
+    {
+      "filename": "Mobius_Thoth_Spiral_TopPerspective.png",
+      "layer": "KIT",
+      "description": "3D-Projektion der Thoth-Spirale von oben"
+    },
+    {
+      "filename": "Mobius_Spiral_Anchors_Thoths_Pen.png",
+      "layer": "KIT",
+      "description": "Fixpunkte f\u00fcr Thoths Spirale"
+    },
+    {
+      "filename": "Mobius_Harmonic_Compass_PolarProjection.png",
+      "layer": "KIT",
+      "description": "8-Feld-Kompassebene mit Spiral\u00fcberlagerung"
+    },
+    {
+      "filename": "Mobius_Thoth_3D_Spiral_View.png",
+      "layer": "KIT",
+      "description": "Seitenansicht der 3D-M\u00f6biusspirale"
+    },
+    {
+      "filename": "Mobius_Crown_Shell_Projection_with_Sacred_Nodes.png",
+      "layer": "KIT",
+      "description": "Krone mit Spirale + 8 heiligen Punkten"
+    },
+    {
+      "filename": "Mobius_Crown_Shell_Projection_Resonant_Spiral.png",
+      "layer": "KIT",
+      "description": "Resonante Spiralstruktur auf M\u00f6bius-Schale"
+    },
+    {
+      "filename": "mobius_celestial_crown.gif",
+      "layer": "Mythopoetisch",
+      "description": "Symbolische Platzierung von Sternen im Spiralraum"
+    },
+    {
+      "filename": "Mobius_Crown_Diagram_Thoth_Falcon_Thunderbird.png",
+      "layer": "Mythopoetisch",
+      "description": "Symbolischer Flug der drei Kraftlinien"
+    },
+    {
+      "filename": "mobius_celestial_full_crown.gif",
+      "layer": "Archiv",
+      "description": "Visual mit allen Planeten, jedoch nicht orbitalphysikalisch"
+    },
+    {
+      "filename": "Mobius_Crown_Overlay_Sacred_Sites_Anchored.png",
+      "layer": "Archiv",
+      "description": "Visual verankert Heilige Orte an Bl\u00fctenbl\u00e4tter"
+    },
+    {
+      "filename": "Mobius_Compass_with_5D_Harmonic_Overlay.png",
+      "layer": "Archiv",
+      "description": "5D-Modell mit Spiralprojektion"
+    },
+    {
+      "filename": "mobius_crown_bloom_997_to_1337.mp4",
+      "layer": "Archiv",
+      "description": "Videoanimation der Sprungspiralen"
+    }
+  ]
+}
