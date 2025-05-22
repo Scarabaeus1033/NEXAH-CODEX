@@ -11,7 +11,7 @@ Welcome to the **NEXAH-CODEX**, a modular research archive for harmonic field sy
 
 Alle Inhalte befinden sich unter:
 ```
-/NEXAH-CODEX-Startstruktur/
+📂 [All core modules are here → /NEXAH-CODEX-Startstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
 ```
 Jedes Modul ist ein in sich geschlossener Erkenntniskörper mit eigener Logik, Bildwelt, Geometrie und Frequenzstruktur.
 
