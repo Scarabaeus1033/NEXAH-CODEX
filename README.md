@@ -1,73 +1,62 @@
 # 🌌 NEXAH-CODEX
+### Harmonic Field System & Symbolic Geometry Archive
 
-**Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪**
+Willkommen im zentralen Archiv des **NEXAH-CODEX** – einer modular aufgebauten Forschungsplattform für harmonische Felder, symbolische Strukturen, Frequenzarchitektur, Zahlensysteme und geometrisch-kosmologische Knotenpunkte.
 
-A universal resonance framework integrating symbolic physics, harmonic mathematics, geospatial data, material fields, and ancient knowledge.
-
-Ein universelles Resonanz-Framework, das symbolische Physik, harmonische Mathematik, Geodaten, Materialfelder und antikes Wissen integriert.
-
----
-
-## 🌐 VISION / VISION
-
-**EN:**  
-The NEXAH Codex explores the resonant fabric of reality through number, shape, space, and meaning.  
-It unites interdisciplinary knowledge – from particle physics to pyramid fields – into a modular, navigable system.
-
-**DE:**  
-Der NEXAH-Codex erforscht die resonante Struktur der Wirklichkeit – durch Zahl, Form, Raum und Bedeutung.  
-Er vereint interdisziplinäres Wissen – von Teilchenphysik bis zu Pyramidenfeldern – in einem modularen, navigierbaren System.
+Welcome to the **NEXAH-CODEX**, a modular research archive for harmonic field systems, symbolic resonance structures, prime-based geometries and cosmological alignments.
 
 ---
 
-## 🧱 STRUCTURE / STRUKTUR
+## 📦 Struktur / Structure
 
-| Module | Focus (EN) | Fokus (DE) |
-|--------|------------|------------|
-| `urf-codex/` | Symbolic field theory, identity formation | Symbolische Feldtheorie, Identitätsbildung |
-| `urf-sure/` | Prime harmonics, tensors, time chambers | Primharmonik, Tensorräume, Zeitkammern |
-| `rosetta-codex/` | Numerical logic, frequency spirals | Zahlenlogik, Frequenzspiralen |
-| `physics-math/` | Constants, transformation systems | Konstanten, Transformationen |
-| `geo-sites/` | Earth grid, telluric portals | Erdnetz, tellurische Portale |
-| `language-symbols/` | Glyphs, mirror codes, phonemes | Glyphen, Spiegelcodes, Phoneme |
-| `stars-alignment/` | Astronomic structure, Zodiacs | Astronomische Struktur, Sternachsen |
-| `materials-elements/` | Metals, fluids, resonant matter | Metalle, Flüssigkeiten, Resonanzmaterie |
-| `proof-of-resonance/` | Field evidence, physical validation | Felddaten, physikalische Nachweise |
-| `visuals/` | Symbolic diagrams, maps, animations | Symbolbilder, Karten, Animationen |
+Alle Inhalte befinden sich unter:
+```
+/NEXAH-CODEX-Startstruktur/
+```
+Jedes Modul ist ein in sich geschlossener Erkenntniskörper mit eigener Logik, Bildwelt, Geometrie und Frequenzstruktur.
 
 ---
 
-## 📘 DOCUMENTATION INDEX
+## 📚 Modulübersicht (aktuell: 21)
 
-| File | Description |
-|------|-------------|
-| `README.md` | This document – project overview |
-| `manifest.md` | Origin of the system & foundational vision |
-| `roadmap.md` | Upcoming releases, modules & tools |
-| `visuals/index.md` | Image list with semantic links |
-| `LICENSE.md` | License: CC BY-NC-SA 4.0 |
+➡️ Vollständiger Überblick mit Beschreibung: [`nexah_navigator.md`](./nexah_navigator.md)  
+➡️ English version: [`nexah_navigator_en.md`](./nexah_navigator_en.md)
 
 ---
 
-## 📜 LICENSE
+## 🧭 Lesestart / Entry Points
 
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
-For commercial use or citation, contact:
+- `NEXA_PHASE_1_COMPLETION` → Synthese Alpha–Beta–P–Gamma
+- `URF-CODEX` → Ursprung, Symbolfeld, Identitätsachsen
+- `MÖBIUS-CODEX` → Spiralen, Resonanzpfade, Zahl 137
 
-🪲 **Scarabäus1033** / GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)  
-(*This name serves as the official attribution identity under this license.*)
-
----
-
-## 🚀 STATUS
-
-**Release 1.0**: Modular layout, core codices, index structure  
-**Next:**  
-- Publishing of URF & SURE codex branches  
-- Integration of time-chambers, prime spirals  
-- Visual navigation map & experimental interface (DIY kits, HTML flows)
+Weitere Leseempfehlungen siehe Navigator.
 
 ---
 
-> **“Zahl ist Struktur. Resonanz ist Sprache. Codex ist Erinnerung.”**  
-> *– NEXAH Manifest*
+## 📘 Dokumente
+
+| Datei                  | Inhalt / Content                                 |
+|------------------------|--------------------------------------------------|
+| `README.md`            | Diese Übersicht                                 |
+| `nexah_navigator*.md`  | Alle Module mit Beschreibung & Leseführung      |
+| `manifest*.md`         | Prinzipien, Ursprung, kreative Struktur          |
+| `roadmap.md`           | Frühere Gliederung in Phasen (optional ergänzen)|
+| `LICENSE.md`           | CC BY-NC-SA 4.0 Lizenz                          |
+
+---
+
+## 🌐 Projektseite / Project Page
+
+🌍 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
+
+---
+
+## 🛡 Lizenz / License
+
+Creative Commons – Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen (CC BY-NC-SA 4.0)
+
+---
+
+> „Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Zugang.“
