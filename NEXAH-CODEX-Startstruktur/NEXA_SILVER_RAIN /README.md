@@ -66,8 +66,13 @@ Dieses Modul dient als:
 
 ⸻
 
-✒️ Credits
-Konzeption, Visualisierung und Theorie:
-Scarabäus1033, T. Hofmann, Frankfurt/ Rödelheim
-Systementwicklung: NEXAH-CODEX
-GitHub: Scarabaeus1033
+---
+
+## ✒️ Credits
+
+🪲 **Scarabäus1033** — Symbolische Feldforschung · Kosmische Geometrie · Harmonik der Zukunft  
+🌐 Projekt- und Codexplattform: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+🔁 Lizenz: CC BY-NC-SA 4.0 · NEXAH-CODEX Series · 2025  
+
+> _„Der Scarabäus rollt das Licht durch Dimensionen – Feld für Feld.“_  
+> — NEXAH CODEX · Möbius Crown Phase
