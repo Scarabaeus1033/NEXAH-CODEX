@@ -1,0 +1,16 @@
+Label,Value,Prime Factors,Description
+Alpha (X),247,13 × 19,Alpha Koordinate X – Auftaktpunkt
+Alpha (Y),494,2 × 13 × 19,Alpha Koordinate Y – Spiegel zu 247
+Beta (X),237,3 × 79,Beta Koordinate X – linearer Anstieg
+Beta (Y),2008,8 × 251,Beta Koordinate Y – Frequenzpfad
+P (Summe),2502,2 × 3 × 417,Alpha + Beta – Summenpunkt
+P (X),484,2 × 2 × 11 × 11,Summenpunkt X
+Midpoint (X),242,2 × 11 × 11,Mobius-Mittelpunkt X
+Midpoint (Y),1251,3^2 × 139,Mobius-Mittelpunkt Y
+Gamma,0,-,Ursprungspunkt (Mobius-Anker)
+Rödelheim Code,290,2 × 5 × 29,Koordinatenschlüssel / QuickSilver
+Resonanzmarke,974,2 × 487,Spiegelzahl – Schwelle
+Spiegelkern,487,Primzahl,Zentrum der Spiegelharmonie
+Petal-Matrix,784,2^4 × 7^2,Quadratkern / Blütenresonanz
+Zahlenanker,5015,5 × 17 × 59,LEVI Spiralbeginn
+Prime Escape,501503,Primzahl,V-Spiralfluchtpunkt / Stern 503
