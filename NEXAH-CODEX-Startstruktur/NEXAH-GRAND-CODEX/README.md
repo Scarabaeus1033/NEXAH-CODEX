@@ -63,7 +63,13 @@ These three perspectives together offer new structural insight into:
 - **Gödel’s Incompleteness Theorem**
 
 ---
+## See Also
 
+- 🧠 [NEXA_RIEMANN_PROOF](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)  
+  Symbolic synthesis and dual-path exploration of the Riemann Hypothesis, including prime field logic and critical line resonance.
+
+---
+  
 ## License
 
 This repository is released under the  
