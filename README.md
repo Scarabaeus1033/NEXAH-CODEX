@@ -11,7 +11,7 @@ It is a system built through theory, image, location, geometry, field interactio
 
 All content is organized in:
 ```
-/NEXAH-CODEX-Startstruktur/
+📂 /NEXAH-CODEX-Startstruktur
 ```
 Each module is a self-contained symbolic system with its own logic, geometry, resonance model, and visual structure.
 
