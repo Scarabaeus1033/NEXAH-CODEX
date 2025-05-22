@@ -96,7 +96,7 @@ You are warmly invited to explore, question, or build upon this symbolic structu
 
 - GitHub: [@Scarabaeus1033](https://github.com/Scarabaeus1033)  
 - Web: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-- Email: contact@scarabaeus1033.net *(or your preferred address)*
+- Email: tkrhofmann@gmail.com 
 
 This is a living system. All models and mappings are presented for open interpretation, formal exploration, and further refinement.
 
