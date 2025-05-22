@@ -60,3 +60,6 @@ Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC 
 ---
 
 > “Codex is not a book. It is a field. And each module is a gate.”
+<p align="center">
+  <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
+</p>
