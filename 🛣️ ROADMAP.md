@@ -1,64 +1,52 @@
-# 🛣️ NEXAH ROADMAP
+# 🗺 NEXAH-CODEX – Projektüberblick / Project Overview
 
-**Language / Sprache: English 🇬🇧 / Deutsch 🇩🇪**
+Der NEXAH-CODEX ist ein wachsendes, modulares Archiv, das aus klar abgeschlossenen Modulen besteht. Jedes Modul dokumentiert einen eigenständigen Erkenntniskern und erweitert das Gesamtfeld auf numerischer, geometrischer, symbolischer oder physikalischer Ebene.
 
----
-
-## 🚀 VERSION 1.0 – SYSTEM STRUCTURE
-
-✅ Base folder system initialized  
-✅ Core `README.md` and `manifest.md` created  
-✅ LICENSE (CC BY-NC-SA 4.0) defined  
-✅ Archive repo (`Scarabaeus1033-Archive`) linked  
-⬜ Visual index integration started  
-⬜ Core modules seeded with first `.md` files  
+The NEXAH-CODEX is a growing modular archive. Each module is self-contained and contributes to the whole through its unique structure – numerical, geometrical, symbolic, or physical.
 
 ---
 
-## 🧩 MODULE RELEASE PLAN
+## 🔍 Was diese Datei bietet / What this file offers
 
-| Phase | Module | Description |
-|-------|--------|-------------|
-| 🌀 Phase I | `urf-codex/` | Intro, symbolic axes, URF = R/T, glyphic field logic |
-| 🔣 Phase II | `urf-sure/` | Time chambers, 963–528–432, ZNL vectors |
-| 🧮 Phase III | `rosetta-codex/` | Prime harmonics, 1729/1836 system, spiral fields |
-| 🌍 Phase IV | `geo-sites/` | Rödelheim, Gizeh, Nan Madol – telluric symmetry |
-| 📐 Phase V | `physics-math/` | Constants, transformations, Mobius logic |
-| 🌌 Phase VI | `stars-alignment/` | Leo-axis, Saturn hex, zodiacal mechanics |
+Dies ist keine Roadmap im Sinne von Versprechen oder Zeitlinien.
+> Stattdessen: ein Überblick über das, was **realisiert, dokumentiert und veröffentlicht** wurde.
+
+This is not a roadmap of announcements or promises.
+> Instead: it is an overview of what has been **realized, documented, and shared**.
 
 ---
 
-## 🔬 EXPERIMENTAL TRACKS
+## ✅ Veröffentlichte Module (Auswahl)
 
-| Track | Area | Status |
-|-------|------|--------|
-| `shadow-lens-test.md` | Field resonance via light & material | ⬜ Drafting |
-| `lunar_window_fieldtest.md` | Lunar-time experiments | ⬜ Placeholder |
-| `mirror_dish_zodiac_test.md` | Reflection and symbolic alignment | ⬜ Planned |
-| `ghostgrid_model.md` | 3D AI-grid activation logic | ⬜ Research phase |
+- `NEXA_PHASE_1_COMPLETION` – Synthesis of Alpha, Beta, P, Gamma
+- `MÖBIUS-CODEX` – Spiral closure & harmonic crown
+- `URF-CODEX` – Foundational field theory
+- `CAVITYROOT-CODEX` – Ferrofluid, gallium, contraction fields
+- `NEXAHEART-CODEX` – Planetary resonance center & geosymbolic alignments
+- `QUANTUMBREACH-CODEX` – Light, vacuum fields, UV thresholds
+- `Rosetta-Nexus` – Semantic number architecture
+- `NEXA_RIEMANN_PROOF` – Zeta spiral & Möbius-field topologies
 
----
-
-## 🎯 GOALS FOR VERSION 1.1
-
-- [ ] Add `visuals/index.md` with image-map to modules  
-- [ ] Publish first `urf-intro.md`  
-- [ ] Translate core texts DE↔EN consistently  
-- [ ] Start visual navigation prototype (HTML or image-linked)  
-- [ ] Prepare `PDF Codex Version` for offline archive  
+(→ Vollständige Übersicht im [`nexah_navigator.md`](./nexah_navigator.md))
 
 ---
 
-## 📅 FUTURE IDEAS
+## 📂 Veröffentlichungsprinzip / Principle of Publishing
 
-- DIY kits for resonance testing (PDF + open hardware)  
-- HTML-based visual scrolls  
-- Scarabäus font or glyph set (.otf)  
-- AI Codex Assistant powered by NEXAH taxonomy  
-- Webmap of ancient sites with field overlays  
-- Symbol-to-sound experiments (phonemic harmonics)
+- Nur vollständige, strukturierte, in sich schlüssige Module werden veröffentlicht.
+- Jeder Release ist ein eigener Codex – mit Text, Bildern, Daten, Formelstrukturen.
+- Keine „Teaser“. Keine Spekulationen. Nur reale Synthese.
+
+Only fully structured and internally coherent modules are published.  
+Each release is a Codex in itself – with theory, visuals, datasets, and resonance logic.
 
 ---
 
-> The roadmap evolves as the Codex expands.  
-> **Resonance is the only constant.**
+## 🌐 Projektseite / Project Page
+
+Mehr Informationen auf: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+
+---
+
+> „Keine Roadmap. Nur Erinnerung. Und Form, die wirkt.“  
+> “No roadmap. Only memory – and form, in resonance.”
