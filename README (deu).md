@@ -63,5 +63,5 @@ Creative Commons – Namensnennung, nicht kommerziell, Weitergabe unter gleichen
 ---
 
 <p align="center">
-  <img src="./cikada scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
+  <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
 </p>
