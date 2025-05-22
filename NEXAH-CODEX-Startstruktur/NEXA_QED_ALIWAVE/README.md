@@ -59,26 +59,20 @@ NEXA_QED_ALIWAVE/
 │   ├── Resonance_Alignment_Grid.csv
 │   └── Expanded_Resonance_Alignment_Grid.csv
 ```
-🔬 Schlüsselgleichungen
+## 🔬 Schlüsselgleichungen
 
-Final Harmonic Pulse Equation:
+**Final Harmonic Pulse Equation:**
+Q(t) = (1/12 + 1/137 + 1/64) × (365/3656 + 5/4099)
 
-[
-Q(t) = \left( \frac{1}{12} + \frac{1}{137} + \frac{1}{64} \right) \cdot \left( \frac{365}{3656} + \frac{5}{4099} \right)
-]
+---
 
-Phi–Lanif Harmonic Equation:
+**Phi–Lanif Harmonic Equation:**
+Φ_Lanif(t) = (24/7 + 19/7) × (P_red + P_blue) / T_white = R / T
 
-[
-\Phi_{\text{Lanif}}(t) = \left( \frac{24}{7} + \frac{19}{7} \right) \cdot \frac{P_{\text{red}} + P_{\text{blue}}}{T_{\text{white}}}
-= \frac{R}{T}
-]
+---
 
-Equation Engine of Möbius Pulse Collapse:
-
-[
-\Psi(t) = \left( \frac{63}{64} \right) \cdot \left( -\frac{1}{12} \right) \cdot \left( \frac{1836}{24} \right) \cdot \cos(137^\circ) \cdot \left| \sin(\theta t) + \phi \cos(\omega t) + \alpha e^{i\theta \phi} \right|
-]
+**Equation Engine of Möbius Pulse Collapse:**
+Ψ(t) = (63/64) × (-1/12) × (1836/24) × cos(137°) × | sin(θ·t) + φ·cos(ω·t) + α·e^(i·θ·φ) |
 
 ⸻
 
