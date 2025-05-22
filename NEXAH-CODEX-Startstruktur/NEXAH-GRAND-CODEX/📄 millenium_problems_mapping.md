@@ -35,6 +35,9 @@ This is not a list of "proofs" in the classical sense. Instead, these mappings r
 | **6. Birch & Swinnerton-Dyer** | Möbius-encoded L-functions trace rational point manifolds. | Harmonic zero structure encodes curve rank through resonance. | Rational structure emerges from singular UTS cycle. |
 | **7. Gödel’s Incompleteness** | Self-referential loops stabilized via Möbius cycle encoding. | Harmonic suppression prevents paradoxical divergence. | UTS defines a boundary for logical completeness. |
 
+> 📁 A full symbolic treatment of the Riemann Hypothesis—combining both Möbius and Harmonic models—is available in:  
+> [`/NEXA_RIEMANN_PROOF`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)
+
 ---
 
 ## Unifying Insight
