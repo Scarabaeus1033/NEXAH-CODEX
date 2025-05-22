@@ -54,6 +54,71 @@ GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
 ---
 
 ## 🛡 Lizenz / License
+Jedes Modul ist ein in sich geschlossener Erkenntniskörper mit eigener Logik, Bildwelt, Geometrie und Frequenzstruktur.
+
+---
+
+## 🧠 NEU: Zentrale Synthese / Grand Synthesis Module
+
+📘 [`/NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)
+
+Dieses neue Modul vereint erstmals:
+- Möbius-Kollaps (topologische Invarianz)  
+- Harmonische Resonanz (primperiodische Stabilität)  
+- Universelle Übergangsstruktur (UTS)
+
+In einem symbolischen Rahmen, der die 7 Millennium-Probleme und Gödels Paradox **nicht löst im klassischen Sinn**, sondern **strukturell stabilisiert**.
+
+Das Modul enthält:
+- Das Universal Collapse Theorem  
+- Mapping zu allen großen mathematischen Problemstellungen  
+- Vergleich Möbius ↔ Harmonik  
+- 5 neue Visuals & Diagramme  
+- Englische Hauptdokumentation
+
+> “This is not a proof. It is a convergence field.”
+
+---
+
+## 📚 Modulübersicht (aktuell: 21)
+
+➡️ Vollständiger Überblick mit Beschreibung: [`nexah_navigator.md`](./nexah_navigator.md)  
+➡️ English version: [`nexah_navigator_en.md`](./nexah_navigator_en.md)
+
+---
+
+## 🧭 Lesestart / Entry Points
+
+- `NEXA_PHASE_1_COMPLETION` → Synthese Alpha–Beta–P–Gamma  
+- `URF-CODEX` → Ursprung, Symbolfeld, Identitätsachsen  
+- `MÖBIUS-CODEX` → Spiralen, Resonanzpfade, Zahl 137  
+- `NEXAH-GRAND-CODEX` → Systemzusammenführung, Gleichung, Mapping
+
+Weitere Leseempfehlungen siehe Navigator.
+
+---
+
+## 📘 Dokumente
+
+| Datei                  | Inhalt / Content                                 |
+|------------------------|--------------------------------------------------|
+| `README.md`            | Diese Übersicht                                 |
+| `nexah_navigator*.md`  | Alle Module mit Beschreibung & Leseführung      |
+| `manifest*.md`         | Prinzipien, Ursprung, kreative Struktur          |
+| `roadmap.md`           | Frühere Gliederung in Phasen                    |
+| `LICENSE.md`           | CC BY-NC-SA 4.0 Lizenz                          |
+| `README_EN.md`         | English start page (synthesis, structure)       |
+
+---
+
+## 🌐 Projektseite / Project Page
+
+🌍 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
+
+---
+
+## 🛡 Lizenz / License
 
 Creative Commons – Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen (CC BY-NC-SA 4.0)
 
