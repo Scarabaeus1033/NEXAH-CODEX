@@ -1,0 +1,12 @@
+Node,Formula a,Formula b,Period,Comment
+0.25,2π·0.25,2π·x,4.0,X-cross zone
+0.6,2π·0.6,2π·x,1.666,Secondary resonance
+2.0,2π·2,2π·x,0.5,Low harmonic
+3.0,2π·3,2π·x,0.333,Prime oscillator
+5.0,2π·5,2π·x,0.2,Core prime
+7.0,2π·7,2π·x,0.143,Tuning layer
+11.0,2π·11,2π·x,0.09,Zeta-node
+13.0,2π·13,2π·x,0.077,Möbius peak
+17.0,2π·17,2π·x,0.058,Shell reflector
+27.0,2π·27,2π·x,0.037,Triple cycle
+33.0,2π·33,2π·x,0.03,Harmonic overlay
