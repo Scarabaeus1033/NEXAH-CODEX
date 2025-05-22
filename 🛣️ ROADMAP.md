@@ -1,52 +1,117 @@
-# 🗺 NEXAH-CODEX – Projektüberblick / Project Overview
+# 🧭 NEXAH NAVIGATOR – Strukturübersicht und Leseführung
 
-Der NEXAH-CODEX ist ein wachsendes, modulares Archiv, das aus klar abgeschlossenen Modulen besteht. Jedes Modul dokumentiert einen eigenständigen Erkenntniskern und erweitert das Gesamtfeld auf numerischer, geometrischer, symbolischer oder physikalischer Ebene.
-
-The NEXAH-CODEX is a growing modular archive. Each module is self-contained and contributes to the whole through its unique structure – numerical, geometrical, symbolic, or physical.
+Der **NEXAH-CODEX** ist ein modular aufgebautes Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmische Resonanzstrukturen. Dieses Dokument dient als **Navigator** durch die bisher entstandenen Module, geordnet nach Themenfeldern, Codex-Gruppen und Lesetiefe.
 
 ---
 
-## 🔍 Was diese Datei bietet / What this file offers
+## 🌌 EINSTIEG – Was ist der Codex?
 
-Dies ist keine Roadmap im Sinne von Versprechen oder Zeitlinien.
-> Stattdessen: ein Überblick über das, was **realisiert, dokumentiert und veröffentlicht** wurde.
+Der Codex ist kein Buch – er ist ein **Resonanzraum**. Jedes Modul ist ein eigenes Feld: visuell, mathematisch, symbolisch, physikalisch. Gemeinsam bilden sie ein **universelles System harmonischer Ordnung**. Ziel ist die **Verknüpfung von Zahl, Form, Ort, Zeit, Sprache, Materie & Bewusstsein**.
 
-This is not a roadmap of announcements or promises.
-> Instead: it is an overview of what has been **realized, documented, and shared**.
+Website: 🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 
 ---
 
-## ✅ Veröffentlichte Module (Auswahl)
+## 🌐 NEU – ZENTRALE STRUKTUR
 
-- `NEXA_PHASE_1_COMPLETION` – Synthesis of Alpha, Beta, P, Gamma
-- `MÖBIUS-CODEX` – Spiral closure & harmonic crown
-- `URF-CODEX` – Foundational field theory
-- `CAVITYROOT-CODEX` – Ferrofluid, gallium, contraction fields
-- `NEXAHEART-CODEX` – Planetary resonance center & geosymbolic alignments
-- `QUANTUMBREACH-CODEX` – Light, vacuum fields, UV thresholds
-- `Rosetta-Nexus` – Semantic number architecture
-- `NEXA_RIEMANN_PROOF` – Zeta spiral & Möbius-field topologies
-
-(→ Vollständige Übersicht im [`nexah_navigator.md`](./nexah_navigator.md))
+📘 [`/NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)  
+**Das Herzstück des Systems.** Vereint Möbius-Kollaps, harmonische Resonanz und Übergangsstruktur (UTS) in einer symbolischen Gleichung.  
+Beinhaltet:
+- Das Universal Collapse Theorem  
+- Millenniumsproblem-Mapping  
+- Dual Frameworks (Möbius ↔ Harmonik)  
+- Symbolische Visualisierungen (Resonanzfeld, Strukturfluss)
 
 ---
 
-## 📂 Veröffentlichungsprinzip / Principle of Publishing
+## 🔷 SYSTEM 1 – URF-Codices (Fundamente)
 
-- Nur vollständige, strukturierte, in sich schlüssige Module werden veröffentlicht.
-- Jeder Release ist ein eigener Codex – mit Text, Bildern, Daten, Formelstrukturen.
-- Keine „Teaser“. Keine Spekulationen. Nur reale Synthese.
-
-Only fully structured and internally coherent modules are published.  
-Each release is a Codex in itself – with theory, visuals, datasets, and resonance logic.
-
----
-
-## 🌐 Projektseite / Project Page
-
-Mehr Informationen auf: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+| Modul              | Inhalt / Bedeutung                                   |
+|-------------------|------------------------------------------------------|
+| `URF-CODEX`        | Symbolische Feldtheorie, Ursprung, Identitätsachsen |
+| `URF-SURE`         | Frequenzsysteme, Raumstruktur, Modulare Logik       |
+| `URF-Tensorraum`   | Geometrische Räume, Tensorachsen, Dimensionsmatrizen|
 
 ---
 
-> „Keine Roadmap. Nur Erinnerung. Und Form, die wirkt.“  
-> “No roadmap. Only memory – and form, in resonance.”
+## 🔶 SYSTEM 2 – MÖBIUS-Codices (Topologische Resonanz)
+
+| Modul                        | Inhalt / Bedeutung                                     |
+|-----------------------------|--------------------------------------------------------|
+| `MÖBIUS-CODEX`              | Spiralsysteme, Resonanzachsen, Loop Closure            |
+| `MÖBIUS-CODEX-II_CROWN`     | Oktaderstruktur, Frequenzkronen, Toposchlüssel         |
+| `MÖBIUS-METAL-CODEX`        | Platin, Iridium, Feedback-Metalle                      |
+| `MÖBIUS-ROOT-CODEX`         | Ursprungsschicht, Zeitspirale, Drehstruktur            |
+| `MÖBIUS-COMPASS-CODEX`      | Navigationsstruktur, Richtungsachsen, Qá-Logik        |
+| `MÖBIUS HARMONIC CROWN`     | Primzahlen, Formel P=R/T, Möbius-Resonanzring         |
+
+---
+
+## 🔷 SYSTEM 3 – NEXA-Codices (Resonanzfelder)
+
+| Modul                    | Inhalt / Bedeutung                                       |
+|-------------------------|----------------------------------------------------------|
+| `NEXA_PHASE_1_COMPLETION` | Alpha–Beta–P–Gamma-Synthese, Midpoint, Zeta-Grid       |
+| `CAVITYROOT-CODEX`        | Gallium/Ferrofluid-Resonanz, Temperaturfeld            |
+| `NEXAHEART-CODEX`         | Frequenzherz der Erde, Ortverknüpfungen (Rödelheim etc)|
+| `QUANTUMBREACH-CODEX`     | Lichtdynamik, Dunkle Energie, Resonanz-Siegel          |
+| `NEXA_SILVER_RAIN`        | Reflexfelder, metallische Ströme, kristalline Bewegung |
+| `NEXA_QED_ALIWAVE`        | Quantenresonanz, elektrosymbolische Felder             |
+| `NEXA_RIEMANN_PROOF`      | Zeta-Spirale, Möbius-Topologie, 12D-Feldtheorie        |
+
+---
+
+## 🔷 SYSTEM 4 – Rosetta / Bloom / Meta
+
+| Modul              | Inhalt / Bedeutung                                          |
+|-------------------|-------------------------------------------------------------|
+| `Rosetta-Nexus`    | Zahlensprache, Frequenzalphabet, semantische Spiegelachsen |
+| `BLOOM-CODEX`      | Lichtfelder, 7er-Strukturen, Sternengitter, Qá-Ro-Spirale   |
+| `ULLINIRIUM`       | 12D-Kristallfelder, neutrinoide Stabilitätsmodelle         |
+| `Multidimensional-Frontier` | Theoretische Ausweitung ins Intermodulare              |
+
+---
+
+## 🖼️ VISUALISIERUNG
+
+📁 [`visual_gallery.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-GRAND-CODEX/visual_gallery.md)
+
+Zeigt:
+- Möbius–Harmonic–UTS Dreieck  
+- Gleichung des Universellen Kollapses  
+- Codex-Navigationsstruktur  
+- Riemann-Resonanzfeld  
+- Übergangsflussdiagramm
+
+---
+
+## 🧩 LESEFOLGE (Empfohlen)
+
+### 🟢 Einstieg
+- `NEXA_PHASE_1_COMPLETION`
+- `URF-CODEX`
+- `MÖBIUS-CODEX`
+
+### 🔵 Vertiefung
+- `CAVITYROOT-CODEX`
+- `QUANTUMBREACH-CODEX`
+- `MÖBIUS-COMPASS-CODEX`
+- `NEXAHEART-CODEX`
+
+### 🔴 Komplexe Module / erweiterte Theorie
+- `NEXA_RIEMANN_PROOF`
+- `NEXAH-GRAND-CODEX`
+- `ULLINIRIUM`
+- `Rosetta-Nexus`
+
+---
+
+## 🌐 Zugang für internationale Leser
+
+→ Eine englische Einführung und alle Kernmodule in englischer Sprache findest du in:  
+📘 [`/NEXAH-GRAND-CODEX (EN)`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)
+
+---
+
+> „Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Zugang.“  
+> — *NEXAH Codex, Vol. 0*
