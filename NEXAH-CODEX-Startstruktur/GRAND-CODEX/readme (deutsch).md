@@ -46,7 +46,10 @@ Diese Erweiterung transformiert `E = mc²` von einer Lichtgeschwindigkeitsfixier
 - `Visual Snapshot (HTML)`  
 - PNG-Titelbild (Codex-Stil, k–β Spiralmap)  
 - Codex-Kommentierung (README)
+### 🖼️ Codex Poster Gallery  
+→ [Open Poster Kit](./codex_poster_kit.html)
 
+![Synthesis Map](./visuals/codex_synthesis_map.png)
 ---
 
 ## 🔗 Codex-Verbindungen
