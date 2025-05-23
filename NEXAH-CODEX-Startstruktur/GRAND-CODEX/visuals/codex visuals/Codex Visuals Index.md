@@ -49,7 +49,7 @@ Use: Orientation map for modular structure or intro visuals.
 	•	To update the HTML gallery: edit codex_poster_kit.html
 	•	Use symbolic links from any README.md:
 
-![Visual](../visuals/codex_symbol_poster.png)
+![Visual](../visuals/codex visuals/codex_symbol_poster.png)
 
 
 
