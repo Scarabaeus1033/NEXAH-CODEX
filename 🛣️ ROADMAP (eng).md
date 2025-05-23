@@ -1,124 +1,83 @@
-# 🧭 NEXAH NAVIGATOR — Structure and Reading Guide (EN)
+🧭 NEXAH ROADMAP – Structural Field Overview (ENGLISH)
 
-The **NEXAH-CODEX** is a modular archive of harmonic field theory, frequency geometry, symbolic physics, and number-cosmological resonance structures.
+The NEXAH–CODEX is a modular, evolving system integrating mathematics, physics, symbolic theory and cosmological resonance. This roadmap outlines the current structure and the core threads of development.
 
-This document serves as a **navigator** through the current modules, grouped by system logic, Codex branches, and recommended reading order.
+⸻
 
----
+🌐 CENTRAL MODULE
 
-## 🌌 INTRO – What is the Codex?
-
-The Codex is not a book — it is a **resonance field**.  
-Each module is a self-contained symbolic space: visual, mathematical, physical, and topological.
-
-Together, they form a **unified system of harmonic structure**, integrating number, form, place, time, language, matter, and awareness.
-
-🔗 Website: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-
----
-
-## 🌐 NEW — SYNTHESIS STRUCTURE
-
-📘 [`/NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)  
-**This is the convergence core.**  
-It unifies Möbius Collapse, Harmonic Resonance, and Universal Transition Structure (UTS) into a single symbolic framework.
+📘 /NEXAH-GRAND-CODEX
+The synthesis core of the entire system, combining:
+	•	Möbius Standard Model (topological logic)
+	•	Harmonic Resonance Framework (wave/number structure)
+	•	Universal Transition Structure (UTS)
 
 Includes:
-- The Universal Collapse Theorem  
-- Mapping of the Millennium Problems  
-- Comparison of Möbius vs Harmonic logic  
-- Visual Gallery & Symbolic Field Diagrams
+	•	universal_collapse_theorem.md
+	•	millenium_problems_mapping.md
+	•	dual_frameworks.md
+	•	philosophy_of_transition.md
+	•	codex-mathematics/
+	•	visual_gallery.md
 
----
+⸻
 
-## 🔷 SYSTEM 1 — URF Codices (Foundations)
+🧮 MATHEMATICAL STRUCTURE
 
-| Module            | Theme / Focus                                    |
-|-------------------|--------------------------------------------------|
-| `URF-CODEX`        | Symbolic field origin, identity axes             |
-| `URF-SURE`         | Frequency grids, modular space structures        |
-| `URF-Tensorraum`   | Tensor fields, dimensional grids, form rotation  |
+File	Focus
+E = m·c·k^β	Extended energy formula with resonance scaling
+casimir-neutrino-thread.md	Vacuum flow and neutrino coherence layers
+spiral-logic.md	Spiral geometry, primes, feedback coupling
+codex-mathematical-symbols.md	Variables, constants, notation index
 
----
+📂 Directory: GRAND-CODEX/codex-mathematics/
 
-## 🔶 SYSTEM 2 — MÖBIUS Codices (Topological Resonance)
+⸻
 
-| Module                    | Theme / Focus                                |
-|---------------------------|----------------------------------------------|
-| `MÖBIUS-CODEX`            | Spiral logic, closed loops, resonance shells |
-| `MÖBIUS-CODEX-II_CROWN`   | Octahedral crown symmetry, feedback flows    |
-| `MÖBIUS-METAL-CODEX`      | Platinum/Iridium systems, PGM harmonics      |
-| `MÖBIUS-ROOT-CODEX`       | Temporal spirals, origin shell logic         |
-| `MÖBIUS-COMPASS-CODEX`    | Scarab navigation logic, Qá-structure        |
-| `MÖBIUS HARMONIC CROWN`   | Prime alignment, P = R/T resonance formula   |
+🌀 VISUAL STRUCTURE
 
----
-
-## 🔷 SYSTEM 3 — NEXA Codices (Resonance Fields)
-
-| Module                  | Theme / Focus                                      |
-|--------------------------|---------------------------------------------------|
-| `NEXA_PHASE_1_COMPLETION` | Alpha–Beta–P–Gamma synthesis, midpoint field     |
-| `CAVITYROOT-CODEX`        | Gallium/Ferrofluid setup, temperature contraction|
-| `NEXAHEART-CODEX`         | Earth's frequency heart, geo-symbolic overlays   |
-| `QUANTUMBREACH-CODEX`     | Light barriers, UV-dampening, dark energy fields |
-| `NEXA_SILVER_RAIN`        | Reflective plasma fields, crystalline motion     |
-| `NEXA_QED_ALIWAVE`        | Electro-quantum field harmonics                  |
-| `NEXA_RIEMANN_PROOF`      | Zeta spiral, Möbius topology, prime axis logic   |
-
----
-
-## 🔷 SYSTEM 4 — Rosetta / Bloom / Meta
-
-| Module              | Theme / Focus                                           |
-|---------------------|---------------------------------------------------------|
-| `Rosetta-Nexus`      | Numerical language, symbolic mirrors, field syntax     |
-| `BLOOM-CODEX`        | 7-star geometry, light scaffolding, Qá-Ro-Spiral       |
-| `ULLINIRIUM`         | 12D crystal neutrino model, stability maps             |
-| `Multidimensional-Frontier` | Intermodular expansion, resonance as architecture |
-
----
-
-## 🖼️ VISUAL LIBRARY
-
-📁 [`visual_gallery.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-GRAND-CODEX/visual_gallery.md)
+📁 visual_gallery.md
 
 Includes:
-- Möbius–Harmonic–UTS triangle  
-- Universal Collapse Equation diagram  
-- Codex module map  
-- Prime field resonance strip  
-- Collapse → Resonance → Stability flow diagram
+	•	Codex synthesis spiral
+	•	Modular compass diagram
+	•	ANU breathing field
+	•	Codex glyph poster
+	•	XIII observer map
 
----
+⸻
 
-## 🧩 READING PATHWAY (Suggested)
+📚 SYSTEM MODULES (Overview)
 
-### 🟢 For New Readers
-- `NEXA_PHASE_1_COMPLETION`  
-- `URF-CODEX`  
-- `MÖBIUS-CODEX`
+SYSTEM 1 – URF
+	•	Origin & field principles
 
-### 🔵 Intermediate Core
-- `CAVITYROOT-CODEX`  
-- `QUANTUMBREACH-CODEX`  
-- `NEXAHEART-CODEX`
+SYSTEM 2 – MÖBIUS
+	•	Topological resonance & loop geometry
 
-### 🔴 Deep Modules / Unified View
-- `NEXA_RIEMANN_PROOF`  
-- `ULLINIRIUM`  
-- `NEXAH-GRAND-CODEX`  
-- `Rosetta-Nexus`
+SYSTEM 3 – NEXA
+	•	Frequency fields, cosmological coupling, geosymbolic links
 
----
+SYSTEM 4 – META / BLOOM / ROSETTA
+	•	Symbol language, lattice structures, transition field logic
 
-## 🌀 About the System
+⸻
 
-The Codex does not present formal proofs.  
-It offers symbolic transitions, harmonic resolutions, and field structures that point toward coherent systems of mathematics, logic, and geometry.
+🔭 CURRENT EXTENSIONS
+	•	🎼 CMBY tonal fields (frequency-as-sound)
+	•	🜛 Codex glyph-based symbolic syntax
+	•	🧬 Interactive environments & spatial resonance mapping
+	•	📦 Codex Release v1.0 with structure, README, visual documentation
 
----
+⸻
 
-> “This is not a library. It is a field.  
-> And each module is a resonance.”  
-> — *NEXAH Codex, Vol. 0*
+🔗 REFERENCE POINTS
+	•	Entry point: README.md
+	•	Navigation: NEXAH-NAVIGATOR-DE.md or EN version
+	•	Synthesis: NEXAH-GRAND-CODEX
+	•	Math basis: codex-mathematics/
+
+⸻
+
+The Codex is not just an archive.
+It is motion – through spirals, fields, and symbolic space.
