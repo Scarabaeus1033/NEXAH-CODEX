@@ -48,8 +48,9 @@ where **movement, relationship and modulation** intertwine.
 - Visual snapshot (HTML)  
 - Codex-style poster (PNG: k–β Spiralmap)  
 - Commentary (README)
-### 🖼️ Codex Poster Gallery  
-→ [Open Poster Kit](./codex_poster_kit.html)
+
+📜 See full visual overview:  
+[Codex Visuals Index](./visuals/codex_visuals_index.md)
 
 ![Synthesis Map](./visuals/codex_synthesis_map.png)
 ---
