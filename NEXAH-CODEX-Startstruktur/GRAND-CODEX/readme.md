@@ -1,5 +1,6 @@
 # 🧠 E = m·c·k^β — Die Erweiterung der Einsteingleichung
 
+![Codex Titelbild](NEXAH_k-beta_Titelbild.png)
 Dieses Modul des GRAND-CODEX präsentiert eine grundlegende Erweiterung der klassischen Energieformel:
 
 > `E = m·c²` → `E = m·c·k^β`
