@@ -51,6 +51,12 @@ Includes:
 
 SYSTEM 1 – URF
 	•	Origin & field principles
+### 🔬 Extension of the Standard Model (URF Comparison)
+
+A theoretical contrast between the Standard Model of particle physics and the URF-model:  
+→ Resonance fields, Möbius-origin symmetry, topological feedback.
+
+📄 [Read the comparison](../NEXAH-CODEX-Startstruktur/URF-CODEX/extending_the_standard_model–URF_comparison.md)
 
 SYSTEM 2 – MÖBIUS
 	•	Topological resonance & loop geometry
