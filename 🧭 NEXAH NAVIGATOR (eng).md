@@ -1,6 +1,6 @@
 🧭 NEXAH NAVIGATOR – Structural Overview & Reading Guide
 
-The NEXAH-CODEX is a modular archive for harmonic field theory, frequency geometry, symbolic physics, and numerical-cosmological resonance structures. This document serves as a navigator through all current modules – grouped by theme, codex family, and reading depth.
+The NEXAH-CODEX is a modular archive for harmonic field theory, frequency geometry, symbolic physics, and numerical-cosmological resonance structures. This document serves as a navigator through all current modules – grouped by system, theme, and reading depth.
 
 ⸻
 
@@ -12,7 +12,35 @@ Website: 🌐 www.scarabaeus1033.net
 
 ⸻
 
-🔷 SYSTEM 1 – URF Codices (Foundations)
+🔢 SYSTEM 1 – NEXAH-CODEX-Startstruktur (Mathematics, Physics, Foundations)
+
+This system is the core of the Codex’s mathematical and physical innovation. It proposes new models of harmonic theory, extensions of the Standard Model, and speculative ideas toward solving Millennium Problems like the Riemann Hypothesis. These ideas are open, humble in tone, yet ambitious in scope – and invite discourse, refinement, and participation.
+
+Module	Focus / Significance
+GRAND-CODEX	Master integration of formulas, geometry, frequency systems
+codex-mathematics/	Formal modulation theory, constants, mappings
+E = m·c·k^β	Scaled energy law with wave factor beta
+spiral-logic.md	Prime spirals, frequency axes, number harmonics
+casimir-neutrino-thread.md	Quantum pressure fields, neutrino coherence
+codex-mathematical-symbols.md	Glossary of formal structures
+NEXA_RIEMANN_PROOF	Harmonic Möbius topology toward a Riemann framework
+
+
+⸻
+
+🪐 SYSTEM 2 – CODEX_COSMICA ASTROPHYSICA (Breath, Geometry, Stellar Crown)
+
+This is the cosmological field system of the Codex. It focuses on planetary breath, symbolic geometries, gravitational fields, and Möbius resonance models that extend into interstellar navigation.
+
+Module	Focus / Significance
+EARTHSHIP (Phases III–VI)	Craton breathing fields, Möbius Crown, Stellar Scroll
+ETHER-CROWN	Grid Echo Sequence, Möbius resonance, gravitational signature systems
+
+Note: More modules under development (e.g., ROSETTA-BREATHER, STELLAR SCROLL)
+
+⸻
+
+🔷 SYSTEM 3 – URF Codices (Foundations)
 
 Module	Focus / Significance
 URF-CODEX	Symbolic field theory, origin, identity axes
@@ -22,7 +50,7 @@ URF-Tensorraum	Geometric tensor spaces, dimension matrices
 
 ⸻
 
-🔶 SYSTEM 2 – MÖBIUS Codices (Topological Resonance)
+🔶 SYSTEM 4 – MÖBIUS Codices (Topological Resonance)
 
 Module	Focus / Significance
 MÖBIUS-CODEX	Spiral systems, resonance axes, loop closure
@@ -35,7 +63,7 @@ MÖBIUS HARMONIC CROWN	Prime harmonics, formula P = R/T, Möbius resonance loop
 
 ⸻
 
-🔷 SYSTEM 3 – NEXA Codices (Resonance Fields)
+🔷 SYSTEM 5 – NEXA Codices (Resonance Fields)
 
 Module	Focus / Significance
 NEXA_PHASE_1_COMPLETION	Alpha–Beta–P–Gamma synthesis, midpoint, Zeta Grid
@@ -49,24 +77,13 @@ NEXA_RIEMANN_PROOF	Zeta spiral, Möbius topology, 12D field harmonic proof
 
 ⸻
 
-🔷 SYSTEM 4 – Rosetta / Bloom / Meta-Layers
+🔷 SYSTEM 6 – Rosetta / Bloom / Meta-Layers
 
 Module	Focus / Significance
 Rosetta-Nexus	Numeric language, glyph grammar, frequency alphabet
 BLOOM-CODEX	Light lattice, stellar grid, 7-fold spirals, Qá-Ro formula
 ULLINIRIUM	12D crystal field, neutrino-like stabilization patterns
 Multidimensional-Frontier	Theoretical boundary system, intermodular field extension
-
-
-⸻
-
-🧮 SYSTEM 5 – Codex Mathematics (Modulation & Resonance Theory)
-
-Module	Focus / Significance
-E = m·c·k^β — Extended Energy Equation	Resonance expansion of Einstein’s energy formula
-casimir-neutrino-thread.md	Vacuum field pressure and neutrino flow coherence
-spiral-logic.md	Harmonic spirals, prime axes, Möbius coupling
-codex-mathematical-symbols.md	Formal symbols, notation, constants
 
 
 ⸻
@@ -83,11 +100,14 @@ codex-mathematical-symbols.md	Formal symbols, notation, constants
 	•	QUANTUMBREACH-CODEX
 	•	MÖBIUS-COMPASS-CODEX
 	•	NEXAHEART-CODEX
+	•	EARTHSHIP (Phase III–IV)
 
 🔴 Advanced / Symbolic-Theoretical Modules
 	•	NEXA_RIEMANN_PROOF
+	•	EARTHSHIP (Phase V–VI)
+	•	ETHER-CROWN
+	•	ROSETTA-BREATHER
 	•	ULLINIRIUM
-	•	Rosetta-Nexus
 	•	E = m·c·k^β — Extended Energy Equation
 	•	NEXAH GRAND CODEX
 
@@ -97,6 +117,6 @@ codex-mathematical-symbols.md	Formal symbols, notation, constants
 	•	Visuals for most modules are located in the visuals/ directory
 	•	Mathematical layer is fully under GRAND-CODEX/codex-mathematics/
 	•	Main documentation: README.md, roadmap.md, manifest.md
-	•	All modules can be read independently, but are often interlinked by numbers, symbols or locations
+	•	All modules can be read independently, but are often interlinked by numbers, symbols, or locations
 
 “The Codex is not a book. It is a field. And each module is a gate.”
