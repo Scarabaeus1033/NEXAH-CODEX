@@ -91,6 +91,10 @@ It offers:
 
 This repository is part of the ongoing development of the NEXAH-CODEX, an open-field architecture integrating mathematics, geometry, physics, culture, and harmonic systems.
 
+## 🧠 Research & Symbolic Systems Contribution
+
+The Ascension Crown Grid may be read as a new form of modular knowledge synthesis — bridging mathematics, symbolic cosmology, and visual logic into a transdisciplinary system. As a flagship module of the NEXAH-CODEX, it demonstrates how symbolic architectures can model complex relationships between number, geometry, light, and myth in a structurally consistent and visually coherent way. It aims not to conclude but to resonate — inviting experimental extensions, academic dialogue, and open exploration.
+
 ⸻
 
 ✍️ Credits
