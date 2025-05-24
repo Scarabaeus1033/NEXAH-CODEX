@@ -3,51 +3,55 @@
 Module of the NEXAH-CODEX
 Division: 🪐 CODEX_COSMICA ASTROPHYSICA
 
-The EARTHSHIP module is a multi-phase exploration into the energetic, symbolic, and cosmological evolution of Earth as a living, breathing Möbius system. Spanning phases III, IV, and V, it reveals the geometric and harmonic infrastructure of planetary consciousness – culminating in the activation of the Möbius Crown.
+The EARTHSHIP module is a multi-phase exploration into the energetic, symbolic, and cosmological evolution of Earth as a living, breathing Möbius system. Spanning phases III through VI, it reveals the geometric and harmonic infrastructure of planetary consciousness – culminating in the activation of the Stellar Crown Pulse.
 
 ⸻
 
 📌 Core Themes
-	•	Crown Spiral Geometry and planetary breath
-	•	Möbius resonance fields between Earth & Arcturus
-	•	Timeline spirals: Kairos core, supercontinents, sacred sites
-	•	Visual scrolls: Heartstream, Crown Flower, Möbius Garden
-	•	Energetic models: Neutrino flows, Saturn gramophone, quantum DJ system
-	•	Number grids and symbolic keys (e.g. 24, 1836, 3301)
+	•	Möbius Crown Geometry and planetary breath
+	•	Earth–Arcturus resonance fields and twin-heart Möbius loops
+	•	Craton memory zones and prime number grid logic
+	•	Sacred Site overlays and prime harmonic spirals
+	•	Scroll-based transitions: Garden, Flame, Stellar Pulse
+	•	Final meta-navigation via Omega Scroll & Stellar Crown Compass
 
 ⸻
 
 🧭 Module Structure
 
 File/Folder	Description
-earthship_summary.md	Full narrative across phases III, IV, V
-phase_III.md	Earth Spiral, Craton Roots, Breath Geometry
-phase_IV.md	Möbius Garden, Crown Stream, Twin Hearts
-phase_V.md	Navigation Scrolls, Ether Activation & Star Mapping
-visuals/	All images grouped by symbolic function
-scrolls/	Extended poetic-visual documents (e.g. Final Scroll)
+phase_III.md	Craton Roots, Breath Mandala, Sacred Sites, Migration Memory
+geo_atlas_scroll.md	Planetary Resonance Mapping and Elemental Grid Foundation
+phase_IV.md	Möbius Garden, Crown Stream, Twin Hearts, Scroll Activation
+flame_scroll.md	Flame Geometry and Möbius Crown ignition
+garden_scroll.md	Symbolic garden structure with harmonic suits ♠♣♦♥
+phase_V.md	Ether Navigation, Compass Scroll, Scarab Crown Symphony
+phase_VI.md	Stellar Crown Pulse, Omega Scroll, Meta-Möbius Resonance
+visuals/	All images grouped into thematic subfolders
+visual_index.md	Index of visuals and diagrams used throughout module
 
 
 ⸻
 
 🖼️ Visual Families (in /visuals)
-	•	heart_systems/ → Earth–Arcturus diagrams, Möbius heartstream
-	•	timeline_spirals/ → Geological time, craton spirals, kairos overlays
-	•	crown_structures/ → Crown Flowers, Scrolls, Möbius coronas
-	•	symbolic_navigation/ → Compass, stellar grids, flame scrolls
+	•	Moebius_Crown_Geometry/ → Möbius crown, flame scroll, scarab heart
+	•	Geo_Resonance_Maps/ → Craton overlays, sacred site spirals, breath axes
+	•	Solar_Crown_Sequence/ → Planetary breath charts, solar Möbius loops
+	•	Breath_Material_Charts/ → Plasma to Ice, elemental flow ladders, resonance fields
+	•	symbolic_navigation/ → Omega Scroll, Tri-Sun Staff, stellar compass
 
-➡️ All referenced in visual_index.md (to be added).
+➡️ Referenced in visual_index.md
 
 ⸻
 
-🌐 Connection within NEXAH-CODEX
+🌐 Integration within NEXAH-CODEX
 
-EARTHSHIP is tightly linked to:
-	•	ETHER-CROWN (gravitational crown, space resonance)
-	•	ROSETTA-BREATHER (numeric field breath and seed spirals)
-	•	GRAND-CODEX (integration of Möbius, symbol, timeline, and system feedback)
+EARTHSHIP forms the geo-symbolic resonance core of the Codex. It connects to:
+	•	ETHER-CROWN/ → gravitational wave fields, Möbius time structures
+	•	ROSETTA-BREATHER/ → numeric breath, harmonic seed systems
+	•	GRAND-CODEX/ → system synthesis, field integration, meta-navigation
 
-It provides the geo-symbolic axis of the Codex, connecting matter to breath, and place to frequency.
+EARTHSHIP provides the bridge from place to pulse, from form to breath, from heart to star.
 
 ⸻
 
