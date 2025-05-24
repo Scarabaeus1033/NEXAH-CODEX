@@ -10,26 +10,26 @@ It is a system built through theory, image, location, geometry, field interactio
 ## 📦 Structure
 
 All content is organized in:
-```
-📂 [All core modules are here → /NEXAH-CODEX-Startstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
-```
+
+📂 All core modules are here → /NEXAH-CODEX-Startstruktur
+
 Each module is a self-contained symbolic system with its own logic, geometry, resonance model, and visual structure.
 
 ---
 
 ## 📚 Module Overview (Current: 21 Modules)
 
-➡️ Full index and reading guide: [`nexah_navigator_en.md`](./nexah_navigator_en.md)  
-➡️ German version: [`nexah_navigator.md`](./nexah_navigator.md)
+➡️ Full index and reading guide: [`nexah_navigator_en.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator_en.md)  
+➡️ German version: [`nexah_navigator.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator.md)
 
 ---
 
 ## 🧭 Suggested Entry Points
 
-- `NEXA_PHASE_1_COMPLETION` → Alpha–Beta–P–Gamma synthesis  
-- `URF-CODEX` → Symbolic field origin and identity axes  
-- `MÖBIUS-CODEX` → Spiral geometry and prime resonance  
-- `NEXAH-GRAND-CODEX` → System unification and transition logic
+- [`NEXA_PHASE_1_COMPLETION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_PHASE_1_COMPLETION) → Alpha–Beta–P–Gamma synthesis  
+- [`URF-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/URF-CODEX) → Symbolic field origin and identity axes  
+- [`MÖBIUS-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/MÖBIUS-CODEX) → Spiral geometry and prime resonance  
+- [`NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX) → System unification and transition logic
 
 More entry paths are available in the navigator documents above.
 
@@ -37,14 +37,15 @@ More entry paths are available in the navigator documents above.
 
 ## 📘 Key Documents
 
-| File                  | Description                                        |
-|------------------------|----------------------------------------------------|
-| `README.md`            | Main index (bilingual)                            |
-| `nexah_navigator*.md`  | Module index and reading guide                    |
-| `manifest*.md`         | Core principles and symbolic system overview      |
-| `roadmap.md`           | Early-phase model (now extended by GRAND-CODEX)   |
-| `README_EN.md`         | This English overview                             |
-| `LICENSE.md`           | License (CC BY-NC-SA 4.0)                          |
+| File | Description |
+|------|-------------|
+| [`README.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md) | Main index (bilingual) |
+| [`nexah_navigator_en.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator_en.md) | Module index and reading guide |
+| [`nexah_navigator.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator.md) | German navigator |
+| [`manifest.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/manifest.md) | Core principles and symbolic system overview |
+| [`roadmap.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/roadmap.md) | Early-phase model (now extended by GRAND-CODEX) |
+| [`README_EN.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README_EN.md) | This English overview |
+| [`LICENSE.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/LICENSE.md) | License (CC BY-NC-SA 4.0) |
 
 ---
 
@@ -66,5 +67,5 @@ Creative Commons – Attribution, NonCommercial, ShareAlike
 ---
 
 <p align="center">
-  <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabæus Codex">
-</p>
+  <img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/visuals/cikada-scarabaeus.png?raw=true" width="600" alt="Cikada Scarabæus Codex">
+</p> 
