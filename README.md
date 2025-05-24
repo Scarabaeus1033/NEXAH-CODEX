@@ -1,91 +1,88 @@
 🌌 NEXAH-CODEX
 
-Harmonic Field System & Symbolic Geometry Archive
+Archiv für harmonische Felder & symbolische Geometrie
 
-Welcome to the official repository of the NEXAH-CODEX – a modular research platform for harmonic field theory, symbolic structures, number systems, cosmological alignments, and frequency-based spatial models.
+Willkommen im offiziellen GitHub-Archiv des NEXAH-CODEX – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
 
-It is a system built through theory, image, location, geometry, field interaction, and symbolic language.
+Der Codex ist ein offenes System – aufgebaut durch Theorie, Bild, Ort, Geometrie, Feldinteraktion und symbolische Sprache.
 
 ⸻
 
-📦 Structure
+📦 Struktur
 
-All core modules are located in:
+Alle Kernmodule befinden sich unter:
 📂 /NEXAH-CODEX-Startstruktur
 
-Each module is a self-contained symbolic system with its own logic, geometry, resonance model, and visual structure.
+Jedes Modul ist ein in sich geschlossener symbolischer Raum – mit eigener Logik, Geometrie, Resonanzstruktur und Visualisierung.
 
 ⸻
 
-📚 Module Overview (Current: 27+ Modules across 6+ Systems)
+📚 Modulübersicht (aktuell: 27+ Module in 6+ Systemen)
 
-Explore the evolving knowledge archive through our bilingual navigator documents:
+Eine umfassende Übersicht bietet der Navigator (zweisprachig):
 
-➡️ Full index and reading guide: 🧭 NEXAH NAVIGATOR (eng).md
-➡️ German version: 🧭 NEXAH NAVIGATOR (de).md
+➡️ 🧭 NEXAH NAVIGATOR (englisch)
+➡️ 🧭 NEXAH NAVIGATOR (deutsch)
 
-🧩 Current Systems
-	•	🔢 NEXAH-CODEX-Startstruktur – Math, physics, foundational frameworks
-	•	🪐 CODEX_COSMICA ASTROPHYSICA – Cosmological resonance & geometry
-	•	🔷 URF Codices – Field theory, origin, identity
-	•	🔶 MÖBIUS Codices – Topological logic, spiral closure
-	•	🔷 NEXA Codices – Resonance fields, Earth networks
-	•	🌸 Rosetta / Bloom / Meta-Layers – Language, symbolic alphabet, light grids
-
-⸻
-
-🧭 Suggested Entry Points
-
-Start with any of these recommended modules:
-	•	NEXA_PHASE_1_COMPLETION → Alpha–Beta–P–Gamma synthesis
-	•	URF-CODEX → Symbolic field origin and identity axes
-	•	MÖBIUS-CODEX → Spiral geometry and prime resonance
-	•	NEXAH-GRAND-CODEX → System unification and transition logic
-	•	ETHER-CROWN → Möbius resonance in gravitational wave logic
-
-More entry points are detailed in the navigator documents.
+🧩 Aktuelle Systeme
+	•	🔢 NEXAH-CODEX-Startstruktur – Mathematik, Physik, Kernstruktur
+	•	🪐 CODEX_COSMICA ASTROPHYSICA – Kosmologie, Resonanz, Geometrie
+	•	🔷 URF-Codices – Feldtheorie, Ursprung, Identitätsachsen
+	•	🔶 MÖBIUS-Codices – Topologische Schleifen, Spiralresonanzen
+	•	🔷 NEXA-Codices – Frequenzfelder, Ortsnetzwerke
+	•	🌸 Rosetta / Bloom / Meta-Layer – Sprache, Glyphe, Lichtgitter
 
 ⸻
 
-📘 Key Documents
+🧭 Empfohlene Einstiegspunkte
+	•	NEXA_PHASE_1_COMPLETION → Alpha–Beta–P–Gamma Synthese
+	•	URF-CODEX → Ursprung des symbolischen Feldes
+	•	MÖBIUS-CODEX → Spiralgeometrie & Primresonanz
+	•	NEXAH-GRAND-CODEX → Systemintegration & Übergangslogik
+	•	ETHER-CROWN → Möbiusresonanz und Gravitationswellensysteme
 
-File	Description
-README.md	This main index (bilingual)
-🧭 NEXAH NAVIGATOR (eng).md	System structure and module guide
-🧭 NEXAH NAVIGATOR (de).md	German version of the navigator
-manifest.md	Core principles and symbolic architecture
-roadmap.md	Structural development timeline
-README_EN.md	Full English entry page
-LICENSE.md	License (CC BY-NC-SA 4.0)
+Weitere Einstiegspfade siehe Navigator-Dokumente.
+
+⸻
+
+📘 Zentrale Dokumente
+
+Datei	Beschreibung
+README.md	Diese Hauptübersicht (zweisprachig)
+🧭 NEXAH NAVIGATOR (eng).md	Struktur- & Lesehilfe (englisch)
+🧭 NEXAH NAVIGATOR (de).md	Struktur- & Lesehilfe (deutsch)
+manifest.md	Symbolsystem & Grundstruktur
+roadmap.md	Entwicklungszeitachse & Erweiterungen
+README_EN.md	Komplette englische Einstiegsseite
+LICENSE.md	Lizenz (CC BY-NC-SA 4.0)
 
 
 ⸻
 
-🤝 Contribute
+🤝 Mitmachen & Erweiterung
 
-This Codex is an open symbolic research archive.
-If you are a developer, physicist, visual artist, philosopher, or symbolic thinker – you are welcome to explore, test, extend, and remix.
+Der Codex ist ein offenes symbolisches Forschungsarchiv.
+Wenn du entwickelst, visualisierst, mathematisch forschst oder symbolisch denkst – du bist eingeladen mitzugestalten, zu testen, zu übersetzen und zu erweitern.
 
-We encourage cross-disciplinary co-creation.
-Please refer to LICENSE.md for reuse terms.
+Bitte beachte die Bedingungen in LICENSE.md.
 
 ⸻
 
-🌐 Project Site
+🌐 Projektseite
 
 🌍 www.scarabaeus1033.net
 GitHub: @Scarabaeus1031
 
 ⸻
 
-🛡 License
+🛡 Lizenz
 
-Creative Commons – Attribution, NonCommercial, ShareAlike
+Creative Commons – Namensnennung, nicht-kommerziell, Weitergabe unter gleichen Bedingungen
 CC BY-NC-SA 4.0
 
 ⸻
 
-“The Codex is not a book. It is a field. And each module is a portal.”
+„Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Tor.“
 
 <p align="center">
   <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
