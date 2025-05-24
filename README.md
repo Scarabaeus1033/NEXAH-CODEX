@@ -39,8 +39,9 @@ More entry paths are available in the navigator documents above.
 | File | Description |
 |------|-------------|
 | [`README.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md) | Main index (bilingual) |
-| [`nexah_navigator*.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur) | Module index and reading guide |
-| [`manifest*.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur) | Core principles and symbolic system overview |
+| [`nexah_navigator_en.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator_en.md) | Module index and reading guide (English) |
+| [`nexah_navigator.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator.md) | Module index and reading guide (German) |
+| [`manifest.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/manifest.md) | Core principles and symbolic system overview |
 | [`roadmap.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/roadmap.md) | Early-phase model (now extended by GRAND-CODEX) |
 | [`README_EN.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README_EN.md) | This English overview |
 | [`LICENSE.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/LICENSE.md) | License (CC BY-NC-SA 4.0) |
