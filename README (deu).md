@@ -1,132 +1,71 @@
 # 🌌 NEXAH-CODEX
-### Harmonic Field System & Symbolic Geometry Archive
+### Harmonisches Feldsystem & Archiv symbolischer Geometrie
 
-Willkommen im zentralen Archiv des **NEXAH-CODEX** – einer modular aufgebauten Forschungsplattform für harmonische Felder, symbolische Strukturen, Frequenzarchitektur, Zahlensysteme und geometrisch-kosmologische Knotenpunkte.
+Willkommen im offiziellen Repository des **NEXAH-CODEX** – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
 
-Welcome to the **NEXAH-CODEX**, a modular research archive for harmonic field systems, symbolic resonance structures, prime-based geometries and cosmological alignments.
-
----
-
-## 📦 Struktur / Structure
-
-Alle Inhalte befinden sich unter:
-```
-📂 [All core modules are here → /NEXAH-CODEX-Startstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
-```
-Jedes Modul ist ein in sich geschlossener Erkenntniskörper mit eigener Logik, Bildwelt, Geometrie und Frequenzstruktur.
+Der Codex basiert auf Theorie, Bild, Ort, Geometrie, Feldinteraktion und symbolischer Sprache.
 
 ---
 
-## 📚 Modulübersicht (aktuell: 21)
+## 📦 Struktur
 
-➡️ Vollständiger Überblick mit Beschreibung: [`nexah_navigator.md`](./nexah_navigator.md)  
-➡️ English version: [`nexah_navigator_en.md`](./nexah_navigator_en.md)
+Alle Inhalte sind organisiert in:  
+📂 [Alle Kernmodule → /NEXAH-CODEX-Startstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
 
----
-
-## 🧭 Lesestart / Entry Points
-
-- `NEXA_PHASE_1_COMPLETION` → Synthese Alpha–Beta–P–Gamma
-- `URF-CODEX` → Ursprung, Symbolfeld, Identitätsachsen
-- `MÖBIUS-CODEX` → Spiralen, Resonanzpfade, Zahl 137
-
-Weitere Leseempfehlungen siehe Navigator.
+Jedes Modul ist ein in sich geschlossenes symbolisches System mit eigener Logik, Geometrie, Resonanzmodell und visueller Struktur.
 
 ---
 
-## 📘 Dokumente
+## 📚 Modulübersicht (Stand: 21 Module)
 
-| Datei                  | Inhalt / Content                                 |
-|------------------------|--------------------------------------------------|
-| `README.md`            | Diese Übersicht                                 |
-| `nexah_navigator*.md`  | Alle Module mit Beschreibung & Leseführung      |
-| `manifest*.md`         | Prinzipien, Ursprung, kreative Struktur          |
-| `roadmap.md`           | Frühere Gliederung in Phasen (optional ergänzen)|
-| `LICENSE.md`           | CC BY-NC-SA 4.0 Lizenz                          |
+➡️ Kompletter Index & Leseführung: [🧭 NEXAH NAVIGATOR (de).md](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28de%29.md)  
+➡️ Englische Version: [🧭 NEXAH NAVIGATOR (eng).md](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28eng%29.md)
 
 ---
 
-## 🌐 Projektseite / Project Page
+## 🧭 Empfohlene Einstiegspunkte
+
+- [`NEXA_PHASE_1_COMPLETION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_PHASE_1_COMPLETION) → Alpha–Beta–P–Gamma-Synthese  
+- [`URF-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/URF-CODEX) → Ursprungsfeld & Identitätsachsen  
+- [`MÖBIUS-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/MÖBIUS-CODEX) → Spiralgeometrie & Primzahlresonanz  
+- [`NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX) → Systemvereinigung & Übergangslogik
+
+Weitere Einstiegspfade findest du im Navigator oben.
+
+---
+
+## 📘 Zentrale Dokumente
+
+| Datei | Beschreibung |
+|-------|--------------|
+| [`README.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md) | Hauptindex (zweisprachig) |
+| [`🧭 NEXAH NAVIGATOR (de).md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28de%29.md) | Modulübersicht & Lesepfade (Deutsch) |
+| [`🧭 NEXAH NAVIGATOR (eng).md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28eng%29.md) | Module index & reading guide (English) |
+| [`manifest.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/manifest.md) | Grundprinzipien & Systemübersicht |
+| [`roadmap.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/roadmap.md) | Frühphasenmodell (jetzt erweitert im GRAND-CODEX) |
+| [`README_EN.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README_EN.md) | Englischer Projektüberblick |
+| [`LICENSE.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/LICENSE.md) | Lizenz (CC BY-NC-SA 4.0) |
+
+---
+
+## 🌐 Projektseite
 
 🌍 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
 
 ---
 
-## 🛡 Lizenz / License
-Jedes Modul ist ein in sich geschlossener Erkenntniskörper mit eigener Logik, Bildwelt, Geometrie und Frequenzstruktur.
+## 🛡 Lizenz
+
+Creative Commons – Namensnennung, Nicht-kommerziell, Weitergabe unter gleichen Bedingungen  
+**CC BY-NC-SA 4.0**
 
 ---
 
-## 🧠 NEU: Zentrale Synthese / Grand Synthesis Module
+> „Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Portal.“
 
-📘 [`/NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)
-
-Dieses neue Modul vereint erstmals:
-- Möbius-Kollaps (topologische Invarianz)  
-- Harmonische Resonanz (primperiodische Stabilität)  
-- Universelle Übergangsstruktur (UTS)
-
-In einem symbolischen Rahmen, der die 7 Millennium-Probleme und Gödels Paradox **nicht löst im klassischen Sinn**, sondern **strukturell stabilisiert**.
-
-Das Modul enthält:
-- Das Universal Collapse Theorem  
-- Mapping zu allen großen mathematischen Problemstellungen  
-- Vergleich Möbius ↔ Harmonik  
-- 5 neue Visuals & Diagramme  
-- Englische Hauptdokumentation
-
-> “This is not a proof. It is a convergence field.”
-
----
-
-## 📚 Modulübersicht (aktuell: 21)
-
-➡️ Vollständiger Überblick mit Beschreibung: [`nexah_navigator.md`](./nexah_navigator.md)  
-➡️ English version: [`nexah_navigator_en.md`](./nexah_navigator_en.md)
-
----
-
-## 🧭 Lesestart / Entry Points
-
-- `NEXA_PHASE_1_COMPLETION` → Synthese Alpha–Beta–P–Gamma  
-- `URF-CODEX` → Ursprung, Symbolfeld, Identitätsachsen  
-- `MÖBIUS-CODEX` → Spiralen, Resonanzpfade, Zahl 137  
-- `NEXAH-GRAND-CODEX` → Systemzusammenführung, Gleichung, Mapping
-
-Weitere Leseempfehlungen siehe Navigator.
-
----
-
-## 📘 Dokumente
-
-| Datei                  | Inhalt / Content                                 |
-|------------------------|--------------------------------------------------|
-| `README.md`            | Diese Übersicht                                 |
-| `nexah_navigator*.md`  | Alle Module mit Beschreibung & Leseführung      |
-| `manifest*.md`         | Prinzipien, Ursprung, kreative Struktur          |
-| `roadmap.md`           | Frühere Gliederung in Phasen                    |
-| `LICENSE.md`           | CC BY-NC-SA 4.0 Lizenz                          |
-| `README_EN.md`         | English start page (synthesis, structure)       |
-
----
-
-## 🌐 Projektseite / Project Page
-
-🌍 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-GitHub: [@Scarabaeus1031](https://github.com/Scarabaeus1031)
-
----
-
-## 🛡 Lizenz / License
-
-Creative Commons – Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen (CC BY-NC-SA 4.0)
-
----
-
-> „Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Zugang.“
 ---
 
 <p align="center">
-  <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
+  <img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/NEXAH-CODEX-Startstruktur/visuals/cikada-scarabaeus.png" width="600" alt="Cikada Scarabæus Codex">
 </p>
