@@ -1,5 +1,5 @@
 ⚛️ ETHER CROWN THREAD
-
+ 
 Module of the NEXAH-CODEX in the division:
 🪐 CODEX_COSMICA ASTROPHYSICA
 
