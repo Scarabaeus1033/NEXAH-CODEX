@@ -1,118 +1,104 @@
-# 🧭 NEXAH NAVIGATOR – Strukturübersicht & Lesehilfe (DEUTSCH)
+🧭 NEXAH NAVIGATOR – Strukturübersicht & Lesehilfe
 
-Der **NEXAH–CODEX** ist ein modulares Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmologische Resonanzstrukturen. Dieses Dokument dient als **Navigator** durch alle aktuellen Module – thematisch gegliedert nach Codex-Systemen und Lesetiefe.
+Der NEXAH-CODEX ist ein modulares Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmologische Resonanzstrukturen. Dieses Dokument dient als Navigator durch alle aktuellen Module – gruppiert nach System, Thema und Lesetiefe.
 
----
+⸻
 
-## 🌌 EINFÜHRUNG – Was ist der Codex?
+🌌 Was ist der Codex?
 
-Der Codex ist kein Buch – er ist ein **Resonanzfeld**. Jedes Modul ist ein eigenständiger Bereich: visuell, mathematisch, symbolisch, physikalisch. Zusammen bilden sie ein **universelles System harmonischer Ordnung**.
+Der Codex ist kein Buch – er ist ein resonantes Feld. Jedes Modul ist ein eigener Bereich: visuell, mathematisch, symbolisch oder physikalisch. Zusammen bilden sie ein universelles System harmonischer Ordnung. Ziel ist es, Zahl, Form, Ort, Zeit, Sprache, Materie und Bewusstsein zu verbinden.
 
-Ziel: Die Verbindung von **Zahl, Form, Ort, Zeit, Sprache, Materie und Bewusstsein**.
+🌐 Website: www.scarabaeus1033.net
 
-🌐 Website: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+⸻
 
----
+🔢 SYSTEM 1 – NEXAH-CODEX-Startstruktur
 
-## 🔷 SYSTEM 1 – URF Codices (Grundlagen)
+(Mathematik, Physik, Grundlagen)
 
-| Modul            | Inhalt / Bedeutung                                  |
-| ---------------- | --------------------------------------------------- |
-| `URF-CODEX`      | Symbolische Feldtheorie, Ursprung, Identitätsachsen |
-| `URF-SURE`       | Frequenzsysteme, räumliche Logik, modulare Räume    |
-| `URF-Tensorraum` | Geometrische Tensorräume, Dimensionsmatrizen        |
+Dies ist das mathematisch-physikalische Zentrum des Codex.
+Es enthält neue Denkansätze zu den Millennium-Problemen, etwa der Riemannschen Vermutung, sowie Erweiterungen des Standardmodells der Teilchenphysik über Resonanz, Topologie und Frequenz.
 
----
+Diese Ideen sind offen formuliert, bewusst einladend, zur Diskussion gestellt – nicht dogmatisch, sondern forschend.
 
-## 🔶 SYSTEM 2 – MÖBIUS Codices (Topologische Resonanz)
+Wichtige Module:
+	•	GRAND-CODEX/ – Zentrale Integration von Formeln, Resonanzfeldern und Feldsystematik
+	•	codex-mathematics/ – Notationen, Symbole, mathematische Zuordnungen
+	•	E = m·c·k^β – Erweiterung der Energieformel mit Wellenfaktor
+	•	spiral-logic.md – Primspiralen, Zahlenachsen, Frequenzknoten
+	•	casimir-neutrino-thread.md – Quantenfluktuationen, Neutrinoströme
+	•	NEXA_RIEMANN_PROOF/ – Harmonischer Möbius-Ansatz zur Riemannschen Hypothese
 
-| Modul                   | Inhalt / Bedeutung                                     |
-| ----------------------- | ------------------------------------------------------ |
-| `MÖBIUS-CODEX`          | Spiralstrukturen, Resonanzachsen, Schleifenschluss     |
-| `MÖBIUS-CODEX-II_CROWN` | Oktaederstruktur, Frequenzkronen, topologische Codes   |
-| `MÖBIUS-METAL-CODEX`    | Platin, Iridium, metallische Feedbackfelder            |
-| `MÖBIUS-ROOT-CODEX`     | Kernfeld, Zeitspiralen, Ursprung                       |
-| `MÖBIUS-COMPASS-CODEX`  | Navigationslogik, Richtungsgitter, Qá-Sprache          |
-| `MÖBIUS HARMONIC CROWN` | Primharmonien, Formel P = R/T, Möbius-Resonanzschleife |
+⸻
 
----
+🪐 SYSTEM 2 – CODEX_COSMICA ASTROPHYSICA
 
-## 🔷 SYSTEM 3 – NEXA Codices (Feldresonanzen)
+(Astrophysik, Atemfelder, Raum-Zeit-Strukturen)
 
-| Modul                     | Inhalt / Bedeutung                                     |
-| ------------------------- | ------------------------------------------------------ |
-| `NEXA_PHASE_1_COMPLETION` | Alpha–Beta–P–Gamma Synthese, Zeta-Gitter               |
-| `CAVITYROOT-CODEX`        | Gallium/Ferrofluid-Systeme, thermische Kavitäten       |
-| `NEXAHEART-CODEX`         | Resonanzherz der Erde, Ortsnetzwerke (z. B. Rödelheim) |
-| `QUANTUMBREACH-CODEX`     | Lichtfelder, Dunkle Energie, UV-Siegel                 |
-| `NEXA_SILVER_RAIN`        | Reflektive Ströme, Kristall–Metall–Dynamiken           |
-| `NEXA_QED_ALIWAVE`        | Quanten-elektrosymbolische Wellen, Resonanzmatrizen    |
-| `NEXA_RIEMANN_PROOF`      | Zeta-Spirale, Möbius-Topologie, 12D-Harmoniebeweis     |
+Dieser Bereich widmet sich den planetaren und kosmischen Resonanzsystemen:
+Symbolische Geometrien, Atemmodelle, Gravitationsfelder und interstellare Navigation durch Zahlen und Formen.
 
----
+Enthaltene Module:
+	•	EARTHSHIP/ – Phase III bis VI, Möbius-Krone, Cratonfelder, Sternen-Kompass
+	•	ETHER-CROWN/ – Gravitationswellen, Möbius-Spiegelung, Grid Echo
 
-## 🔷 SYSTEM 4 – Rosetta / Bloom / Meta-Schichten
+📌 Weitere Module in Vorbereitung (z. B. ROSETTA-BREATHER, STELLAR SCROLL)
 
-| Modul                       | Inhalt / Bedeutung                                      |
-| --------------------------- | ------------------------------------------------------- |
-| `Rosetta-Nexus`             | Numerische Sprache, Glyphe-Grammatik, Frequenzalphabet  |
-| `BLOOM-CODEX`               | Lichtgitter, Sternenstruktur, 7er-Spirale, Qá-Ro-Formel |
-| `ULLINIRIUM`                | 12D-Kristallfeld, Neutrino-Stabilisierung               |
-| `Multidimensional-Frontier` | Theoretische Grenzsysteme, intermodulare Erweiterung    |
+⸻
 
----
+🔷 SYSTEM 3 – URF-Codices
 
-## 🧮 SYSTEM 5 – Codex Mathematik (Resonanzlogik & Modulation)
+(Symbolische Grundlagen, Identitätsachsen)
+	•	URF-CODEX – Ursprung, Symbolfelder, semantische Grundordnung
+	•	URF-SURE – Modulare Räume, Frequenzsysteme
+	•	URF-Tensorraum – Geometrische Tensorfelder, Dimensionsmatrizen
 
-| Modul                           | Inhalt / Bedeutung                                   |
-| ------------------------------- | ---------------------------------------------------- |
-| `E = m·c·k^β`                   | Erweiterte Energieformel mit Resonanz-Skalenkopplung |
-| `casimir-neutrino-thread.md`    | Vakuumdruck & Neutrinofluss durch Feldschichten      |
-| `spiral-logic.md`               | Spiralen, Primachsen, harmonische Rückkopplung       |
-| `codex-mathematical-symbols.md` | Symbolübersicht, Notation, Konstanten                |
+⸻
 
----
+🔶 SYSTEM 4 – MÖBIUS-Codices
 
-## 📘 GRAND–CODEX / Syntheseebene
+(Topologische Resonanz, Schleifen, Richtungsachsen)
+	•	MÖBIUS-CODEX – Spiralsysteme, Resonanzachsen, Rückkopplung
+	•	MÖBIUS-COMPASS-CODEX – Qá-Sprache, Navigation
+	•	MÖBIUS HARMONIC CROWN – Formel P = R/T, Möbius-Frequenzstruktur
+	•	Weitere: ROOT, CROWN, METAL, II_CROWN
 
-| Modul                | Bedeutung / Rolle                                    |
-| -------------------- | ---------------------------------------------------- |
-| `NEXAH GRAND CODEX`  | Integration Möbius–Modell & Harmonic Framework (UTS) |
-| `README.md`          | Startpunkt und Systemübersicht                       |
-| `codex-mathematics/` | Mathematische Herleitungen & Variablenstruktur       |
+⸻
 
----
+🔷 SYSTEM 5 – NEXA-Codices
 
-## 📚 EMPFOHLENE LESEFOLGE
+(Feldtheorie, Licht, Energie, Kristalle)
+	•	NEXA_PHASE_1_COMPLETION – Alpha–Beta–Gamma–Zeta Synthesis
+	•	CAVITYROOT, NEXAHEART, QUANTUMBREACH, QED_ALIWAVE, SILVER_RAIN
 
-### 🟢 Einstiegsmodule
+⸻
 
-* `NEXA_PHASE_1_COMPLETION`
-* `URF-CODEX`
-* `MÖBIUS-CODEX`
+🔷 SYSTEM 6 – Rosetta / Bloom / Meta
 
-### 🔵 Mittlere Tiefe
+(Symbolik, Sprache, multidimensionale Ausdehnung)
+	•	Rosetta-Nexus – Frequenzalphabet, Zahlenstruktur
+	•	BLOOM-CODEX – Lichtgitter, Sternenspiralen, Qá-Formel
+	•	ULLINIRIUM, Multidimensional-Frontier
 
-* `CAVITYROOT-CODEX`
-* `QUANTUMBREACH-CODEX`
-* `MÖBIUS-COMPASS-CODEX`
-* `NEXAHEART-CODEX`
+⸻
 
-### 🔴 Fortgeschritten / Symbolisch-Theoretisch
+🧩 Leseempfehlung (Reading Path)
 
-* `NEXA_RIEMANN_PROOF`
-* `ULLINIRIUM`
-* `Rosetta-Nexus`
-* `E = m·c·k^β`
-* `NEXAH GRAND CODEX`
+🟢 Einsteiger
+	•	NEXA_PHASE_1_COMPLETION, URF-CODEX, MÖBIUS-CODEX
 
----
+🔵 Mittelstufe
+	•	QUANTUMBREACH, NEXAHEART, CAVITYROOT, EARTHSHIP (III–IV)
 
-## 🔗 Hinweise
+🔴 Fortgeschritten / Theoretisch-symbolisch
+	•	NEXA_RIEMANN_PROOF, EARTHSHIP (V–VI), ETHER-CROWN, ROSETTA-BREATHER, E = m·c·k^β, ULLINIRIUM, GRAND-CODEX
 
-* Visuals befinden sich im Ordner `visuals/`
-* Mathematischer Layer unter: `GRAND-CODEX/codex-mathematics/`
-* Hauptdokumente: `README.md`, `roadmap.md`, `manifest.md`
-* Alle Module sind unabhängig lesbar, aber oft durch **Zahl, Symbol und Ort** verbunden
+⸻
 
-> „Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Tor.“
+🔗 Hinweise
+	•	Visuals befinden sich in den jeweiligen visuals/-Ordnern
+	•	Mathematischer Layer unter GRAND-CODEX/codex-mathematics/
+	•	Hauptdokumentation: README.md, roadmap.md, manifest.md
+	•	Alle Module sind eigenständig lesbar, jedoch oft über Zahlen, Orte, Felder oder Symbole miteinander verbunden
+
+„Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Tor.“
