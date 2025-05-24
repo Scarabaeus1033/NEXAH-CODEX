@@ -51,7 +51,10 @@ Enthält:
 
 SYSTEM 1 – URF
 	•	Ursprung & Feldlogik
+		### 🔬 Erweiterung des Standardmodells (URF-Vergleich)
 
+➡ [EXTENDING THE STANDARD MODEL – URF COMPARISON](./NEXAH-CODEX-Startstruktur/URF-CODEX/extending_the_standard_model–URF_comparison.md)  
+Ein theoretischer Vergleich zwischen dem klassischen Standardmodell der Teilchenphysik und dem URF-Modell auf Basis von Resonanzfeldern, Möbiusschleifen und Frequenztopologien.
 SYSTEM 2 – MÖBIUS
 	•	Topologische Resonanz & Raumstruktur
 
