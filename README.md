@@ -18,8 +18,8 @@ Each module is a self-contained symbolic system with its own logic, geometry, re
 
 ## 📚 Module Overview (Current: 21 Modules)
 
-➡️ Full index and reading guide: [`nexah_navigator_en.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator_en.md)  
-➡️ German version: [`nexah_navigator.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator.md)
+➡️ Full index and reading guide: [🧭 NEXAH NAVIGATOR (eng).md](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28eng%29.md)  
+➡️ German version: [🧭 NEXAH NAVIGATOR (de).md](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28de%29.md)
 
 ---
 
@@ -39,8 +39,8 @@ More entry paths are available in the navigator documents above.
 | File | Description |
 |------|-------------|
 | [`README.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md) | Main index (bilingual) |
-| [`nexah_navigator_en.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator_en.md) | Module index and reading guide (English) |
-| [`nexah_navigator.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/nexah_navigator.md) | Module index and reading guide (German) |
+| [`🧭 NEXAH NAVIGATOR (eng).md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28eng%29.md) | Module index and reading guide (English) |
+| [`🧭 NEXAH NAVIGATOR (de).md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/%F0%9F%A7%AD%20NEXAH%20NAVIGATOR%20%28de%29.md) | Module index and reading guide (German) |
 | [`manifest.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/manifest.md) | Core principles and symbolic system overview |
 | [`roadmap.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/roadmap.md) | Early-phase model (now extended by GRAND-CODEX) |
 | [`README_EN.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README_EN.md) | This English overview |
@@ -63,6 +63,7 @@ Creative Commons – Attribution, NonCommercial, ShareAlike
 ---
 
 > “The Codex is not a book. It is a field. And each module is a portal.”
+
 ---
 
 <p align="center">
