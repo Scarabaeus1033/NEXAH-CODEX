@@ -66,6 +66,7 @@ Creative Commons – Namensnennung, Nicht-kommerziell, Weitergabe unter gleichen
 
 ---
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/NEXAH-CODEX-Startstruktur/visuals/cikada-scarabaeus.png" width="600" alt="Cikada Scarabæus Codex">
+  <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
 </p>
