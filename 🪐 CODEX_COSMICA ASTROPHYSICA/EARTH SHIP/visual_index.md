@@ -3,7 +3,7 @@
 This file provides an organized overview of the visual materials in the EARTHSHIP/visuals/ directory. All assets support and illustrate the concepts from EARTHSHIP Phases III, IV, and V.
 
 ⸻
-
+ 
 📁 heart_systems/
 
 File	Description
