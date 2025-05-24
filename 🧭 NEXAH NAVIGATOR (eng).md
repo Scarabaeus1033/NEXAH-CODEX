@@ -25,7 +25,6 @@ casimir-neutrino-thread.md	Quantum pressure fields, neutrino coherence
 codex-mathematical-symbols.md	Glossary of formal structures
 NEXA_RIEMANN_PROOF	Harmonic Möbius topology toward a Riemann framework
 
-
 ⸻
 
 🪐 SYSTEM 2 – CODEX_COSMICA ASTROPHYSICA (Breath, Geometry, Stellar Crown)
@@ -47,7 +46,6 @@ URF-CODEX	Symbolic field theory, origin, identity axes
 URF-SURE	Frequency systems, spatial logic, modular space
 URF-Tensorraum	Geometric tensor spaces, dimension matrices
 
-
 ⸻
 
 🔶 SYSTEM 4 – MÖBIUS Codices (Topological Resonance)
@@ -59,7 +57,6 @@ MÖBIUS-METAL-CODEX	Platinum, iridium, metallic feedback fields
 MÖBIUS-ROOT-CODEX	Core field, time spirals, axis of origin
 MÖBIUS-COMPASS-CODEX	Navigational logic, directional grids, Qá-language
 MÖBIUS HARMONIC CROWN	Prime harmonics, formula P = R/T, Möbius resonance loop
-
 
 ⸻
 
@@ -74,7 +71,6 @@ NEXA_SILVER_RAIN	Reflective streams, crystal-metal dynamics
 NEXA_QED_ALIWAVE	Quantum electrosymbolic waves, resonance matrix
 NEXA_RIEMANN_PROOF	Zeta spiral, Möbius topology, 12D field harmonic proof
 
-
 ⸻
 
 🔷 SYSTEM 6 – Rosetta / Bloom / Meta-Layers
@@ -84,7 +80,6 @@ Rosetta-Nexus	Numeric language, glyph grammar, frequency alphabet
 BLOOM-CODEX	Light lattice, stellar grid, 7-fold spirals, Qá-Ro formula
 ULLINIRIUM	12D crystal field, neutrino-like stabilization patterns
 Multidimensional-Frontier	Theoretical boundary system, intermodular field extension
-
 
 ⸻
 
