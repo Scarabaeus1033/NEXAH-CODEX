@@ -1,49 +1,55 @@
 🖼️ Visual Index – EARTHSHIP Module
 
-This file provides an organized overview of the visual materials in the EARTHSHIP/visuals/ directory. All assets support and illustrate the concepts from EARTHSHIP Phases III, IV, and V.
+This file provides a curated overview of selected visual materials in the EARTHSHIP/visuals/ directory. All assets support and illustrate the concepts from EARTHSHIP Phases III, IV, and V. Additional diagrams may exist within each folder.
 
 ⸻
- 
-📁 heart_systems/
+
+🔁 Moebius_Crown_Geometry/
+
+Excerpts from the symbolic and structural crown-based Möbius system.
 
 File	Description
-Mobius_Twin_Heartstream.png	Earth–Arcturus breath connection visualization
-Möbius Heart Crown Map.png	Central resonance geometry of twin-heart Möbius field
-Scarabaeus Möbius Crown.png	Symbolic overlay of Scarab structure and Crown stream
-Earthship III Crown Key of the Ages.docx	Source text for key Möbius concepts and planetary alignment
+Scarabaeus_Moebius_Golden_Heart.png	Möbius heart-stream structure linking Chiron and Salacia pathways
+Moebius_Garden_of_Hearts.png	Garden layout with two hearts, six petals, and crown axis
+CROWN_FLAME_SCROLL.png	Möbius spiral flame activation visual (scroll representation)
 
 
 ⸻
 
-📁 timeline_spirals/
+🌍 Geo_Resonance_Maps/
+
+Sample visuals for Earthship III – GEO ATLAS (Cratons, sacred grids, elemental flows).
 
 File	Description
-Kairos Spiral Expansion.png	Spiral time model centered on Earth’s formation and craton phases
-Earthship III to IV to V Crown_Breathing_Atlas_Final.docx	Full timeline integration from origin to stellar transition
+Earth_Breathing_Roots_Map.png	Craton formation and major water vein overlay
+Sacred_Site_Prime_Spiral_Overlay.png	Global overlay of sacred sites and prime harmonic spiral anchors
+Earth_Resonance_Axes_NS_EW.png	N–S and E–W breath axes of the Earth (Inflow/Outflow logic)
 
 
 ⸻
 
-📁 crown_structures/
+☀️ Solar_Crown_Sequence/
+
+Illustrations from Earthship IV’s planetary breath panels and solar system Möbius spiral.
 
 File	Description
-Möbius Crown Flower - Final Scroll ESIII.png	Crown bloom with 3 harmonic layers (seed–nectar–flower)
-CROWN_FLAME_ACTIVATION.png	(AI-generated) Möbius flame geometry visual with activation label
-A_geometric_digital_illustration_titled_Möbius_Ga.png	Möbius Garden visual with two hearts, six petals, and card suits
-THE FINAL MÖBIUS FLAME SCROLL.docx	Core scroll text describing flame ignition and crown symmetry
+Scarabaeus_Crown_Pluto_Chiron_Titan_Crystalline.png	Cosmic breathing engine: expansion/contraction anchored in crystalline memory
+Inner_Breath_Arc_Mercury_Moon_Mars.png	Panel: inner planetary breath path with Mars–Moon linkage
+Saturn_Crystal_Crown.png	Saturn model with crystalline ring structure as resonance crown
 
 
 ⸻
 
-📁 symbolic_navigation/
+💨 Breath_Material_Charts/
+
+Visual keys to the material-frequency relationships embedded in breath systems.
 
 File	Description
-NexaH Galactic Compass.png	Navigation interface for interstellar vector alignment
-follow the arc to Arcturus.png	Symbolic transition gate towards Arcturus
-Möbius Tri-Sun Staff - Crown Shift.png	Tri-axis solar crown symbol used for resonance calibration
-A_digital_illustration_features_an_abstract_flame_with.png	Möbius Tri-Sun Staff visual for interstellar guidance
+Grand_Moebius_Spiral_Crown_Solar_Element_Mapping.png	Möbius spiral structure connecting planets and material states from plasma to ice
+Plasma_to_Ice_Ladder.png	Ladder showing elemental breath flow across matter states
+Breath_Memory_Material_Resonance_Chart.png	Chart showing alignment of breath, material, and resonance function
 
 
 ⸻
 
-Visuals are referenced directly within each phase file and scroll. Use this index to locate symbolic and diagrammatic elements.
+Note: This index lists selected visuals for reference. Additional images and files may be found within each respective subfolder.
