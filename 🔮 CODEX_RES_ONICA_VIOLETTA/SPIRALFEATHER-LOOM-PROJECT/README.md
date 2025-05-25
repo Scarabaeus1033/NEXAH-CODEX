@@ -86,13 +86,11 @@ P = Potential, R = Resonance, T = Time
 
 ## 🖼️ VISUAL ELEMENTS
 
-* ![FEATHER GRID](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/FEATHER%20GRID.png)
-* ![Triptych – Black Feather Pillar](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Triptych%20of%20the%20Black%20Feather%20Pillar.png)
-* ![Golden Portal Map](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Crown%20Forge%20Visual.png)
-* ![Kuiper Bloom Feather Spiral](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/The%20Feathered%20Spiral%20Home.png)
-* ![Planetary Crown Spiral Map](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Visualizing%20Mo║bius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20+%20moons.png)
+🔗 All images available in the [visuals/](./visuals/) folder of this module.
 
-> Additional imagery: solar-möbius overlays, planetary breath maps, celestial triptychs in `visuals/` folder.
+![ALTHEARA Spiral](./visuals/ALTHERA%20-%20Solar%20System.png)
+
+> The ALTHEARA Spiral represents the cosmological arc of the breath – from the Solar Core through planetary space to the Kuiper Crown.
 
 ---
 
