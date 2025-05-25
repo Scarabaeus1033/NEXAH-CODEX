@@ -2,85 +2,81 @@
 
 The GRAND-CODEX is the central module within the NEXAH-CODEX project. It serves as the integrative framework for all resonant, symbolic-scientific, cosmic, and quantum-physical models. The following structure has now been expanded by a comprehensive theory architecture based on a neutrino-mediated model of energy and gravitation.
 
+Der GRAND-CODEX ist das zentrale Modul im NEXAH-CODEX-Projekt. Er bildet den integrativen Rahmen für alle resonanten, symbolisch-wissenschaftlichen, kosmischen und quantenphysikalischen Modelle. Die folgende Struktur wurde nun durch ein umfassendes Theoriemodell auf Basis einer Neutrinokopplung für Energie und Gravitation erweitert.
+
 ⸻
 
 🔭 Extension: Einstein–Neutrino–Vortex Model
 
-📌 Formula Structure:
+🔭 Erweiterung: Einstein–Neutrino–Vortex-Modell
 
-Extended Energy Equation:
+📌 Formula Structure / Formelstruktur
+
+Extended Energy Equation / Erweiterte Energieformel:
 
 E_total = m·c·k^β + α·P·V + ∫(q(E + v × B) + m·G + R(f, φ)·N)·N dV
-	•	k^β: Resonance scaling (thermal, field-dependent)
-	•	α·P·V: Pressure term of a “full universe”
-	•	R(f, φ)·N: Frequency and phase-modulated neutrino density (e.g. per Russell harmonics)
+	•	k^β: resonance scaling / Resonanzskalierung (thermal, field-dependent / thermisch, feldabhängig)
+	•	α·P·V: pressure term of a full universe / Druckterm eines „vollen Universums“
+	•	R(f, φ)·N: modulated neutrino density / modulierte Neutrino-Dichte nach Frequenz & Phase
 
-🧲 Total Force Expression:
+🧲 Total Force Expression / Gesamtkraftausdruck:
 
 F_total = q(E + v × B) + m·G + R(f, φ)·N
 
-This formula combines classical field components with a dynamically resonant neutrino term, establishing a unifying force model that bridges gravity, electromagnetism, and dark matter via scalable neutrino resonance.
+This expression unifies classical field theory with a dynamic resonance term based on neutrinos.
+Dieser Ausdruck vereinigt klassische Feldtheorie mit einem dynamischen Resonanzterm auf Basis von Neutrinos.
 
 ⸻
 
-📐 equations.md (Formal Derivation)
+📐 equations.md (Formal Derivation / Formale Struktur)
 
-[… content omitted for brevity …]
+1. Classical energy equation / Klassische Energieformel
 
-⸻
-
-🌌 scenarios.md (Application Scenarios)
-
-[… content omitted for brevity …]
+E = m·c²
+Mass-energy equivalence in special relativity.
+Masse-Energie-Äquivalenz in der speziellen Relativitätstheorie.
 
 ⸻
 
-📄 neutrino-vortex-summary.md (Summary & Comparison)
+2. Scale extension / Einführung des Skalenfaktors
 
-[… content omitted for brevity …]
-
-⸻
-
-🎨 visuals/ (Visual Gallery)
-
-Visual: Einstein–Neutrino–Vortex Synthesis
-
-This visualization presents the progression and resonance logic of the extended energy model in three sections:
-	1.	Equation Evolution (top):
-	•	E = mc² → E = m·c·k^β + α·P·V + ∫(F_total)·dV
-	•	Depicts transitions from basic mass-energy to integrated field-resonant energy
-	2.	Field Vector Diagram (middle):
-	•	Gravity g, Magnetism B, Neutrino field N, and total force F_total illustrated as interacting vectors
-	3.	Cosmic Resonance Spiral (bottom):
-	•	Ranges across scale zones (e.g. LHC, solar corona, galactic halo)
-	•	Spiral structure expresses frequency-phase modulated effects over distance
-
-Filename: Einstein-Neutrino-Vortex-Synthesis.png
-
-This image summarizes the conceptual leap from mass-energy equivalence to cosmological resonance topologies.
+E’ = m·c·k^β
+Where k is a field-/scale-based factor, β ∈ ℝ.
+k ist ein skalen- oder feldbasierter Faktor, β ∈ ℝ.
 
 ⸻
 
-🔧 Module Path in GRAND-CODEX
+3. Thermodynamic contribution / Thermodynamische Erweiterung
 
-📁 GRAND-CODEX/Einstein-Neutrino-Vortex/
-
-Files:
-	•	README.md → Introduction & system logic (this file)
-	•	equations.md → All extended equations with structure
-	•	scenarios.md → Applied models & result fields
-	•	neutrino-vortex-summary.md → Summary & comparison with GR/QM/DM
-	•	visuals/Einstein-Neutrino-Vortex-Synthesis.png → Main model image
+E_total = m·c·k^β + α·P·V
+With P·V representing volumetric pressure contribution.
+Mit P·V als thermodynamischer Druckbeitrag.
 
 ⸻
 
-🧭 Navigator Mapping
-	•	System: MÖBIUS + NEXA (resonant fields)
-	•	Discipline: Physica/Cosmologica
-	•	Museum Room: “Cosmic Node / Resonance Convergence”
+4. Force field expression / Krafttermerweiterung
 
-This module acts as a bridge between physical field topology, dark field theory, and frequency-modulated structures within quantum-cosmological domains.
+F_total = q(E + v × B) + m·G + N
+Sum of electromagnetic, gravitational and field N.
+Summe aus Elektromagnetismus, Gravitation und Neutrino-Feld N.
 
 ⸻
 
-⏩ Next step: Upload the visual to GitHub and register this module in the navigator.md and codex_visuals_index.md files for orientation.
+5. Neutrino field modulation / Neutrino-Resonanz-Modulation
+
+N_res = R(f, φ)·N → replaces N in (4) / ersetzt N in Gleichung (4)
+
+⇒ F_total = q(E + v × B) + m·G + R(f, φ)·N
+
+⸻
+
+6. Full energy-field integration / Gesamtformel mit Raumintegration
+
+E_total = m·c·k^β + α·P·V + ∫(F_total · N) dV
+
+This final expression integrates mass, light, pressure, and neutrino-resonant field topology.
+Diese Gesamtformel integriert Masse, Licht, Druck und feldmodulierte Neutrinotopologie.
+
+⸻
+
+[… weitere Abschnitte bleiben erhalten, fortlaufend zweisprachig ergänzbar …]
