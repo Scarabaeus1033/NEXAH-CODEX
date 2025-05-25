@@ -2,7 +2,28 @@
 
 ### Visual Reference Guide to the Feathered Spiral Grid
 
-This file presents the key visual elements of the **Spiralfeather Loom Project**, describing their symbolic, energetic, and structural significance within the VIOLETTA layer of the NEXAH-CODEX. All images are located in the `/visuals/` subfolder of the module.
+This file presents the key visual elements of the **Spiralfeather Loom Project**, describing their symbolic, energetic, and structural significance within the `🔮 CODEX_RES_ONICA_VIOLETTA` layer of the NEXAH-CODEX.
+All images are located in the `/visuals/` subfolder of the module.
+
+---
+
+## ✨ ALTHEARA SPIRAL
+
+[![Altheara Spiral](./visuals/ALTHERA%20-%20Solar%20System.png)](./visuals/ALTHERA%20-%20Solar%20System.png)
+
+* **Function:** Cosmological map of the spiral journey from Solar Core to ALTHEARA
+* **Geometry:** Golden spiral through planets to outer Kuiper Belt
+* **Anchor:** Plots Möbius feather path to interstellar harmonic alignment
+
+---
+
+## 🌬️ THE FEATHERED SPIRAL HOME
+
+[![Feathered Spiral Home](./visuals/Feathered%20Spiral%20Home.png)](./visuals/Feathered%20Spiral%20Home.png)
+
+* **Function:** Spiral navigation compass of breath logic
+* **Axes:** Solar ↔ Lunar, Phase ↔ Nephew
+* **Center:** ANU = universal resonance node and living origin
 
 ---
 
@@ -10,10 +31,10 @@ This file presents the key visual elements of the **Spiralfeather Loom Project**
 
 [![Feather Grid](./visuals/FEATHER%20GRID.png)](./visuals/FEATHER%20GRID.png)
 
-* **Function:** Main axis structure of the Earth’s breath field, connecting terrestrial root zones with Kuiper Crown activation.
-* **Core Nodes:** Rödelheim, Himalaya, Catalonia
-* **Structure:** Craton-rooted breathing spiral geometry.
-* **Linked Numbers:** 33042 / 1836 / 42
+* **Function:** Main structure of the Earth's breath field
+* **Nodes:** Rödelheim, Himalaya, Catalonia
+* **Structure:** Craton-rooted spiral with Kuiper-bound harmonics
+* **Key Numbers:** 33042 / 1836 / 42
 
 ---
 
@@ -21,23 +42,13 @@ This file presents the key visual elements of the **Spiralfeather Loom Project**
 
 [![Triptych](./visuals/Triptych%20of%20the%20Black%20Feather%20Pillar.png)](./visuals/Triptych%20of%20the%20Black%20Feather%20Pillar.png)
 
-* **Function:** Narrative triptych illustrating initiation of Spiral Memory
-* **Symbols:**
+* **Function:** Initiation of Spiral Memory via tri-nodal encoding
+* **Panels:**
 
-  * **Catalonia (left):** Seed of healing & spiral gesture
-  * **Rödelheim (center):** Anchor point and vertical gate
-  * **Côn Đảo (right):** Black spiral and return path
-* **Use:** Foundation ritual for Excalibur / Spiral Sword encoding
-
----
-
-## 🌬️ THE FEATHERED SPIRAL HOME
-
-[![Feathered Spiral Home](./visuals/The%20Feathered%20Spiral%20Home.png)](./visuals/The%20Feathered%20Spiral%20Home.png)
-
-* **Function:** Compass of Spiral Breath Navigation
-* **Symbols:** Solar Spiral ↔ Lunar Spiral axis; ANU core field; fourfold breath alignment (T, N, Ph)
-* **Role:** Entry symbol into Spiralfeather Cosmology
+  * **Catalonia:** Healing Seed
+  * **Rödelheim:** Axis Gate
+  * **Côn Đảo:** Return Feather
+* **Use:** Activation ritual of the Spiral Sword / Excalibur
 
 ---
 
@@ -45,54 +56,55 @@ This file presents the key visual elements of the **Spiralfeather Loom Project**
 
 [![Crown Forge](./visuals/Crown%20Forge%20Visual.png)](./visuals/Crown%20Forge%20Visual.png)
 
-* **Function:** Resonance convergence point of the Möbius spiral loop
-* **Reading:** Black-Sun ignition core + Solar-Crown breath fusion
-* **Position:** Crown activation marker within the ALTHEARA passage
+* **Function:** Möbius ignition center and solar crown convergence
+* **Core Symbol:** Dual spiral resonance ignition (Black Sun + Crown)
+* **Layer:** Gateway of breath–light unification
 
 ---
 
 ## 🌈 SOLAR MÖBIUS BREATHER & JEPTUNE BRIDGE
 
-[![Jeptune Bridge](./visuals/Solar%20Möbius%20Breather-%20Jeptune%20Bridge%2C%20Ceres%20Anchor%2C%20Lotus%20Healing%20Band.png)](./visuals/Solar%20Möbius%20Breather-%20Jeptune%20Bridge%2C%20Ceres%20Anchor%2C%20Lotus%20Healing%20Band.png)
+[![Jeptune Bridge](./visuals/Solar%20M%C3%B6bius%20Breather-%20Jeptune%20Bridge%2C%20Ceres%20Anchor%2C%20Lotus%20Healing%20Band.png)](./visuals/Solar%20M%C3%B6bius%20Breather-%20Jeptune%20Bridge%2C%20Ceres%20Anchor%2C%20Lotus%20Healing%20Band.png)
 
-* **Function:** Planetary breath field with resonance assignments
-* **Features:** Jeptune–Ceres harmonic bridge, spiral bands mapped to planetary zones
-* **Includes:** Lotus Healing Band + Spiral Touchpoint beyond Neptune
-
----
-
-## 🔄 VISUALIZING MÖBIUS 24 BELT RESONATOR CROWN
-
-[![Möbius Crown](./visuals/Visualizing%20Möbius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20%2B%20moons.png)](./visuals/Visualizing%20Möbius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20%2B%20moons.png)
-
-* **Function:** Möbius-Resonance crown map of solar system bodies
-* **Encoding:** Ceres, Pluto, Mars, Neptune, Planet 9, Hydra — in looped harmonic sequence
-* **Role:** Final planetary transmission architecture (Resonant Tangle)
+* **Function:** Planetary breath system
+* **Features:** Jeptune–Ceres axis, Lotus healing band beyond Neptune
+* **Resonance:** Wave-form link to spiral soul gates
 
 ---
 
-## 🦉 THE OWL VISUAL
+## 🔄 MÖBIUS 24-BELT RESONATOR CROWN
+
+[![Möbius Crown](./visuals/Visualizing%20M%C3%B6bius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20%2B%20moons.png)](./visuals/Visualizing%20M%C3%B6bius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20%2B%20moons.png)
+
+* **Function:** Planetary Möbius Crown encoding
+* **Logic:** Ceres, Pluto, Mars, Hydra in resonant loops
+* **Purpose:** Harmonic closure of spiral wave transmission
+
+---
+
+## 🧙️ THE OWL VISUAL
 
 [![Owl Visual](./visuals/The%20OWL%20Visual%20\(A%20reflection%20of%20cosmic%20wisdom%20and%20resonance\)-.png)](./visuals/The%20OWL%20Visual%20%28A%20reflection%20of%20cosmic%20wisdom%20and%20resonance%29-.png)
 
-* **Function:** Cosmic wisdom guardian of the Codex Resonance Grid
-* **Symbol:** Golden Infinity (∞) = harmonic convergence of dual spirals
-* **Use:** Portal protector and inner navigator (Theta observer role)
+* **Function:** Archetype of the Codex Observer
+* **Symbol:** Golden ∞ as resonance balance marker
+* **Role:** Guardian of the Spiralfeather Gate & navigator memory
 
 ---
 
-## 🌠 COSMOGRAM STRUCTURE: HOW TO INTERPRET
+## 🌐 INTERPRETATION STRUCTURE
 
-Each image is:
+Each image functions as part of the Spiralfeather Cosmogram:
 
-* **Mathematically anchored** (using primes, mirror numbers, factor patterns)
-* **Symbolically activated** (mythic archetypes, geometries, portals)
-* **Resonantly tuned** (based on breath, tone, frequency)
-* **Spatially embedded** (linked to real and symbolic locations)
+| Aspect           | Description                                      |
+| ---------------- | ------------------------------------------------ |
+| **Mathematical** | Prime logic, mirror numbers, nested factor trees |
+| **Symbolic**     | Mythic geometry, sacred forms, color-fields      |
+| **Resonant**     | Breath, tone, frequency maps                     |
+| **Geographic**   | Real world anchors + metaphysical overlays       |
 
-> 📍 Together, they form the visual constellation of the Spiralfeather Navigation System.
+> 🌀 **Together, they form the visual lattice of the Spiralfeather Navigation System.**
 
 ---
 
-Let the feathers flow. Let the spirals return.
-Let memory form a shape of light.
+**Let memory unfold in feathered flow. Let spiral breath return. Let the Codex sing through image.** 🩶
