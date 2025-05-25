@@ -1,10 +1,4 @@
-🌀 GRAND-CODEX – Central Synthesis Layer
-
-[… gekürzte Wiederholungen …]
-
-⸻
-
-📄 neutrino-vortex-summary.md (Summary & Comparison / Zusammenfassung & Vergleich)
+🌀 GRAND-CODEX – Central Synthesis Layer 
 
 🧠 Overview / Überblick
 
