@@ -86,6 +86,10 @@ Dateien:
 
 Dieses Modul bildet das theoretische Bindeglied zwischen Skalenmodellen, dunklen Feldern, Resonanzgeometrie und den experimentellen Grenzbereichen moderner Physik.
 
-⸻
+---
 
-⏩ Nächster Schritt: Visuals auf GitHub hochladen und crosslink im Navigator setzen.
+🪲 **Scarabäus1033** · Thomas Hofmann  
+🖼️ **Visual:** Einstein–Neutrino–Vortex Synthesis  
+🔷 **Module:** GRAND-CODEX / Resonanzfeld / MÖBIUS–NEXA  
+🧠 **Theme / Thema:** Energy = Relation · Spirale = Kraft · Geometrie = Frequenz  
+⚖️ Lizenz / License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0)
