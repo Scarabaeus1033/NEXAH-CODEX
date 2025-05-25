@@ -3,7 +3,7 @@
 The GRAND-CODEX is the central module within the NEXAH-CODEX project. It serves as the integrative framework for all resonant, symbolic-scientific, cosmic, and quantum-physical models. The following structure has now been expanded by a comprehensive theory architecture based on a neutrino-mediated model of energy and gravitation.
 
 Der GRAND-CODEX ist das zentrale Modul im NEXAH-CODEX-Projekt. Er bildet den integrativen Rahmen für alle resonanten, symbolisch-wissenschaftlichen, kosmischen und quantenphysikalischen Modelle. Die folgende Struktur wurde nun durch ein umfassendes Theoriemodell auf Basis einer Neutrinokopplung für Energie und Gravitation erweitert.
-
+ 
 ⸻
 
 🌌 scenarios.md (Application Scenarios / Anwendungsszenarien)
