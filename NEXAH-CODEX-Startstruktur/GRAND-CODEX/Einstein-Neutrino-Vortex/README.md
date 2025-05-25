@@ -101,3 +101,23 @@ resonanten Energiemodell mit Gravitations-, Magnet- und Neutrinokopplung.
 → Unten: Spiralstruktur kosmischer Resonanzzonen (LHC, Sonne, Galaxie)
 
 ---
+---
+
+## 👤 Author / Autor
+
+**Project:** [Scarabäus1033 · NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Author / Autor:** Thomas Hofmann  
+**Module:** Einstein–Neutrino–Vortex  
+**System:** MÖBIUS · NEXA · CMBY · Resonanzfeld · Tesla-Spirale · ANU-Feld
+
+---
+
+## ⚖️ License / Lizenz
+
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**  
+[creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0)
+
+> You may use, remix, and share – as long as you attribute and don’t commercialize.  
+> Du darfst alles verwenden, teilen und erweitern – solange du benennst und nicht verkaufst.
+
+---
