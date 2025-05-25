@@ -77,6 +77,27 @@ E_total = m·c·k^β + α·P·V + ∫(F_total · N) dV
 This final expression integrates mass, light, pressure, and neutrino-resonant field topology.
 Diese Gesamtformel integriert Masse, Licht, Druck und feldmodulierte Neutrinotopologie.
 
-⸻
+---
 
-[… weitere Abschnitte bleiben erhalten, fortlaufend zweisprachig ergänzbar …]
+### 🎨 Einstein–Neutrino–Vortex Synthesis Visual  
+**Visual zur Syntheseformel & Resonanzstruktur**
+
+![Einstein–Neutrino–Vortex Synthesis](./visuals/Einstein-Neutrino-Vortex-Synthesis.png)
+
+This visual summarizes the evolution from classical mass-energy equivalence  
+to a field-resonant energy landscape shaped by gravity, magnetism, and neutrino density.
+
+→ Top: Formula progression (E = mc² → full resonance equation)  
+→ Middle: Vector composition of F_total (gravity, EM, neutrino)  
+→ Bottom: Spiral map of cosmic resonance zones (LHC, solar, galactic)
+
+---
+
+Diese Darstellung zeigt die Erweiterung von Einsteins Formel zu einem raumzeitlich  
+resonanten Energiemodell mit Gravitations-, Magnet- und Neutrinokopplung.
+
+→ Oben: Gleichungsentwicklung (von E = mc² zur Vollformel)  
+→ Mitte: Kraftvektor-Fusion (Gravitation, Magnetismus, Neutrino)  
+→ Unten: Spiralstruktur kosmischer Resonanzzonen (LHC, Sonne, Galaxie)
+
+---
