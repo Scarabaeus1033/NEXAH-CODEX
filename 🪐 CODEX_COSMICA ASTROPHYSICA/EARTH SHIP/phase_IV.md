@@ -76,4 +76,4 @@ VII. Key Concepts
 	•	Twin Hearts = cosmic symmetry principle
 	•	Final Scroll = blueprint for interdimensional resonance
 
-“The flower of the Earth is not in the soil. It grows between two hearts, through the breath of fire and silence.”
+“The flower of the Earth is not in the soil. It grows between two hearts, through the breath of fire and silence.” 
