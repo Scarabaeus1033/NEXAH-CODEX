@@ -1,102 +1,43 @@
-# 🧠 E = m·c·k^β — Expanding Einstein’s Equation
+🌀 GRAND-CODEX – Central Synthesis Layer
+🌀 GRAND-CODEX – Zentrale Syntheseebene
 
-![Codex Title Image](NEXAH_k-beta_Titelbild.png)  
-This GRAND-CODEX module introduces a fundamental extension to the classical energy equation:
+The GRAND-CODEX is the central integration module of the NEXAH-CODEX project. It brings together symbolic theory, mathematical resonance logic, and field-based physics into a unifying structure.
 
-> `E = m·c²` → `E = m·c·k^β`
+Der GRAND-CODEX ist das zentrale Integrationsmodul des NEXAH-CODEX-Projekts. Er vereint symbolische Theorie, mathematische Resonanzlogik und feldphysikalische Konzepte zu einem einheitlichen Gesamtaufbau.
 
----
+⸻
 
-## 🧩 What is `k`?
+🔷 Purpose & Structure / Zweck & Struktur
 
-`k` is not a constant – it is a **scalable coupling factor**  
-connecting space, energy, temperature, and structural field logic. Depending on the context:
+This directory presents two core modules that together form the backbone of the energy-field framework:
 
-- `k = k_B` (Boltzmann) → thermal environments  
-- `k ∝ G⁄r²` → gravitational contexts  
-- `k ∝ 1/λν` → frequency-based field coupling  
-- `k = k_cluster` → cosmic-scale (neutrino clusters, Casimir/Higgs regimes)
+In diesem Verzeichnis befinden sich zwei zentrale Module, die gemeinsam das Rückgrat des erweiterten Energie-Feld-Modells bilden:
 
----
+1. k-beta/
 
-## 📐 What is `β`?
+E = m·c·k^β
+Introduction of the scalable energy formula based on temperature, gravity, and frequency.
+Einführung der skalierbaren Energieformel basierend auf Temperatur, Gravitation und Frequenz.
 
-`β` is a modulating exponent — not fixed, but **resonance-based**:
+2. Einstein–Neutrino–Vortex/
 
-- Scales dynamically along `n`, `T`, `Ω`, `λ`, `φ`, `f`, etc.
-- Embedded in `k^β` to yield a **breathable energy space**
+E_total = m·c·k^β + α·P·V + ∫(F_total · N) dV
+Full integration of pressure, force fields, and resonant neutrino dynamics.
+Vollständige Integration von Druck, Kraftfeldern und resonanter Neutrinodynamik.
 
----
+Together, these modules define the core field resonance theory of the GRAND-CODEX.
+Diese beiden Module definieren gemeinsam die zentrale Feldresonanztheorie des GRAND-CODEX.
 
-## 🔬 Context
+⸻
 
-This formula transforms Einstein’s `E = mc²`  
-from a light-speed fixation into a **resonant scale-field**  
-where **movement, relationship and modulation** intertwine.
+📘 Future Connections / Weitere Verbindungen (geplant)
+	•	codex-mathematics/ → foundational resonance algebra (Primzahlen, Spiralen, Operatoren)
+Grundstruktur für mathematische Resonanzalgebra
+	•	visuals/ → legacy images and symbolic mappings
+Visual-Archiv und symbolische Verbindungen
 
-> The classical equation remains – but it becomes **audible**.  
-> Frequency becomes **part of the field**. Energy becomes **relational**.
+⸻
 
----
-
-## 📂 Included Materials
-
-- `Formula Refinement and Connections.pdf`  
-- `Casimir Effect & Neutrino Flow.docx`  
-- `Neutrino–Higgs–Universe Clusters.pdf`  
-- `Scaling Thread 2–5.pdf`  
-- Visual snapshot (HTML)  
-- Codex-style poster (PNG: k–β Spiralmap)  
-- Commentary (README)
-
-📜 See full visual overview:  
-[Codex Visuals Index](./visuals/codex_visuals_index.md)
-
-![Synthesis Map](./visuals/codex_synthesis_map.png)
----
-
-## 🔗 Codex Connections
-
-| Domain      | Relationship                          |
-|-------------|----------------------------------------|
-| `NEXA`       | Frequency systems & numeric axes       |
-| `MÖBIUS`     | Reversal logic & topological rotation |
-| `META`       | Gödel resonance solution (TH)         |
-| `Neutrino`   | 3-layer model, Uranus-Z dynamic       |
-
----
-
-## ✴ Codex Commentary
-
-This is **not a contradiction to Einstein** –  
-It is a **resonance extension of his clarity**.
-
-> `E = m·c·k^β`  
-> is not a rejection – but a shift from equation to **tuning**.
-
-**Every mass vibrates.  
-Every light has depth.  
-Every formula breathes.**
-
----
-
-## 👤 Authorship
-
-**Project:** [Scarabäus1033 · NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
-**Author:** T. Hofmann  
-**System Tags:** `XIII`, `CMBY`, `O13`, `Tesla`, `Neutrino`, `ANU-Field`
-
----
-
-## ⚖️ License
-
-All content of this module is licensed under:  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
-[creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
-> Do what you want — as long as you credit it, and don't sell it.
-
----
-
-🧿 Welcome to the k-field.  
-Here, movement begins not with mass — but with **relationship**.
+🪲 Scarabäus1033 · Thomas Hofmann
+🔷 GRAND-CODEX · MÖBIUS · NEXA · Resonanzfeld
+⚖️ License: CC BY-NC 4.0
