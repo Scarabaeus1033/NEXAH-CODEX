@@ -7,7 +7,8 @@ Dieser Abschnitt zeigt zentrale Visualisierungen des Moduls Einstein–Neutrino�
 
 ### 🔷 1. Einstein–Neutrino–Vortex Synthesis
 
-GRAND-CODEX/Einstein-Neutrino-Vortex/visuals/
+![Einstein–Neutrino–Vortex Synthesis](./visuals/Einstein-Neutrino-Vortex-Synthesis.png)
+
 
 **EN:**  
 The visual shows the evolution of energy theory from Newton through Einstein to the Codex extension:  
