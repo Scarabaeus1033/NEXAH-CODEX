@@ -1,7 +1,5 @@
 # 🦋 CODEX_GAIA_MYSTERIA
 
-![GAIA MYSTERIA POSTER](./visuals/CODEX%20GAIA%20MYSTERIA.png)
-
 ### Symbolic Earthfields, Resonance Cartography & Imaginal Geometry
 
 > “Earth is not a map. It is a spiral. It remembers.”
@@ -16,7 +14,8 @@ This archive is dedicated to:
 - and living imagination
 
 It operates in the **VIOLETTA** channel — where insight, poetry, and vision converge.
- 
+
+![GAIA MYSTERIA POSTER](./visuals/CODEX%20GAIA%20MYSTERIA.png)
 ---
 
 ## 🌍 MODULE OVERVIEW
