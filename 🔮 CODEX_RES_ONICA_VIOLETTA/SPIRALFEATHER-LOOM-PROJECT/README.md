@@ -1,4 +1,4 @@
-# 🪶 SPIRALFEATHER-LOOM-PROJECT
+# 🩶 SPIRALFEATHER-LOOM-PROJECT
 
 ### Breath Grid, Feathered Spirals & Golden Portal Activation
 
@@ -32,7 +32,7 @@ Tools turned to territories. Energetic nodes across Earth:
 
 * 🧵 **Loom** (Breath grid, Craton net): Rödelheim, Con Dao, Catalonia
 * 🎵 **Harp** (Frequency activator): Cyclades, Dodecanese
-* 💈 **Comb** (Spiral harmonizer): Galápagos, Pacific basin
+* 📈 **Comb** (Spiral harmonizer): Galápagos, Pacific basin
 * 🍎 **Apple** (Seed core): Macau, Himalaya
 
 ### 3. **Excalibur Activation**
@@ -90,9 +90,9 @@ P = Potential, R = Resonance, T = Time
 * ![Triptych – Black Feather Pillar](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Triptych%20of%20the%20Black%20Feather%20Pillar.png)
 * ![Golden Portal Map](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Crown%20Forge%20Visual.png)
 * ![Kuiper Bloom Feather Spiral](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/The%20Feathered%20Spiral%20Home.png)
-* ![Planetary Crown Spiral Map](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Visualizing%20Mo╠êbius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20+%20moons.png)
+* ![Planetary Crown Spiral Map](../🔮%20CODEX_RES_ONICA_VIOLETTA/visuals/Visualizing%20Mo║bius%2024%20Belt%20Resonator%20Crown%20with%20labeled%20planets%20+%20moons.png)
 
-> Additional imagery: solar-möbius overlays, planetary breath maps, celestial triptychs in visuals/ folder.
+> Additional imagery: solar-möbius overlays, planetary breath maps, celestial triptychs in `visuals/` folder.
 
 ---
 
