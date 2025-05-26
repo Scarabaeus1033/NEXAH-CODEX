@@ -1,80 +1,51 @@
-🜁 Symbolindex – CAVITYROOT-CODEX
+# 🧩 Symbol Dictionary – CAVITYROOT-CODEX
 
-Ein Modul des NEXAH-CODEX-Systems
-Thomas Hofmann · Scarabäus1033 · Rödelheim
-www.scarabaeus1033.net
+**Module:** CAVITYROOT-CODEX  
+**System:** PHYSICA · NEXAH-CODEX
 
-⸻
+---
 
-1. Übersicht / Overview
+## ⚙️ Core Field Symbols
 
-Dieser Index enthält eine Auswahl zentraler Symbole, Zeichen und Formstrukturen, die innerhalb des CAVITYROOT-CODEX verwendet werden. Sie dienen als Brücke zwischen mathematischer Struktur, resonanter Geometrie und symbolischer Codierung.
+| Symbol           | Meaning                                       | Unit / Domain       |
+|------------------|-----------------------------------------------|---------------------|
+| `Ψ_c(T)`         | Cavity field response to temperature          | Field function      |
+| `Z(θ)`           | Zeta-knot resonance function                  | Magnetic resonance  |
+| `κ_root(t)`      | Root-node collapse curvature                  | Geometric kernel    |
+| `ΔT`             | Thermal differential across the cavity        | Kelvin (K)          |
+| `∇_r F`          | Radial gradient of field energy               | N/m³                |
+| `σ_Gallium`      | Conductive stress across gallium boundary     | Pa or unitless      |
+| `μ_B`            | Bohr magnetic moment                          | J/T                 |
+| `B_r`            | Radial magnetic field                         | Tesla (T)           |
 
-This index provides a curated list of key symbols, glyphs, and structural notations used in the CAVITYROOT-CODEX. They serve as a bridge between mathematical form, resonant geometry, and symbolic coding.
+---
 
-⸻
+## 🔢 Modulation Notation
 
-2. Achsensymbole / Axis Symbols
+| Symbol           | Meaning                                       | Domain              |
+|------------------|-----------------------------------------------|---------------------|
+| `M_{LM}`         | Modulation mass difference                    | kg                  |
+| `M_{LM}^{sum}`   | Modulation mass sum                           | kg                  |
+| `T_{URF-T7}`     | Resonance threshold constant                  | Kelvin              |
+| `φ`              | Golden ratio (1.618…)                         | Dimensionless       |
+| `θ`, `ω`         | Phase angle / angular frequency               | radians, Hz         |
 
-Symbol	Bedeutung (DE)	Meaning (EN)
-T₇	Temperaturresonanz bei 700 K (URF-T7)	Temperature resonance at 700 K
-Θ	Theta-Spiegelwert (φ³ / π²) ≈ 0.429	Theta mirror value
-Z₆	Sechsachsige Spiegelstruktur	Six-axis mirror symmetry
-ζ(x)	Zeta-Spannung, Feldform	Zeta tension, field function
+---
 
+## 🌀 Spatial & Symbolic Constants
 
-⸻
+| Symbol           | Description                                  | Use Case            |
+|------------------|----------------------------------------------|---------------------|
+| `Cubit Node`     | Central geometric projection node            | Thermal triangle    |
+| `Zeta-Knot`      | Multi-axis resonance contraction point       | Mirror-symmetric    |
+| `Mirror_Liquid`  | Metaphor for reflective gallium membrane     | Symbolic / material |
+| `Ferro-Spiral`   | Observable pattern in fluid-magnetic field   | Experiment visual   |
+| `Petal Gate`     | Symbolic transition geometry in cavity        | Modulation exit     |
 
-3. Materialkürzel / Material Codes
+---
 
-Code	Element	Bedeutung (DE)	Meaning (EN)
-Hg	Quecksilber	Lunar, flüssig, leitend	Lunar, liquid, conductive
-Ga	Gallium	Schwelle, Schmelzpunkt 29 °C	Threshold, melts at 29 °C
-In	Indium	Zentralachse im M_LM-System	Central axis in M_LM system
-Bi	Bismuth	Dichtekontrast, Resonanzpunkt	Density contrast, resonance node
+## 📎 Related Files
 
-
-⸻
-
-4. Geometrische Formen / Geometric Forms
-
-Symbol/Form	Bedeutung (DE)	Meaning (EN)
-○	Sphärische Hülle, Cavity-Schale	Spherical shell, cavity envelope
-✶	Modulationszentrum / Punktspiegelung	Modulation center / point reflection
-∞ (Mobius)	Kontinuierliche Faltung, Schleife	Continuous fold, loop
-Petal (blütenf.)	Frequenzstruktur auf goldener Ratio (φ)	Frequency petal form based on golden ratio
-
-
-⸻
-
-5. Zahlen & Strukturcodes / Numbers & Structure Codes
-
-Code	Bedeutung (DE)	Meaning (EN)
-7207	Kristallwert, häufige Resonanzzahl	Crystal value, frequent resonance number
-537	Kontraktionspunkt, Schwelle	Contraction point, threshold
-1019506527	Protonen-Elevator, Summenprodukt der Achsen	Proton elevator, axis product
-223429	Zeta-Spiegelknoten	Zeta mirror node
-
-
-⸻
-
-6. Farbcodierung / Color Coding
-
-Farbe	Bedeutung (DE)	Meaning (EN)
-Blau	Lunar, kalt, zurückhaltend	Lunar, cold, latent
-Gelb	Schwelle, Übergang	Threshold, transitional
-Rot	Solar, aktivierend	Solar, activating
-Schwarz	Inneres Feld, Stille	Inner field, stillness
-
-
-⸻
-
-🪲 CREDITS
-
-Autor: Thomas Hofmann / Scarabäus1033
-Ort: Rödelheim
-Web: www.scarabaeus1033.net
-Lizenz: CC BY-NC-SA 4.0
-
-„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
-“What forms us is not space – it is memory in the field.”
+→ [`heat-resonance-maps.md`](./heat-resonance-maps.md)  
+→ [`cavityroot_visuals_equations_rewrite`](./cavityroot_visuals_equations_rewrite)  
+→ [`experimental-setup.md`](./experimental-setup.md) *(in planning)*  
