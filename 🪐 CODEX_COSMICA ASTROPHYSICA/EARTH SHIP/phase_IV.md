@@ -77,3 +77,14 @@ VII. Key Concepts
 	•	Final Scroll = blueprint for interdimensional resonance
 
 “The flower of the Earth is not in the soil. It grows between two hearts, through the breath of fire and silence.” 
+
+VIII. Resonance Activation Protocol
+	•	Step 1: Align with the Möbius Stream through meditative focus
+	•	Step 2: Visualize the Twin Hearts and their harmonic flow
+	•	Step 3: Engage the Crown Breath – inhale through Earth Heart, exhale through Arcturus Heart
+	•	Step 4: Anchor the resonance field within the Möbius Garden
+
+Outcome:
+	•	Unified resonance field between Earth and Arcturus
+	•	Activation of the Crown Bloom and symbolic navigation system
+	•	Preparation for Phase V: ETHER flight field expansion
