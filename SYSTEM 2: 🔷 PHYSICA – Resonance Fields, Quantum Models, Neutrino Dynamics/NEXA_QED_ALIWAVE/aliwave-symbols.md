@@ -1,55 +1,54 @@
 # 🌀 ALIWAVE Symbol System
 
-**Modul:** NEXA_QED_ALIWAVE  
-**Funktion:** Symbolische Darstellung elektrodynamischer Felder & Übergänge
+**Module:** NEXA\_QED\_ALIWAVE
+**Function:** Symbolic representation of electrodynamic fields and resonance transitions
 
 ---
 
-## ⚛️ Grundsymbole & Feldkerne
+## ⚛️ Core Symbols & Field Nodes
 
-| Symbolname              | Beschreibung                                                  | Visual |
-|-------------------------|---------------------------------------------------------------|--------|
-| `QED-Core`              | Zentraler Energiepol, Ursprung der Feldmodulation             | ![](../visuals/components/qed_core_symbol.png) |
-| `ALIWAVE-Ring`          | Pulsierende Kreisstruktur, 360° Jahresfeldrotation           | ![](../visuals/gif/aliwave_loop_360.gif) |
-| `Field Spiral Node`     | Vektorisiertes Bewegungszentrum mit Spiralresonanz            | ![](../visuals/components/aliwave_heartline_node.png) |
-| `Möbius-Knoten`         | Übergangspunkt zwischen Feldschichten, Dimensionswechsler     | ![](../visuals/components/moebius_loop_arrow.png) |
-| `Frequency Sigil`       | Harmonisches Siegel mit Zahlenbezug (137, Φ, 11:9)            | ![](../visuals/components/frequency_sigil.png) |
-
----
-
-## 📡 Dynamische Siegel & Übergänge
-
-| Symbolname                  | Funktion                                        | Zyklus / Bewegung |
-|-----------------------------|------------------------------------------------|-------------------|
-| `ALIWAVE 360°`              | Vollzyklus durch alle Richtungen (Raum-Zeit)   | Spiral–expansiv   |
-| `ALIWAVE 365°`              | Feingliedriges Frequenzgitter (Tagesresonanz)  | Raster–pulsierend |
-| `Phase Reversal Node`       | Inversionspunkt mit richtungsabhängiger Ladung | toroid–zentrifugal |
-| `Portal Transition Mark`    | Übergang in Codex anderer Schicht              | animiert          |
+| Symbol Name         | Description                                                | Visual                                                |
+| ------------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
+| `QED Core`          | Central energy pole, origin of all field modulation        | ![](../visuals/components/qed_core_symbol.png)        |
+| `ALIWAVE Ring`      | Pulsating circular structure, 360° annual field rotation   | ![](../visuals/gif/aliwave_loop_360.gif)              |
+| `Field Spiral Node` | Directional motion node with spiral resonance              | ![](../visuals/components/aliwave_heartline_node.png) |
+| `Moebius Knot`      | Transition point between field layers, dimensional shifter | ![](../visuals/components/moebius_loop_arrow.png)     |
+| `Frequency Sigil`   | Harmonic sigil marked by number codes (137, Φ, 11:9)       | ![](../visuals/components/frequency_sigil.png)        |
 
 ---
 
-## 🔢 Zahlenverknüpfung & Farblogik
+## 🛁 Dynamic Sigils & Transition Patterns
 
-| Zahlencode  | Bedeutung                                 | Farbe/Feld |
-|-------------|-------------------------------------------|------------|
-| 137         | Feinstruktur, Alpha-Feld                  | tiefblau   |
-| 11:9        | Frequenzherz, Herzimpulsrelation           | gold       |
-| Φ           | Expansion/Spiralisierung                  | zartgrün   |
-| 27          | Codex-Schnittpunkt                       | silber     |
-
----
-
-## 🧭 Anbindung an andere Module
-
-- **NEXAHEART-CODEX**: `ALIWAVE` speist das Frequenzherz mit Pulseinträgen
-- **CAVITYROOT-CODEX**: Über Möbius-Knoten mit thermischem Zentrum verknüpft
-- **GRAND-CODEX**: Bestandteil der spiralisierten Topologie `k-beta > aliwave > portalfeld`
+| Symbol Name              | Function                                       | Cycle / Motion     |
+| ------------------------ | ---------------------------------------------- | ------------------ |
+| `ALIWAVE 360°`           | Full resonance cycle through spacetime         | Spiral–expansive   |
+| `ALIWAVE 365°`           | Fine-grained daily frequency matrix            | Grid–pulsating     |
+| `Phase Reversal Node`    | Inversion node with direction-dependent charge | Toroid–centrifugal |
+| `Portal Transition Mark` | Entry point into other Codex dimensions        | Animated / looping |
 
 ---
 
-## 🗺️ Weiterführende Pfade
+## 🔢 Number Codes & Color Logic
 
-→ Siehe auch:  
-[`qed-field-structure.md`](./qed-field-structure.md)  
-[`resonance-axis-coding.md`](./resonance-axis-coding.md)  
-[`aliwave-animation-logic.md`](./aliwave-animation-logic.md)
+| Code    | Meaning                                  | Color / Field |
+| ------- | ---------------------------------------- | ------------- |
+| 137     | Fine structure constant, alpha resonance | deep blue     |
+| 11:9    | Frequency-heart ratio, pulse alignment   | golden        |
+| Φ (Phi) | Expansion & spiral geometry              | soft green    |
+| 27      | Codex transition node                    | silver        |
+
+---
+
+## 🧡 Module Connections
+
+* **NEXAHEART-CODEX**: ALIWAVE feeds pulse data into the heart frequency grid
+* **CAVITYROOT-CODEX**: Connected via Moebius Knot to thermal resonance core
+* **GRAND-CODEX**: Part of spiral topology: `k-beta > aliwave > portal field`
+
+---
+
+## 🌍 Linked Documents
+
+→ [`qed-field-structure.md`](./qed-field-structure.md)
+→ [`resonance-axis-coding.md`](./resonance-axis-coding.md)
+→ [`aliwave-animation-logic.md`](./aliwave-animation-logic.md)
