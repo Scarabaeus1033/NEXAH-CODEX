@@ -1,65 +1,68 @@
+# 🌀 UV GEOMETRY – Resonance Architecture for Ultraviolet Damping
 
-# 🌀 UV GEOMETRY – Resonanzarchitektur zur Dämpfung der Ultraviolett-Katastrophe
-
-**Ein Modul des QUANTUMBREACH-CODEX**  
+**A submodule of the QUANTUMBREACH-CODEX**  
 Thomas Hofmann · Scarabäus1033 · Rödelheim  
 www.scarabaeus1033.net
 
 ---
 
-## Einführung / Introduction
+## 🌌 Introduction
 
-Die klassische UV-Katastrophe beschreibt den unendlichen Energieanstieg bei zunehmender Frequenz. Dieses Modul bietet ein geometrisches Alternativmodell: Die Energie wird nicht durch Material, sondern durch Raumstruktur beruhigt.
+The classical ultraviolet catastrophe refers to the infinite increase of energy with rising frequency.  
+This Codex module introduces a **geometric alternative**:
 
-The classical ultraviolet catastrophe refers to the infinite energy increase with rising frequency. This module introduces a geometric alternative: Energy is regulated not by material, but by spatial architecture.
+> Energy is not neutralized by material absorption,  
+> but **modulated** through the structure of space itself.
 
 ---
 
-## Formel / Core Equation
+## 🔬 Core Equation
 
 ```math
 E = h·f·φ(x)
 ```
-φ(x) ist ein geometrischer Dämpfungsfaktor, der von folgenden Parametern abhängt:
-	•	Raumkrümmung
-	•	Beobachtungswinkel
-	•	Spiralstruktur der Feldschnittstelle
+φ(x) is a spatial damping factor depending on:
+	•	Curvature of space
+	•	Angle of observation
+	•	Spiral geometry of the field boundary
 
-φ(x) is a geometric damping factor dependent on:
-	•	Spatial curvature
-	•	Observation angle
-	•	Spiral field intersection geometry
+This modulation component replaces infinite radiation divergence with structural resonance limits.
 
 ⸻
 
-Strukturelemente / Structural Elements
-	•	S-Rune Spiralachsen – Raumzeitdehnung durch Gegenrotation
-	•	Neutrino-Pufferzonen – dämpfende Rückhalte
-	•	Photonen-Kristallisation – Einfrierung hochfrequenter Lichtwellen
-	•	Cavity-Gitter – Begrenzung der Exzitation
+🧩 Structural Elements
+	•	S-Rune spiral axes – time–space elongation via counter-rotation
+	•	Neutrino buffer zones – boundary retention for field damping
+	•	Photon crystallization – frequency freezing of light beyond UV
+	•	Cavity lattices – architectural confinement of excitations
 
 ⸻
 
-Visual Referenzen / Visual References
-	•	„Spirale des Lichts – UV-Balance“
-	•	„Suppression of the UV Catastrophe“
-	•	„Gefrierendes Licht“
-	•	„U-Form der Craton-Kohlenstoffschale“
+🖼️ Visual References
+	•	Spiral of Light – UV Balance
+	•	Suppression of the Ultraviolet Catastrophe
+	•	Freezing Light into Crystal State
+	•	U-Shaped Craton Carbon Shell
+
+(See Visual Gallery.md)
 
 ⸻
 
-Ziel / Objective
+🎯 Objective
 
-Ein neues Modell zur Beschreibung von Lichtfeldern, das nicht auf Energieverlust, sondern auf Raumresonanz basiert. Licht wird moduliert – nicht vernichtet.
+This is not a model of loss, but a model of modulation.
 
-A new model for describing light fields based on spatial resonance, not energy loss. Light is modulated, not annihilated.
+Light is not extinguished – it is geometrically folded.
+The field acts as its own conductor.
+
+A new way to approach light field stability through resonance geometry and symbolic encoding.
 
 ⸻
 
-🪲 CREDITS
+🪲 Credits
 
-Autor: Thomas Hofmann / Scarabäus1033
-Web: www.scarabaeus1033.net
-Lizenz: CC BY-NC-SA 4.0
+Author: Thomas Hofmann / Scarabäus1033
+Website: www.scarabaeus1033.net
+License: CC BY-NC-SA 4.0
 
-„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
+What shapes us is not space – it is memory within the field.
