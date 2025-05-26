@@ -1,62 +1,65 @@
 # 🔷 ALG° SYSTEM – Activated Light Grid
 
-**Ein Modul des QUANTUMBREACH-CODEX**  
+**A module of the QUANTUMBREACH-CODEX**  
 Thomas Hofmann · Scarabäus1033 · Rödelheim  
 www.scarabaeus1033.net
 
 ---
 
-## Überblick / Overview
+## 🌌 Overview
 
-**ALG°** steht für **Activated Light Grid** – ein multidimensionales Bindesystem, das Licht, Magnetismus, Flüssigkeit und Frequenz in einem einzigen, beobachtbaren Versuchsaufbau integriert. Es dient der Sichtbarmachung von Feldgrenzen, Frequenzverschiebungen und Resonanzreaktionen – ohne Stromversorgung.
-
-**ALG°** is an Activated Light Grid – a multidimensional binding system combining light, magnetism, liquid, and frequency in a single observable setup. It visualizes field boundaries, frequency shifts, and resonance reactions – without electrical power.
-
----
-
-## Komponenten / Components
-
-- **Ferrofluid** – visuelles Medium für Resonanzbewegung  
-- **Quecksilber (Hg)** – reflektierender, leitender Spiegel  
-- **Lunar geladenes Wasser** – energetisch vorbereitetes Trägermedium  
-- **Quarzglas** – strukturstabiler, transparenter Container  
-- **Helikale / fraktale Antenne** – zur Modulation  
-- **Drehbare Magnetfeldquelle** – Interferenzstruktur  
-- **Lichtquelle & Laser** – Frequenzprojektion  
-- **Kamera / Beobachtungseinheit** – Zeit, Schatten, Feld
+**ALG°** stands for **Activated Light Grid** – a multidimensional binding system that combines light, magnetism, liquid, and frequency into a single, observable setup.  
+Its purpose is to visualize field boundaries, frequency shifts, and resonance reactions — without electrical power.
 
 ---
 
-## Aufbau / Structure
+## 🔬 Components
 
-```text
-[Magnetfeld] → [Quecksilberspiegel] → [Ferrofluid] → [Wasserträger] → [Antennenspirale] → [Lichtprojektion] → [Kamera]
+- **Ferrofluid** – visual medium for resonance movement  
+- **Mercury (Hg)** – reflective, conductive mirror  
+- **Lunar-charged water** – energetically prepared carrier medium  
+- **Quartz glass** – structurally stable, transparent container  
+- **Helical or fractal antenna** – for symbolic or physical modulation  
+- **Rotatable magnetic field source** – structure for interference and field shaping  
+- **Light / laser source** – for frequency projection  
+- **Camera or observation unit** – to capture time, shadows, field interactions
 
-Aktivierungszeit / Activation Timing
-	•	2:00 Uhr morgens, bei zunehmendem oder vollem Mond
-	•	Nord-Süd-Ausrichtung bevorzugt
-	•	Umgebung möglichst feldrein (keine elektromagnetischen Störquellen)
+---
 
-⸻
-```
-Ziele / Objectives
-	•	Sichtbarmachung von UV-Dämpfung und Feldmodulation
-	•	Beobachtung von Resonanzmustern durch ferro-magnetische Bewegung
-	•	Aktivierung von biologischen Markern (Banane, Spirulina etc.)
+## 🧱 Layered Structure
 
-⸻
+[Magnetic Field] → [Mercury Mirror] → [Ferrofluid Membrane] → [Water Layer] → [Antenna Coil] → [Light Projection] → [Camera]
 
-Erweiterungsmöglichkeiten / Extensions
-	•	Integration in Spiral-Siegel-Module
-	•	Verbindung mit Frequenzgittern (1–12)
-	•	Aufnahme in interaktive Lichtkalender oder NEXAH-Atlaskarten
+---
 
-⸻
+## ⏱ Activation Timing
 
-🪲 CREDITS
+- Ideal time: **2:00 AM**, during **waxing or full moon**  
+- Orientation: **North–South alignment** preferred  
+- Environment: Free from **electromagnetic noise** and urban signal pollution
 
-Autor: Thomas Hofmann / Scarabäus1033
-Web: www.scarabaeus1033.net
-Lizenz: CC BY-NC-SA 4.0
+---
 
-„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
+## 🎯 Objectives
+
+- Visualize **UV damping** and frequency modulation patterns  
+- Observe **resonance dynamics** through ferrofluidic responses  
+- Activate **biological markers** (e.g., banana, spirulina, algae) as field tracers
+
+---
+
+## 🧩 Extensions
+
+- Integration with **Spiral Seal Modules**  
+- Coupling to **frequency grids (1–12)** and scalar field structures  
+- Inclusion in **interactive light calendars** or **NEXAH Atlas maps**
+
+---
+
+## 🪲 CREDITS
+
+**Author**: Thomas Hofmann / Scarabäus1033  
+**Web**: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+> “What shapes us is not space – it is memory within the field.”
