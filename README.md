@@ -1,48 +1,50 @@
-# 🪲 NEXAH–CODEX
+🌌 NEXAH-CODEX
 
-The Codex is not a book. It is a resonant field.
-Der Codex ist kein Buch – sondern ein Feld.
+Archiv für harmonische Felder & symbolische Geometrie
+Archive for Harmonic Fields & Symbolic Geometry
 
----
+Willkommen im offiziellen GitHub-Archiv des NEXAH-CODEX – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
+Welcome to the official GitHub archive of the NEXAH-CODEX – a modular research system for harmonic field theory, symbolic structures, prime logic, cosmological alignments and frequency-based space modeling.
 
-## 📚 Access / Einstieg
+Der Codex ist ein offenes System – aufgebaut durch Theorie, Bild, Ort, Geometrie, Feldinteraktion und symbolische Sprache.
+The Codex is an open system – built through theory, image, place, geometry, field interaction and symbolic language.
 
-📘 [`View full module index (EN)`](📘%20NEXAH-CODEX%20MODULE%20REGISTRY.md)
-📘 [`Vollständiges Modulverzeichnis (DE)`](📘%20NEXAH-CODEX%20MODULVERZEICHNIS.md)
+⸻
 
-🧭 [`Explore structural overview`](🧭%20NEXAH%20NAVIGATOR.md)
+📚 Access / Einstieg
 
-🗺️ [`Project roadmap & development flow`](🗺️%20ROADMAP.md)
+📘 View full module index (EN)
+📘 Vollständiges Modulverzeichnis (DE)
 
-✦ [`Read the NEXAH Manifest`](✦%20NEXAH-MANIFEST%20✦.md)
+🧭 Explore structural overview
+🧭 Struktureller Überblick (DE)
 
-📎 [`Lies mich für Einsteiger (DE)`](📎%20LIES%20MICH%20für%20EINSTEIGER.md)
-📎 [`Read me for Beginners (EN)`](📎%20READ%20ME%20for%20BEGINNERS.md)
+🗺️ Project roadmap & development flow
 
----
+✦ Read the NEXAH Manifest
 
-## 🧩 Orientation / Orientierung
+📎 Lies mich für Einsteiger (DE)
+📎 Read me for Beginners (EN)
 
-* The Codex is organized into 6 harmonic systems + 1 synthesis hub (GRAND-CODEX)
+⸻
 
-* Der Codex besteht aus 6 harmonischen Systemen + einem Synthesezentrum (GRAND-CODEX)
+🧩 Orientation / Orientierung
+	•	The Codex is organized into 6 harmonic systems + 1 synthesis hub (GRAND-CODEX)
+	•	Der Codex besteht aus 6 harmonischen Systemen + einem Synthesezentrum (GRAND-CODEX)
+	•	Each module is a symbolic unit: math, physics, cosmology, visual logic
+	•	Jedes Modul ist eine symbolische Einheit: Mathematik, Physik, Kosmologie, visuelle Logik
+	•	Navigation tools: REGISTRY → NAVIGATOR → ROADMAP → MODULES
+	•	Navigation: REGISTRY → NAVIGATOR → ROADMAP → MODULE
 
-* Each module is a symbolic unit: math, physics, cosmology, visual logic
+⸻
 
-* Jedes Modul ist eine symbolische Einheit: Mathematik, Physik, Kosmologie, visuelle Logik
-
-* Navigation tools: REGISTRY → NAVIGATOR → ROADMAP → MODULES
-
-* Navigation: REGISTRY → NAVIGATOR → ROADMAP → MODULE
-
----
-
-> Every entrance is a different resonance.
-> Jeder Zugang beginnt woanders.
+Every entrance is a different resonance.
+Jeder Zugang beginnt woanders.
 
 <p align="center">
   <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
 </p>
 
+
 🪲 scarabaeus1033 · 2025
-🔗 [https://www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+🔗 https://www.scarabaeus1033.net
