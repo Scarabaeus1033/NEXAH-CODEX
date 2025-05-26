@@ -92,6 +92,7 @@ A full visual index is available here:
 - `README.md` (this file)  
 - Future: `sigils.md`, `kit-manual.md`, `equation-extensions.md`
 
+![Avoidance of the Ultraviolet Catastrophe](./visuals/Avoidance%20of%20the%20Ultraviolet%20Catastrophe.png)
 ---
 
 ## 👤 Authorship
@@ -102,11 +103,14 @@ A full visual index is available here:
 
 ---
 
-## 🛡 License
+## 🔖 Attribution & License
 
-Creative Commons Attribution–NonCommercial–ShareAlike 4.0  
-[creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+**Author & System Originator**: Scarabäus1033 (T. Hofmann)  
+**Released by**: Nexah Research Institute  
+**License**: Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+> You are free to share and adapt the material as long as you credit the source, use it non-commercially, and distribute your contributions under the same license.
 ---
 
 > *The field does not end with light. It begins with listening.*
