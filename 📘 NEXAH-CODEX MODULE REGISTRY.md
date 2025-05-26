@@ -23,7 +23,8 @@ This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, includ
 | GRAND-CODEX/               | GRAND-CODEX – Central Formula Synthesis | Integration module unifying Codex field logic: Einstein extension, neutrino layers, Möbius frames |
 | Einstein-Neutrino-Vortex/ | Field Expansion of E = m·c·k^β       | Adds pressure, volume, and neutrino-coupling to field energy models.                             |
 | casimir-neutrino-thread.md| Casimir–Neutrino Thread              | Quantum vacuum compression and field bridges through neutrino layering.                          |
-| QUANTUMBREACH-CODEX/       | Quantum Breach – Light’s Threshold   | Lightfield transition model using UV seals and dark field resonance.                             |
+| QUANTUMBREACH-CODEX/       | Quantum Breach – Light’s Threshold   | Symbolic-physical model of photon-neutrino separation, UV catastrophe resolution, and field-bound modulation. Includes the ALG° KIT for experimental application.
+                             |
 | CAVITYROOT-CODEX/          | Cavityroot – Crystal Thermal Fields  | Experimental ferrofluid/gallium models for cavity contraction and heat resonance.                |
 | NEXA_QED_ALIWAVE/          | ALIWAVE – Electrosymbolic QED Fields | Frequency matrix logic and electroscalar field topologies inspired by QED.                       |
 | NEXA_SILVER_RAIN/          | Silver Stream – Catalyst Flow        | Transition metals in frequency flows and catalytic symmetry systems.                             |
