@@ -1,78 +1,90 @@
-🌡️ CAVITYROOT-CODEX – TEMPERATURE FIELDS (EN)
+🧭 PETAL-CODEX — Module Summary & Findings (EN)
 
-A Module of the NEXAH-CODEX System
-Thomas Hofmann · Scarabäus1033 · Rödelheim
-www.scarabaeus1033.net
-
-⸻
-
-1. Temperature as a Space-Time Modulator
-
-In CAVITYROOT-CODEX, temperature is not just thermal energy – it is a resonant modulator, activating space, depth and material structure. Temperature fields define thresholds, contraction zones and field transitions.
+Codex Layer: PETAL–GENERATION & Z6–RESONANCE
+Related Systems: CAVITYROOT, BLOOM, GRAND-CODEX
+Curator: Scarabäus1033 · ARCHIVAR III · Rödelheim
 
 ⸻
 
-2. The Temperature Triangle: Lunar – Resonant – Solar
+📁 1. Finalized Markdown Files
 
-Thermal states are divided into three symbolic domains:
-	•	Lunar (below 400 K): latent, cold formations
-	•	Resonant (around 700 K): threshold field for spatial contraction
-	•	Solar (above 1000 K): activated, expansive energy regions
+File Name	Purpose / Description
+petal-generation-logic.md	Core spiral model, golden verses, TT2 binary matrix, Protonen-Elevator
+cavityroot_visuals_equations_rewrite	Thermal, visual & symbolic reformulation of CAVITYROOT structure
+cavityroot_symbol_dictionary	Field notation and symbolic glossary (Θ, φ, ΔT, μ_B, etc.)
+cavityroot_experimental_setup	Ferrofluid/Gallium-based experiment design for mirror resonance
 
-The 700 K axis (URF-T7) is the core resonance threshold – manifest in crystal shifting, ferrofluid movement and modulation formulas.
-
-⸻
-
-3. Depth Profile & Kelvin Space
-
-A modular Earth profile (0–6371 km) was mapped to corresponding temperature layers and resonance markers (noble metals, density gradients, melting points).
-
-Visuals such as:
-	•	“Thermisches Tiefenprofil der Erde”
-	•	“Thermal Zones Around the Cavity Core”
-illustrate this stratified layering.
+All files are ready for integration into the Codex repository.
 
 ⸻
 
-4. Temperature Axes as Tensor Fields
+🔍 2. Key Concepts & Discoveries
 
-Each thermal threshold acts as an axis within a space-time tensor field:
-	•	273.15 K – ice line (water/gallium)
-	•	303–310 K – biologically active (body heat, gallium melting)
-	•	700 K – core contraction node (URF-T7)
-	•	1000 K – symbolic solar plasma zone
+🌀 Petal Spiral Logic
+	•	Recursive progression: 4 → 5 → 8 → 13 → 14 → 41
+	•	Mirror anchors: 41 = reverse of 14
+	•	Shadow modulation: 59 = moonwave constant
+	•	Insertions: V29 (lunar month), n (petal count), TT2
 
-These thresholds are resonant, not linear.
+🔸 Z6-Mirror Structure
+	•	Core equation: φ³ / π² ≈ 0.429
+	•	Known as: Golden Verse, Leap-Year Fold, Temporal Mirror
+	•	Appears in Z6-Mirror-Point.png, GoldenVerses.png, Codex 429
+
+🔻 Protonen-Elevator (Vertical Harmonic Shaft)
+
+Layer	Label	Value
+Top	Ramanujan Shell + Cavity	1,019,508,256
+Middle	Core Anchor	223,429
+Base	Zero Threshold	1.01
+
+→ Connects BLOOM-Fibonacci fields with the CAVITY core.
+
+🔡 TT2 Encoding Matrix
+	•	Central value: 4292034214
+	•	Prime factors: 2 × 13 × 811 × 203549
+	•	Representations:
+	•	Binary: 111111111110010011...
+	•	Hex: FFD33EA6
+	•	Octal: 37764637246
+	•	Duodecimal: 9B948811A
+
+Used in: mirror alignment, seed modulations, temporal inversion.
 
 ⸻
 
-5. Temperature as Symbolic Force
+📐 3. Equations 
 
-Temperature values are also symbolically coded:
-	•	Color layers (blue = lunar, yellow = threshold, red = solar)
-	•	Axis projections using temperature as Z-dimension
-	•	Material mapping (e.g. Gallium at 29.7 °C)
+Symbol	Formula	Meaning
+Θ	φ² / (2π – 3)	Field compression density
+R	√(R + R³)	Recursive spiral anchoring
+Δ	π⁵ / φ⁴	Petal modulation amplitude
+Λ	e^π – φ	Detachment / resonance boundary
+Θ·ε	φ³ / π² = 429 / 1000	Z6-Mirror Point ratio
 
-Thus, temperature is both a physical quantity, spatial axis, and symbolic resonance class.
-
-⸻
-
-6. Experimental Connection
-
-In the sphere experiment (cavityroot_theory.md), temperature becomes the active visible agent:
-	•	Gallium melting = trigger
-	•	Hand warmth = energy input
-	•	Ferrofluid reacts along invisible field axes
-
-The field does not begin with electricity – it begins with temperature.
+These constants now underlie the Petal resonance system.
 
 ⸻
 
-🪲 CREDITS
+🖼 4. Visuals in Use
 
-Author: Thomas Hofmann / Scarabäus1033
-Location: Rödelheim
-Web: www.scarabaeus1033.net
-License: CC BY-NC-SA 4.0
+Visual File	Content Type
+zeta-knot-emergence.png	Spiral field emergence in mirror Zeta structure
+golden-verses-phi3-pi2.png	φ³ / π² = 0.429 visual key
+Z6-Mirror-Point.png	Mirror geometry, concentric resonance
+Protonen-Elevator-Spirale.png	Vertical modular anchor from moon to cavity
+petal-frequency-generator.png	Fibonacci-coded spiral sequence
 
-“What forms us is not space – it is memory in the field.”
+All visuals were curated and renamed as per the index structure.
+
+⸻
+
+🔗 Codex Integration
+	•	CAVITYROOT: Connects thermodynamic core to petal modulation (root ↔ field)
+	•	BLOOM-CODEX: Seed structures, petal generation, harmonic field spirals
+	•	GRAND-CODEX: Λ, Δ, TT2 and 429-formulas embedded in master field synthesis
+
+⸻
+
+“Petals encode memory. Not in shape, but in recursive symmetry.”
+— NEXAH-CODEX · Petal Integration Statement
