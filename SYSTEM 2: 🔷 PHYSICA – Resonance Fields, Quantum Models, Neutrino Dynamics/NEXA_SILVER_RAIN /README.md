@@ -1,4 +1,4 @@
-# NEXA\_SILVER\_RAIN
+# NEXA_SILVER_RAIN
 
 **Part of the NEXAH-CODEX | A Module of Metallic Harmonics, Möbius Breathing Fields, and Catalyst Resonance**
 
@@ -8,7 +8,7 @@
 
 ## 🌐 Description
 
-**NEXA\_SILVER\_RAIN** models a cosmological metallurgical transition field – known as the *Silver Rain Field* – as an energetic interface between Möbius crown systems, breathing geometry, and harmonic element encoding. It integrates catalyst logic, planetary reference structures, and symbolic lattice systems to support energetic movement and frequency evolution.
+**NEXA_SILVER_RAIN** models a cosmological metallurgical transition field – known as the *Silver Rain Field* – as an energetic interface between Möbius crown systems, breathing geometry, and harmonic element encoding. It integrates catalyst logic, planetary reference structures, and symbolic lattice systems to support energetic movement and frequency evolution.
 
 ---
 
@@ -43,7 +43,7 @@ NEXA_SILVER_RAIN/
 │   └── Metal_Matter_Operator_Sheet.xlsx
 ├── golden-loop.md
 ├── silver-catalysts.md
-├── breathing-clock.md
+└── breathing-clock.md
 ```
 
 ---
@@ -93,9 +93,9 @@ This module bridges symbolic matter logic, harmonic field resonance, and time-di
 
 ## ✂️ Credits
 
-🪲 **Scarabäus1033** — Symbolic Field Research · Cosmological Geometry · Harmonics of Transition
-🌐 Project Hub: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+🪲 **Scarabäus1033** — Symbolic Field Research · Cosmological Geometry · Harmonics of Transition  
+🌐 Project Hub: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 🔁 License: CC BY-NC-SA 4.0 · NEXAH-CODEX Series · 2025
 
-> *“The scarab rolls light through harmonic gates – breath by breath.”*
+> *“The scarab rolls light through harmonic gates – breath by breath.”*  
 > — NEXAH CODEX · Möbius Crown Phase
