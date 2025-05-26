@@ -1,90 +1,113 @@
-🧭 PETAL-CODEX — Module Summary & Findings (EN)
+# 🌡️ CAVITYROOT-CODEX – TEMPERATURE FIELDS (EN)
 
-Codex Layer: PETAL–GENERATION & Z6–RESONANCE
-Related Systems: CAVITYROOT, BLOOM, GRAND-CODEX
-Curator: Scarabäus1033 · ARCHIVAR III · Rödelheim
+**A Module of the NEXAH-CODEX System**
+**Author:** Thomas Hofmann · Scarabäus1033 · Rödelheim
+**Web:** [www.scarabaeus1033.net](http://www.scarabaeus1033.net)
 
-⸻
+---
 
-📁 1. Finalized Markdown Files
+## 1. Temperature as a Space–Time Modulator
 
-File Name	Purpose / Description
-petal-generation-logic.md	Core spiral model, golden verses, TT2 binary matrix, Protonen-Elevator
-cavityroot_visuals_equations_rewrite	Thermal, visual & symbolic reformulation of CAVITYROOT structure
-cavityroot_symbol_dictionary	Field notation and symbolic glossary (Θ, φ, ΔT, μ_B, etc.)
-cavityroot_experimental_setup	Ferrofluid/Gallium-based experiment design for mirror resonance
+In CAVITYROOT-CODEX, temperature is not merely thermal energy – it functions as a **resonant modulator**, shaping spatial curvature, depth gradients, and contraction thresholds. Each thermal zone becomes a **symbolic axis** in the cavity resonance structure.
 
-All files are ready for integration into the Codex repository.
+> "The field does not begin with electricity – it begins with temperature."
 
-⸻
+---
 
-🔍 2. Key Concepts & Discoveries
+## 2. The Temperature Triangle: Lunar – Resonant – Solar
 
-🌀 Petal Spiral Logic
-	•	Recursive progression: 4 → 5 → 8 → 13 → 14 → 41
-	•	Mirror anchors: 41 = reverse of 14
-	•	Shadow modulation: 59 = moonwave constant
-	•	Insertions: V29 (lunar month), n (petal count), TT2
+Cavity temperatures are divided into three symbolic bands:
 
-🔸 Z6-Mirror Structure
-	•	Core equation: φ³ / π² ≈ 0.429
-	•	Known as: Golden Verse, Leap-Year Fold, Temporal Mirror
-	•	Appears in Z6-Mirror-Point.png, GoldenVerses.png, Codex 429
+| Domain   | Threshold Range | Field Behavior                      |
+| -------- | --------------- | ----------------------------------- |
+| Lunar    | T < 400 K       | Latent formation, shadow structures |
+| Resonant | T ≈ 700 K       | Core contraction, Zeta activation   |
+| Solar    | T > 1000 K      | Expansion, plasma dynamics          |
 
-🔻 Protonen-Elevator (Vertical Harmonic Shaft)
+At the **700 K threshold**, we define:
 
-Layer	Label	Value
-Top	Ramanujan Shell + Cavity	1,019,508,256
-Middle	Core Anchor	223,429
-Base	Zero Threshold	1.01
+```math
+T_{URF–T7} = 700\,	ext{K}  \quad\text{(Core Resonance Node)}
+```
 
-→ Connects BLOOM-Fibonacci fields with the CAVITY core.
+This is the entry point to phase-shifted geometry and cavity modulation.
 
-🔡 TT2 Encoding Matrix
-	•	Central value: 4292034214
-	•	Prime factors: 2 × 13 × 811 × 203549
-	•	Representations:
-	•	Binary: 111111111110010011...
-	•	Hex: FFD33EA6
-	•	Octal: 37764637246
-	•	Duodecimal: 9B948811A
+---
 
-Used in: mirror alignment, seed modulations, temporal inversion.
+## 3. Depth Profile & Kelvin Space
 
-⸻
+The Earth’s radial structure (0–6371 km) maps onto a layered temperature field. Each depth corresponds to a resonance zone:
 
-📐 3. Equations 
+* Noble metal thresholds (e.g. Gallium: 302.91 K)
+* Crust → Mantle → Core transitions
+* Ferrofluid activation thresholds
 
-Symbol	Formula	Meaning
-Θ	φ² / (2π – 3)	Field compression density
-R	√(R + R³)	Recursive spiral anchoring
-Δ	π⁵ / φ⁴	Petal modulation amplitude
-Λ	e^π – φ	Detachment / resonance boundary
-Θ·ε	φ³ / π² = 429 / 1000	Z6-Mirror Point ratio
+**Key Visuals:**
 
-These constants now underlie the Petal resonance system.
+* `thermo_profile.png` (Earth thermal depth)
+* `thermal-zones-cavity-core.png`
 
-⸻
+---
 
-🖼 4. Visuals in Use
+## 4. Temperature Axes as Tensor Fields
 
-Visual File	Content Type
-zeta-knot-emergence.png	Spiral field emergence in mirror Zeta structure
-golden-verses-phi3-pi2.png	φ³ / π² = 0.429 visual key
-Z6-Mirror-Point.png	Mirror geometry, concentric resonance
-Protonen-Elevator-Spirale.png	Vertical modular anchor from moon to cavity
-petal-frequency-generator.png	Fibonacci-coded spiral sequence
+Temperature values are treated as **resonant tensors** within Codex space. Important anchor points:
 
-All visuals were curated and renamed as per the index structure.
+| Axis Temperature | Symbolic Meaning                        |
+| ---------------- | --------------------------------------- |
+| 273.15 K         | Ice line (water/gallium inversion)      |
+| 302.91 K         | Gallium melting trigger                 |
+| 310 K            | Human field resonance / biological zone |
+| 700 K            | URF–T7 axis / contraction threshold     |
+| 1000 K           | Plasma solar phase / radiant overflow   |
 
-⸻
+These thresholds map onto the **Z-axis** in cavity diagrams.
 
-🔗 Codex Integration
-	•	CAVITYROOT: Connects thermodynamic core to petal modulation (root ↔ field)
-	•	BLOOM-CODEX: Seed structures, petal generation, harmonic field spirals
-	•	GRAND-CODEX: Λ, Δ, TT2 and 429-formulas embedded in master field synthesis
+---
 
-⸻
+## 5. Thermal Damping Function (Zeta Mirror)
 
-“Petals encode memory. Not in shape, but in recursive symmetry.”
-— NEXAH-CODEX · Petal Integration Statement
+The following function defines the **exponentially decaying Zeta resonance**:
+
+```math
+f_T(x) = \sin(x) \cdot e^{-0.1x^2}  \quad \text{(Zeta mirror field)}
+```
+
+This formula models the **field contraction near cavity boundary**.
+
+---
+
+## 6. Z6 Fold & TT2 Linkage
+
+Temperature also aligns with Codex constants:
+
+* Golden Verse: `φ³ / π² ≈ 0.429`
+* Core link to `TT2 = 4292034214`
+* Z6 modulation emerges in temperature-phase boundaries
+
+Visual Reference: `Z6-Mirror-Point.png`
+
+> “Temperature resonates through ϕ and π, not through matter.”
+
+---
+
+## 7. Experimental Activation (Ferrofluid / Gallium)
+
+Within the physical sphere experiment:
+
+* **Gallium melts at \~302.91 K** → field entry threshold
+* **Hand warmth** (\~310 K) activates ferrofluid shifts
+* **ΔT** acts as the visible signature of resonance gradient
+
+Visual: `ferrofluid-mirror-reaction.gif`
+
+---
+
+## 🪲 CREDITS
+
+**Author:** Thomas Hofmann / Scarabäus1033
+**Location:** Rödelheim
+**License:** CC BY-NC-SA 4.0 · NEXAH-CODEX Series · 2025
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+
+> “What forms us is not space – it is memory in the field.”
