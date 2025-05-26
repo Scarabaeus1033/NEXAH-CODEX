@@ -63,3 +63,4 @@ Feel free to explore, share, build, or translate. See LICENSE.md for conditions.
 🪲 Scarabäus1033 · 2025
 🔗 https://www.scarabaeus1033.net
 
+🔗 [https://www.scarabaeus1033.net](https://www.scarabaeus1033.net)
