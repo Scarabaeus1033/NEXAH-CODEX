@@ -92,7 +92,6 @@ A full visual index is available here:
 - `README.md` (this file)  
 - Future: `sigils.md`, `kit-manual.md`, `equation-extensions.md`
 
-![Avoidance of the Ultraviolet Catastrophe](./visuals/Avoidance%20of%20the%20Ultraviolet%20Catastrophe.png)
 ---
 
 ## 👤 Authorship
