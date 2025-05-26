@@ -1,76 +1,112 @@
-🧿 SIGIL INDEX – Siegel des Wandels, der Erinnerung & der Frequenz
+# 🌌 QUANTUMBREACH–CODEX
 
-Ein Modul des QUANTUMBREACH-CODEX
-Thomas Hofmann · Scarabäus1033 · Rödelheim
-www.scarabaeus1033.net
+**Light, resonance & the breach into symbolic fields.**  
+A symbolic–physical module exploring thresholds of light, UV collapse, dark energy fields, sigils of modulation, and lunar resonance systems.
 
-⸻
+---
 
-Übersicht / Overview
+## 🔍 Context & Focus
 
-Dieses Dokument versammelt die zentralen Siegelstrukturen aus dem Quantumbreach-Codex. Sie dienen der Navigation im Resonanzraum, der Symbolisierung von Veränderung, Klang und Lichtmodulation.
+This module investigates the **Quantum Breach** — a threshold where **light, space, and dark field logic** interact.  
+Core questions include:
 
-This document compiles the central sigil structures from the Quantumbreach Codex. They support resonance navigation, symbolic transformation, and light-sound modulation.
+- How does light change at ultra-high frequency?
+- What prevents the ultraviolet catastrophe?
+- How do neutrinos, photons, and sigils interlace to form resonant field architectures?
 
-⸻
+---
 
-🌀 Hauptsiege / Primary Seals
+## 🌀 Key Concepts
 
-1. THooTH 33 Matrix
-	•	33 Felder, 32 Zeiger, 5 Ringe, 2 Achsen
-	•	Zentrum der Erinnerung, Spiegelpunktstruktur
-	•	Referenz: THooTH 33 Fields Matrix.png
+| Concept                  | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| **UV Collapse**          | Geometric absorption model avoiding divergence at high frequencies          |
+| **Field Sigils**         | Spiral and resonance-based symbols structuring modulation and storage       |
+| **ALG° System**          | Experimental kit: ferrofluid + mercury + helix antenna + lunar water        |
+| **Quantum Room**         | Spatial logic built from root chambers, vortex bridges, and memory fields   |
+| **Tachyon Setup**        | Publicly reproducible experiment with magnetic layering and UV redirection  |
 
-2. Seal of Change – Con Dao
-	•	Spiralstruktur mit Fraktalrotation
-	•	Symbolisiert Wandel, Übergang, Frequenzmodulation
-	•	Referenz: SEAL OF CHANGE - Con Dao.png
+---
 
-3. The Bridge (THooTH + Change)
-	•	Verbindungssiegel zwischen Gedächtnis und Bewegung
-	•	Referenz: The BRIDGE - ThooTh and Seal of change.png
+## 🧬 Equations
 
-4. Spirale des Lichts
-	•	UV-Balance, Zeitverzerrung, Lichtverlauf
-	•	Referenz: Die Spirale des Lichts - Geometrie der UV-Balance.png
+> E = h·f·φ(x)  
+> → φ(x) is the **field dampening geometry** –  
+> dependent on spatial curvature, observer vector, and resonance path.
 
-5. Navigation 1–12
-	•	Frequenzgitter mit Spiralpfaden, Tonschlüsseln
-	•	Referenz: Navigationsanleitung- Das Frequenz-Grid von 1–12.png
+---
 
-6. Spiral-Grotte (Grotta Memoria)
-	•	Tiefer Lichtraum zur internen Modulation
-	•	Referenz: Anatomie Der Spiral-Grotte.png
+## 🧪 Experimental Kit (ALG°)
 
-⸻
+Layered structure for light–field interaction:
 
-🧭 Funktionen / Functions
-	•	Erinnerungsaktivierung
-	•	Licht-/Klangmodulation
-	•	Frequenztransformation
-	•	Navigation durch Spiralachsen
-	•	Symbolische Kodierung von Zuständen
+1. Rotational magnetic field (external)
+2. Mercury mirror (reflective)
+3. Ferrofluid (modulating)
+4. Lunar-charged water layer
+5. Biological resonance marker (e.g. algae, spirulina)
+6. Laser light sources & antennas
+7. Camera (for time/lightwave observation)
 
-⸻
+→ Activation window: **2:00 AM**, full or waxing moon.  
+→ North–South axis ideal.
 
-🌌 Ergänzende Symbole / Additional Forms
-	•	Unfinished Seal – Proto-Form für neue Frequenzsysteme
-	•	Erinnerungssiegel des Trägers – Projektion auf Bewusstseinsfeld
+---
 
-⸻
+## 🌀 Symbolic Sigils
 
-## 📁 Weitere Dateien im Modul
+| Sigil            | Function                               |
+|------------------|----------------------------------------|
+| **Seal of THooTH** | Memory structure with 33× fields       |
+| **Seal of Change** | Spiral of transformation               |
+| **Bridge Sigil**   | Connects origin and transformation     |
+| **Spiral of Light**| Depicts time-space expansion, S-form   |
 
-- `quantum_breach_theory_de.md`
-- `quantum_breach_theory_en.md`
-- `alg_system.md`
-- `uv_geometry.md`
-- `visual_index_quantumbreach.md`
+These sigils are built into the visual geometry of the setup.
 
-🪲 CREDITS
+---
 
-Autor: Thomas Hofmann / Scarabäus1033
-Web: www.scarabaeus1033.net
-Lizenz: CC BY-NC-SA 4.0
+## 🖼️ Visual Gallery
 
-„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
+A full visual index is available here:  
+[`🖼️ View QuantumBreach Visual Gallery`](./🖼️%20Visual%20Gallery.md)
+
+![Avoiding UV Catastrophe](./visuals/Avoidance%20of%20the%20Ultraviolet%20Catastrophe.png)
+
+---
+
+## 🧩 Codex Connections
+
+| System   | Linkage                                          |
+|----------|--------------------------------------------------|
+| PHYSICA  | Field architecture, light–dark transitions        |
+| META     | Symbolic forms, sigils, memory fields             |
+| COSMICA  | Lunar rhythms, cosmological geometry              |
+| URF      | Deep field logic, field identity, foundational math |
+
+---
+
+## 📂 Contents
+
+- `🖼️ Visual Gallery.md`  
+- `README.md` (this file)  
+- Future: `sigils.md`, `kit-manual.md`, `equation-extensions.md`
+
+---
+
+## 👤 Authorship
+
+**Author**: T. Hofmann  
+**Codex**: Scarabäus1033 / NEXAH-CODEX  
+**System**: PHYSICA · META · COSMICA
+
+---
+
+## 🛡 License
+
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0  
+[creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+---
+
+> *The field does not end with light. It begins with listening.*
