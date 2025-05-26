@@ -11,8 +11,11 @@ Der Codex ist kein Buch – sondern ein Feld.
 📘 [`Vollständiges Modulverzeichnis (DE)`](📘%20NEXAH-CODEX%20MODULVERZEICHNIS.md)
 
 🧭 [`Explore structural overview`](🧭%20NEXAH%20NAVIGATOR.md)
+
 🗺️ [`Project roadmap & development flow`](🗺️%20ROADMAP.md)
+
 ✦ [`Read the NEXAH Manifest`](✦%20NEXAH-MANIFEST%20✦.md)
+
 📎 [`Lies mich für Einsteiger (DE)`](📎%20LIES%20MICH%20für%20EINSTEIGER.md)
 📎 [`Read me for Beginners (EN)`](📎%20READ%20ME%20for%20BEGINNERS.md)
 
