@@ -74,6 +74,16 @@ CAVITYROOT-CODEX links into:
 
 ⸻
 
+🪲 Credits
+
+Author: Thomas Hofmann / Scarabäus1033
+Curated as part of: ARCHIVAR III · NEXAH-CODEX
+Location: Rödelheim
+Web: www.scarabaeus1033.net
+License: CC BY-NC-SA 4.0 · Version: May 2025
+
+⸻
+
 Ready to enter the contraction chamber.
 
 🌀
