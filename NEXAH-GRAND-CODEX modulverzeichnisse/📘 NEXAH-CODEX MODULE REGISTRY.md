@@ -2,7 +2,7 @@
 
 This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, including title, extended description, and system assignment. It serves as a navigator, content index, and thematic overview of the mathematical, physical, and symbolic layers of the NEXAH-CODEX.
  
----
+--- 
  
 ## 🔷 SYSTEM 1: MATHEMATICA – Primes, Symbolics, Proof Structures
 
