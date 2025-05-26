@@ -23,8 +23,7 @@ Dieses Verzeichnis listet alle Hauptmodule im Verzeichnis `NEXAH-CODEX-Startstru
 | `GRAND-CODEX/`               | GRAND-CODEX – Zentrale Formelsynthese  | Synthese aller Feldgleichungen (Einstein-Erweiterung, Neutrino-Struktur, Möbius-Topologie).     |
 | `Einstein-Neutrino-Vortex/` | Felderweiterung E = m·c·k^β            | Einbindung von Druck, Volumen, Neutrinokopplung für eine Gesamtenergiebilanz.                   |
 | `casimir-neutrino-thread.md`| Casimir–Neutrino-Faden                 | Quanten-Vakuumdruck, Casimir-Kräfte, Neutrino-Brückenfelder.                                    |
-| `QUANTUMBREACH-CODEX/`      | Quantum Breach – Schwelle des Lichts   | Symbolisch-physikalisches Modell zur Trennung von Photon und Neutrino, zur Auflösung der UV-Katastrophe und zur feldgebundenen Modulation. Enthält das ALG° KIT zur experimentellen Anwendung.
-                     |
+| `QUANTUMBREACH-CODEX/`      | Quantum Breach – Schwelle des Lichts   | Symbolisch-physikalisches Modell zur Trennung von Photon und Neutrino, zur Auflösung der UV-Katastrophe und zur feldgebundenen Modulation. Enthält das ALG° KIT zur experimentellen Anwendung.|
 | `CAVITYROOT-CODEX/`         | Cavityroot – Kristall-Thermalfelder    | Experimentelle Achsenmodelle mit Ferrofluid, Gallium und Lunarmetallen.                         |
 | `NEXA_QED_ALIWAVE/`         | ALIWAVE – Elektrosymbolische Felder    | QED-inspiriertes Frequenzmatrixmodell für elektroskalare Resonanzlogik.                         |
 | `NEXA_SILVER_RAIN/`         | Silberstrom – Katalysatorfluss         | Übergangsmetalle als Resonanzträger und Topologiekanäle in Frequenzfeldern.                     |
