@@ -44,6 +44,7 @@ The Codex invites:
 	•	Architects of theory → begin with the NEXAH Manifest
 	•	Visual system designers → view Visual Galleries in BLOOM or MÖBIUS modules
 	•	Artists, coders & cosmologists → explore Cosmica Astrophysica or Rosetta-Nexus
+	•	Artists, mystics & symbolic thinkers → explore CODEX_RES_ONICA_VIOLETTA (System 6: Violet Gate)
 	•	Those who think in fields, frequencies, forms, or myths → start anywhere
 
 You don’t have to understand everything at once. Every entrance is valid.
@@ -61,3 +62,4 @@ Feel free to explore, share, build, or translate. See LICENSE.md for conditions.
 
 🪲 Scarabäus1033 · 2025
 🔗 https://www.scarabaeus1033.net
+
