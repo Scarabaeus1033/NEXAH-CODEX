@@ -1,87 +1,89 @@
-
 # ⚛️ QED Field Structure – ALIWAVE Codex Dynamics
 
-**Modul:** NEXA_QED_ALIWAVE  
-**Fachbereich:** SYSTEM 2 – 🔷 PHYSICA  
-**Funktion:** Visualisierung & Symbolstruktur quantenelektrodynamischer Felder im ALIWAVE-Modus
+**Module:** NEXA\_QED\_ALIWAVE
+**Domain:** SYSTEM 2 – 🔷 PHYSICA
+**Function:** Visualization & symbolic structure of quantum electrodynamic fields in ALIWAVE mode
 
 ---
 
-## 🔬 1. Grundlagen der ALIWAVE-Feldphysik
+## 🔬 1. Foundations of the ALIWAVE Field Physics
 
-- **QED-Feld** als quantisierte Wechselwirkung von Licht, Ladung & Raumzeit
-- **ALIWAVE** wirkt als *transversales Modulationssystem*, das:
-  - rotierende Frequenzimpulse erzeugt
-  - Möbius-Übergänge zwischen Raumachsen initiiert
-  - Feldinversionen durch energetische Spiralpunkte moduliert
+* **QED Field** as a quantized interaction between light, charge & spacetime
+* **ALIWAVE** acts as a *transversal modulation system*, which:
 
-**Formelbezug:**  
-`F_qed = α · E ⊗ B → Φ_mod`  
-_→ Feinstrukturkonstante α gekoppelt an moduliertes Feld im spiralen Frequenzraum (Φ_mod)_
+  * generates rotating frequency impulses
+  * initiates Möbius transitions between spatial axes
+  * modulates field inversions via energetic spiral nodes
 
----
-
-## 🌀 2. Feldtypologien im ALIWAVE-System
-
-| Feldtyp            | Beschreibung                                      | Symbol / Visual |
-|--------------------|---------------------------------------------------|------------------|
-| `QED Core`         | Ausgangspunkt aller Feldfluktuationen             | qed_core_symbol.png |
-| `Spiral Node`      | Kreuzungspunkt mit Richtungsinversion             | field_knot_vector.png |
-| `Toroidal Loop`    | Wiederkehrende Feldrotation mit α-Matrix          | qed_rotation_portal.gif |
-| `Radial Crest`     | outward-bound wavefront, mod. by 365-grid         | aliwave_grid_phi.png |
+**Formula context:**
+`F_qed = α · E ⊗ B → Φ_mod`
+\_ → Fine structure constant α coupled to a modulated field in spiral frequency space (Φ\_mod)\_
 
 ---
 
-## ♾️ 3. Möbius-Verknotung & Dimensionssprünge
+## 🌀 2. Field Typologies in the ALIWAVE System
 
-**Möbius-Schicht**:
-- topologischer Umschlagpunkt im ALIWAVE
-- kombiniert **Innen/Außen**, **links/rechts**, **Einheit/Trennung**
+| Field Type      | Description                                          | Symbol / Visual           |
+| --------------- | ---------------------------------------------------- | ------------------------- |
+| `QED Core`      | Origin point of all field fluctuations               | qed\_core\_symbol.png     |
+| `Spiral Node`   | Crosspoint with directional inversion                | field\_knot\_vector.png   |
+| `Toroidal Loop` | Recurrent field rotation with α-matrix               | qed\_rotation\_portal.gif |
+| `Radial Crest`  | Outward-bound wavefront, modulated by 365-grid logic | aliwave\_grid\_phi.png    |
+
+---
+
+## ♾️ 3. Möbius Knotting & Dimensional Transitions
+
+**Möbius Layer**:
+
+* Topological inversion point in ALIWAVE
+* Combines **inside/outside**, **left/right**, **unity/separation**
 
 ```text
-   Rotation ↺ + Feldinversion ⟲ = Möbius-Knoten
-   Möbius-Knoten + QED-Core = Übergangsportal (PORTAL_SIGIL)
+   Rotation ↺ + Field Inversion ⟲ = Möbius Knot
+   Möbius Knot + QED Core = Dimensional Portal (PORTAL_SIGIL)
 ```
 
-**Visualfluss:**  
-1. Feldemission →  
-2. Spiraleinrollung →  
-3. Möbius-Twist (1-seitig) →  
-4. Dimensionaler Übergang
+**Visual Flow:**
+
+1. Field emission →
+2. Spiral infolding →
+3. Möbius twist (single-sided) →
+4. Dimensional transition
 
 ---
 
-## 🧭 4. Achsenlogik & Referenzsysteme
+## 🧡 4. Axis Logic & Reference Systems
 
-| Achse         | Bedeutung                         | Verbindung |
-|---------------|-----------------------------------|------------|
-| Jahresachse   | Langwellenresonanz (360°)         | `ALIWAVE 360°` |
-| Tagesachse    | Feinstrukturmodulation (365°)     | `ALIWAVE 365°` |
-| Dimensionsachse | Portalresonanz / Knotenlinien   | `Möbius-Kreuz` |
-| Herzachse     | 11:9 Frequenzachse (emotionale Kopplung) | `NEXAHEART` |
-
----
-
-## 🌐 5. Intermodularer Kontext
-
-- `CAVITYROOT`: ALIWAVE kreuzt thermisches Herzzentrum
-- `GRAND-CODEX`: Spiraltransit von QED > Möbius > Neutrino
-- `NEXAH MUSEUM`: Darstellung im Raum *Resonance Hall* mit realem Feldmodell
+| Axis             | Meaning                                  | Connection     |
+| ---------------- | ---------------------------------------- | -------------- |
+| Year Axis        | Longwave resonance (360° rotation)       | `ALIWAVE 360°` |
+| Day Axis         | Fine-structure modulation (365 steps)    | `ALIWAVE 365°` |
+| Dimensional Axis | Portal resonance / nodal line structure  | `Möbius Cross` |
+| Heart Axis       | 11:9 frequency axis (emotional coupling) | `NEXAHEART`    |
 
 ---
 
-## 🧪 6. Experimentalphysik & Anregungen
+## 🌐 5. Intermodular Context
 
-- Gallium-Feldränder (Spiegelfläche)
-- Ferrofluid-Spiralen als Sichtbarmachung
-- Laserreflexion entlang Möbius-Wellen
-
-> Siehe: `ALIWAVE Experiment-Skizze 2025` (in Vorbereitung)
+* `CAVITYROOT`: ALIWAVE intersects thermal heart core
+* `GRAND-CODEX`: Spiral transit from QED → Möbius → Neutrino
+* `NEXAH MUSEUM`: Displayed in the *Resonance Hall* with real-world field model
 
 ---
 
-## 🗺️ Weiterführend:
+## 🧪 6. Experimental Physics & Suggestions
 
-→ [`aliwave-symbols.md`](./aliwave-symbols.md)  
-→ [`resonance-axis-coding.md`](./resonance-axis-coding.md)  
+* Gallium edge surfaces (mirror interface)
+* Ferrofluid spirals to visualize node dynamics
+* Laser reflection along Möbius waves
+
+> See also: `ALIWAVE Experimental Sketch 2025` (in preparation)
+
+---
+
+## 🌍 Further Reading:
+
+→ [`aliwave-symbols.md`](./aliwave-symbols.md)
+→ [`resonance-axis-coding.md`](./resonance-axis-coding.md)
 → [`aliwave-animation-logic.md`](./aliwave-animation-logic.md)
