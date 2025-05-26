@@ -28,9 +28,7 @@ Each visual represents a symbolic or scientific facet of the resonance theory ar
 
 ## 📌 Featured Visual (embedded)
 
-<p align="center">
-  <img src="./Avoidance of the Ultraviolet Catastrophe.png" width="700" alt="Avoidance of the Ultraviolet Catastrophe">
-</p>
+![Avoidance of the Ultraviolet Catastrophe](./visuals/Avoidance%20of%20the%20Ultraviolet%20Catastrophe.png)
 
 > **Avoidance of the Ultraviolet Catastrophe**  
 > Spiral-based damping structure showing how high-frequency radiation collapses geometrically into coherence.
