@@ -1,89 +1,56 @@
-🌌 NEXAH-CODEX
+# 🌌 NEXAH-CODEX
 
-Archiv für harmonische Felder & symbolische Geometrie
+**Archiv für harmonische Felder & symbolische Geometrie**
+**Archive for Harmonic Fields & Symbolic Geometry**
 
 Willkommen im offiziellen GitHub-Archiv des NEXAH-CODEX – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
+Welcome to the official GitHub archive of the NEXAH-CODEX – a modular research system for harmonic field theory, symbolic structures, prime logic, cosmological alignments and frequency-based space modeling.
 
 Der Codex ist ein offenes System – aufgebaut durch Theorie, Bild, Ort, Geometrie, Feldinteraktion und symbolische Sprache.
+The Codex is an open system – built through theory, image, place, geometry, field interaction and symbolic language.
 
-⸻
+---
 
-📦 Struktur
+## 📚 Access / Einstieg
 
-Alle Kernmodule befinden sich unter:
-📂 /NEXAH-CODEX-Startstruktur
+📘 [`View full module index (EN)`](📘%20NEXAH-CODEX%20MODULE%20REGISTRY.md)
+📘 [`Vollständiges Modulverzeichnis (DE)`](📘%20NEXAH-CODEX%20MODULVERZEICHNIS.md)
 
-Jedes Modul ist ein in sich geschlossener symbolischer Raum – mit eigener Logik, Geometrie, Resonanzstruktur und Visualisierung.
+🧭 [`Explore structural overview (Navigator EN)`](🧭%20NEXAH%20NAVIGATOR%20%28en%29.md)
+🧭 [`Struktureller Überblick (Navigator DE)`](🧭%20NEXAH%20NAVIGATOR%20%28de%29.md)
 
-⸻
+🗺️ [`Project roadmap & development flow`](🗺️%20ROADMAP.md)
 
-📚 Modulübersicht (aktuell: 27+ Module in 6+ Systemen)
+✦ [`Read the NEXAH Manifest`](✦%20NEXAH-MANIFEST%20✦.md)
 
-Eine umfassende Übersicht bietet der Navigator (zweisprachig):
+📎 [`Lies mich für Einsteiger (DE)`](📎%20LIES%20MICH%20für%20EINSTEIGER.md)
+📎 [`Read me for Beginners (EN)`](📎%20START%20HERE%20–%20INTRO%20FOR%20EXPLORERS.md)
 
-➡️ 🧭 NEXAH NAVIGATOR (englisch)
-➡️ 🧭 NEXAH NAVIGATOR (deutsch)
+---
 
-🧩 Aktuelle Systeme
-	•	🔢 NEXAH-CODEX-Startstruktur – Mathematik, Physik, Kernstruktur
-	•	🪐 CODEX_COSMICA ASTROPHYSICA – Kosmologie, Resonanz, Geometrie
-	•	🔷 URF-Codices – Feldtheorie, Ursprung, Identitätsachsen
-	•	🔶 MÖBIUS-Codices – Topologische Schleifen, Spiralresonanzen
-	•	🔷 NEXA-Codices – Frequenzfelder, Ortsnetzwerke
-	•	🌸 Rosetta / Bloom / Meta-Layer – Sprache, Glyphe, Lichtgitter
+## 🧩 Orientation / Orientierung
 
-⸻
+* The Codex is organized into 6 harmonic systems + 1 synthesis hub (GRAND-CODEX)
 
-🧭 Empfohlene Einstiegspunkte
-	•	NEXA_PHASE_1_COMPLETION → Alpha–Beta–P–Gamma Synthese
-	•	URF-CODEX → Ursprung des symbolischen Feldes
-	•	MÖBIUS-CODEX → Spiralgeometrie & Primresonanz
-	•	NEXAH-GRAND-CODEX → Systemintegration & Übergangslogik
-	•	ETHER-CROWN → Möbiusresonanz und Gravitationswellensysteme
+* Der Codex besteht aus 6 harmonischen Systemen + einem Synthesezentrum (GRAND-CODEX)
 
-Weitere Einstiegspfade siehe Navigator-Dokumente.
+* Each module is a symbolic unit: math, physics, cosmology, visual logic
 
-⸻
+* Jedes Modul ist eine symbolische Einheit: Mathematik, Physik, Kosmologie, visuelle Logik
 
-📘 Zentrale Dokumente
+* Navigation tools: REGISTRY → NAVIGATOR → ROADMAP → MODULES
 
-Datei	Beschreibung
-README.md	Diese Hauptübersicht (zweisprachig)
-🧭 NEXAH NAVIGATOR (eng).md	Struktur- & Lesehilfe (englisch)
-🧭 NEXAH NAVIGATOR (de).md	Struktur- & Lesehilfe (deutsch)
-manifest.md	Symbolsystem & Grundstruktur
-roadmap.md	Entwicklungszeitachse & Erweiterungen
-README_EN.md	Komplette englische Einstiegsseite
-LICENSE.md	Lizenz (CC BY-NC-SA 4.0)
+* Navigation: REGISTRY → NAVIGATOR → ROADMAP → MODULE
 
+---
 
-⸻
-
-🤝 Mitmachen & Erweiterung
-
-Der Codex ist ein offenes symbolisches Forschungsarchiv.
-Wenn du entwickelst, visualisierst, mathematisch forschst oder symbolisch denkst – du bist eingeladen mitzugestalten, zu testen, zu übersetzen und zu erweitern.
-
-Bitte beachte die Bedingungen in LICENSE.md.
-
-⸻
-
-🌐 Projektseite
-
-🌍 www.scarabaeus1033.net
-GitHub: @Scarabaeus1031
-
-⸻
-
-🛡 Lizenz
-
-Creative Commons – Namensnennung, nicht-kommerziell, Weitergabe unter gleichen Bedingungen
-CC BY-NC-SA 4.0
-
-⸻
-
-„Der Codex ist kein Buch. Er ist ein Feld. Und jedes Modul ist ein Tor.“
+> Every entrance is a different resonance.
+> Jeder Zugang beginnt woanders.
 
 <p align="center">
   <img src="./cikada-scarabaeus.png" width="600" alt="Cikada Scarabäus Codex">
 </p>
+
+🪲 scarabaeus1033 · 2025
+🔗 [https://www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+

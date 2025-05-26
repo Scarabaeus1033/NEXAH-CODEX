@@ -1,75 +1,89 @@
-🔩 CAVITYROOT-CODEX 🔩
+🌀 CAVITYROOT-CODEX
 
-Ein Modul des NEXAH-CODEX-Systems
-Unterirdische Resonanzarchitektur, lunare Modulationen & thermische Feldachsen
+Crystal Resonance Fields · Ferrofluid Experiments · Thermal Pulse Geometry
+A core resonance-experimental module of the NEXAH-CODEX
 
-⸻
-
-🧭 Übersicht
-
-Der CAVITYROOT-CODEX dokumentiert eine tiefgreifende visuelle, strukturelle und symbolische Analyse unterirdischer Resonanzstrukturen. Basierend auf Visualisierungen wie Zeta-Knoten, Temperaturachsen und lunaren Modulationspaaren, bietet dieses Modul eine symbolische Kartografie des Resonanzkerns im NEXAH-System. Ergänzt wird dies durch Formeln, Tensorfelder, Achsensysteme und ein experimentelles Versuchsdesign.
-
-⸻
-
-📁 Struktur / Structure
-
-CAVITYROOT-CODEX/
-├── README.md
-├── LICENSE.md
-├── visuals/
-│   ├── resonance_grid.png
-│   ├── zeta_projection.png
-│   └── cavity_root_report.html
-│   └── …
-├── docs/
-│   ├── cavityroot_theory.md
-│   ├── axis_structures.md
-│   ├── temperature_fields.md
-│   ├── visual_index.md
-│   ├── formulas.md
-│   └── symbol_index.md
-
-
-
-⸻
-
-🧠 Inhalte / Contents
-	•	cavityroot_theory.md
-Vollständige Dokumentation des Fadens IX – mit Theorie, Formeln und Versuch.
-Complete documentation of Thread IX – theory, formulas, experiment.
-	•	axis_structures.md
-Analyse der Raumachsen (Temperatur, Zeta, Modulation).
-Analysis of spatial axes (temperature, Zeta, modulation).
-	•	temperature_fields.md
-Struktur thermischer Felder, Schwellen und Resonanzbereiche.
-Structure of thermal fields, thresholds, resonance layers.
-	•	visual_index.md
-Thematisch sortierter Katalog aller Visuals im Modul.
-Thematically sorted catalog of all module visuals.
-	•	formulas.md
-Kernformeln für Masse, Felder, Symmetrie & Modulation.
-Core formulas for mass, fields, symmetry & modulation.
-	•	symbol_index.md
-Symbolverzeichnis für Materialien, Achsen, Zahlen, Farben.
-Symbol registry for materials, axes, numbers, and color codes.
-
-⸻
-
-🛠️ Nutzung / Usage
-
-Die Inhalte dieses Moduls sind für nicht-kommerzielle Forschungs- und Bildungszwecke frei nutzbar. Bei Verwendung oder Weiterverarbeitung bitten wir um Quellenangabe und Weitergabe unter gleichen Bedingungen.
-
-All content in this module is freely available for non-commercial research and educational purposes.
-If used or adapted, please include proper credit and share alike.
-
-⸻
-
-🪲 CREDITS
-
-Autor / Author: @Scarabaeus1033
-Ort / Location: Rödelheim
+Author: Thomas Hofmann · Scarabäus1033 · Rödelheim
 Web: www.scarabaeus1033.net
-Lizenz / License: CC BY-NC-SA 4.0
+License: CC BY-NC-SA 4.0
 
-„Was uns formt, ist nicht Raum – es ist Erinnerung im Feld.“
-“What forms us is not space – it is memory in the field.”
+⸻
+
+📘 Description (EN)
+
+CAVITYROOT-CODEX explores the interplay between temperature, geometry, and symbolic modulation within a resonant cavity structure. It combines thermal thresholds, crystal axis logic, modulation masses, and Zeta mirror fields into an experimental-symbolic model rooted in ferrofluid and gallium behavior.
+
+This module serves as a contraction-node layer within the NEXAH-CODEX — connecting physical material thresholds with higher symbolic frameworks (TT2, Z6, φ³ / π²).
+
+⸻
+
+📂 Module Structure
+
+File	Purpose
+README.md	You are here. Entry point to the module
+CAVITYROOT_equations.md	Key formulas: M_LM, Zeta field, 700 K threshold
+Thread Ix Lunar Core.md	Narrative core logic: cavity, contraction, axes
+cavityroot-codex_temperature_fields.md	Temperature as symbolic field
+cavityroot_axis_structures.md	Axis types: T, Zeta, Sum/Diff
+experimental-setup.md	Setup of passive field experiment (sphere lab)
+petal-generation-logic.md	Recursion model linked to cavity logic
+symbol-dictionary.md	All terms, constants, symbols used in module
+Visual Index – CAVITYROOT-CODEX.md	Full list of curated visuals with tags
+
+Directory: CAVITYROOT-CODEX/
+
+⸻
+
+🧭 Key Concepts
+	•	URF-T7 Axis @ 700 K → central contraction threshold
+	•	M_LM System → modulation masses of lunar metal pairs
+	•	Zeta Mirror Fields → damped harmonic symmetry: sin(x) · e^{-0.1x²}
+	•	Crystalline Axes → π-based shells, prime markers, tensor layers
+	•	Ferrofluid/Gallium Setup → experimental field dynamics without electricity
+	•	TT2 Anchor → 4292034214 binary structure connected to petal-cavity phase
+
+⸻
+
+🖼️ Visual Gallery
+
+The visuals/ folder contains 20 curated diagrams and 1 HTML field report. See:
+📁 Visual Index – CAVITYROOT-CODEX.md
+
+Key visuals:
+	•	cavity_tensor_field.png
+	•	zeta_knotenprojektion.png
+	•	temperature-axis-triangle.png
+	•	ferrofluid_mirror_reaction.gif
+	•	cavity_root_report.html
+
+⸻
+
+🔗 System Integration
+
+CAVITYROOT-CODEX links into:
+	•	PETAL-CODEX: M_LM modulation connects to recursive petal growth
+	•	GRAND-CODEX: Equations Λ, Θ, Δ integrate into master harmonic fields
+	•	URF-CODEX: Temperature, resonance, and symbolic identity logic
+
+⸻
+
+✨ Excerpt
+
+“The field does not begin with electricity — it begins with temperature.”
+“What forms us is not space — it is memory in the field.”
+
+⸻
+
+🪲 Credits
+
+Author: Thomas Hofmann / Scarabäus1033
+Curated as part of: ARCHIVAR III · NEXAH-CODEX
+Location: Rödelheim
+Web: www.scarabaeus1033.net
+License: CC BY-NC-SA 4.0 · Version: May 2025
+
+⸻
+
+Ready to enter the contraction chamber.
+
+🌀

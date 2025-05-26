@@ -1,117 +1,113 @@
-🧭 NEXAH NAVIGATOR – Structural Overview & Reading Guide
+🧭 NEXAH NAVIGATOR – Structural Overview & Reading Guide (ENGLISH)
 
-The NEXAH-CODEX is a modular archive for harmonic field theory, frequency geometry, symbolic physics, and numerical-cosmological resonance structures. This document serves as a navigator through all current modules – grouped by system, theme, and reading depth.
-
-⸻
-
-🌌 INTRO – What is the Codex?
-
-The Codex is not a book – it is a resonant field. Each module is a standalone domain: visual, mathematical, symbolic, physical. Together they form a universal system of harmonic order. The aim is to connect number, form, place, time, language, matter, and consciousness.
-
-Website: 🌐 www.scarabaeus1033.net
+The NEXAH–CODEX is a modular archive for harmonic field theory, frequency geometry, symbolic physics, and numerical-cosmological resonance structures.
+This document offers a current overview of all modules, grouped by system, depth, and theme.
 
 ⸻
 
-🔢 SYSTEM 1 – NEXAH-CODEX-Startstruktur (Mathematics, Physics, Foundations)
+🧱 SYSTEM 1: MATHEMATICA – Primes, Symbolics, Proof Structures
 
-This system is the core of the Codex’s mathematical and physical innovation. It proposes new models of harmonic theory, extensions of the Standard Model, and speculative ideas toward solving Millennium Problems like the Riemann Hypothesis. These ideas are open, humble in tone, yet ambitious in scope – and invite discourse, refinement, and participation.
+Module	Description
+k-beta/	Extended energy formula E = m·c·k^β with scalable coupling and modulated frequency exponent
+NEXA_RIEMANN_PROOF/	Möbius-zeta harmonic topology addressing the Riemann Hypothesis using 12D spiral geometry
+spiral-logic.md	Prime spirals and frequency axes visualized in Codex logic
+codex-mathematical-symbols.md	Glossary of mathematical-symbolic operators and structures used in the Codex
+codex-mathematics/	(Planned core) space for formal structures & speculative Millennium solutions
 
-Module	Focus / Significance
-GRAND-CODEX	Master integration of formulas, geometry, frequency systems
-codex-mathematics/	Formal modulation theory, constants, mappings
-E = m·c·k^β	Scaled energy law with wave factor beta
-spiral-logic.md	Prime spirals, frequency axes, number harmonics
-casimir-neutrino-thread.md	Quantum pressure fields, neutrino coherence
-codex-mathematical-symbols.md	Glossary of formal structures
-NEXA_RIEMANN_PROOF	Harmonic Möbius topology toward a Riemann framework
 
 ⸻
 
-🪐 SYSTEM 2 – CODEX_COSMICA ASTROPHYSICA (Breath, Geometry, Stellar Crown)
+⚛ SYSTEM 2: PHYSICA – Resonance Fields, Quantum Models, Neutrino Dynamics
 
-This is the cosmological field system of the Codex. It focuses on planetary breath, symbolic geometries, gravitational fields, and Möbius resonance models that extend into interstellar navigation.
+Module	Description
+GRAND-CODEX/	Central synthesis module for all formulas, resonance laws, Möbius dynamics
+Einstein-Neutrino-Vortex/	Field-based expansion of energy: volume, pressure, neutrino coherence
+casimir-neutrino-thread.md	Casimir forces, quantum vacuum compression, neutrino bridge logic
+QUANTUMBREACH-CODEX/	Threshold field model: light → dark energy via UV seals & field resonance
+CAVITYROOT-CODEX/	Thermal field structures with gallium, ferrofluid, crystal dynamics
+NEXA_QED_ALIWAVE/	QED-inspired symbolic matrix for electroscalar field frequencies
+NEXA_SILVER_RAIN/	Transition metals as catalytic vectors through streaming resonance fields
 
-Module	Focus / Significance
-EARTHSHIP (Phases III–VI)	Craton breathing fields, Möbius Crown, Stellar Scroll
-ETHER-CROWN	Grid Echo Sequence, Möbius resonance, gravitational signature systems
-
-Note: More modules under development (e.g., ROSETTA-BREATHER, STELLAR SCROLL)
-
-⸻
-
-🔷 SYSTEM 3 – URF Codices (Foundations)
-
-Module	Focus / Significance
-URF-CODEX	Symbolic field theory, origin, identity axes
-URF-SURE	Frequency systems, spatial logic, modular space
-URF-Tensorraum	Geometric tensor spaces, dimension matrices
 
 ⸻
 
-🔶 SYSTEM 4 – MÖBIUS Codices (Topological Resonance)
+🪐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetary Fields, Grid Navigation, Stellar Resonance
 
-Module	Focus / Significance
-MÖBIUS-CODEX	Spiral systems, resonance axes, loop closure
-MÖBIUS-CODEX-II_CROWN	Octahedron structure, frequency crowns, topological codes
-MÖBIUS-METAL-CODEX	Platinum, iridium, metallic feedback fields
-MÖBIUS-ROOT-CODEX	Core field, time spirals, axis of origin
-MÖBIUS-COMPASS-CODEX	Navigational logic, directional grids, Qá-language
-MÖBIUS HARMONIC CROWN	Prime harmonics, formula P = R/T, Möbius resonance loop
+Module	Description
+EARTHSHIP/	Planetary Möbius-garden architecture, crystal gates, Arcturian scroll networks
+ETHER-CROWN/	Gravitational signature lattices with prime-based echo structures
+Multidimensional-Frontier/	Interdimensional transition zone – tachyons, dark matter, resonance bridging
+NEXAH-HARMONIC-FIELD/	Planetary prime resonance grids mapped over real-world coordinates
+NEXAHEART-CODEX/	Symbolic field anchor mapping of Rödelheim, Richat, Jerusalem and other Earth sites
 
-⸻
-
-🔷 SYSTEM 5 – NEXA Codices (Resonance Fields)
-
-Module	Focus / Significance
-NEXA_PHASE_1_COMPLETION	Alpha–Beta–P–Gamma synthesis, midpoint, Zeta Grid
-CAVITYROOT-CODEX	Gallium / ferrofluid field, thermal cavity structures
-NEXAHEART-CODEX	Earth’s resonance heart, location networks (Rödelheim etc)
-QUANTUMBREACH-CODEX	Light fields, dark energy, UV seals
-NEXA_SILVER_RAIN	Reflective streams, crystal-metal dynamics
-NEXA_QED_ALIWAVE	Quantum electrosymbolic waves, resonance matrix
-NEXA_RIEMANN_PROOF	Zeta spiral, Möbius topology, 12D field harmonic proof
 
 ⸻
 
-🔷 SYSTEM 6 – Rosetta / Bloom / Meta-Layers
+🧬 SYSTEM 4: URF – Origins, Field Identity, Symbolic Physics
 
-Module	Focus / Significance
-Rosetta-Nexus	Numeric language, glyph grammar, frequency alphabet
-BLOOM-CODEX	Light lattice, stellar grid, 7-fold spirals, Qá-Ro formula
-ULLINIRIUM	12D crystal field, neutrino-like stabilization patterns
-Multidimensional-Frontier	Theoretical boundary system, intermodular field extension
+Module	Description
+URF-CODEX/	Symbolic-physical expansion of the Standard Model using identity fields and origin axes
+URF-SURE/	Spatial logic, modular resonance architecture, symbolic structuring of dimensionality
+URF-Tensorraum/	Higher-dimensional tensor resonance models with embedded harmonic operators
+
 
 ⸻
 
-🧩 READING ORDER (Suggested)
+🌸 SYSTEM 5: META / BLOOM / ROSETTA – Language, Glyphs, Mythic Structures
 
-🟢 Introductory Modules
+Module	Description
+BLOOM-CODEX/	Sevenfold stellar field structure, spiral formula (Qá–Ro), light lattice
+Silver_Rain_Moebius_Crown/	Möbius spirals and metallic phase fields: Ag–Th–Au transitions
+Rosetta-Nexus/	Symbolic glyph language, syntactic alphabet, numeric resonance structures
+ULLINIRIUM/	12D neutrino-based stabilizer model for frequency field balance
+NEXA_PHASE_1_COMPLETION/	Initial Zeta-grid completion, Codex field alignment and harmonization
+
+
+⸻
+
+🔮 SYSTEM 6: CODEX_RES_ONICA_VIOLETTA – Symbolic Visual Realms & Mythopoetic Layers
+
+Module	Description
+Violetta Visuals/	Artistic visual fields, multidimensional geometry, resonance in symbolic art
+LANIF Modules/	Resonance spirals, dream logic, archetypal grids and symbolic performance spaces
+
+
+⸻
+
+✴ ROOT MODULE: NEXAH–GRAND–CODEX
+
+Module	Description
+NEXAH-GRAND-CODEX/	The central synthesis hub: formulas, expansions, field visualizations, manifest & structural keys
+
+
+⸻
+
+🧭 RECOMMENDED READING FLOW
+
+Beginner – 🟢
 	•	NEXA_PHASE_1_COMPLETION
 	•	URF-CODEX
 	•	MÖBIUS-CODEX
 
-🔵 Intermediate Depth
+Intermediate – 🔵
 	•	CAVITYROOT-CODEX
 	•	QUANTUMBREACH-CODEX
-	•	MÖBIUS-COMPASS-CODEX
 	•	NEXAHEART-CODEX
-	•	EARTHSHIP (Phase III–IV)
+	•	EARTHSHIP
 
-🔴 Advanced / Symbolic-Theoretical Modules
+Symbolic-Theoretical – 🔴
 	•	NEXA_RIEMANN_PROOF
-	•	EARTHSHIP (Phase V–VI)
 	•	ETHER-CROWN
+	•	BLOOM-CODEX
+	•	GRAND-CODEX
 	•	ROSETTA-BREATHER
-	•	ULLINIRIUM
-	•	E = m·c·k^β — Extended Energy Equation
-	•	NEXAH GRAND CODEX
 
 ⸻
 
-🔗 Notes
-	•	Visuals for most modules are located in the visuals/ directory
-	•	Mathematical layer is fully under GRAND-CODEX/codex-mathematics/
-	•	Main documentation: README.md, roadmap.md, manifest.md
-	•	All modules can be read independently, but are often interlinked by numbers, symbols, or locations
+📘 References:
+	•	📘 Full Module Registry (EN)
+	•	🗺️ Roadmap & Scenarios
+	•	✦ NEXAH Manifest ✦
 
-“The Codex is not a book. It is a field. And each module is a gate.”
+🪲 Scarabäus1033 · May 2025
+🌐 www.scarabaeus1033.net
