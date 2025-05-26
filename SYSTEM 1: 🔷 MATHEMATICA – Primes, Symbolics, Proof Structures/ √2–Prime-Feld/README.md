@@ -18,10 +18,10 @@ This module bridges number theory with resonance geometry and underpins the **co
 ## 🎨 Visual Introduction
 
 **Visual 1:** Prime Lattice Resonance Spiral  
-![Prime Spiral](./%E2%88%9A2%E2%80%93PRIME-FIELD_DUALSPIRAL.png)
+![Prime Spiral](./Dual%20Spiral%20Field-%20%CF%86%20vs.%20%E2%88%9A2%20vII.png)
 
 **Visual 2:** Prime Distribution with √2 Slope Projection  
-![Slope Visual](./%E2%88%9A2%E2%80%93PRIME-FIELD_SLOPE.png)
+![Slope Visual](./Dual%20Spiral%20Field-%20%CF%86%20vs.%20%E2%88%9A2%20vI.png)
 
 The second image encodes:
 - Prime projection onto real number line
@@ -82,6 +82,6 @@ This module thus supports the `GRAND-CODEX` resonance logic with a foundational 
 
 ---
 
-> „The irrational guides the prime. The slope becomes the signature.“
+> “The irrational guides the prime. The slope becomes the signature.”
 
 ---
