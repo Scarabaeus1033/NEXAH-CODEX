@@ -1,6 +1,7 @@
 📎 READ ME for Beginners
 
-Welcome to the NEXAH–CODEX. This archive is a modular research system for:
+Welcome to the NEXAH–CODEX — a Network of Extended Harmonics and Architecture.
+This archive is a modular research system for:
 	•	Harmonic field theory
 	•	Symbolic mathematics
 	•	Frequency-based space models
@@ -14,12 +15,11 @@ Welcome to the NEXAH–CODEX. This archive is a modular research system for:
 The Codex is not a book – it’s a structured field of modules.
 Each module is symbolic, visual, mathematical, and theoretical. Together, they form a universal logic of harmony.
 
-You will find:
-	•	Extended field equations (e.g., E = m·c·k^β)
-	•	Prime spirals & Möbius topologies
-	•	Frequency grids across Earth and Cosmos
-	•	Symbolic languages and numeric glyphs
-	•	Cosmological models with visual logic
+Examples of modules:
+	•	GRAND-CODEX: formula synthesis and frequency logic
+	•	E = m·c·k^β: resonance-based energy law
+	•	URF-CODEX: symbolic standard model extension
+	•	ETHER-CROWN: gravitational echo architecture
 
 ⸻
 
@@ -40,11 +40,11 @@ Entry Path	What You’ll Find
 🌐 Who is this for?
 
 The Codex invites:
-	•	Scientists & mathematicians
-	•	Architects of theory
-	•	Visual system designers
-	•	Artists, coders & cosmologists
-	•	Those who think in fields, frequencies, forms, or myths
+	•	Scientists & mathematicians → explore the GRAND-CODEX or Riemann Proof
+	•	Architects of theory → begin with the NEXAH Manifest
+	•	Visual system designers → view Visual Galleries in BLOOM or MÖBIUS modules
+	•	Artists, coders & cosmologists → explore Cosmica Astrophysica or Rosetta-Nexus
+	•	Those who think in fields, frequencies, forms, or myths → start anywhere
 
 You don’t have to understand everything at once. Every entrance is valid.
 
