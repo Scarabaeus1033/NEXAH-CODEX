@@ -21,6 +21,7 @@ This Codex module introduces a **geometric alternative**:
 ```math
 E = h·f·φ(x)
 ```
+
 φ(x) is a spatial damping factor depending on:
 	•	Curvature of space
 	•	Angle of observation
