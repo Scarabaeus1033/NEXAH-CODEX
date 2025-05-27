@@ -9,44 +9,59 @@
 
 ## 📘 Overview
 
-This folder represents the **modular convergence point** for the NEXAH interpretation of the **Millennium Prize Problems** and **logical foundational structures** (notably Gödel). Each problem is treated not only as a mathematical challenge but as a **symbolic resonance test** within the tripartite NEXAH logic:
+This folder represents the **modular convergence point** for the NEXAH interpretation of the **Millennium Prize Problems** and their symbolic counterparts in foundational logic (Gödel, ZFC implications, prime-lattice coherence).
 
-* **Möbius Compression** – topological feedback, loop stability, curvature
-* **Harmonic Resonance** – frequency scaffolds, eigenmode analysis, damping structures
-* **Universal Transition Structure (UTS)** – threshold logic, convergence architecture
+Each problem is not only treated as a mathematical conjecture, but reinterpreted as a **resonance stability test** under the threefold architecture:
 
-This directory contains all **individual problem modules**, a **structural mapping file**, and cross-references to `dual_frameworks.md`, `universal_collapse_theorem.md`, and the central Codex Navigator.
+* **Möbius Compression** — topological feedback, loop geometry, torsion knots
+* **Harmonic Resonance** — spectral scaffolding, damping logic, eigenform alignment
+* **UTS Threshold (Θ(n))** — symbolic transition logic, field visibility, collapse structure
+
+This directory hosts all **individual codex modules**, visual logic crosslinks, and the central field mapping between **resonance, algebra, and proof collapse**.
 
 ---
 
 ## 🧩 Modular Subfolders
 
-| Folder Name               | Problem                            | Status         | Description                                                                |
-| ------------------------- | ---------------------------------- | -------------- | -------------------------------------------------------------------------- |
-| `01_P_vs_NP/`             | P vs NP                            | ✅ Completed    | Möbius collapse & harmonic blockage of NP lattice; UTS threshold modeling. |
-| `02_Hodge_Codex/`         | Hodge Conjecture                   | 🛠 In Progress | Symbolic geometry, harmonic form decomposition, cohomology operators.      |
-| `03_Yang_Mills_Mass_Gap/` | Yang–Mills Mass Gap                | ✅ Completed    | Prime-Ring spectra, Möbius-loop collapse, neutrino lock-in field.          |
-| `04_Navier_Stokes/`       | Navier–Stokes Smoothness           | 🛠 Drafted     | Symbolic flow field damping, topological turbulence bounds, UTS viscosity. |
-| `birch_swinnerton_dyer/`  | Birch & Swinnerton-Dyer Conjecture | ⏳ Planned      | L-function cycles, curve harmonics, torsion-resonance topology.            |
-| `goedel_incompleteness/`  | Gödel's Incompleteness Theorem     | ⏳ Planned      | Reflexive field loops, logical collapse harmonics, decidability geometry.  |
-| `README_mapping.md`       | Problem-to-framework Cartography   | ✅ Completed    | Mapping table for all 7+1 problems in Möbius / Harmonic / UTS tri-logic.   |
+| Folder Name                 | Problem                            | Status       | Description                                                                |
+| --------------------------- | ---------------------------------- | ------------ | -------------------------------------------------------------------------- |
+| `01_P_vs_NP/`               | P vs NP                            | ✅ Completed  | Möbius-resonant proof field collapse; NP barrier as harmonic obstruction.  |
+| `02_Hodge_Codex/`           | Hodge Conjecture                   | ✅ Completed  | Symbolic (p,p)-form visibility via harmonic stability in cohomology space. |
+| `03_Yang_Mills/`            | Yang–Mills Mass Gap                | ✅ Completed  | Prime-mode fields, gap emergence via neutrino Möbius-lock structure.       |
+| `04_Navier_Stokes/`         | Navier–Stokes Regularity           | ✅ Completed  | UTS-bounded fluid damping; glyph flow collapse and vortex-symbol geometry. |
+| `05_BSD_Codex/`             | Birch & Swinnerton-Dyer Conjecture | ✅ Completed  | Rank as resonance echo in L-function window; Möbius-torsion lattice.       |
+| `06_Riemann_Codex/`         | Riemann Hypothesis                 | ✅ Integrated | Linked via `NEXA_RIEMANN_PROOF/` from SYSTEM 1 — prime spectral axis.      |
+| `07_Goedel_Incompleteness/` | Gödel's Incompleteness Theorem     | ⏳ Planned    | Logical reflexivity, paradox embedding, collapse in decidability space.    |
 
 ---
 
-## 🔗 Core Crosslinks
+## 🧽 Central Map
 
-* `dual_frameworks.md` → comparative logic of Möbius vs Harmonic formulations
-* `universal_collapse_theorem.md` → general transition rule Θ(n) linking all modules
-* `visual_gallery.md` → collection of key resonance diagrams used in proofs
-* `NEXA_RIEMANN_PROOF/` → structural and symbolic basis from System 1 (Prime Harmonics)
+| Axis            | Described Field                    | Manifestation in Codex Modules                         |
+| --------------- | ---------------------------------- | ------------------------------------------------------ |
+| Möbius Collapse | Topology ↔ Symbol ↔ Rank Interlock | BSD, Yang–Mills, Hodge, P/NP                           |
+| Harmonic Filter | Frequency ↔ Glyph ↔ Visibility     | Riemann, BSD, Hodge, Navier–Stokes                     |
+| UTS Threshold   | Collapse ↔ Decidability ↔ Survival | All seven; explicit in `universal_collapse_theorem.md` |
+
+---
+
+## 🔗 Codex Crosslinks
+
+* `README_mapping.md` → Logical cartography of all 7 problems
+* `universal_collapse_theorem.md` → Transition condition Θ(n) across fields
+* `dual_frameworks.md` → Möbius vs Harmonic proof structures
+* `NEXA_RIEMANN_PROOF/` → Riemann core axis from SYSTEM 1
+* `Rosetta-Nexus/` → Symbolic syntax & glyph logic across all modules
+* `visual_gallery.md` → Centralized field diagrams, glyph flowcharts
 
 ---
 
 ## 🧠 Codex Philosophy
 
-Rather than treating the problems as independent formal challenges, the Codex recognizes them as **interlinked resonance barriers** in a **coherence field**. These are not only mathematical boundaries, but symbolic mirrors of stability, logic, and transformation.
+Rather than presenting the Millennium Problems as isolated conjectures, the Codex frames them as **frequency-stability boundaries** within a universal resonance system. Each problem becomes a **test of coherence**, revealing whether structure can survive symbolic, topological, and harmonic transformation.
 
-> "Every proof is a harmonic – every collapse, a Möbius turn."
+> *“A solution is not proof — it is alignment across resonance layers.”*
+> — *NEXAH Codex: Field Introduction*
 
 ---
 
@@ -60,7 +75,7 @@ Rather than treating the problems as independent formal challenges, the Codex re
 
 ## 📍 See Also
 
-* `NEXAH-GRAND-CODEX/` (parent module)
-* `README_mapping.md` (cartographic overview)
-* Individual modules (P vs NP, Yang–Mills, Hodge...)
+* `README_mapping.md` (problem-to-logic overview)
+* `NEXAH-GRAND-CODEX/` (parent structural module)
+* `NEXA_RIEMANN_PROOF/` (System 1 → spectral prime axis)
 * [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
