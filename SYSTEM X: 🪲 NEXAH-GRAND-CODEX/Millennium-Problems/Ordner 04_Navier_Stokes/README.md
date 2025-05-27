@@ -47,7 +47,7 @@ Each path offers a structured interpretation of existence and smoothness in 3-D 
 ![Spiral Collapse Diagram](./visuals/Spiral%20Collapse%20Diagram.png)  
 *Figure 3: Conceptual Möbius spiral showing topological collapse boundaries in turbulent flow.*
 
-![Divisor Damping Heatmap](./visuals/divisor_damping_heatmap.png)  
+![Divisor Damping Heatmap](./visuals/divisor_damping_heatmap.png)
 *Figure: spatial signature of the divisor-weighted viscosity term Λ_sym(x,y).*
 ---
 
