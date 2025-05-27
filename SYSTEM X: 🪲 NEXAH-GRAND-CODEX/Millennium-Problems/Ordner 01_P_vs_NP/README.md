@@ -43,9 +43,11 @@ Within NEXAH the question splits into three complementary layers:
 | Preview | Caption |
 |---------|---------|
 | ![Separation Manifold](./visuals/separation_manifold.png) | **Topological split** – P-class as a toroidal sheet; NP-class as a Möbius-twisted surface. |
-| ![Frequency Gap Plot](./visuals/frequency_gap_plot.png) | **Prime-frequency gap** — resonance deficit of NP clause instances relative to polynomial kernel. |
+| ![Frequency Gap Plot](./visuals/frequency_gap_plot.png) | **Prime-frequency gap** — resonance deficit of NP clause instances relative to polynomial kernel. |![Divisor–Prime Damping Heat-map](./visuals/divisor_damping_heatmap.png)  
+*Figure X: Spectral viscosity Λₛᵧₘ(n,p) – brighter bands mark modes where prime/divisor
+complexity sharply raises the algorithmic “friction”.*
 
-*(Weitere Visuals können hier ergänzt werden.)*
+
 
 ---
 
