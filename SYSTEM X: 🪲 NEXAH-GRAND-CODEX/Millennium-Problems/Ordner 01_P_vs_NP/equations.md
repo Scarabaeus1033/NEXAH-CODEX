@@ -6,7 +6,7 @@
 **License:** CC BY-NC-SA 4.0  
 
 ---
-
+![Core Equation Triptych](./visuals/pnp_core_equations_white.png)
 ## 1. Möbius-Kernel \( \mathcal{M}(k) \)
 
 Der *symbolische Kompressions­kern* einer Instanz-Kodierung (z. B. 3-SAT-Klauselgraph):
