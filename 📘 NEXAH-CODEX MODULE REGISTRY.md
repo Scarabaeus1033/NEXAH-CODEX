@@ -1,6 +1,6 @@
-# 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (v1.5)
+# 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (v2.0)
 
-This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, including title, extended description, and system assignment. It serves as a navigator, content index, and thematic overview of the mathematical, physical, and symbolic layers of the NEXAH-CODEX.
+This registry lists all major modules under the NEXAH-CODEX umbrella, including titles, descriptions, and system assignments. It serves as a structural index across mathematical, physical, symbolic, planetary, linguistic, and aesthetic domains.
 
 ---
 
@@ -36,8 +36,8 @@ This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, includ
 
 | Folder                       | Title                            | Description                                                                        |
 | ---------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| EARTHSHIP/                   | Möbius Garden & Crown Resonance  | Planetary crystalline gates, scarab spirals, Arcturus field tuning.                |
-| ETHER-CROWN/                 | Ether Crown & Gravitational Echo | Gravimetric prime-grid fields, echo flow geometry, dark-matter curvature.          |
+| EARTHSHIP/                   | Möbius Garden & Crown Resonance  | Multi-phase planetary codex with Möbius heart fields, scrolls, stellar ignition.   |
+| ETHER-CROWN/                 | Ether Crown & Gravitational Echo | Gravitational wave model, Möbius-time fields, etheric shell transitions.           |
 | Multidimensional-Frontier/   | Harmonics of the Boundary        | Interdimensional shell, tachyon topology, transition resonances.                   |
 | NEXAH-HARMONIC-FIELD/        | Planetary Prime Resonance        | Real-world frequency anchoring using numerical planetary lattices.                 |
 | NEXAHEART-CODEX/             | Earth’s Heart Resonance          | Rödelheim–Richat–Jerusalem axis field. Grid harmonic identifiers and spatial keys. |
@@ -93,6 +93,6 @@ This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, includ
 ## 🦢 Scarabäus1033 · Curated System Index
 
 📘 Module registry curated by TH in collaboration with ARCHIVAR II
-📌 Version 1.5 · Updated: May 2025
-🗾 Belongs to: `NEXAH-CODEX-Startstruktur/` and listed in the **NAVIGATOR**
+📌 Version 2.0 · Updated: May 2025
+🗾 Belongs to: `NEXAH-CODEX-Startstruktur/` and `🪐 CODEX_COSMICA ASTROPHYSICA/`
 🔗 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
