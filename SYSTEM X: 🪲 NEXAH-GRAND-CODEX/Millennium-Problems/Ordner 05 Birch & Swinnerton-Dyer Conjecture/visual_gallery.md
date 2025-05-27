@@ -63,7 +63,66 @@ This visual gallery showcases the symbolic geometry and spectral dynamics underl
 **Linked Concepts:** `bsd_resonance_mapping.md`, `spiral-logic.md`, `casimir-neutrino-thread.md`
 
 ---
+# 🖼 BSD Visual Gallery — Elliptic Fields & Symbolic Resonance
 
+**Module:** 05_Birch_&_Swinnerton-Dyer_Conjecture  
+**System:** X · NEXAH-GRAND-CODEX  
+**Visual Set:** Elliptic Geometry · L-function · Möbius-Rank Fields  
+**Author:** Scarabäus1033  
+**License:** CC BY-NC-SA 4.0  
+
+---
+
+## 🎯 Visual 1: Möbius Lattice Projection
+
+![elliptic_resonance_field](./visuals/elliptic_resonance_field.png)  
+**Caption:** *Elliptic curve projected as Möbius-torsion lattice.*  
+Reveals symbolic winding around the rational base field.
+
+➤ See: [`bsd_symbolic_forms.md`](../bsd_symbolic_forms.md)
+
+---
+
+## 🎯 Visual 2: L-Function Rank Threshold
+
+![l_function_rank_gap](./visuals/l_function_rank_gap.png)  
+**Caption:** *Spectral zero depth vs. algebraic rank.*  
+Resonance depth of $L(E,s)$ at $s=1$ governs rational field activation.
+
+➤ See: [`bsd_l_function_model.md`](../bsd_l_function_model.md)
+
+---
+
+## 🎯 Visual 3: Torsion Visibility Map
+
+![torsion_visibility_map](./visuals/torsion_visibility_map.png)  
+**Caption:** *Symbolic embedding of rational-torsion lattice.*  
+Encodes torsion substructure via Möbius-symmetric overlays.
+
+➤ See: [`bsd_symbolic_forms.md`](../bsd_symbolic_forms.md)
+
+---
+
+## 🎯 Visual 4: Prime-Damped Rank Knots
+
+![prime_damping_knotfield](./visuals/prime_damping_knotfield.png)  
+**Caption:** *Rank oscillations across Möbius-prime interference web.*  
+Illustrates unstable modes in rank formation under prime-damping logic.
+
+➤ See: [`bsd_resonance_mapping.md`](../bsd_resonance_mapping.md)
+
+---
+
+## 🔗 Navigation
+
+- Back to [`README.md`](../README.md) for BSD Codex overview  
+- Crosslinked with global [`visual_gallery.md`](../../../visual_gallery.md)  
+- Refer to [`Rosetta-Nexus/`](../../../Rosetta-Nexus/) for symbolic syntax
+
+---
+
+> “Each visual encodes not only a structure — but the collapse and emergence of visibility itself.”  
+> — *BSD Codex: Symbol Resonance Layer*
 ## 🔗 Suggested Navigation
 
 * Return to [`README.md`](./README.md) for module context
