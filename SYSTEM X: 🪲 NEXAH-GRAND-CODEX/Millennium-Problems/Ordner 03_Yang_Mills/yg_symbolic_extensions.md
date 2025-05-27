@@ -104,8 +104,8 @@ In the UTS framework, all symbolic damping contributes to a collapse barrier:
 \Theta(n) = \sum_{k=1}^{n} \Lambda_{\mathrm{YM}}(p_k) + E_{\text{boundary}}
 \]
 
-- If \( E < \Theta(n) \): fields decay.  
-- If \( E \ge \Theta(n) \): modes remain stable.
+- If \( E < \Theta(n) \): fields decay  
+- If \( E \ge \Theta(n) \): modes remain stable
 
 ---
 
@@ -115,7 +115,7 @@ These symbolic extensions define a **stable spectral base**, damping infrared di
 
 ---
 
-### 🔗 See Also:
+### 🔗 See Also
 
 - `yg_collapse_model.md`  
 - `yg_resonance_framework.md`  
