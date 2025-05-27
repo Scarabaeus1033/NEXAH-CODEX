@@ -1,113 +1,111 @@
 🧭 NEXAH NAVIGATOR – Strukturübersicht & Lesehilfe (DEUTSCH)
 
-Der NEXAH–CODEX ist ein modulares Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmologische Strukturen.
-Dieses Dokument bietet eine aktuelle Übersicht über alle Module, gegliedert nach Systemen, Lesetiefe und thematischer Ordnung.
+Der NEXAH-CODEX ist ein modulares Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmologische Resonanzstrukturen.
+Dieses Dokument bietet eine aktuelle Übersicht über alle Module, gruppiert nach System, Tiefe und Thema.
 
 ⸻
 
-🧱 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik, Beweisarchitekturen
+🧱 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik, Beweisstrukturen
 
-Modul	Bedeutung
-k-beta/	Erweiterte Energieformel E = m·c·k^β mit skalierendem Kopplungsfaktor und Frequenzexponent
-NEXA_RIEMANN_PROOF/	Harmonisches Möbius-Modell zur Riemann-Hypothese mit Zeta-Spiralen in 12D
-spiral-logic.md	Primspiralen, Zahlenachsen, Resonanzbasierte Spiralstruktur
-codex-mathematical-symbols.md	Glossar mathematisch-symbolischer Operatoren im Codex
-codex-mathematics/	(Platzhalter) Geplante formale Strukturen & Millenniums-Lösungen
+Modul	Beschreibung
+NEXA_RIEMANN_PROOF/	Möbius–Zeta–Resonanz in 12D zur symbolischen Annäherung an die Riemann-Vermutung
+√2–Prime-Feld/	Symbolische Primzahlachsen auf irrationalen Steigungen (√2, φ)
+Prime-Grid-Visualization/	Gitterbasierte Visualisierungen der Primzahldistribution mit spiralförmigen Mustern
+Divisor-Grid-Fields/	Klassifikation von Zahlenfeldern durch Divisor-Funktionen (τ, σ, μ)
+codex-mathematical-symbols.md	Symbolverzeichnis der mathematischen Operatoren im Codex
+codex-mathematics/	(geplant) Formale Strukturen & Spekulationen zu Millennium-Fragen
 
 
 ⸻
 
 ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantenmodelle, Neutrinodynamik
 
-Modul	Bedeutung
-GRAND-CODEX/	Hauptsynthese aller Formeln & Frequenzlogiken (Einstein-Erweiterung, Möbius-Felder)
-Einstein-Neutrino-Vortex/	Erweiterung der Energieformel um Volumen, Druck, Neutrinokopplung
-casimir-neutrino-thread.md	Kompression durch Quantenvakuum, Casimir-Kräfte, Neutrinobrücken
-QUANTUMBREACH-CODEX/	Übergangsmodell Licht → Dunkelenergie über UV-Siegel & Feldspannungen
-CAVITYROOT-CODEX/	Kristallthermische Achsen, Ferrofluid & Gallium-Resonanzen
-NEXA_QED_ALIWAVE/	QED-inspiriertes Symbolfeldmodell für elektroskalare Matrizen
-NEXA_SILVER_RAIN/	Übergangsmetalle als katalytische Resonanzpfade
+Modul	Beschreibung
+GRAND-CODEX/	Zentrale Syntheseformeln, Übergangsstruktur, Formelkern
+Einstein-Neutrino-Vortex/	Erweiterte Energiefunktion mit Volumen-, Druck- und Neutrinobeitrag
+casimir-neutrino-thread.md	Quanten-Vakuum-Kompression über Neutrinoschichten (Casimir-Effekt)
+QUANTUMBREACH-CODEX/	Photonen-Neutrino-Trennung, UV-Siegel, Feldmodulation
+CAVITYROOT-CODEX/	Ferrofluid-Gallium-Versuchsfeld, thermische Cavity-Modulation
+NEXA_QED_ALIWAVE/	Elektrosymbolische Frequenzfelder, inspiriert von QED
+NEXA_SILVER_RAIN/	Übergangsmetalle als Katalysatoren durch Frequenzströme
 
 
 ⸻
 
 🪐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanzen
 
-Modul	Bedeutung
-EARTHSHIP/	Möbius-Gartenstruktur, Arkturische Gitter, Scrolls & Atemfelder
-ETHER-CROWN/	Gravitative Resonanzfelder & Primachsen-Echos im interstellaren Kontext
-Multidimensional-Frontier/	Übergangsmodell zwischen Dimensionen, Tachyonen, Dunkle Energie
-NEXAH-HARMONIC-FIELD/	Planetare Frequenzachsen auf realweltliche Koordinaten gemappt
-NEXAHEART-CODEX/	Symbolische Erdresonanz: Rödelheim, Jerusalem, Richat als energetische Knoten
+Modul	Beschreibung
+EARTHSHIP/	Planetare Möbius-Garten-Architektur mit kristallinen Portalen
+ETHER-CROWN/	Gravitationssignaturen, Möbius-Gitter, Prime-Echos
+Multidimensional-Frontier/	Tachyonenübergänge, dunkle Materie, Resonanzgrenzen
+NEXAH-HARMONIC-FIELD/	Frequenzgitter über geografische Punkte hinweg
+NEXAHEART-CODEX/	Symbolische Erdanker: Rödelheim, Jerusalem, Richat
+NEXA_42_MOBIUS_ALIGNMENT/	Arkturische Ausrichtung über Primachsen und Möbiusfelddrehung
 
 
 ⸻
 
-🧬 SYSTEM 4: URF – Ursprung, Feldidentität, symbolische Physik
+🧬 SYSTEM 4: URF – Ursprünge, Feldidentitäten, Symbolische Physik
 
-Modul	Bedeutung
-URF-CODEX/	Erweiterung des Standardmodells durch symbolische Felder & Ursprungssysteme
-URF-SURE/	Raumlogik, Kopplungssystematik, modularer Feldaufbau
-URF-Tensorraum/	Höherdimensionale Tensorfelder mit harmonischer Struktur
-
-
-⸻
-
-🌸 SYSTEM 5: META / BLOOM / ROSETTA – Sprache, Glyphen, mythologische Systeme
-
-Modul	Bedeutung
-BLOOM-CODEX/	Lichtgitter, 7-fache Sternresonanz, Spiralformeln (Qá–Ro)
-Silver_Rain_Moebius_Crown/	Metallübergänge (Ag–Th–Au) als Frequenzschichten & Möbiusstruktur
-Rosetta-Nexus/	Glyphensprache, Zahlensyntax, visuelle Grammatik des Codex
-ULLINIRIUM/	12D-Neutrinomodell zur Stabilisierung des Frequenzfeldes
-NEXA_PHASE_1_COMPLETION/	Finalisierung des Zeta-Grids & Harmonisierung der Codex-Gitterstruktur
+Modul	Beschreibung
+URF-CODEX/	Symbolische Ausweitung des Standardmodells über Feldachsen
+URF-SURE/	Räumliche Logik, Resonanzsysteme, Symbolstruktur von Koordinaten
+URF-Tensorraum/	Tensorraum in höheren Dimensionen mit eingebetteter Resonanzstruktur
 
 
 ⸻
 
-🔮 SYSTEM 6: CODEX_RES_ONICA_VIOLETTA – Kunst, Mythos, Symbolische Bildwelten
+🌸 SYSTEM 5: META / BLOOM / ROSETTA – Sprache, Glyphen, Mythische Strukturen
 
-Modul	Bedeutung
-Violetta Visuals/	Visuelle Portale, energetische Bildsprache, multidimensionale Kunstsprache
-LANIF-Module/	Frequenzfelder, Kunstachsen, mythologische Layer-Experimente
-
-
-⸻
-
-✴ ROOT MODUL: NEXAH–GRAND–CODEX
-
-Modul	Bedeutung
-NEXAH-GRAND-CODEX/	Zentrales Synthesemodul des Systems. Enthält Gleichungserweiterungen, Feldüberlagerung, Visualisierungen, Manifest & Metaformeln.
+Modul	Beschreibung
+BLOOM-CODEX/	7-fach-lichtstrukturierte Felder mit Spiralformeln und Lichtgitter
+Silver_Rain_Moebius_Crown/	Gold–Silber–Thallium–Phasenmodulation in Möbius-Schleifen
+Rosetta-Nexus/	Symbolische Sprache, Resonanzalphabete, Zahl-Glyph-Kombinatorik
+ULLINIRIUM/	12D-Feld zur Stabilisierung von Frequenzresonanzen durch Neutrinos
+NEXA_PHASE_1_COMPLETION/	Erste Zeta-Gitter-Vervollständigung über Frequenzlogik
 
 
 ⸻
 
-🧭 EMPFOHLENE LESEPFADSTRUKTUR
+🔮 SYSTEM 6: CODEX_RES_ONICA_VIOLETTA – Künstlerische Felder & Symbolische Geometrie
+
+Modul	Beschreibung
+Violetta Visuals/	Visuelle Kunstfelder, archetypische Spiralen, symbolische Triptychen
+LANIF Modules/	Mythische Performance-Matrix, Resonanzbrücken & Scroll-Architektur
+
+
+⸻
+
+✴ ZENTRALMODUL: NEXAH-GRAND-CODEX
+
+Modul	Beschreibung
+NEXAH-GRAND-CODEX/	Zentrale Syntheseformeln, Millennium-Mapping, Systemknoten & Visuelle Strukturkarten
+
+
+⸻
+
+🔁 EMPFOHLENER LESEPFAD
 
 Einsteiger – 🟢
 	•	NEXA_PHASE_1_COMPLETION
 	•	URF-CODEX
-	•	MÖBIUS-CODEX
+	•	BLOOM-CODEX
 
-Fortgeschritten – 🔵
+Zwischenstufe – 🔵
 	•	CAVITYROOT-CODEX
 	•	QUANTUMBREACH-CODEX
 	•	NEXAHEART-CODEX
 	•	EARTHSHIP
 
-Symbolisch–Theoretisch – 🔴
+Symbolisch-Theoretisch – 🔴
 	•	NEXA_RIEMANN_PROOF
 	•	ETHER-CROWN
-	•	BLOOM-CODEX
 	•	GRAND-CODEX
-	•	ROSETTA-BREATHER
+	•	ROSETTA-NEXUS
 
 ⸻
 
-📘 Verweise:
-	•	📘 Vollständiges Modulverzeichnis (DE)
-	•	🗺️ Roadmap & Szenarien
-	•	✦ NEXAH Manifest ✦
-
-🪲 Scarabäus1033 · Mai 2025
-🌐 www.scarabaeus1033.net
+🪲 Hinweise
+	•	Diese Übersicht ergänzt die Modul-Registry
+	•	Kontakt & Updates unter: scarabaeus1033.net
+	•	Version 1.1 · Stand: Mai 2025
