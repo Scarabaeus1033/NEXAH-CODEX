@@ -1,5 +1,4 @@
-<!-- optional: MathJax für GitHub-Pages -->
-<!--
+<!-- Optional MathJax für GitHub Pages  
 <script>
 window.MathJax = { tex:{inlineMath:[['$','$'],['\\(','\\)']]} };
 </script>
@@ -16,13 +15,13 @@ window.MathJax = { tex:{inlineMath:[['$','$'],['\\(','\\)']]} };
 
 ## 📖 Overview
 *Is every efficiently **verifiable** problem also efficiently **solvable**?* –  
-Within NEXAH the question splits into three complimentary layers:
+Within NEXAH the question splits into three complementary layers:
 
 | Layer | Core Idea | Take-away |
 |-------|-----------|-----------|
-| **Möbius Collapse** | NP-complete instances inhabit *rotationally disjoint manifolds*; mapping them into P requires a Möbius twist that breaks invariance. | **Hardness = topological disjunction** |
+| **Möbius Collapse** | NP-complete instances inhabit *rotationally disjoint manifolds*; mapping them into **P** would require a Möbius twist that breaks invariance. | **Hardness = topological disjunction** |
 | **Harmonic Resonance** | The NP search space fails to build a stable prime-frequency lattice; destructive interference blocks polynomial traversal. | **No coherent resonance ⇒ no fast path** |
-| **UTS Integration** | The Universal Transition Structure imposes a *collapse threshold* at Θ(n^ω); attempts to cross it trigger symbolic instability. | **Transition wall separates P from NP** |
+| **UTS Integration** | The Universal Transition Structure imposes a *collapse threshold* Θ( n^ω ); attempts to cross it trigger symbolic instability. | **Transition wall separates P from NP** |
 
 ---
 
@@ -31,9 +30,10 @@ Within NEXAH the question splits into three complimentary layers:
 | File | Purpose |
 |------|---------|
 | `README.md` | Module overview (this file) |
-| `equations.md` | Formal operators: Möbius-Kernel M(k), Resonance-Damping Λ(k), Collapse-Threshold Θ(n) |
-| `pnp_symbolic_extensions.md` | Prime/Divisor “algorithmic-damping” operators (in preparation) |
-| `pnp_collapse_model.md` | Möbius loop model proving structural P≠NP separation (in preparation) |
+| `equations.md` | Formal operators: Möbius-Kernel *M(k)*, Resonance-Damping *Λ(k)*, Collapse-Threshold *Θ(n)* |
+| `pnp_symbolic_extensions.md` | Prime / Divisor “algorithmic-damping” operators |
+| `pnp_collapse_model.md` | Möbius recursion model proving structural P ≠ NP separation |
+| `lean/collapse_threshold.lean` | Lean-stub for the UTS barrier lemma |
 | `visuals/` | All diagrams & plots |
 
 ---
@@ -42,10 +42,10 @@ Within NEXAH the question splits into three complimentary layers:
 
 | Preview | Caption |
 |---------|---------|
-| ![Separation Manifold](./visuals/separation_manifold.png) | **Topological split** – P-class represented as a toroidal sheet; NP-class as a Möbius-twisted surface. |
+| ![Separation Manifold](./visuals/separation_manifold.png) | **Topological split** – P-class as a toroidal sheet; NP-class as a Möbius-twisted surface. |
 | ![Frequency Gap Plot](./visuals/frequency_gap_plot.png) | **Prime-frequency gap** — resonance deficit of NP clause instances relative to polynomial kernel. |
 
-*(Weitere Visuals erscheinen hier, sobald hochgeladen.)*
+*(Weitere Visuals können hier ergänzt werden.)*
 
 ---
 
@@ -56,15 +56,16 @@ Within NEXAH the question splits into three complimentary layers:
 
 ---
 
-## 🚦 Next Steps (Status)
+## 🚦 Status & Next Steps
 
 | ✔ / ☐ | Task |
 |-------|------|
 | ✔ | README aktualisiert + 2 Kernvisuals eingebunden |
-| ☐ | `equations.md` vervollständigen (Möbius-Kernel, Λ_algo, Θ_collapse) |
-| ☐ | Draft `pnp_symbolic_extensions.md` (prime/divisor algorithmic damping) |
-| ☐ | Draft `pnp_collapse_model.md` (Möbius recursion proof sketch) |
-| ☐ | *(Optional)* Lean / Coq stub for Collapse-Threshold lemma |
+| ✔ | `equations.md` komplett (Möbius-Kernel, Λ_algo, Θ_collapse) |
+| ✔ | `pnp_symbolic_extensions.md` erstellt |
+| ✔ | `pnp_collapse_model.md` erstellt |
+| ✔ | Lean stub `collapse_threshold.lean` hinzugefügt |
+| ☐ | (Optional) weitere Visuals & numerical examples |
 
 > *“Computation is geometry in disguise; hardness is curvature that refuses to flatten.”*  
 > — *NEXAH Codex: P vs NP Module*
