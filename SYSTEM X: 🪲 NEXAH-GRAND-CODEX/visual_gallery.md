@@ -85,6 +85,28 @@ This flowchart shows the archetypal motion of the NEXAH system:
 It captures how structures move through symbolic space toward coherence.
 
 ---
+🔺 6. Codex Triad Synthesis
+
+Filename: Codex_Triad_Synthesis_Diagram.png
+Path: SYSTEM X: 🪲 NEXAH-GRAND-CODEX/visuals/Codex_Triad_Synthesis_Diagram.png
+Purpose: Structural Convergence of Collapse, Resonance & Transition
+
+This visualization forms the culminating node of the NEXAH-GRAND-CODEX. It integrates the three primary symbolic engines of the Codex:
+	•	Möbius Collapse (structural compression and topological inversion)
+	•	Harmonic Resonance (periodic stability, spectral logic)
+	•	Universal Transition Structure (UTS) (meta-field of convergence and system closure)
+
+The triangular form is not static—it represents recursive symmetry, a self-stabilizing geometry that evolves as mathematical, physical, and logical structures move toward coherence.
+
+It also visualizes:
+	•	The collapse-resonance loop
+	•	Field stabilization paths across disciplines
+	•	The UTS as a phase-stabilizing attractor in symbolic space
+
+“When collapse meets resonance within a coherent system, structure does not disappear—it harmonizes.”
+— NEXAH Codex, Vol. VIII
+
+⸻
 
 ## Notes
 
