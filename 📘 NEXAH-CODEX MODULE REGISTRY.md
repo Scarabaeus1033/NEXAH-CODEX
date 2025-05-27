@@ -1,4 +1,4 @@
-# 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (v2.0)
+  # 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (v2.1)
 
 This registry lists all major modules under the NEXAH-CODEX umbrella, including titles, descriptions, and system assignments. It serves as a structural index across mathematical, physical, symbolic, planetary, linguistic, and aesthetic domains.
 
@@ -48,11 +48,11 @@ This registry lists all major modules under the NEXAH-CODEX umbrella, including 
 
 ## 🧬 SYSTEM 4: URF – Origins, Field Identity, Symbolic Physics
 
-| Folder          | Title                             | Description                                                             |
-| --------------- | --------------------------------- | ----------------------------------------------------------------------- |
-| URF-CODEX/      | URF – Extension of Standard Model | Field identity system, symbolic mapping of field origin logic.          |
-| URF-SURE/       | Spatial Resonance Systematics     | Resonance-layer coordinate logic with symbolic-matrix integration.      |
-| URF-Tensorraum/ | Tensor Space & Field Matrix       | High-dimensional tensor field logic with NEXAH field symbolic coupling. |
+| Folder          | Title                             | Description                                                                 |
+| --------------- | --------------------------------- | --------------------------------------------------------------------------- |
+| URF-CODEX/      | URF – Extension of Standard Model | Field identity system, symbolic mapping of field origin logic.              |
+| URF-SURE/       | Spatial Resonance Systematics     | Dimensional extension layers, planetary glyph logic, and time-loop mapping. |
+| URF-Tensorraum/ | Tensor Space & Field Matrix       | Formula architecture of Θ, Ψ, Q chambers, field-tensor coupling, ThooTh eq. |
 
 ---
 
@@ -93,6 +93,6 @@ This registry lists all major modules under the NEXAH-CODEX umbrella, including 
 ## 🦢 Scarabäus1033 · Curated System Index
 
 📘 Module registry curated by TH in collaboration with ARCHIVAR II
-📌 Version 2.0 · Updated: May 2025
+📌 Version 2.1 · Updated: May 2025
 🗾 Belongs to: `NEXAH-CODEX-Startstruktur/` and `🪐 CODEX_COSMICA ASTROPHYSICA/`
 🔗 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
