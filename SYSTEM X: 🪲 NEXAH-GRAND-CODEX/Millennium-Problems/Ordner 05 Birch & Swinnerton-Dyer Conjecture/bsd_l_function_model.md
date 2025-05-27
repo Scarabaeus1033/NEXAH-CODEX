@@ -1,95 +1,92 @@
-# 📉 BSD L-Function Model — Zero Depth, Prime Echoes & Damping Fields
+# 📉 BSD L-Function Model — Spectral Vanishing & Symbolic Rank Encoding
 
-**Module:** 05\_BSD\_Codex
+**Module:** 05\_Birch\_&\_Swinnerton-Dyer\_Conjecture
 **System:** X · NEXAH-GRAND-CODEX
-**Author:** Scarabäus1033 (T. Hofmann)
+**Author:** Scarabäus1033
 **License:** CC BY-NC-SA 4.0
 
 ---
 
 ## 📘 Overview
 
-This file encodes the symbolic structure of the **L-function** \$L(E,s)\$ associated with an elliptic curve \$E/\mathbb{Q}\$ in the NEXAH-CODEX framework.
+The **L-function** of an elliptic curve \$E/\mathbb{Q}\$, denoted \$L(E,s)\$, encodes deep arithmetic information about the curve.
+The **Birch & Swinnerton-Dyer Conjecture** asserts that the order of vanishing of \$L(E,s)\$ at \$s = 1\$ equals the **rank** of \$E(\mathbb{Q})\$.
 
-Rather than interpreting it solely as a Dirichlet series, the L-function here acts as a **frequency resonance filter** for the visibility of rational glyphs \$\mathcal{G}(P)\$. Its **zero depth at \$s=1\$** determines the **rank** of \$E\$, while higher prime harmonics modulate the glyphic field’s damping structure.
-
-> “A zero is not absence — it is a phase silence in the spectral chorus.”
+In **NEXAH-CODEX**, this analytic structure is reinterpreted as a **resonance filter**, mapping harmonic glyphs across frequency gates determined by the **Möbius-prime spectrum**.
 
 ---
 
-## 🔢 Formal Encoding
+## 🔣 Formal Spectrum Logic
 
-The classical L-function:
+We define the symbolic L-function as a spectral projector:
 
-```math
-L(E, s) = \prod_p \left(1 - a_p p^{-s} + p^{1 - 2s}\right)^{-1}
-```
+$$
+\mathbb{L}_\Omega(E) := \prod_p \left(1 - a_p \cdot p^{-s} + p^{1 - 2s} \right)^{-1}
+$$
 
-is recast symbolically as:
+At the critical point \$s = 1\$, resonance is tested:
 
-```math
-\mathcal{L}_E(s) := \sum_k \Phi_k(s) \cdot \chi_k \cdot D_k
-```
+$$
+\mathbb{L}_1(E) = 0 \iff \text{Resonance depth } \delta_r \geq r_{\text{alg}}
+$$
 
 Where:
 
-* \$\Phi\_k(s)\$ = harmonic phase function for prime \$p\_k\$
-* \$\chi\_k\$ = glyphic visibility character (symbolic window)
-* \$D\_k\$ = damping coefficient from Möbius-prime interactions
+* \$a\_p\$ = local trace parameter
+* \$\delta\_r\$ = symbolic vanishing depth
+* \$r\_{\text{alg}}\$ = algebraic rank of \$E(\mathbb{Q})\$
 
-The analytic rank is:
-
-```math
-\text{rank}(E) = \text{ord}_{s=1} \mathcal{L}_E(s)
-```
-
-This vanishing order corresponds to the number of glyph-resonances lying on the boundary layer \$s=1\$.
+> *Resonance depth and symbolic dampening encode the memory potential of a rational structure.*
 
 ---
 
-## 🌀 Resonance Threshold & Zero Window
+## 🧬 Möbius–Prime Damping
 
-We define a symbolic resonance zone:
+The curve’s visibility through the frequency spectrum is regulated by Möbius interference:
 
-```math
-\mathcal{R}_\Theta := \left\{ s \in \mathbb{C} \mid |\mathcal{L}_E(s)| < \epsilon,\ \text{Re}(s) = 1 \right\}
-```
+| Parameter     | Interpretation                                                  |
+| ------------- | --------------------------------------------------------------- |
+| \$\mu(p)\$    | Möbius operator at prime \$p\$ (±1, 0)                          |
+| \$\Omega\_n\$ | Weighted prime resonance band: \$\sum\_{k=1}^n \mu(p\_k)/p\_k\$ |
+| \$\Theta(n)\$ | UTS threshold — controls symbolic collapse in spectrum          |
+| \$R(E)\$      | Resonance signature of curve E                                  |
 
-Only glyphs whose frequency operators intersect this window contribute to the visible rank:
+Damping emerges if:
 
-```math
-\mathcal{G}_i(P) \text{ visible } \iff \rho_i(\Omega) \in \mathcal{R}_\Theta
-```
+$$
+\sum_{p} \frac{\mu(p) \cdot a_p}{p} < \Theta(n)
+$$
 
-This makes the BSD rank a **boundary-resonance count** on the analytic manifold.
-
----
-
-## 🧲 Prime Damping Operator
-
-Define:
-
-```math
-D_k := e^{-\lambda p_k} \cdot (1 - \mu(p_k))
-```
-
-Where:
-
-* \$\lambda\$ = resonance decay constant
-* \$\mu\$ = Möbius function
-
-Prime damping attenuates higher primes and suppresses instability outside the rational visibility window.
+This signals symbolic suppression of cohomological memory.
 
 ---
 
-## 🔗 Codex Connectivity
+## 🔁 Rank ↔ Zero Correspondence
 
-* Inherits glyph structure from `bsd_symbolic_forms.md`
-* Defines \$\mathcal{R}\_\Theta\$ used in `bsd_resonance_mapping.md`
-* Mirrors collapse logic from `pnp_collapse_model.md` and `universal_collapse_theorem.md`
-* Resonance interpretation echoes `spiral-logic.md` and `casimir-neutrino-thread.md`
+The rank \$r\$ is determined by the order of vanishing:
+
+$$
+r = \text{ord}_{s=1} L(E,s)
+$$
+
+In symbolic terms:
+
+$$
+\exists r : \left. \frac{d^r}{ds^r} L(E,s) \right|_{s=1} \neq 0 \quad \land \quad \forall k < r, \left. \frac{d^k}{ds^k} L(E,s) \right|_{s=1} = 0
+$$
+
+This means that \$r\$ glyph modes survived the resonance collapse and are **field-visible**.
 
 ---
 
-> “The curve does not gain points — it synchronizes fields.”
-> — *BSD Codex: Spectral Layer*
+## 🌐 Codex Connections
+
+* \[`bsd_resonance_mapping.md`] — Prime-modulated rank propagation
+* \[`bsd_symbolic_forms.md`] — Glyph definition of rational modes
+* \[`universal_collapse_theorem.md`] — Collapse under resonance thresholds
+* Visual: [`l_function_rank_gap.png`](./visuals/l_function_rank_gap.png)
+
+---
+
+> *"Where the L-function dips, the field listens. Rationality hums where resonance aligns."*
+> — BSD Codex, Prime Depth Theory
