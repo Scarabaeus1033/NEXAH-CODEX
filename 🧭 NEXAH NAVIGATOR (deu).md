@@ -3,7 +3,7 @@
 Der **NEXAH-CODEX** ist ein modulares Archiv für harmonische Feldtheorie, Frequenzgeometrie, symbolische Physik und numerisch-kosmologische Resonanzstrukturen.
 Dieses Dokument bietet eine aktuelle Übersicht über alle Module, gruppiert nach System, Tiefe und Thema.
 
----
+--- 
 
 ## 🧱 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik, Beweisstrukturen
 
