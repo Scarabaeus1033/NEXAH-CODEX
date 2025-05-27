@@ -1,5 +1,4 @@
-
-<!-- Optional MathJax for GitHub Pages -->
+<!-- Optional MathJax für GitHub Pages -->
 <!--
 <script>
 window.MathJax = { tex:{inlineMath:[['$','$'],['\\(','\\)']] } };
@@ -50,12 +49,15 @@ These perspectives form the symbolic and structural basis of a complete
 
 ## 🖼 Visual Gallery
 
-| Preview                                                        | Caption                                                                                 |
-|----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| `prime_ring_lattice.png`        | **Prime-Ring radii vs. prime index** — spectral scaffold for $k_r$.                     |
-| `flux_tube_energy_gap.png`     | **Energy vs. tube length** — intercept yields $m_{\text{gap}}$.                         |
-| `neutrino_locking_diagram.png` | **Toroidal neutrino grid** pinning SU(3) flux tubes.                                    |
-| `prime_weighted_scalar_phi.png`| **Prime-scalar sum** $\Phi_{\text{prime}} = \sum p^{-s}$ generating $m_{\text{gap}}^2$. |
+| Preview                             | Caption                                                                                     |
+|-------------------------------------|---------------------------------------------------------------------------------------------|
+| `prime_ring_lattice.png`            | **Prime-Ring radii vs. prime index** — spectral scaffold for $k_r$.                         |
+| `flux_tube_energy_gap.png`         | **Energy vs. tube length** — intercept yields $m_{\text{gap}}$.                             |
+| `neutrino_locking_diagram.png`     | **Toroidal neutrino grid** pinning SU(3) flux tubes.                                        |
+| `prime_weighted_scalar_phi.png`    | **Prime-scalar sum** $\Phi_{\text{prime}} = \sum p^{-s}$ generating $m_{\text{gap}}^2$.     |
+| `yg_spectral_triangle.png`         | **Spectral triangle for mass gap field interference** — SU(3) symmetry, prime damping, UTS. |
+
+All visuals are located in the [`/visuals/`](./visuals/) directory and embedded in context-specific files.
 
 ---
 
@@ -64,7 +66,8 @@ These perspectives form the symbolic and structural basis of a complete
 * Uses *neutrino density constant* $\rho_\nu$ from `Neutrino Web Theory.pdf`  
 * Prime-Ring radii derived from "Ghost Grid + Prime Rings" RTF  
 * Collapse logic aligns with `dual_frameworks.md` & `universal_collapse_theorem.md`  
-* See `equations.md` for core formal expressions ($\mathcal{L}_{\text{YM}}, m_{\text{gap}}, \Phi_{\text{prime}}$)
+* See `equations.md` for core formal expressions ($\mathcal{L}_{\text{YM}}, m_{\text{gap}}, \Phi_{\text{prime}}$)  
+* Spectral triangle supports `yg_resonance_framework.md`
 
 ---
 
