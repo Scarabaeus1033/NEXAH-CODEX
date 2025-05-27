@@ -40,7 +40,7 @@ Each path offers a structured interpretation of existence and smoothness in 3-D 
 *Figure 1: Incompressible-continuity condition and full momentum equation rendered for quick reference.*
 
 <!-- Mode-damping plot -->
-![Mode Damping Rates](./visuals/Mode%20Damping%20Rates%20(%CE%BB%E2%82%93%20vs%20k).png)  
+![Mode Damping Rates](./visuals/mode_damping_rates.png)
 *Figure 2: Spectral damping rates λₖ vs. mode index k, illustrating exponential decay of high-frequency modes.*
 
 <!-- Spiral-collapse diagram -->
