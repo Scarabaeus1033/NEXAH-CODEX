@@ -1,7 +1,7 @@
 # 🌀 Navier–Stokes Resonance Module
 
-**SYSTEM X – NEXAH-GRAND-CODEX**
-**Part of:** Millennium-Problems/04\_Navier\_Stokes
+**SYSTEM X – NEXAH-GRAND-CODEX**  
+**Part of:** Millennium-Problems/04_Navier_Stokes
 
 ---
 
@@ -9,9 +9,9 @@
 
 This module develops a symbolic resonance framework for the **Navier–Stokes Smoothness** Millennium Problem. It integrates three NEXAH perspectives:
 
-1. Möbius Collapse – topological curvature constraints on turbulence
-2. Harmonic Resonance – prime- and divisor-based spectral damping
-3. Universal Transition Structure (UTS) – convergence logic preventing singularities
+1. **Möbius Collapse** – topological curvature constraints on turbulence  
+2. **Harmonic Resonance** – prime- and divisor-based spectral damping  
+3. **Universal Transition Structure (UTS)** – convergence logic preventing singularities  
 
 Each path offers a structured interpretation of existence and smoothness in 3D incompressible flow.
 
@@ -32,30 +32,26 @@ Each path offers a structured interpretation of existence and smoothness in 3D i
 
 ---
 
-## 🖼  Visual Gallery
+## 🖼 Visual Gallery
 
 <!-- Mode damping plot -->
+![Mode Damping Rates](./visuals/Mode%20Damping%20Rates%20(%CE%BB%E2%82%93%20vs%20k).png)  
+*Figure: Spectral damping rates λₖ vs. mode index k, illustrating exponential decay of high-frequency modes.*
 
-![Mode Damping Rates](./visuals/mode_damping_rates.png)
-
-> *Figure: Spectral damping rates λₖ vs. mode index k, illustrating exponential decay of high-frequency modes.*
-
-<!-- Spiral collapse diagram placeholder -->
-
-![Spiral-Collapse Diagram](./visuals/spiral_collapse.png)
-
-> *Figure: Conceptual Möbius spiral showing topological collapse boundaries in turbulent flow.*
+<!-- Spiral collapse diagram -->
+![Spiral Collapse Diagram](./visuals/Spiral%20Collapse%20Diagram.png)  
+*Figure: Conceptual Möbius spiral showing topological collapse boundaries in turbulent flow.*
 
 ---
 
 ## 🎯 Goals & Next Steps
 
-1. **Parameter Calibration**: Fit α, β, γ, κ, s using numerical simulations of 3D Navier–Stokes.
-2. **Simulation Visuals**: Add flow decay plots and heatmaps of divisor-damping fields.
-3. **Formal Embedding**: Link symbolic operators to PDE proof assistants (Coq, Lean).
+1. **Parameter Calibration**: Fit α, β, γ, κ, s using numerical simulations of 3D Navier–Stokes.  
+2. **Simulation Visuals**: Add flow-decay plots and heatmaps of divisor-damping fields.  
+3. **Formal Embedding**: Link symbolic operators to PDE proof assistants (Coq, Lean).  
 4. **References**: Cite Fefferman’s work on existence and smoothness conditions.
 
 ---
 
-> “In the numbers lies resonance – in resonance lies stability.”
+> “In the numbers lies resonance – in resonance lies stability.”  
 > — *NEXAH Codex: Navier–Stokes Resonance Module*
