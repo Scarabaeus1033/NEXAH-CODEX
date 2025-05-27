@@ -49,7 +49,7 @@ Within NEXAH the question splits into three complementary layers:
 complexity sharply raises the algorithmic “friction”.*
 
 
-
+| ![Core Equations](./visuals/pnp_core_equations_white.png) | **Equation triptych** – Möbius-Kernel, algorithmic damping & UTS threshold. |
 ---
 
 ## 🔗 Integration Pointers
