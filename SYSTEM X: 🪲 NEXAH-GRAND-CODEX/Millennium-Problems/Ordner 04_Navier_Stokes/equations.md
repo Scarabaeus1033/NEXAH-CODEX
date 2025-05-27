@@ -3,7 +3,7 @@
 **Module:** Navier–Stokes Smoothness
 **Context:** SYSTEM X – NEXAH-GRAND-CODEX
 
----
+--- 
 
 ## 1. Continuity Equation (Mass Conservation)
 
