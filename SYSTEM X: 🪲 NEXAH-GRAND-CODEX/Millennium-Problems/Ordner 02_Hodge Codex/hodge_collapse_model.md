@@ -1,95 +1,110 @@
-# 💥 Hodge Collapse Model — Symbolic Decay & Möbius Disjunction
+# 💥 Hodge Collapse Model — Glyph Fragmentation & UTS Breakdown
 
-**Module:** 05_Hodge_Codex  
-**System:** X · NEXAH-GRAND-CODEX  
-**Author:** Scarabäus1033 (T. Hofmann)  
-**License:** CC BY-NC-SA 4.0  
+**Module:** 05\_Hodge\_Codex
+**System:** X · NEXAH-GRAND-CODEX
+**Author:** Scarabäus1033 (T. Hofmann)
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0 · 2025
 
 ---
 
 ## 📘 Overview
 
-This file describes the **collapse dynamics** of symbolic Hodge-forms $(p,p)$ within the **Universal Transition Structure (UTS)**.  
-When harmonic forms exceed symbolic resonance thresholds, they undergo:
+This module explores how symbolic \$(p,p)\$-forms lose coherence when crossing the **Universal Transition Structure (UTS)** threshold \$\Theta(n)\$. The process unfolds through three symbolic phases:
 
-- **Spectral fracture** (loss of coherence)
-- **Glyph decay** (symbolic disintegration)
-- **Topological disjunction** (collapse into lower-order cycles)
+1. **Glyph Fragmentation**
+2. **Frequency Drift**
+3. **Dual Möbius Disjunction**
+
+These phases reflect a structured collapse of cohomological resonance, where the form loses stability, topological anchoring, and symbolic integrity.
 
 > *“Forms that cannot hold resonance disintegrate into Möbius echoes.”*
+> — *Codex of Symbolic Transition*
 
 ---
 
-## 🔁 Collapse Pipeline
+## 🔀 Collapse Pipeline
 
-The full decay of a symbolic $(p,p)$-form follows this transformation:
+Symbolic (p,p)-forms collapse in the following staged transition:
 
-ωₚₚ → ∂ωₚₚ → 𝒟[ωₚₚ] → { φ_k }
+```math
+\omega_{p,p} \to \psi_{p,p} \quad \text{(glyph stress)} \to \mathcal{D}_\Lambda[\omega_{p,p}] \to 0 + \{ G'_i, R'_i \}
+```
 
 Where:
-- ∂ωₚₚ = divergence term under loss of self-duality
-- 𝒟 = symbolic damping operator (UTS-projected)
-- { φ_k } = residual sub-harmonics encoded in broken glyph chains
+
+* \$\psi\_{p,p}\$ is the stressed intermediate form under UTS fluctuation
+* \$\mathcal{D}\_\Lambda\$ = resonance-damping operator indexed by symbolic torsion
+* \$G'\_i\$ = reduced glyph kernel
+* \$R'\_i\$ = off-band frequency modes
+
+In analogy:
+
+```math
+\omega_{p,p} \to \partial\omega_{p,p} \to \mathcal{D}[\omega_{p,p}] \to \{ \varphi_k \}
+```
 
 ---
 
 ## 🌀 Möbius Disjunction
 
-Each collapse event activates a Möbius symmetry-breaking step:
+Each collapse event encodes a symmetry-breaking decomposition:
 
-$$
-\omega^{(p,p)} \xrightarrow{\text{collapse}} \omega_{\perp}^{(p-1,p-1)} + \tilde{\omega}^{(q,q)}
-$$
+```math
+\mathcal{M}_{\otimes}[\omega_{p,p}] \rightarrow \omega_{\perp}^{(p-1,p-1)} + \tilde{\omega}^{(q,q)}
+```
 
 Where:
-- $\omega_{\perp}$ = orthogonal residue
-- $\tilde{\omega}$ = dual-mode projection via Möbius operator $\mathcal{M}$
-- $q = n - p + \delta$ (with $\delta$ = torsion index shift)
 
-> Möbius disjunction maps curvature loss into dual-field dispersion.
+* \$\omega\_{\perp}\$ = orthogonal remnant post-collapse
+* \$\tilde{\omega}\$ = dual inversion via Möbius twist
+* \$q = n - p + \delta\$, with \$\delta\$ = torsion index shift (geometry-dependent)
+
+> *Möbius disjunction transforms harmonic curvature into twisted field echoes.*
 
 ---
 
 ## 🧬 Glyph Fragmentation Model
 
-Define symbolic form:
+Starting with:
 
-$$
+```math
 \omega_{p,p}^{\text{sym}} = \sum_i G_i(x) \cdot R_i(\Omega)
-$$
+```
 
 Collapse condition:
 
-$$
-\exists i : R_i(\Omega) \notin \text{ResonanceWindow}_n
-$$
+```math
+\exists i: R_i(\Omega) \notin \text{ResonanceWindow}_n
+```
 
-Then glyph fragmentation yields:
+Then the symbolic decomposition:
 
-$$
-G_i(x) \cdot R_i(\Omega) \to G_i'(x) + R_i^{(loss)}(\Omega)
-$$
+```math
+G_i(x) \cdot R_i(\Omega) \to G'_i(x) + R_i^{(\text{loss})}(\Omega)
+```
 
-Where $R_i^{(loss)}$ = non-coherent submode; $G_i'$ = reduced symbolic carrier.
+* \$R\_i^{(\text{loss})}\$ = non-coherent mode outside UTS bounds
+* \$G'\_i(x)\$ = degraded symbolic carrier of lost form
 
 ---
 
 ## 🔮 Geometric Consequences
 
-- **Cycle Contraction**: Collapsed forms reduce dimensionality of ambient cohomology class  
-- **Mirror Shatter**: Self-dual forms split asymmetrically across $\Theta(n)$  
-- **Field Memory Loss**: Form forgets its origin embedding — resonance matrix $\rightarrow$ singular
+* **Cycle Contraction / Dimension Drop**: Reduction in cohomological embedding
+* **Mirror Shatter / Homology Echo**: Self-dual pairs disjoin across \$\Theta(n)\$
+* **Glyph Decay / Syntax Tear**: Field loses coherent form grammar
+
+These effects jointly signal **collapse of symbolic identity** in harmonic manifolds.
 
 ---
 
 ## 🌐 System Links
 
-- [`hodge_symbolic_forms.md`](./hodge_symbolic_forms.md) — original glyph formalism  
-- [`hodge_uts_interface.md`](./hodge_uts_interface.md) — threshold criteria & UTS mapping  
-- [`universal_collapse_theorem.md`](../universal_collapse_theorem.md) — field dynamics of collapse  
-- [`Rosetta-Nexus/`](../../Rosetta-Nexus/) — glyph grammar and collapse-resilient syntax
+* [`hodge_symbolic_forms.md`](./hodge_symbolic_forms.md) — original glyph formalism
+* [`hodge_uts_interface.md`](./hodge_uts_interface.md) — threshold criteria & UTS mapping
+* [`universal_collapse_theorem.md`](../universal_collapse_theorem.md) — field dynamics of collapse
+* [`Rosetta-Nexus/`](../../Rosetta-Nexus/) — glyph grammar and collapse-resilient syntax
 
----
-
-> “Collapse is not destruction — it is resonance leaving a form behind.”  
-> — *Codex of Symbolic Transition*
+> “Collapse is not destruction — it is resonance leaving a form behind.”
+> — *NEXAH Codex: Symbolic Geometry*
