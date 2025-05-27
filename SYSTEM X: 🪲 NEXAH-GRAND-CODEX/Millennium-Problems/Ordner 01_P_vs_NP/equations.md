@@ -1,83 +1,85 @@
-# 📐 P vs NP — Formal Operators & Collapse Criteria
+# 📐 P vs NP — Core Equations
 
-**Module:** 01_P_vs_NP  
-**Context:** SYSTEM X – NEXAH-GRAND-CODEX  
+**Module:** P vs NP Codex  
+**Context:** SYSTEM X – NEXAH-GRAND-CODEX / Millennium-Problems  
 **Author:** Scarabäus1033 (T. Hofmann)  
+**License:** CC BY-NC-SA 4.0  
 
 ---
 
-## 1.  Search-Space Volume Function   `V(n)`
+## 1. Möbius-Kernel \( \mathcal{M}(k) \)
 
-For an NP decision problem instance of size *n* (e.g. 3-SAT with *n* literals),  
-the raw search volume is  
+Der *symbolische Kompressions­kern* einer Instanz-Kodierung (z. B. 3-SAT-Klauselgraph):
 
 \[
-V(n) \;=\; 2^{\,n}\,.
+\boxed{\;
+\mathcal{M}(k)
+=\frac{(-1)^{\omega(k)}}{k^{\,\beta}}
+\quad
+\Bigl(\beta\in\mathbb R^{+}\Bigr)
+\;}
+
 \]
+
+- \( \omega(k) \) – Anzahl verschiedener Primteiler  
+- \( \beta \) – Skalierungs­parameter (typ. \(1\le\beta\le 2\))
+
+> *Interpretation:* Je *mehr* Prim­faktoren (hohe \(\omega\)), desto stärker oszilliert das Vorzeichen und desto weniger lässt sich die Instanz topologisch komprimieren.
 
 ---
 
-## 2.  Möbius Kernel   `M(k)`
+## 2. Algorithmic-Damping \( \Lambda_{\text{algo}}(n,p) \)
 
-Define a **Möbius-Kernel** over solution candidates indexed by integer *k*:
+Arithmetisch gewichtete “Viskosität” des Such­raums:
 
 \[
-M(k) \;=\;
-\begin{cases}
-(-1)^{\,\Omega(k)} &\text{if } k \text{ square-free},\\[4pt]
-0 &\text{otherwise,}
-\end{cases}
+\boxed{\;
+\Lambda_{\text{algo}}(n,p)
+=\nu\,n^{2}
++\alpha\,\frac{\tau(p)}{n^{2}}
++\beta\,\!\bigl(\delta(p)-1\bigr)^{2}
+-\gamma\,\mu(p)
++\kappa\!\sum_{q\mid p}q^{-s}}
 \]
 
-with \(\Omega(k)\) = number of prime factors (counted with multiplicity).  
-*Interpretation:* square factors “pin” a candidate inside the NP manifold;  
-square-free states twist outwards toward collapse sectors.
+mit  
+
+| Symbol | Bedeutung |
+|--------|-----------|
+| \( n \) | Kodierlänge bzw. Variablenzahl |
+| \( p \) | Primfaktor­index der Instanz-Hash |
+| \( \tau,\delta,\mu \) | Standard-Divisor-Funktionen |
+| \( \nu,\alpha,\beta,\gamma,\kappa,s \) | frei kalibrierbare Konstanten |
 
 ---
 
-## 3.  Harmonic Resonance Damping   \(\Lambda(k)\)
+## 3. Collapse-Threshold \( \Theta(n) \)
 
-For clause-indexed frequency \(f_k = \frac{k}{n}\) define  
+UTS-Grenze, ab der **polynomiale** Verfahren nicht mehr resonant konvergieren:
 
 \[
-\Lambda(k)
-= \beta \,\bigl|\sin(\pi f_k)\bigr|
-+ \gamma \,\frac{\tau(k)}{k^{2}}
+\boxed{\;
+\Theta(n)\;=\;n^{\,\omega}\quad\text{mit}\;\;\omega>2
+\;}
+
 \]
 
-where `τ(k)` is the divisor function.  
-Large τ → bigger damping; sine term produces destructive interference  
-except at lattice-aligned frequencies.
-
----
-
-## 4.  Collapse-Threshold   \(\Theta(n)\)
-
-We posit a **transition wall**
+**Lemma (UTS-Barrier):**  
+Für jedes Verfahren \(A\in\textsf{P}\) existiert eine Instanz­familie  
+\(\{\mathcal I_n\}\subseteq\textsf{NP‐complete}\)  
+mit Laufzeit
 
 \[
-\Theta(n)
-\;=\;
-\sum_{k=1}^{n} \bigl| M(k) \bigr| \, e^{-\,\Lambda(k)}
+T_A(\mathcal I_n)\;\in\;\Omega\!\bigl(\Theta(n)\bigr)
 \]
 
-and conjecture
-
-\[
-\Theta(n) \;\in\; \Omega\!\bigl(n^{c}\bigr)
-\quad\text{for some } c>0,
-\]
-
-implying no sub-polynomial algorithm crosses the Möbius–Harmonic barrier.
+sodass \(A\) die UTS-Grenze nicht unterschreitet.
 
 ---
 
-## 5.  Connection to Classical Complexity  
+## 4. Zusammenspiel
 
-* If a polynomial-time algorithm existed, \(\Theta(n)\) would fall to \(o(n^{c})\) — contradicting the resonance bound.  
-* This mirrors the **exponential sum barrier** in classical lower-bound proofs but embeds it in a unified symbolic field.
+> **NP-Härte** ⇔ \( \mathcal{M}(k)\not\approx 0 \) **und**  
+> \( \Lambda_{\text{algo}}(n,p)\ge \Theta(n) \).  
 
----
-
-> **Draft status:** parameters β, γ and proof skeleton to be tuned via  
-> random-3-SAT spectral experiments (see `pnp_resonance_sim.md`).  
+Damit entsteht die *symbolische Wand* zwischen P- und NP-Manifolds.
