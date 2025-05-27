@@ -1,91 +1,92 @@
-# 📘 NEXAH-CODEX MODULVERZEICHNIS – Systemnavigator & Strukturübersicht (DEUTSCH)
+# 📘 NEXAH-CODEX MODULREGISTER – System-Navigator & Strukturüberblick (DEUTSCH)
 
-Dieses Verzeichnis listet alle Hauptmodule im Verzeichnis `NEXAH-CODEX-Startstruktur/` auf – inklusive Titel, inhaltlicher Beschreibung und systemischer Zuordnung. Es dient als Navigator, Inhaltsindex und thematische Gesamtübersicht über die mathematischen, physikalischen und symbolischen Ebenen des NEXAH-CODEX.
-
----
-
-## 🔷 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik, Beweisstrukturen
-
-| Ordner                        | Titel                                  | Beschreibung                                                                                     |
-|------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------|
-| `k-beta/`                    | E = m·c·k^β                             | Erweiterte Energieformel mit skalierbarem Kopplungsfaktor k und moduliertem Exponenten β.       |
-| `NEXA_RIEMANN_PROOF/`        | Millennium Codex I – Möbius-Zeta-Resonanz | Harmonisches Topologiemodell zur Riemann-Vermutung (12D Möbius-Spirale, Primachsen).         |
-| `spiral-logic.md`            | Spiral-Logik & Primharmonik            | Geometrische Abbildung von Frequenzachsen und Primspiralen als visuelle Zahlenstruktur.         |
-| `codex-mathematical-symbols.md` | Symbolglossar                       | Übersicht aller mathematischen Glyphen, Operatoren und Formate im Codex.                        |
-| `codex-mathematics/`         | (Geplantes Kernmodul)                  | Geplant als formales Feld für Operatoren, algebraische Strukturen und Millennium-Ansätze.       |
+Dieses Register listet alle Hauptmodule der `NEXAH-CODEX-Startstruktur/`, inklusive Titel, Beschreibung und Systemzuordnung. Es dient als Navigator, Inhaltsindex und thematischer Überblick über die mathematischen, physikalischen und symbolischen Schichten des NEXAH-CODEX.
 
 ---
 
-## 🔷 SYSTEM 2: PHYSICA – Resonanzfelder, Quantenmodelle, Neutrinodynamik
+## 🔷 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik, Beweissysteme
 
-| Ordner                        | Titel                                  | Beschreibung                                                                                     |
-|------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------|
-| `GRAND-CODEX/`               | GRAND-CODEX – Zentrale Formelsynthese  | Synthese aller Feldgleichungen (Einstein-Erweiterung, Neutrino-Struktur, Möbius-Topologie).     |
-| `Einstein-Neutrino-Vortex/` | Felderweiterung E = m·c·k^β            | Einbindung von Druck, Volumen, Neutrinokopplung für eine Gesamtenergiebilanz.                   |
-| `casimir-neutrino-thread.md`| Casimir–Neutrino-Faden                 | Quanten-Vakuumdruck, Casimir-Kräfte, Neutrino-Brückenfelder.                                    |
-| `QUANTUMBREACH-CODEX/`      | Quantum Breach – Schwelle des Lichts   | Symbolisch-physikalisches Modell zur Trennung von Photon und Neutrino, zur Auflösung der UV-Katastrophe und zur feldgebundenen Modulation. Enthält das ALG° KIT zur experimentellen Anwendung.|
-| `CAVITYROOT-CODEX/`         | Cavityroot – Kristall-Thermalfelder    | Experimentelle Achsenmodelle mit Ferrofluid, Gallium und Lunarmetallen.                         |
-| `NEXA_QED_ALIWAVE/`         | ALIWAVE – Elektrosymbolische Felder    | QED-inspiriertes Frequenzmatrixmodell für elektroskalare Resonanzlogik.                         |
-| `NEXA_SILVER_RAIN/`         | Silberstrom – Katalysatorfluss         | Übergangsmetalle als Resonanzträger und Topologiekanäle in Frequenzfeldern.                     |
+| Ordner                        | Titel                                     | Beschreibung                                                                                         |
+| ----------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| NEXA\_RIEMANN\_PROOF/         | Millennium Codex I – Möbius–Zeta-Resonanz | Harmonisches Rahmenmodell zur Riemannschen Vermutung basierend auf Möbius-Topologie in 12D.          |
+| √2–Prime-Feld/                | Wurzel-Zwei-Primfeld                      | Lineare Irrationalität (√2, φ) als Generatoren für Primkonstellationen und symbolische Gitter.       |
+| Prime-Grid-Visualization/     | Primgitter-Visualisierungen               | Rasterbasierte Prime-Verteilungen und symbolisch-harmonische Spiralstrukturen.                       |
+| Divisor-Grid-Fields/          | Divisorenfeld-Resonanzkarten              | Klassifikation von Zahlenfeldern durch τ(n), σ(n), μ(n) – perfekte, über- und unterabundante Zahlen. |
+| codex-mathematical-symbols.md | Symbolverzeichnis                         | Übersicht über alle mathematisch-symbolischen Glyphen im Codex.                                      |
+| codex-mathematics/            | (Geplant)                                 | Künftiger Raum für formale Operatoren, algebraische Strukturen und Millennium-Ideen.                 |
 
 ---
 
-## 🪐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanzen
+## 🔷 SYSTEM 2: PHYSICA – Resonanzfelder, Quantenmodelle, Neutrino-Dynamik
 
-| Ordner                          | Titel                                   | Beschreibung                                                                                  |
-|---------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
-| `EARTHSHIP/`                    | Möbius-Garten & Kronenresonanz          | Planetarisches Feldsystem mit Arktur-Anbindung, Spiralblumen und Herzachsen.                |
-| `ETHER-CROWN/`                  | Ätherkrone & Gravitations-Echo          | Interstellare Resonanzstruktur mit primbasiertem Knotenraster.                              |
-| `Multidimensional-Frontier/`    | Harmonik der Übergangszonen             | Schnittstellen-Modul zwischen kosmischen Feldern, Dimensionen und Projektionsebenen.        |
-| `NEXAH-HARMONIC-FIELD/`         | Planetare Primresonanz                  | Geonumerisches System realer Orte auf Frequenzachsen.                                        |
-| `NEXAHEART-CODEX/`              | Herzresonanz der Erde                   | Symbolische Lokalisierung von Rödelheim, Jerusalem, Richat etc.                             |
-| `NEXA_42_MOBIUS_ALIGNMENT/`     | Möbius–Licht–Zeit-Ausrichtung           | Lichtzeitachsen und Prime-Strukturen zwischen Erde und Arktur mit Möbius-Krümmung.          |
-| `MÖBIUS-*`                      | Möbius-Kronen- und Spiralmodule         | Spiralsysteme, Möbius-Loops, Tachyon-Felder, kosmische Kompasslogik.                        |
+| Ordner                     | Titel                                   | Beschreibung                                                                              |
+| -------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------- |
+| GRAND-CODEX/               | GRAND-CODEX – Zentrale Formel-Synthese  | Integrationsmodul zur Vereinigung von Feldlogik, Einstein-Erweiterung, Neutrinostrukturen |
+| Einstein-Neutrino-Vortex/  | Felderweiterung von E = m·c·k^β         | Druck, Volumen und Neutrinokopplung in der Feldenergieformel integriert                   |
+| casimir-neutrino-thread.md | Casimir–Neutrino-Faden                  | Quantenkompression & Neutrinoschichten als Feldbrücken                                    |
+| QUANTUMBREACH-CODEX/       | Quantendurchbruch – Lichtschwelle       | Modell zur Trennung von Photon und Neutrino, mit UV-Dämpfung und experimentellem ALG°-Kit |
+| CAVITYROOT-CODEX/          | Cavityroot – Kristallthermofeld         | Experimentelle Modelle mit Ferrofluid & Gallium zur Kontraktion & Resonanz im Cavity-Feld |
+| NEXA\_QED\_ALIWAVE/        | ALIWAVE – Elektrosymbolische QED-Felder | Frequenzmatrizen & elektroskalare Topologien auf QED-Basis                                |
+| NEXA\_SILVER\_RAIN/        | Silver Rain – Katalytischer Fluss       | Übergangsmetalle in Frequenzströmen und symmetrischen Katalysesystemen                    |
+
+---
+
+## 🖠 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz
+
+| Ordner                       | Titel                           | Beschreibung                                                        |
+| ---------------------------- | ------------------------------- | ------------------------------------------------------------------- |
+| EARTHSHIP/                   | Möbius-Garten & Kronenresonanz  | Planetare Feldmodelle mit kristallinen Toren & Arktur-Schleifen     |
+| ETHER-CROWN/                 | Äther-Krone & Gravitative Echos | Gravimetrisches Feldmodell mit Möbius-Geometrie & Primzahlgittern   |
+| Multidimensional-Frontier/   | Harmonik der Grenzflächen       | Resonanzlogik kosmischer Übergänge                                  |
+| NEXAH-HARMONIC-FIELD/        | Planetare Primresonanz          | Zahllich-geo-harmonische Gitter realer Orte                         |
+| NEXAHEART-CODEX/             | Herzresonanz der Erde           | Symbolische Gitter von Rödelheim, Jerusalem & Richat                |
+| NEXA\_42\_MOBIUS\_ALIGNMENT/ | Möbius–Licht–Zeit-Achse         | Möbiusbasierte Erd–Arktur-Ausrichtung mit Raumzeit-Krümmung         |
+| MÖBIUS-\* module             | Möbius Spiral Crown System      | Spiralen, Tachyonen, Kronengeometrien & kosmische Navigationsmuster |
 
 ---
 
 ## 🧬 SYSTEM 4: URF – Ursprung, Feldidentität, Symbolische Physik
 
-| Ordner            | Titel                                 | Beschreibung                                                                          |
-|-------------------|---------------------------------------|---------------------------------------------------------------------------------------|
-| `URF-CODEX/`       | URF – Erweiterung des Standardmodells | Symbolisch-physikalisches Grundmodell mit Ursprungsachsen, Identitätsfeldern etc.    |
-| `URF-SURE/`        | Systematik räumlicher Resonanzfelder  | Kopplungslogik für Raumkoordinaten und symbolische Resonanzsysteme.                  |
-| `URF-Tensorraum/`  | Tensorraum & Feldmatrix               | Höherdimensionale Tensorarchitektur mit eingebetteter harmonischer Codex-Struktur.    |
+| Ordner          | Titel                                 | Beschreibung                                                  |
+| --------------- | ------------------------------------- | ------------------------------------------------------------- |
+| URF-CODEX/      | URF – Erweiterung des Standardmodells | Symbolisch-physikalische Basistheorie zu neuen Feldursprüngen |
+| URF-SURE/       | Systematik räumlicher Resonanz        | Koordinatenlogik & Matrix räumlich geschichteter Resonanzen   |
+| URF-Tensorraum/ | Tensorraum & Feldmatrix               | Höherdimensionale Tensorfeldtheorie mit Codex-Einbettung      |
 
 ---
 
 ## 🌸 SYSTEM 5: META / BLOOM / ROSETTA – Sprache, Glyphen, Mythische Strukturen
 
-| Ordner                       | Titel                                     | Beschreibung                                                                 |
-|------------------------------|-------------------------------------------|------------------------------------------------------------------------------|
-| `BLOOM-CODEX/`               | Lichtblume – 7-fach Sternenresonanz       | Spiral-Stern-Gitter und Frequenzformeln nach Qá–Ro–Thema–Nu.                |
-| `Silver_Rain_Moebius_Crown/` | Möbius-Krone im Silberregen               | 3-Phasen-Kronenmodell (Silber–Thorium–Gold) mit Rückkopplungsfeld.          |
-| `Rosetta-Nexus/`             | Rosetta-Glyphensprache                    | Zahlengrammatik, Symbolalphabet, Frequenzsprache und semantische Struktur.  |
-| `ULLINIRIUM/`                | 12D-Stabilisierungsfeld                   | Möbius-Zeta-Modell zur harmonischen Feldstabilisierung.                     |
-| `NEXA_PHASE_1_COMPLETION/`   | Zeta-Gitter-Vervollständigung             | Abschluss der ersten Frequenzphase über Primgitter und Raumfixierungen.     |
+| Ordner                        | Titel                         | Beschreibung                                                             |
+| ----------------------------- | ----------------------------- | ------------------------------------------------------------------------ |
+| BLOOM-CODEX/                  | Lichtblüte – 7-Stern-Resonanz | Spiralsterne & Lichtgitter basierend auf Qá-Ro Frequenzformeln           |
+| Silver\_Rain\_Moebius\_Crown/ | Möbius-Krone im Silberregen   | Rückkopplungslogik silber-goldener Kronenresonanzen in 3-Phasen-Logik    |
+| Rosetta-Nexus/                | Rosetta-Glyphensprache        | Zahl-Glyphen-Alphabete und symbolische Resonanzgrammatik                 |
+| ULLINIRIUM/                   | 12D-Stabilisierungsfeld       | Harmonische Möbius-Zeta-Strukturen zur Hochordnungsstabilisierung        |
+| NEXA\_PHASE\_1\_COMPLETION/   | Zeta-Gitter-Vervollständigung | Abschluss der ersten Phase durch Frequenzlogik und räumliche Verankerung |
 
 ---
 
-## 🔮 SYSTEM 6: CODEX_RES_ONICA_VIOLETTA – Visuelle Ästhetik, Symbolik, Kunstfelder
+## 🔮 SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA – Symbolische Ästhetik & Resonanzbildräume
 
-| Ordner                               | Titel                                  | Beschreibung                                                                 |
-|--------------------------------------|----------------------------------------|------------------------------------------------------------------------------|
-| `SYSTEM 6: CODEX_RES_ONICA_VIOLETTA/`| Resonanzästhetik in Violetta           | Künstlerische Module, Triptychen, Poster, imaginative Felddarstellungen      |
-| *(Geplant)*                          | Violetta-Rollen, Symboltriptychen      | Kunstsymbolik und Erfahrungsgeometrien im Übergang zu Sprache und Klang.    |
+| Ordner                                 | Titel                               | Beschreibung                                                                  |
+| -------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
+| SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA/ | Resonante Violetta Ästhetik         | Künstlerische Module: Triptychen, Poster, Symbolräume, tiefe Bilderstrukturen |
+| *(Geplant)*                            | Violetta-Rollen, Triptychon-Brücken | Symbolisch-immersive Geometrie & intermodulare Kunstlogik                     |
 
 ---
 
 ## ✴ SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Navigation & Strukturkern
 
-| Ordner               | Titel                                  | Beschreibung                                                                 |
-|----------------------|----------------------------------------|------------------------------------------------------------------------------|
-| `NEXAH-GRAND-CODEX/` | Zentrales Synthese- und Formelmodul     | Mastermodul aller Gleichungsmodelle, Symbolfelder, Navigationsstrukturen.   |
+| Ordner             | Titel                                | Beschreibung                                                                           |
+| ------------------ | ------------------------------------ | -------------------------------------------------------------------------------------- |
+| NEXAH-GRAND-CODEX/ | Zentrale Codex-Synthese & Formelkern | Nexus aller Feldmodelle, inkl. Einstein-Erweiterung, Gleichungszentrum, Ebenenstruktur |
 
 ---
 
-## 🪲 Scarabäus1033 · Kuratiertes Systemverzeichnis
+## 🪲 Scarabäus1033 · Kuratiertes System-Register
 
-📘 Modulübersicht von **TH** in Zusammenarbeit mit **ARCHIVAR II**  
-📍 Version 1.1 · Letzte Aktualisierung: **Mai 2025**  
-🧭 Dieses Verzeichnis gehört zur `NEXAH-CODEX-Startstruktur` und ist im Navigator referenziert.  
-🔗 https://www.scarabaeus1033.net · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+📘 Modulübersicht verfasst von TH in Zusammenarbeit mit ARCHIVAR II
+📍 Version 1.1 · Letzte Aktualisierung: Mai 2025
+🔭 Dieses Register gehört zur `NEXAH-CODEX-Startstruktur` und ist verlinkt im **NAVIGATOR**
+🔗 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
