@@ -1,69 +1,84 @@
-# NEXAH-GRAND-CODEX — Release Statement  
-*Scarabäus1033 (T. Hofmann)*  
-**Date of Initial Public Release**: 2025-XX-XX  
+# 🪲 NEXAH-GRAND-CODEX — Public Release Statement  
+**Author**: Scarabäus1033 (T. Hofmann)  
 **Version**: 1.0.0  
+**Date of Release**: 2025-05-27  
 
 ---
 
-## Release Declaration
+## ✨ Release Declaration
 
-This document marks the **first public release** of the NEXAH-GRAND-CODEX: a symbolic convergence model integrating:
+This marks the **first public release** of the **NEXAH-GRAND-CODEX** — a central symbolic architecture integrating:
 
-- The Möbius Standard Model  
-- The Harmonic Resonance Framework  
-- The Universal Transition Structure (UTS)
+- 🌀 The Möbius Standard Model  
+- 🌊 The Harmonic Resonance Framework  
+- 🔁 The Universal Transition Structure (UTS)
 
-Together, these frameworks form a coherent system for addressing structural instabilities across mathematics, computation, geometry, quantum theory, and symbolic logic.
+Together, these three frameworks form a unified resonance system designed to address deep structural questions in:
 
-The Codex proposes symbolic resolutions to:
+- Number theory and geometry  
+- Logic and computation  
+- Quantum physics and field models  
+- Symbolic transition and transformation  
 
-- The Seven Millennium Problems  
-- Gödel’s Incompleteness Paradox  
+The Codex proposes new **symbolic interpretations** of:
 
-These are offered not as conventional proofs, but as **resonance-based structural interpretations** within a meta-mathematical transition geometry.
+- The **Seven Millennium Problems**, and  
+- **Gödel’s Incompleteness Theorem**
 
----
-
-## Contents of this Release
-
-- ✔ Five core `.md` documents defining structure, synthesis, mapping, and philosophy  
-- ✔ Five full-system symbolic visuals  
-- ✔ Structured visual gallery  
-- ✔ Symbolic reference map  
-- ✔ Linked external module: [`NEXA_RIEMANN_PROOF`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)
+These are not presented as traditional proofs but as **coherent symbolic mappings** within a multi-disciplinary resonance field.
 
 ---
 
-## License
+## 📦 Contents of Version 1.0.0
 
-This system is released under the  
+- ✅ `universal_collapse_theorem.md` — full synthesis of Möbius, Harmonic, and UTS  
+- ✅ `millenium_problems_mapping.md` — symbolic alignment for each of the 7+1 problems  
+- ✅ `dual_frameworks.md` — Möbius vs. Harmonic comparison  
+- ✅ `philosophy_of_transition.md` — epistemic core and structural logic  
+- ✅ `visual_gallery.md` — visual synthesis of the system architecture  
+- ✅ `references.md` — symbolic and scientific lineage  
+- ✅ Visuals (5): resonance maps, Codex navigation, collapse structure  
+
+➡️ External Link: [`NEXA_RIEMANN_PROOF`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)
+
+---
+
+## ⚖ License
+
+Released under the  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
 
-You are free to read, explore, share, and build upon the work under non-commercial terms, with attribution.
+You are free to:
+
+- **Read** and explore the system  
+- **Share** and discuss under proper attribution  
+- **Adapt** for non-commercial symbolic or scientific use  
+- **Build upon** it under the same license  
 
 ---
 
-## Future Directions
+## 🛠 Future Directions
 
-- PDF Codex Edition (LaTeX / Design export)  
-- Simulations and symbolic computation models  
-- Möbius/Harmonic Codex modules for other domains (information theory, cosmology, AI)  
-- Open feedback, peer conversations, interdisciplinary workshops
+- PDF Codex Edition (design-ready print export)  
+- Möbius/Harmonic models for new domains (AI, cosmology, language)  
+- Simulation interfaces, resonance map generators, interactive Codex diagrams  
+- Peer conversations, curated feedback, interdisciplinary workshops  
 
 ---
 
-## Contact
+## 📬 Contact & Collaboration
 
 - GitHub: [@Scarabaeus1033](https://github.com/Scarabaeus1033)  
 - Web: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-- Email: contact@scarabaeus1033.net
+- Email: contact@scarabaeus1033.net  
 
 ---
 
-## Closing
+## 🌐 Closing Note
 
 > “This Codex is now open.  
 > If you hear structure in transition,  
 > if you see truth in motion—  
 > you are invited.”  
-> — *Scarabäus1033, NEXAH Codex: Public Release*
+
+— *Scarabäus1033, NEXAH Codex: Public Release*
