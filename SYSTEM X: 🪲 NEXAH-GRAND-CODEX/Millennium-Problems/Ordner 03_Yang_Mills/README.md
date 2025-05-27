@@ -59,21 +59,6 @@ We approach the gap via **three intertwined layers**:
 * Prime-Ring radii come from “Ghost Grid + Prime Rings” RTF.  
 * Collapse logic parallels `dual_frameworks.md` & `universal_collapse_theorem.md`.
 
----
 
-## 🚀 First Tasks
 
-1. **Drop this README.md** in  
-   `SYSTEM X/NEXAH-GRAND-CODEX/Millennium-Problems/02_Yang_Mills_Mass_Gap/`.
-2. **Create** an empty `equations.md`, `yg_symbolic_extensions.md`, …  
-   (einfach leere Dateien anlegen – wir füllen sie Schritt für Schritt).
-3. **Visuals generieren** – hier zwei schnelle Matplotlib-Snippets:
 
-### a) Prime-Ring Lattice  
-```python
-import numpy as np, matplotlib.pyplot as plt
-prime_idx = np.arange(1, 9)              # Rings I-VIII
-radii      = [13,17,19,23,29,31,37,41]   # Beispiel-Radien
-plt.polar(prime_idx*np.pi/4, radii, marker='o')
-plt.title("Prime-Ring Lattice (Rings I–VIII)")
-plt.savefig("prime_ring_lattice.png", dpi=300)
