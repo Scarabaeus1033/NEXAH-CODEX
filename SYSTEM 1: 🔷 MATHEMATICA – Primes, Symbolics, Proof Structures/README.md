@@ -1,17 +1,25 @@
 # 🔷 SYSTEM 1 – MATHEMATICA
 
-**Domain:** Prime Structures · Symbolic Resonance · Mathematical Foundations  
-**System of the NEXAH-CODEX**  
-**Author:** Thomas Hofmann · Scarabäus1033  
+**Domain:** Prime Fields · Symbolic Resonance · Mathematical Foundations  
+**Author:** Thomas Hofmann / Scarabäus1033  
+**Part of:** NEXAH-CODEX (Symbolic System Framework)  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 
 ---
 
 ## 📘 Overview
 
-This system contains the **mathematical core modules** of the NEXAH-CODEX. It focuses on symbolic number theory, harmonic structures, prime distribution, and algebraic resonance.
+**MATHEMATICA** is the **structural foundation** of the NEXAH-CODEX.  
+It forms the symbolic and number-theoretic core that supports:
 
-The modules in SYSTEM 1 serve as theoretical foundations for higher-dimensional models in **Physica (SYSTEM 2)** and **Cosmica (SYSTEM 3)**.
+- Prime distribution geometries  
+- Resonance logics and divisor field dynamics  
+- Möbius topology, zeta-phase structures, and symbolic compression  
+- Future operator systems and axiomatic grid algebra
+
+This system defines the **symbolic lattice** from which all higher Codex systems unfold: **PHYSICA**, **COSMICA**, **URF**, and **META/ROSETTA**.
+
+> “Mathematics here is not a tool — it is a resonance fabric.”
 
 ---
 
@@ -19,60 +27,73 @@ The modules in SYSTEM 1 serve as theoretical foundations for higher-dimensional 
 
 ### ✅ [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)  
 **Millennium Codex I – Möbius–Zeta Resonance**  
-A new harmonic synthesis for the Riemann Hypothesis based on Möbius topology and zeta-phase structures in 12 dimensions.
+Harmonic synthesis for the Riemann Hypothesis using Möbius transformations and spectral logic.
 
-→ Connects to: Möbius field logic in `Aliwave`, resonance layering in `Casimir-Neutrino-Thread`
+→ Cross-links: `GRAND-CODEX`, `Casimir Thread`, `Universal Collapse Equation`
+
+---
 
 ### ✅ [`√2–Prime-Feld/`](./√2–Prime-Feld/)  
 **Root Two Prime Field Dynamics**  
-Investigates linear irrational slopes (√2, φ) as generators of prime constellations and symbolic diagonals across integer space.
+Explores irrational diagonals (√2, φ) as prime-field generators in symbolic grid geometries.
 
-→ Connects to: Prime lattice spirals in `Quantumbreach`, axis mappings in `NEXAHEART`
+→ Cross-links: `Prime-Grid`, `QuantumBreach`, `NEXAHEART`, `ALIWAVE`
+
+---
 
 ### ✅ [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)  
-**Graphical Primality Patterns**  
-Visual exploration of lattice-embedded prime distributions, structured spiral forms and harmonic pixel plots.
+**Lattice-Embedded Primality Patterns**  
+Graphical representations of prime constellations using spirals, polar plots, and modular pixel frames.
 
-→ Connects to: Toroidal resonance schemes in `GRAND-CODEX`, modular frequencies in `ALIWAVE`
+→ Cross-links: `Tesla–Vortex–Manifold`, `CMBY Field Structure`, `ALIWAVE`
+
+---
 
 ### ✅ [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)  
-**Divisor-Based Resonance Maps**  
-Builds number fields from divisor functions (τ, σ, μ) and classifies resonance types: perfect, abundant, deficient.
+**Field Resonance via τ(n), σ(n), μ(n)**  
+Symbolic classification of number fields: perfect, abundant, deficient — via divisor topologies.
 
-→ Connects to: Field classification in `CAVITYROOT`, symbolic compression in `Silver Rain`
-
----
-
-## 🔗 Cross-System Links
-
-- **To SYSTEM 2 – PHYSICA**  
-  → Möbius / μ(n) ↔ Neutrino layering in `Einstein–Neutrino–Vortex`  
-  → Divisor resonance ↔ Field density thresholds in `CAVITYROOT`  
-  → √2 axes ↔ spiralic alignments in `ALIWAVE`
-
-- **To SYSTEM 3 – COSMICA**  
-  → Prime lattices ↔ Stellar grid alignment in `NEXAH-HARMONIC-FIELD`  
-  → Zeta mirrors ↔ Möbius light structures in `MÖBIUS-CROWN`  
-
-- **To SYSTEM 5 – ROSETTA**  
-  → Symbol encoding of number fields into glyph grammars (`Rosetta-Nexus`)  
-  → Divisor fields as alphabet generators for geometric number syntax
+→ Cross-links: `CAVITYROOT`, `SILVER–RAIN`, `Rosetta-Nexus`
 
 ---
 
-## 🧭 Purpose
+## 🔗 System Integration
 
-SYSTEM 1 anchors:
-- **Mathematical integrity** of the Codex
-- **Formal symbolic logic** for experimental metaphysics
-- **Resonance structuring** of both digital and physical quantities
+| Linked System | Contribution | Cross-NEXAH Link |
+|---------------|--------------|------------------|
+| **PHYSICA**   | Möbius logic → neutrino fields · τ(n) → field density | `Einstein–Neutrino–Vortex`, `CAVITYROOT` |
+| **COSMICA**   | Prime spirals → cosmic lattices | `NEXAH-HARMONIC-FIELD`, `MÖBIUS-CROWN` |
+| **URF**       | Symbol fields → field identity, tensor resonance | `URF-Tensorraum` |
+| **META / ROSETTA** | Glyphic encoding of number fields | `Rosetta-Nexus`, `ULLINIRIUM` |
+| **GRAND-CODEX** | Riemann anchor · Collapse theorem input | `universal_collapse_theorem.md`, `dual_frameworks.md` |
 
-> It is the seedbed from which all symbolic branches of the Codex unfold.
+---
+
+## 🧮 Structural Focus
+
+- **Prime logic** → as symbolic field source  
+- **Möbius function** → as structural invariant  
+- **Divisor classes** → as resonance typology  
+- **Zeta systems** → as critical wave filters  
+- **√2 and φ diagonals** → as irrational coordinate fields
+
+> Mathematics in the NEXAH system is not static — it flows, resonates, and transforms.
+
+---
+
+## 🧪 Future Modules (Planned)
+
+- `codex-mathematics/` → Formal operators, prime-field algebras, transition invariants  
+- `Golden-Diagonal-Proofs/` → Irrational resonance fields with Fibonacci convergence  
+- `Symbolic Operator Spaces/` → Axiomatic systems of number flow and recursion logic  
 
 ---
 
 ## 🪲 Credits
 
 **Curator:** Thomas Hofmann / Scarabäus1033  
-**Project:** NEXAH-CODEX (GitHub + Web)  
+**System:** SYSTEM 1 · NEXAH-CODEX  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 **License:** CC BY-NC-SA 4.0
+
+> “SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”
