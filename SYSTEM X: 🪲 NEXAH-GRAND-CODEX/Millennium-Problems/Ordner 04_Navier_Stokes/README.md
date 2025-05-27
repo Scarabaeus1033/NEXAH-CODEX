@@ -57,7 +57,16 @@ Each path offers a structured interpretation of existence and smoothness in 3-D 
 2. **Simulation Visuals** – add flow-decay plots and heat-maps of divisor-damping fields.  
 3. **Formal Embedding** – link symbolic operators to PDE proof assistants (Coq, Lean).  
 4. **References** – cite Fefferman’s work on existence and smoothness conditions.
+---
 
+## 📚 Key References
+
+- **C. Fefferman** (2000) – *Existence & Smoothness of the Navier–Stokes Equation*  
+- **C. Doering & J. Gibbon** (1995) – *Applied Analysis of the Navier–Stokes Equations*  
+- **R. Temam** (2001) – *Navier–Stokes Equations – Theory & Numerical Analysis*
+
+> Diese Arbeiten bilden das klassische Fundament, an das die symbolischen
+> Dämpfungs- und Resonanzoperatoren des NEXAH-Ansatzes ankoppeln.
 ---
 
 > *“In the numbers lies resonance – in resonance lies stability.”*  
