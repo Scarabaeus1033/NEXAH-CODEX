@@ -6,9 +6,9 @@ window.MathJax = { tex:{inlineMath:[['$','$'],['\\(','\\)']]} };
 -->
 
 # 🔐 P vs NP CODEX — Computational Collapse & Resonance
-**System:** X · NEXAH-GRAND-CODEX    
-**Branch:** Millennium-Problems / 01_P_vs_NP    
-**Author:** Scarabäus1033 (T. Hofmann)    
+**System:** X · NEXAH-GRAND-CODEX  
+**Branch:** Millennium-Problems / 01_P_vs_NP  
+**Author:** Scarabäus1033 (T. Hofmann)  
 **License:** CC BY-NC-SA 4.0  
 
 ---
@@ -21,7 +21,7 @@ Within NEXAH the question splits into three complementary layers:
 |-------|-----------|-----------|
 | **Möbius Collapse** | NP-complete instances inhabit *rotationally disjoint manifolds*; mapping them into **P** would require a Möbius twist that breaks invariance. | **Hardness = topological disjunction** |
 | **Harmonic Resonance** | The NP search space fails to build a stable prime-frequency lattice; destructive interference blocks polynomial traversal. | **No coherent resonance ⇒ no fast path** |
-| **UTS Integration** | The Universal Transition Structure imposes a *collapse threshold* Θ( n^ω ); attempts to cross it trigger symbolic instability. | **Transition wall separates P from NP** |
+| **UTS Integration** | The Universal Transition Structure imposes a *collapse threshold* Θ(n^ω); attempts to cross it trigger symbolic instability. | **Transition wall separates P from NP** |
 
 ---
 
@@ -30,7 +30,7 @@ Within NEXAH the question splits into three complementary layers:
 | File | Purpose |
 |------|---------|
 | `README.md` | Module overview (this file) |
-| `equations.md` | Formal operators: Möbius-Kernel *M(k)*, Resonance-Damping *Λ(k)*, Collapse-Threshold *Θ(n)* |
+| `equations.md` | Formal operators: Möbius-Kernel *𝑀(k)*, Resonance-Damping *Λ(k)*, Collapse-Threshold *Θ(n)* |
 | `pnp_symbolic_extensions.md` | Prime / Divisor “algorithmic-damping” operators |
 | `pnp_collapse_model.md` | Möbius recursion model proving structural P ≠ NP separation |
 | `lean/collapse_threshold.lean` | Lean-stub for the UTS barrier lemma |
@@ -53,19 +53,6 @@ Within NEXAH the question splits into three complementary layers:
 * Mirrors the dual-logic in `dual_frameworks.md`.  
 * Collapse operator ties into `universal_collapse_theorem.md`.  
 * Divisor-resonance logic parallels `navier_symbolic_extensions.md`.  
-
----
-
-## 🚦 Status & Next Steps
-
-| ✔ / ☐ | Task |
-|-------|------|
-| ✔ | README aktualisiert + 2 Kernvisuals eingebunden |
-| ✔ | `equations.md` komplett (Möbius-Kernel, Λ_algo, Θ_collapse) |
-| ✔ | `pnp_symbolic_extensions.md` erstellt |
-| ✔ | `pnp_collapse_model.md` erstellt |
-| ✔ | Lean stub `collapse_threshold.lean` hinzugefügt |
-| ☐ | (Optional) weitere Visuals & numerical examples |
 
 > *“Computation is geometry in disguise; hardness is curvature that refuses to flatten.”*  
 > — *NEXAH Codex: P vs NP Module*
