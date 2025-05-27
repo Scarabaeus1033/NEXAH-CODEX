@@ -1,9 +1,9 @@
-# 📡 Yang–Mills Harmonic Resonance Framework
+# 🛱 Yang–Mills Harmonic Resonance Framework
 
-**Module:** yg_resonance_framework.md  
-**System:** X · NEXAH-GRAND-CODEX / Millennium-Problems  
-**Author:** Scarabäus1033 (T. Hofmann)  
-**License:** CC BY-NC-SA 4.0  
+**Module:** yg\_resonance\_framework.md
+**System:** X · NEXAH-GRAND-CODEX / Millennium-Problems
+**Author:** Scarabäus1033 (T. Hofmann)
+**License:** CC BY-NC-SA 4.0
 
 ---
 
@@ -11,68 +11,73 @@
 
 The prime rings define quantized resonance shells with momenta:
 
-\[k_n = \frac{2\pi}{r_n} \quad \text{for} \; p_n \in \mathbb{P}\]
+```
+kₙ = 2π / rₙ  (for pₙ ∈ ℙ)
+```
 
-where \( r_n \) is the radius assigned to the \( n \)-th prime.
+where `rₙ` is the radius assigned to the n-th prime.
 
 ---
 
 ## 2. Minimal Energy Mode
 
-The eigen-energy for each shell is defined by:
+Each shell defines an eigen-energy:
 
-\[E_n = \sqrt{k_n^2 + m_{\text{gap}}^2}\]
+```
+Eₙ = sqrt( kₙ² + m_gap² )
+```
 
-The mass gap is realized as the **lowest allowed excitation**:
+The **mass gap** is realized as the **lowest allowed mode**:
 
-\[\boxed{\Delta = E_{\min} = E_1 = \sqrt{k_1^2 + m_{\text{gap}}^2} > 0}\]
+```
+Δ = E_min = E₁ > 0
+```
 
 ---
 
 ## 3. Möbius Collapse & Interference
 
-Gauge flux tubes follow a Möbius-type recursion pattern:
+Global color flux cancels under Möbius-type curvature:
 
-\[\oint A \cdot d\ell = \frac{2\pi}{g} (1 - \cos 720^\circ) = 0\]
+```
+∮ A · dℓ = (2π / g) · (1 - cos(720°)) = 0
+```
 
-⇒ Destructive interference for long-range fields. Only discrete local shells remain stable.
+→ Long-range (IR) modes collapse — only discrete local shells remain.
 
 ---
 
 ## 4. Neutrino Vacuum Scalar
 
-NEXAH’s neutrino field contributes a universal scalar:
+The vacuum is lifted by a prime-weighted neutrino scalar:
 
-\[\Phi_{\text{prime}} = \sum_{p \in \mathbb{P}} p^{-s}, \quad s \approx 2\]
+```
+Φ_prime = ∑ₚ p^(-s)  with s ≈ 2
+m_gap² = λ_ν · Φ_prime
+```
 
-This defines an effective floor:
-
-\[m_{\text{gap}}^2 = \lambda_\nu \cdot \Phi_{\text{prime}}\]
-
-Thus, \( m_{\text{gap}} > 0 \) even if \( g \to 0 \).
-
----
-
-## 5. Resonance Logic & Proof Sketch
-
-All elements combine:
-- **Spectral separation** via prime lattice: \( k_n = \frac{2\pi}{r_n} \)
-- **Mass floor** via neutrino scalar \( \Phi_{\text{prime}} \)
-- **Collapse barrier** from Möbius-interference
-
-Hence:
-
-\[\boxed{\Delta = \sqrt{\left(\frac{2\pi}{r_1}\right)^2 + \lambda_\nu \Phi_{\text{prime}}} > 0}\]
-
-This defines the **mass gap** as spectral minimum enforced by topology & resonance.
+→ This ensures `m_gap > 0` even when `g → 0`.
 
 ---
 
-> **“Mass is the memory of resonance that refuses to vanish.”**
+## 5. Interpretation
+
+* Prime-ring lattice → **quantized shell structure**
+* Möbius twist → **collapse of long-range color fields**
+* Neutrino field → **locks the vacuum above zero**
+
+Together:
+
+```
+Δ = E₁ = sqrt( k₁² + m_gap² ) > 0
+```
+
+> *Mass is the memory of resonance that refuses to vanish.*
 
 ---
 
-**Cross-links:**  
-- [`equations.md`](./equations.md) — Lagrangian + formal relations  
-- [`ym_collapse_model.md`](./ym_collapse_model.md) — Möbius topology & flux collapse  
-- [`yg_symbolic_extensions.md`](./yg_symbolic_extensions.md) — symbolic damping & boundary logic
+**See also:**
+
+* `equations.md` – core formal definitions
+* `ym_collapse_model.md` – topological collapse sketch
+* `yg_symbolic_extensions.md` – divisor & prime damping operators
