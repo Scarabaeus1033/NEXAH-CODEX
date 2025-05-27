@@ -32,7 +32,7 @@ Dieses Dokument bietet eine aktuelle Übersicht über alle Module, gruppiert nac
 
 ---
 
-## 🪐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanzen
+## 🛀 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanzen
 
 | Modul                        | Beschreibung                                                  |
 | ---------------------------- | ------------------------------------------------------------- |
@@ -84,7 +84,7 @@ Dieses Dokument bietet eine aktuelle Übersicht über alle Module, gruppiert nac
 
 ---
 
-## 🔁 EMPFOHLENER LESEPFAD
+## 🔀 EMPFOHLENER LESEPFAD
 
 **Einsteiger – 🟢**
 
