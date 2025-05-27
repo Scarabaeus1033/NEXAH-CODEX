@@ -6,7 +6,7 @@
 **License:** CC BY-NC-SA 4.0
 
 ---
-
+![Codex Triad Synthesis](./visuals/Codex_Triad_Synthesis_Diagram.png)
 ## 🧭 Overview
 
 The **NEXAH-GRAND-CODEX** is the **central synthesis hub** of the entire NEXAH system. It unifies:
