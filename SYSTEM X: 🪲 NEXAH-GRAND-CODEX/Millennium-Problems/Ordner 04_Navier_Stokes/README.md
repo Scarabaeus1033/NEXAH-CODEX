@@ -19,28 +19,28 @@ Wir erweitern die klassische Viskositäts-Dämpfung um **symbolische Dämpfungso
 
 Für jede Fourier-Mode \(k\) definieren wir eine **Divisor-Signature**  
 \[
-\Phi(k) = \bigl[\,
-\tau(k),\;\delta(k),\;\omega(k),\;\mu(k)\bigr]
-\]
-– mit  
-- \(\tau(k)\): Anzahl der Teiler von \(k\)  
-- \(\delta(k) = \tfrac{\sigma(k)}{k}\): Divisor-Leistungsfunktion  
-- \(\omega(k)\): Zahl der verschiedenen Primteiler  
+\Phi(k) \;=\; \bigl[\;\tau(k),\;\delta(k),\;\omega(k),\;\mu(k)\bigr]
+\]  
+mit  
+- \(\displaystyle \tau(k)=\prod_i (e_i+1)\), der Anzahl der Teiler von \(k\) (für \(k=\prod p_i^{e_i}\))  
+- \(\displaystyle \delta(k)=\frac{\sigma(k)}{k}\), der Divisor-Leistungsfunktion  
+- \(\omega(k)\): Anzahl der verschiedenen Primteiler  
 - \(\mu(k)\): Möbius-Funktion  
 
 ### 2.2 Divisor-Dämpfung \(\Lambda_{\mathrm{div}}(k)\)
 
-Wir leiten daraus eine **symbolische Dämpfungsrate** ab:
+Wir leiten daraus eine **symbolische Dämpfungsrate** ab:  
 \[
 \Lambda_{\mathrm{div}}(k)
 = \alpha\,\frac{\tau(k)}{k^2}
 \;+\;\beta\,\bigl(\delta(k)-1\bigr)^2
-\;-\;\gamma\,\mu(k)\,.
-\]
+\;-\;\gamma\,\mu(k)
+\]  
+mit  
 - \(\alpha,\beta,\gamma\in\mathbb{R}^+\): Skalierungsparameter  
-- Term 1 \(\propto\tau(k)/k^2\): stärkere Dämpfung bei vielen Teilern  
-- Term 2 \(\propto(\delta(k)-1)^2\): Abweichung von perfekten Zahlen  
-- Term 3 \(\propto\mu(k)\): Vorzeichenwechsel für quadratfreie Modi  
+- Term 1 \(\propto \tau(k)/k^2\): stärkere Dämpfung bei vielen Teilern  
+- Term 2 \(\propto (\delta(k)-1)^2\): Abweichung von perfekten Zahlen  
+- Term 3 \(\propto \mu(k)\): Vorzeichenwechsel für quadratfreie Modi  
 
 ---
 
@@ -50,34 +50,38 @@ Für den Einfluss der Primzahlen definieren wir
 \[
 \Lambda_{\mathrm{prime}}(k)
 = \kappa \sum_{p\,\mid\,k} p^{-s}
-\]
-– mit  
+\]  
+mit  
 - \(p\mid k\): alle Primteiler von \(k\)  
 - \(s\approx 2\): Resonanz-Exponent  
 - \(\kappa\in\mathbb{R}^+\): globale Stärkungs-Konstante  
 
-Dies modelliert, wie **große Primfaktoren** den Fluss auf kleinen Skalen dämpfen.
+Dieser Term modelliert, wie **große Primfaktoren** den Fluss auf kleinen Skalen dämpfen.
 
 ---
 
 ## 4. Composite Resonance-Damping
 
-Die **gesamte symbolische Dämpfungsrate** jeder Mode \(k\) setzen wir zusammen als
+Die **gesamte symbolische Dämpfungsrate** jeder Mode \(k\) setzen wir zusammen als  
 \[
 \Lambda_{\mathrm{sym}}(k)
 = \Lambda_{\mathrm{harm}}(k)
 \;+\;\Lambda_{\mathrm{div}}(k)
 \;+\;\Lambda_{\mathrm{prime}}(k)\,,
-\]
-wobei \(\Lambda_{\mathrm{harm}}(k)=\nu\,k^2\) der klassische harmonische Anteil ist.
+\]  
+wobei  
+\[
+\Lambda_{\mathrm{harm}}(k)=\nu\,k^2
+\]  
+der klassische harmonische Anteil (viskose Dämpfung) ist.
 
 ---
 
 ## 5. Interpretation & Verbindung
 
-- **Divisor-Dämpfung** bindet die arithmetische Komplexität von \(k\) an die Flussstabilität.  
+- **Divisor-Dämpfung** verbindet die arithmetische Komplexität von \(k\) mit der Flussstabilität.  
 - **Prime-Dämpfung** reflektiert die “Spektral-Härte” großer Primteiler auf turbulente Skalen.  
-- **Harmonic + Divisor + Prime** formen im **UTS-Rahmen** ein koheräntes Feld, das sowohl klassische Glattheits- als auch Resonanzkriterien abdeckt.
+- **Harmonic + Divisor + Prime** formen im **UTS-Rahmen** ein kohärentes Feld, das sowohl klassische Glattheits- als auch Resonanzkriterien abdeckt.
 
 ---
 
