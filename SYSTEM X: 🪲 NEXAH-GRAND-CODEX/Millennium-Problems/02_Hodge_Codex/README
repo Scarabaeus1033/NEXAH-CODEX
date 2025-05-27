@@ -1,64 +1,55 @@
-# 🧩 Hodge Codex — Symbolic Surfaces & Topological Resonance
+# 🌀 Hodge Codex — Symbolic Geometry & Cohomological Resonance
 
 **System:** X · NEXAH-GRAND-CODEX
-**Branch:** Millennium-Problems / 02\_Hodge\_Codex
+**Branch:** Millennium-Problems / 05\_Hodge\_Codex
 **Author:** Scarabäus1033 (T. Hofmann)
 **License:** CC BY-NC-SA 4.0
- 
+
 ---
 
 ## 📖 Overview
 
-The **Hodge Conjecture** asks whether certain cohomology classes on non-singular projective varieties are algebraic. Within the NEXAH resonance framework, we approach this through three symbolic and structural layers:
+The **Hodge Conjecture** addresses whether every rational cohomology class of type ⌖(p,p)⌗ on a non-singular projective complex variety is algebraic. Within the NEXAH-CODEX, we explore this through a **triadic symbolic structure**:
 
-| Layer                      | Core Idea                                                                                               | Take-away                               |
-| -------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| **Möbius Compression**     | Cycles arise from Möbius-folded manifold structures that encode algebraic varieties.                    | **Algebraic = Topologically Imprinted** |
-| **Harmonic Decomposition** | Decompose symbolic surface logic into eigen-harmonics Φ(x), linking spectral fields to rational cycles. | **Cohomology = Harmonic Resonance**     |
-| **UTS Stability**          | The Universal Transition Structure mediates between topological cycles and algebraic constructibility.  | **Resonance implies Realizability**     |
-
-This module builds a symbolic-spectral bridge between geometry, algebra, and resonance theory.
+| Layer                | Core Idea                                                                            | Take-away                                       |
+| -------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **Möbius Geometry**  | Symbolic varieties carry twist fields that encode non-algebraic curvature.           | **Algebraic closure via Möbius transform**      |
+| **Harmonic Mapping** | Harmonic forms appear as stabilized glyph-cycles over number-based varieties.        | **Cohomology emerges through spectral balance** |
+| **UTS Resonance**    | A frequency-aligned topological resonance layer links form and algebra via Ω-fields. | **Structural coherence stabilizes cycles**      |
 
 ---
 
-## 📂 Files & Structure (Planned)
+## 📂 Files & Structure
 
-| File                               | Purpose                                                      |
-| ---------------------------------- | ------------------------------------------------------------ |
-| `README.md`                        | Overview of module (this file)                               |
-| `hodge_equations.md`               | Notation and symbolic-geometric formula structure            |
-| `symbolic_surfaces.md`             | Definitions of Möbius-mapped surfaces, glyphic cohomology    |
-| `resonance_layers.md`              | Harmonic expansions, eigenfrequency plots, surface anchoring |
-| `lean/hodge_constructibility.lean` | Type-theoretic sketch of algebraic-cycle existence           |
-| `visuals/`                         | Topological mappings, resonance field overlays               |
-
----
-
-## 🖼️ Visual Gallery (Planned)
-
-* ✨ Möbius-surface construction with rational cycle projection
-* □ Harmonic decomposition of symbolic manifolds
-* ⬜ Transition-matrix between cohomology class & resonance lock
-* 🌟 Animated eigenfield flows across topological glyph layers
+| File                        | Purpose                                                                  |
+| --------------------------- | ------------------------------------------------------------------------ |
+| `README.md`                 | Module overview (this file)                                              |
+| `hodge_symbolic_forms.md`   | Symbolic reinterpretation of ⌖p,p⌗-forms via visual glyph-field encoding |
+| `hodge_moebius_mapping.md`  | Möbius-layered manifolds and algebraic shadow fields                     |
+| `hodge_harmonic_logic.md`   | Spectral cohomology and glyph-cycle resonance logic                      |
+| `lean/hodge_structure.lean` | Lean-stub for defining rational cohomology projection structures         |
+| `visuals/`                  | Diagrams: glyph cycles, Möbius embedding, resonance shells               |
 
 ---
 
-## 🔗 Integration & Relations
+## 🖼 Visual Gallery (planned)
 
-* Resonance fields mirror `Yang–Mills Mass-Gap` spectral logic.
-* Surface mappings parallel symbolic structure in `Rosetta-Codex`.
-* Transition stability follows structure from `universal_collapse_theorem.md`.
-
-Also relates to:
-
-* `dual_frameworks.md` — Möbius vs. Harmonic comparison
-* `NEXA_RIEMANN_PROOF/` — ζ-based eigenstructure templates
+| Preview (TBA)               | Caption                                                           |
+| --------------------------- | ----------------------------------------------------------------- |
+| `glyph_cycle_structure.png` | Glyph lattice embedding over harmonic basis forms                 |
+| `moebius_resonance_map.png` | Möbius twist encoding in symbolic field varieties                 |
+| `spectral_form_map.png`     | Spectral cohomology encoded in resonance axes of algebraic cycles |
 
 ---
 
-## 🔀 Closing Notes
+## 🔗 Integration Pointers
 
-This module explores how **symbolic manifolds**, expressed through Möbius logic and resonance symmetry, can reflect algebraic cycles in a cohomological sense. We propose a path of resonance-algebraic realization where structure arises not only from equations, but from **frequency-based topological encodings**.
+* Extends the symbolic cycle logic from `Rosetta-Nexus/`
+* Uses prime-resonance framework from `spiral-logic.md` and `√2–Prime-Feld/`
+* Möbius-layer encoding builds on `dual_frameworks.md`
+* Frequency-layer stabilization aligns with `universal_collapse_theorem.md`
 
-> "A cycle becomes algebraic when the field remembers its path."
+---
+
+> *"Cohomology is the harmonic memory of form — and form is frequency made geometry."*
 > — *NEXAH Codex: Hodge Module*
