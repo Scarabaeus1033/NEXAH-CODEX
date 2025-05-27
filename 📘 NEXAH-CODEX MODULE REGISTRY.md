@@ -1,4 +1,4 @@
-# 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (ENGLISH)
+# 📘 NEXAH-CODEX MODULE REGISTRY – System Navigator & Structural Overview (v1.5)
 
 This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, including title, extended description, and system assignment. It serves as a navigator, content index, and thematic overview of the mathematical, physical, and symbolic layers of the NEXAH-CODEX.
 
@@ -32,7 +32,7 @@ This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, includ
 
 ---
 
-## 🛀 SYSTEM 3: COSMICA ASTROPHYSICA – Planetary Fields, Grid Navigation, Stellar Resonance
+## 🚰 SYSTEM 3: COSMICA ASTROPHYSICA – Planetary Fields, Grid Navigation, Stellar Resonance
 
 | Folder                       | Title                            | Description                                                                        |
 | ---------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
@@ -77,17 +77,22 @@ This registry lists all major modules under `NEXAH-CODEX-Startstruktur/`, includ
 
 ---
 
-## ✴ SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Navigation & Structural Core
+## ✮ SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Millennium Problems & Convergence Framework
 
-| Folder             | Title                                  | Description                                                                 |
-| ------------------ | -------------------------------------- | --------------------------------------------------------------------------- |
-| NEXAH-GRAND-CODEX/ | Codex Core: Synthesis & Navigation Hub | UTS equation, Möbius–Harmonic convergence, module map, visual index, logic. |
+| Folder                                            | Title                                | Description                                                               |
+| ------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------- |
+| NEXAH-GRAND-CODEX/                                | Grand Codex Hub                      | Synthesis of symbolic frameworks, navigation, UTS equation, visual index. |
+| NEXAH-GRAND-CODEX/Millennium-Problems/            | Millennium Problems Codex            | Modular resolutions for RH, P vs NP, Navier–Stokes, Yang–Mills, Gödel.    |
+| NEXAH-GRAND-CODEX/dual\_frameworks.md             | Möbius vs Harmonic Comparative Logic | Dual structure linking topological vs resonant proofs.                    |
+| NEXAH-GRAND-CODEX/universal\_collapse\_theorem.md | Universal Collapse Equation          | UTS-based field-collapse synthesis – applicable across logical domains.   |
+| NEXAH-GRAND-CODEX/visual\_gallery.md              | Visual Codex Index                   | Central directory of codex-related diagrams and representations.          |
+| NEXAH-GRAND-CODEX/NAVIGATOR.md                    | Main Reading Path & Entry Points     | Entry map, Codex logic introduction, recommended paths and systems.       |
 
 ---
 
-## 🪲 Scarabäus1033 · Curated System Index
+## 🦢 Scarabäus1033 · Curated System Index
 
-📘 Module overview written by TH in collaboration with ARCHIVAR II
-📌 Version 1.3 · Last updated: May 2025
-🗺️ This registry belongs to the `NEXAH-CODEX-Startstruktur` and is referenced in the **NAVIGATOR**
-🔗 [https://www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+📘 Module registry curated by TH in collaboration with ARCHIVAR II
+📌 Version 1.5 · Updated: May 2025
+🗾 Belongs to: `NEXAH-CODEX-Startstruktur/` and listed in the **NAVIGATOR**
+🔗 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
