@@ -8,51 +8,58 @@
 
 ## 🧮 1. Basic Divisor Functions
 
-### • Number of Divisors – \( \tau(n) \)
-\[ \tau(n) = \prod_{i=1}^{k} (e_i + 1) \]
-For prime factorization \( n = \prod_{i=1}^{k} p_i^{e_i} \)
+### • Number of Divisors – τ(n)
+**Formula:**  
+τ(n) = ∏ (eᵢ + 1), for n = ∏ pᵢ^eᵢ
 
-→ Represents the *field density* of number \( n \)
+→ Represents the *field density* of number n
 
 ---
 
-### • Sum of Divisors – \( \sigma(n) \)
-\[ \sigma(n) = \prod_{i=1}^{k} \left( \frac{p_i^{e_i+1} - 1}{p_i - 1} \right) \]
-Measures *total field output* of a number in its divisor orbit.
+### • Sum of Divisors – σ(n)
+**Formula:**  
+σ(n) = ∏ [(pᵢ^(eᵢ+1) − 1) / (pᵢ − 1)]
+
+→ Measures *total field output* of a number in its divisor orbit.
 
 ---
 
 ## 🧠 2. Structural & Symbolic Functions
 
-### • Number of Distinct Prime Divisors – \( \omega(n) \)
-\[ \omega(n) = \text{number of distinct } p_i \text{ in prime factorization} \]
+### • Number of Distinct Prime Divisors – ω(n)
+**Definition:** Number of distinct prime factors in n.
+
 → Used to identify resonance class or *signature depth*.
 
-### • Möbius Function – \( \mu(n) \)
-\[ \mu(n) = \begin{cases} 1 & \text{if } n = 1 \\ (-1)^k & \text{if } n \text{ is product of } k \text{ distinct primes} \\ 0 & \text{if } n \text{ has squared prime factor} \end{cases} \]
-→ Represents *duality logic*, exclusion patterns and cancelation symmetries.
+### • Möbius Function – μ(n)
+**Definition:**
+- μ(1) = 1  
+- μ(n) = (−1)^k if n is a product of k distinct primes  
+- μ(n) = 0 if n contains any squared prime factor
+
+→ Represents *duality logic*, exclusion patterns and cancellation symmetries.
 
 ---
 
 ## 🔁 3. Symbolic Derivations
 
 ### • Divisor Field Signature Vector (Example)
-\[ \Phi(n) = \left[ \tau(n), \sigma(n), \omega(n), \mu(n) \right] \]
+**Φ(n) = [τ(n), σ(n), ω(n), μ(n)]**  
 → Defines an n-point signature for symbolic field classification.
 
 ### • Divisor Power Function (Field Weight)
-\[ \delta(n) = \frac{\sigma(n)}{n} \]
+**δ(n) = σ(n) / n**  
 → Used to classify **abundant**, **perfect**, and **deficient** numbers.
 
 ---
 
 ## 🧬 4. Interpretative Frameworks
 
-| Type      | Definition                  | Symbolic Role           |
-|-----------|-----------------------------|--------------------------|
-| Perfect   | \( \sigma(n) = 2n \)       | harmonic equilibrium     |
-| Abundant  | \( \sigma(n) > 2n \)       | overflow / open cluster  |
-| Deficient | \( \sigma(n) < 2n \)       | contracted resonance     |
+| Type      | Definition           | Symbolic Role           |
+|-----------|----------------------|--------------------------|
+| Perfect   | σ(n) = 2n           | harmonic equilibrium     |
+| Abundant  | σ(n) > 2n           | overflow / open cluster  |
+| Deficient | σ(n) < 2n           | contracted resonance     |
 
 ---
 
