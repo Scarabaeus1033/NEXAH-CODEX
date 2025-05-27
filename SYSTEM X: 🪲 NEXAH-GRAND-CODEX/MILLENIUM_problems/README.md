@@ -31,7 +31,6 @@ This directory hosts all **individual codex modules**, visual logic crosslinks, 
 | `04_Navier_Stokes/`         | Navier–Stokes Regularity           | ✅ Completed  | UTS-bounded fluid damping; glyph flow collapse and vortex-symbol geometry. |
 | `05_BSD_Codex/`             | Birch & Swinnerton-Dyer Conjecture | ✅ Completed  | Rank as resonance echo in L-function window; Möbius-torsion lattice.       |
 | `06_Riemann_Codex/`         | Riemann Hypothesis                 | ✅ Integrated | Linked via `NEXA_RIEMANN_PROOF/` from SYSTEM 1 — prime spectral axis.      |
-| `07_Goedel_Incompleteness/` | Gödel's Incompleteness Theorem     | ⏳ Planned    | Logical reflexivity, paradox embedding, collapse in decidability space.    |
 
 ---
 
