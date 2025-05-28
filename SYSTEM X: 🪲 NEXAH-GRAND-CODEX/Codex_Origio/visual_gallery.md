@@ -43,19 +43,6 @@ This graphic maps the symbolic-metallic field of the Earth’s carrier materials
 
 ---
 
-## 🜛 Erdträger Metal Network (Version 2)
-
-![Erdträger Metal Network](./visuals/Erdträger_Metal_Network.png)
-
-**Description:**
-A slightly adjusted version of the field network graphic showing enhanced granularity in soil-metal interactions. Highlights symbolic zones for transformation and resonance buffering.
-
-**Module Link:** `resonant_soils.csv`, `Codex_Matter_Weave.md`
-
-**Codex Context:** Root zone integration / Sand–Lehm–Myzel transition strata
-
----
-
 ## 📜 More visuals coming soon...
 
 Additional scrolls and resonance maps will be integrated with upcoming modules like `Codex Soil`, `Codex Bloom`, and the `Transitionarium`.
