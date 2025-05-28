@@ -8,7 +8,7 @@
 
 ---
 
-## 🧭 Zielsetzung von SYSTEM X
+## 🧡 Zielsetzung von SYSTEM X
 
 Dieses Verzeichnis bildet das **intellektuelle und strukturelle Zentrum** des gesamten NEXAH-CODEX-Systems. Hier werden zentrale mathematische Theorien, symbolische Resonanzsysteme, Millennium-Probleme und universelle Stabilitätsformeln zu einem **kohärenten Beweis- und Harmoniestrang** verwoben.
 
