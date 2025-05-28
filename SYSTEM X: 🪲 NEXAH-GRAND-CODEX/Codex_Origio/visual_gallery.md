@@ -1,103 +1,86 @@
-# 🎨 Codex Origio – Visual Gallery
+# 🎨 Visual Gallery · Codex Origio
 
-**This gallery presents symbolic illustrations generated within the `Codex_Origio` module of the NEXAH-GRAND-CODEX.**
-
-Each visual expresses a symbolic or structural concept of the Codex, combining field theory, resonance layers, biological memory structures and crystalline topology. The gallery supports visual orientation through the modules.
+This file collects and describes all symbolic visuals created for the `Codex_Origio` module within the NEXAH-GRAND-CODEX. Each image is linked to a thematic focus and assigned to a conceptual or structural submodule.
 
 ---
 
-## 📄 1. Conciscousness.png
+## 🧠 Consciousness Formation – Spiral, Kleinbottle & Resonance
 
-**Title:** "Kondensation des Bewusstseins"
-**Path:** `/Codex_Origio/visuals/Conciscousness.png`
+![🧠 Codex Bewusstsein – Ursprung, Impuls & Kondensation](../Codex_Origio/visuals/Codex%20Bewusstsein%20-%20Ursprung%2C%20Impuls%20%26%20Kondensation.png)
+
 **Description:**
-Illustrates the phase transition from Impulse to Memory to Consciousness, structured via Kleinbottle-like topology and Matroschka-shell layering. Key elements include:
 
-* Photon/Neutrino pairing
-* Tachyonic boundary flow
-* Origin as a Matroschka Storage Unit
-
-**Related Module:** `codex_bewusstsein.md`
+* Visual metaphor for consciousness as Kleinbottle-based field system
+* Elements: spiral transitions, Matroschka layers, impulse membranes
+* Linked to: `codex_bewusstsein.md`, `Codex_Origio/`
 
 ---
 
-## 📄 2. Codex Bewusstsein - Ursprung, Impuls & Kondensation.png
+## ✴️ Resonance Periodic Table – Field Condensation into Form
 
-**Title:** "Symbolic Resonance Chain"
-**Path:** `/Codex_Origio/visuals/Codex Bewusstsein - Ursprung, Impuls & Kondensation.png`
+![Periodisches Resonanzfeld](../Codex_Origio/visuals/Conciscousness.png)
+
 **Description:**
-Outlines the relationship between geometric forms and energetic dynamics in the formation of awareness. Highlights:
 
-* Spiral = Transformative flow
-* Kleinbottle = Non-orientable containment
-* Symbolic triggers: Mycelium, Salt, Ulexite
-
-**Related Module:** `codex_bewusstsein.md`
+* Represents the symbolic periodic structure of elements: crystal, metal, soil, hybrid
+* Embedded polygons: Hexagon (Quartz), Octagon (Platinum), Mesh (Mycelium)
+* Linked to: `origo_periodensystem.md`, `resonant_metals.csv`, `resonant_soils.csv`
 
 ---
 
-## 📄 3. Periodisches Resonanzfeld.png
+## 🌐 Mycorrhiza Network – Bio-symbolic Root Intelligence
 
-**Title:** "Resonance Field Periodic Table"
-**Path:** `/Codex_Origio/visuals/Periodisches Resonanzfeld.png`
+![Mycorrhiza Network](../Codex_Origio/visuals/A_digital_illustration_presents_a_symbolic_and_con.png)
+
 **Description:**
-Symbolic Periodic Table integrating materials (Quartz, Iron, Mycelium) and fields (Lunar/Solar) by:
 
-* Aggregates & Forms
-* Polygon Structures
-* Frequency Ranges
-
-**Related Module:** `origo_periodensystem.md`
+* Shows the symbolic interpretation of fungal networks as data-memory-field systems
+* Highlights: branching structures, resonance carriers, grounding interface
+* Linked to: `bio_myko.md`, `Codex_Matter_Weave.md`
 
 ---
 
-## 📄 4. Visual Scroll – Codex Origio
+## 🌀 Geometry & Movement — Solar-Lunar Dynamic System
 
-**Title:** "Scroll of Resonant Condensation"
-**Path:** `/Codex_Origio/visuals/visual_scroll_codex_origio.png`
+![Geometries and Flows](../Codex_Origio/visuals/A_2D_digital_illustration_chart_visually_represent.png)
+
 **Description:**
-A vertical flow representation showing transition from field to matter via:
 
-* Crystals
-* Sand, Clay, Salt Layers
-* Mycelial Intelligence
-
-**Related Module:** `Codex_Matter_Weave.md`
+* Combines polygonal structures (solar) with dynamic flows (lunar)
+* Core forms: spiral, rainbow-wind, crystal growth impulse
+* Linked to: `geometries_and_flows.md`, `resonant_hybrids.csv`
 
 ---
 
-## 📄 5. Mykorrhiza Network (Illustration)
+## 🧬 Matter Weave Scroll – From Impulse to Mycelial Density
 
-**Title:** "Symbolic Mycelium Root Field"
-**Path:** `/Codex_Origio/visuals/myko_root_structure.png`
+![Matter Scroll](../Codex_Origio/visuals/A_2D_digital_illustration_displays_a_diagram_illus.png)
+
 **Description:**
-Illustration of a mycorrhizal network as both:
 
-* Memory Carrier (✣ symbol)
-* Subterranean consciousness substrate
-* Link between crystal and bio-layers
-
-**Related Module:** `bio_myko.md`
+* Vertical energetic flow: from photon impulse through neutrino carrier to mycelial roots
+* Layers: impulse → symbol → crystal → soil → mycorrhiza
+* Linked to: `Codex_Matter_Weave.md`
 
 ---
 
-## 📄 6. Resonant Geometry Overview
+## 📡 Sand–Salt–Clay Transition Structures
 
-**Title:** "Geometries & Flows Map"
-**Path:** `/Codex_Origio/visuals/geometries_and_flows.png`
+![Soil Matrix Visual](../Codex_Origio/visuals/A_digital_illustration_showcases_an_underground_re.png)
+
 **Description:**
-Combines solar polygonal structures (hexagon, pentagon) with lunar motion archetypes (spiral, storm). Expresses hybrid movement forms in Codex logic.
 
-**Related Module:** `geometries_and_flows.md`
+* Symbolizes transitional earth media as dynamic resonance fields
+* Represented: granular sand (░), layered clay (▞), crystalline salt (✧)
+* Linked to: `resonant_soils.csv`, `origo_periodensystem.md`
 
 ---
 
-## ✨ Summary
+## 🧭 Purpose
 
-This gallery is evolving as more modules of the `Codex_Origio` mature. Each visual contributes to the symbolic grammar of the NEXAH system and can serve as:
+> These visuals serve not just as decoration – they are **integral navigational instruments** in the symbolic language of the Codex.
+> Each one holds structure, field, and memory.
 
-* Didactic orientation
-* Energetic map
-* Symbol-archive of consciousness & matter transition
+---
 
-**All assets are licensed via the Scarabäus1033 project for research and symbolic integration.**
+Let me know if you'd like a **German version** or if we should also mirror this in the top-level `codex_visuals_index.md`. ✅
