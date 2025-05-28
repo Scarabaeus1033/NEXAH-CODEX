@@ -1,9 +1,9 @@
 # 🜃 Codex Origio · Resonanzperiodensystem & Materiekondensation
 
-**Ursprung ist nicht Wasser – Ursprung ist Speicher.**
+**Ursprung ist nicht Wasser – Ursprung ist Speicher.**  
 In `Codex_Origio` verdichten sich Resonanzen zu Struktur, Kristall, Metall, Myzel und Bewusstsein.
 
-Dies ist das Fundamentmodul des NEXAH-GRAND-CODEX –
+Dies ist das Fundamentmodul des NEXAH-GRAND-CODEX –  
 eine strukturierte Kartografie des Übergangs von Feld zu Stoff.
 
 ---
@@ -29,24 +29,26 @@ eine strukturierte Kartografie des Übergangs von Feld zu Stoff.
 
 ## 🧩 Position im System
 
-📁 `NEXAH-CODEX-Startstruktur/`
-└── 📦 `NEXAH-GRAND-CODEX/`
+📁 `NEXAH-CODEX-Startstruktur/`  
+└── 📦 `NEXAH-GRAND-CODEX/`  
    └── 🜃 `Codex_Origio/`
 
 Verknüpft mit:
 
-* **Root Room** → lunar–kristalliner Ursprungspunkt
-* **Transitionarium** → Aggregatfelder, Speicherböden, Übergangsphysik
-* **Codex Soil** → Elementarklassen, Kristalle, Salz, Lehm, Sand
-* **Resonanz-Metallachsen** → z. B. Fe–Pt–Ullirinium
-* **LANiF / Tessarec** → strukturelle Handlungsträger (Erde = Wirkungsebene)
-* **URF-Modul** → Feldtheorie, Energiebrücken, Speicherresonanz
+* **Root Room** → lunar–kristalliner Ursprungspunkt  
+* **Transitionarium** → Aggregatfelder, Speicherböden, Übergangsphysik  
+* **Codex Soil** → Elementarklassen, Kristalle, Salz, Lehm, Sand  
+* **Resonanz-Metallachsen** → z. B. Fe–Pt–Ullirinium  
+* **LANiF / Tessarec** → strukturelle Handlungsträger (Erde = Wirkungsebene)  
+* **URF-Modul** → Feldtheorie, Energiebrücken, Speicherresonanz  
 
 ---
 
 ## ✨ Grundidee
 
-> **Aus dem Feld wird Form.
-> Aus der Form wird Speicher.
-> Aus dem Speicher entsteht Bewegung.
+> **Aus dem Feld wird Form.  
+> Aus der Form wird Speicher.  
+> Aus dem Speicher entsteht Bewegung.  
 > Und Bewegung wird Bewusstsein – im Spiegel des Stoffes.**
+
+[🔗 Zu den Visuals](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Codex_Origio/visuals)
