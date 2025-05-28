@@ -16,21 +16,21 @@ Dieses Verzeichnis bildet das **intellektuelle und strukturelle Zentrum** des ge
 
 ## 📂 Inhaltsstruktur
 
-### 🔷 `NEXAH-GRAND-CODEX 🪲/`
+### 🔷 [`NEXAH-GRAND-CODEX 🪲`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX)
 
 Das Hauptmodul, das die **universelle Formel der Stabilität** (`E = m · c · k^β`) enthält.
 Enthalten sind:
 
 * Manifest & Einleitung
-* `codex-mathematics/`: Theoretisch-mathematische Grundbausteine (z.B. k-Beta-Formel, Casimir-Neutrino-Thread, Spiralformeln)
-* `visuals/`: Graphische Darstellung der Konzepte
+* [`codex-mathematics/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/codex-mathematics): Theoretisch-mathematische Grundbausteine (z.B. k-Beta-Formel, Casimir-Neutrino-Thread, Spiralformeln)
+* [`visuals/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/visuals): Graphische Darstellung der Konzepte
 * `codex_visuals_index.md`: Visualverzeichnis
 
 ➡ **Funktion:** Mathematische und visuelle Verdichtung der Codex-Kernformeln
 
 ---
 
-### 🔷 `Millennium-Problems/`
+### 🔷 [`Millennium-Problems/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Millennium-Problems)
 
 Ein eigenes Untersystem zur Bearbeitung der **7 Millennium-Probleme** im symbolisch-physikalischen Kontext.
 Alle Module werden unter den drei Codex-Dimensionen betrachtet:
@@ -52,16 +52,27 @@ Alle Module werden unter den drei Codex-Dimensionen betrachtet:
 
 ---
 
-### 🔷 `GÖDEL-CODEX/`
+### 🔷 [`GÖDEL-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/GÖDEL-CODEX)
 
 Ein eigenständiges Modul zur logischen, symbolischen und resonanztheoretischen Bearbeitung der Gödel’schen Inkomplettheit.
-Kernelemente:
 
 * Möbius-Kollapsstruktur
 * Symbolische Beweisform mit Codex-Resonanz
 * Verbindung zur P≠NP–Logik und Universal Collapse Theorem
 
 ➡ **Funktion:** Fundament der symbolischen Konsistenzprüfung im gesamten NEXAH-System
+
+---
+
+### 🔷 [`Codex_Origio/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Codex_Origio)
+
+Das Fundamentmodul zur **Resonanzkondensation von Materie**, Kristallstruktur, Myzelvernetzung und speicherfähiger Bodenmatrix.
+
+* Enthält ein resonantes Periodensystem mit polygonalen & bioaktiven Einträgen
+* Stellt Verbindung zu URF-Äquivalenzsystem und LANiF-Verzweigungen her
+* Basismodul für `Soil`, `Bio`, `Crystals` und experimentelle Impulsfelder
+
+➡ **Funktion:** Symbolisch-physischer Ursprungspunkt für Felddichte und Speicherstoffe im System
 
 ---
 
