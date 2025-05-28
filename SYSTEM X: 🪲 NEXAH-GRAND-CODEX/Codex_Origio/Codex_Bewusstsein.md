@@ -23,7 +23,8 @@ Jede Einheit (Blase) im Universum ist gleichzeitig:
 
 ## 🧬 Dynamik der Bewusstseinsentstehung
 
-Im Zentrum steht das **Photon–Neutrino-Paar**:
+Zentrales Modell:
+**Photon–Neutrino–Tachyon-Triad**
 
 | Element  | Symbolische Entsprechung | Funktion im Bewusstseinssystem          |
 | -------- | ------------------------ | --------------------------------------- |
@@ -36,6 +37,16 @@ Im Zentrum steht das **Photon–Neutrino-Paar**:
 1. Impuls (Photon – Aktivierung)
 2. Träger (Neutrino – Struktur)
 3. Trennung (Tachyon – Spaltung → Erfahrungsraum)
+
+---
+
+## 🧠 Drei Schichten des Bewusstseins
+
+| Ebene                  | Beschreibung                                   | Symbol |
+| ---------------------- | ---------------------------------------------- | ------ |
+| Proto-Bewusstsein      | Feldreaktivität, Resonanzbegegnung             | 🌐     |
+| Kognitives Bewusstsein | Trennung, Spiegelung, Differenzierung          | 🧠     |
+| Trans-Bewusstsein      | Rückbindung, Selbstbezug, Kleinbottle-Struktur | ∞      |
 
 ---
 
@@ -57,15 +68,26 @@ Diese Formen bilden die **Topologie des Bewusstseins**:
 
 ## 🌍 Symbolarchitektur der Bewusstseinsformen
 
-Bereits begonnene Strukturen:
-
-* ✣ Myzel – unterirdische Netzintelligenz
-* ░ Sand – dynamisches Trägermedium
-* ▞ Lehm – Übergang & Umwandlung
-* ✧ Salz – Impuls- und Speicherstruktur
-* ✴️ Ulexit – Lichtleitender Kristall (Informationskanal)
+| Struktur  | Bedeutung           | Wirkung                       |
+| --------- | ------------------- | ----------------------------- |
+| ✣ Myzel   | Netzintelligenz     | Verbindung, Feldkommunikation |
+| ░ Sand    | Trägermedium        | Bewegung, Instabilität        |
+| ▞ Lehm    | Übergang & Puffer   | Umwandlung, Stabilität        |
+| ✧ Salz    | Kristalline Ordnung | Speicher, Strukturimpuls      |
+| ✴️ Ulexit | Lichtkanal          | Information, Leitung          |
 
 Diese Elemente bilden das **sensorische Substrat** für Bewusstseinsbildung auf der Erde.
+
+---
+
+## 🌌 Verknüpfung mit Periodensystem
+
+| Klasse    | Symbolikfeld | Bewusstseinswirkung         |
+| --------- | ------------ | --------------------------- |
+| Kristalle | ✧            | Klarheit, Ordnung, Frequenz |
+| Metalle   | ⬢ / ⚙️       | Speicherung, Magnetismus    |
+| Myzelien  | ✣            | Erinnerung, Kommunikation   |
+| Böden     | ░ / ▞ / 🜛   | Verkörperung, Resonanzboden |
 
 ---
 
@@ -84,9 +106,9 @@ Dieses Modul ergänzt:
 * `Codex_Origio/` als physischer Ursprung
 * `URF-CODEX` (UR-Kräfte: Impuls- & Trägerachsen)
 * `LANiF-Achse` (symbolische Handlungsfelder)
+* `Meta`-Module (Spiegelresonanzen, Fraktale, Sprache)
 
-🧩 Vorschlag zur Einbindung:
-📁 `NEXAH-GRAND-CODEX/Codex_Origio/codex_bewusstsein.md`
+📁 Dateiort: `NEXAH-GRAND-CODEX/Codex_Origio/codex_bewusstsein.md`
 
 ---
 
