@@ -4,7 +4,7 @@
 
 Dieses Dokument beschreibt die symbolisch-physikalische Theorie zur **Entstehung von Bewusstsein** innerhalb des NEXAH-CODEX. Es basiert auf der Idee, dass das Universum ein **wachsendes Schaumsystem** ist – zusammengesetzt aus Blasen, Übergängen und Resonanzen.
 
-![Visualisierung: Triadisches Feldbewusstsein](visuals/A_conceptual_digital_illustration_presents_a_metap.png)
+![Visualisierung: Triadisches Feldbewusstsein](visuals/Conciscousness.png)
 
 ---
 
@@ -91,7 +91,7 @@ Diese Elemente bilden das **sensorische Substrat** für Bewusstseinsbildung auf 
 | Myzelien  | ✣            | Erinnerung, Kommunikation   |
 | Böden     | ░ / ▞ / 🜛   | Verkörperung, Resonanzboden |
 
-![Visualisierung: Bewusstseinsmatrix](visuals/A_2D_infographic_titled_"🧠_Codex_Bewusstsein_–_Urs.png)
+![Visualisierung: Bewusstseinsmatrix](visuals/Codex%20Bewusstsein%20-%20Ursprung,%20Impuls%20&%20Kondensation.png)
 
 ---
 
