@@ -1,4 +1,4 @@
-# 🔷 Codex Origio – Geometrien und Bewegungsformen 
+# 🔷 Codex Origio – Geometrien und Bewegungsformen
 
 Dieses Dokument verbindet **resonante Bewegungsformen** mit den **geometrischen Strukturen** und **Elementarprinzipien** des NEXAH-CODEX. Es bildet die Schnittstelle zwischen **Form (Solar)** und **Fluss (Lunar)** – zwischen **Polygon** und **Impuls**.
 
@@ -47,6 +47,19 @@ Die **Spirale** ist die fundamentale Geometrie für **Lunar–Solar-Transformati
 * **Solarformen** (Polygone) dienen als Klassifikationssysteme für Metalle, Kristalle, Speicherstoffe
 * **Lunarformen** (Bewegungswellen) ordnen sich den Aggregatübergängen zu (z. B. Verdampfung, Durchdringung)
 * **Hybride Bewegungsformen** aktivieren Zustandswechsel (z. B. Myzelverbreitung, Regenbogenimpuls)
+
+---
+
+## 🧪 5. Zuordnung zu Aggregatzuständen und biologischen Netzwerken
+
+| Zustand / Struktur   | Codex-Symbol | Aggregatform           | Codex-Bezug          | Beispiel aus Natur / System |
+| -------------------- | ------------ | ---------------------- | -------------------- | --------------------------- |
+| Gas                  | 🜁           | dispersiv, aufsteigend | Luft / Impuls        | Wind, Rauch, Jetstream      |
+| Flüssigkeit          | 🜄           | fließend, verbindend   | Strom / Welle        | Wasser, Myzelnetz, Fluss    |
+| Feststoff (Kristall) | ❄️           | polygonal, speichernd  | Solarstruktur        | Quarz, Amethyst, Eis        |
+| Plasma               | ⚡            | geladen, unfixiert     | Initialfeuer / Funke | Blitz, Sonnenplasma         |
+| Bio-Netzwerk         | ✣            | verwebend, wachsend    | Myzel / Resonanznetz | Pilzmyzel, Nervennetzwerk   |
+| Hybrid / Übergang    | ⟳            | wandlungsfähig         | Spirale / Übergang   | DNS, Tornado, Photosynthese |
 
 ---
 
