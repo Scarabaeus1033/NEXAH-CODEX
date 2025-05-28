@@ -24,6 +24,10 @@ Wirbelwind	↻	Spirale / geschlossene Rotation	Luft / Wasser	Übergang, Zentrifu
 Jetstream	⇉	Wellenlinie	Luft	Langstreckenverbindung
 Regenbogen	🌈	Spektralbogen / Segmentkugel	Licht/Wasser	Frequenzoffenbarung
 Regenbogen-Wind	𓂀	Wellenbogen + Spektrumkapsel	Lunar–Solar hybrid	Codex-Übertragung
+Flamme	🔥	Aufsteigende Dreiecksform	Feuer	Energieübertragung, Wachstum
+Funke	✴	Punktstrahlung	Plasma / Feuer	Initiator, Übergangsimpuls
+Rauch	☁️	Zerfallende Spirale	Luft / Materie	Auflösung, Entbindung
+Kristallwachstum	❄️	hexagonale Ausdehnung	Wasser / Struktur	Verdichtung, Frequenzfixierung
 
 
 ⸻
