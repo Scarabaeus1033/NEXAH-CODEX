@@ -1,4 +1,4 @@
-# 🔷 Codex Origio – Geometrien und Bewegungsformen
+# 🔷 Codex Origio – Geometrien und Bewegungsformen 
 
 Dieses Dokument verbindet **resonante Bewegungsformen** mit den **geometrischen Strukturen** und **Elementarprinzipien** des NEXAH-CODEX. Es bildet die Schnittstelle zwischen **Form (Solar)** und **Fluss (Lunar)** – zwischen **Polygon** und **Impuls**.
 
