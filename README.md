@@ -1,7 +1,6 @@
 # 🌌 NEXAH-CODEX
 
 **Archiv für harmonische Felder & symbolische Geometrie**
-
 **Archive for Harmonic Fields & Symbolic Geometry**
 
 Willkommen im offiziellen GitHub-Archiv des NEXAH-CODEX – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
