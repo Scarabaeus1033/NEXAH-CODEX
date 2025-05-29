@@ -1,5 +1,9 @@
 📎 LIES MICH für EINSTEIGER
 
+<p align="center">
+  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
+</p>
+
 Willkommen im NEXAH–CODEX — dem Netzwerk erweiterter Harmonien und Architekturen.
 Dieses Archiv ist ein modulares Forschungssystem für:
 	•	Harmonische Feldtheorie
