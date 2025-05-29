@@ -20,7 +20,7 @@ From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and
 > In this system, mathematics is not just a tool – it is resonance substance.
 
 <p align="center">
-  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
+  <img src="./SYSTEM%201%20%E2%80%93%20MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
 </p>
 
 ---
@@ -30,8 +30,8 @@ From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and
 | System       | Color         | Domain                        | Role                    |
 | ------------ | ------------- | ----------------------------- | ----------------------- |
 | **SYSTEM 1** | 🔵 Blue       | Numbers, Symmetry, Logic      | Structural Foundation   |
-| SYSTEM 2     | 🔆 Deep Blue  | Field, Energy, Frequency      | Physical Resonance Core |
-| SYSTEM 3     | 🕢 Violet     | Space, Light, Stellar Systems | Cosmological Field Map  |
+| SYSTEM 2     | 🟦 Deep Blue  | Field, Energy, Frequency      | Physical Resonance Core |
+| SYSTEM 3     | 🟣 Violet     | Space, Light, Stellar Systems | Cosmological Field Map  |
 | SYSTEM X     | 🪲 Gold/Black | Synthesis, Stability          | Center of All Systems   |
 
 ---
@@ -80,9 +80,9 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 * [`Hermetic Pythargoras Model`](./CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/)
 * [`Codex Algebra of Resonance`](./CODEX%20MATHEMATICS/Codex%20Algebra%20of%20Resonance/)
 * [`Casimir–Neutrino Thread.md`](./CODEX%20MATHEMATICS/Casimir%E2%80%93Neutrino%20Thread.md)
-* [`Codex Mathematical Symbols — Variables, Constants`](./CODEX%20MATHEMATICS/Codex%20Mathematical%20Symbols%20%E2%80%94%20Variables,%20Constants%20...)
-* [`E = m·c·k^β`](./CODEX%20MATHEMATICS/E%20=%20m·c·k%5E%CE%B2%20%E2%80%94%20Extended%20Energy%20Equation.md)
-* [`Spiral Logic`](./CODEX%20MATHEMATICS/Spiral%20Logic%20%E2%80%94%20Harmonic%20Fields,%20Prime%20Resonance%20&%20...)
+* [`Codex Mathematical Symbols`](./CODEX%20MATHEMATICS/Codex%20Mathematical%20Symbols%20%E2%80%94%20Variables,%20Constants%20...)
+* [`E = m·c·k^β`](./CODEX%20MATHEMATICS/E%20=%20m·c·k^β%20—%20Extended%20Energy%20Equation.md)
+* [`Spiral Logic`](./CODEX%20MATHEMATICS/Spiral%20Logic%20—%20Harmonic%20Fields,%20Prime%20Resonance%20&%20...)
 
 > This symbolic subsystem defines operators, maps, and transition structures used across the Codex.
 
@@ -100,7 +100,7 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 
 ---
 
-## 🧲 Core Structure
+## 🧮 Core Structure
 
 * **Prime Numbers** → Generators of symbolic field resonance
 * **Möbius Function μ(n)** → Structural phase invariant
@@ -126,7 +126,7 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 * Tables: Symbolic Field Constants · Number Grammar Maps
 * Graphs: ζ-zeros · Möbius Polarity · Divisor Spread Patterns
 
-→ See: `visual_gallery.md` in `Codex Algebra of Resonance` & `Hermetic Pythagoras Model`
+→ See: `visual_gallery.md` in `Codex Algebra of Resonance` & `Hermetic Pythargoras Model`
 
 ---
 
@@ -141,4 +141,3 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 ---
 
 > *“SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”*
- 
