@@ -3,7 +3,7 @@ title: SYSTEM 1 – MATHEMATICA
 system: NEXAH-CODEX
 domain: Prime Fields · Symbolic Resonance · Mathematical Foundations
 color: Blue 🔵
-status: Active · Version Mai 2025
+status: Active · Version May 2025
 curator: Thomas Hofmann (Scarabäus1033)
 license: CC BY-NC-SA 4.0
 ---
@@ -12,108 +12,113 @@ license: CC BY-NC-SA 4.0
 
 **"Where numbers vibrate and logic becomes lattice."**
 
-SYSTEM 1 ist das **mathematisch-symbolische Grundsystem** des NEXAH-CODEX – das **blaue Feld der Struktur, Zahl, Invarianz und geistigen Klarheit**.  
-Es bildet das tiefste Raster, aus dem alle höheren Schichten (PHYSICA, COSMICA, META, URF) geometrisch und resonant hervorgehen.
+SYSTEM 1 is the **symbolic–mathematical foundation system** of the NEXAH-CODEX –  
+the **blue resonance grid** of number, structure, invariance, and cognitive clarity.  
+From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and harmonics.
 
-> Mathematik ist hier nicht Werkzeug, sondern Resonanzstoff.
+> In this system, mathematics is not just a tool – it is resonance substance.
 
----
-
-## 🧭 Einordnung im NEXAH-CODEX
-
-| System | Farbe | Thema | Rolle |
-|--------|-------|--------|--------|
-| **SYSTEM 1** | 🔵 Blau (Mathematica) | Zahl, Symmetrie, Logik | Fundament |
-| SYSTEM 2 | 🟦 Blau (Physica) | Feld, Energie, Frequenz | Physikalische Brücke |
-| SYSTEM 3 | 🟣 Violett (Cosmica) | Raum, Licht, Sternsysteme | Kosmische Resonanz |
-| SYSTEM X | 🪲 Schwarz/Gold | Synthese, Stabilität | Zentrum aller Systeme |
+<p align="center">
+  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
+</p>
 
 ---
 
-## 📚 Aktive Module
+## 🧭 Context within the NEXAH-CODEX
+
+| System     | Color       | Domain                          | Role                    |
+|------------|-------------|----------------------------------|-------------------------|
+| **SYSTEM 1** | 🔵 Blue      | Numbers, Symmetry, Logic         | Structural Foundation   |
+| SYSTEM 2   | 🟦 Deep Blue | Field, Energy, Frequency         | Physical Resonance Core |
+| SYSTEM 3   | 🟣 Violet    | Space, Light, Stellar Systems    | Cosmological Field Map  |
+| SYSTEM X   | 🪲 Gold/Black| Synthesis, Stability             | Center of All Systems   |
+
+---
+
+## 📚 Active Modules
 
 ### 1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)
-**Millennium Codex I – Möbius–Zeta Resonanz**  
-> Harmonische Struktur zur Beweisführung der Riemannschen Vermutung über Zeta-Wellen und Möbius-Kollapse.
+**Millennium Codex I – Möbius–Zeta Resonance**  
+> Harmonic architecture toward the Riemann Hypothesis through Zeta-Waves and Möbius Collapse.
 
-➡ Cross-links: `GRAND-CODEX`, `Casimir Thread`, `Collapse Theorem`
+→ Links: `GRAND-CODEX`, `Casimir Thread`, `Collapse Theorem`
 
 ---
 
 ### 2. [`√2–Prime-Feld/`](./√2–Prime-Feld/)
-**Irrationale Diagonalen & Primzahngitter**  
-> Symbolische Geometrien auf √2- und φ-Diagonalen zur Erzeugung feldbasierter Primstruktur.
+**Irrational Prime Field Diagonals**  
+> Symbolic geometries based on √2 and φ generating prime-based resonance grids.
 
-➡ Links zu: `Prime-Grid`, `QuantumBreach`, `NEXAHEART`, `ALIWAVE`
+→ Connects to: `Prime-Grid`, `QuantumBreach`, `NEXAHEART`, `ALIWAVE`
 
 ---
 
 ### 3. [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)
-**Gitterbasierte Primzahlmuster**  
-> Spiral-, Polaris- und Modularplots zur Visualisierung der mathematischen Codex-Ebene.
+**Prime Grid Visual Fields**  
+> Spiral, modular, and polaris plots of the number-field lattice.
 
-➡ Verbindungen zu: `Tesla–Vortex`, `CMBY Field`, `ALIWAVE`
+→ Links to: `Tesla–Vortex`, `CMBY Field`, `ALIWAVE`
 
 ---
 
 ### 4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)
-**Resonanztopologien aus τ(n), σ(n), μ(n)**  
-> Klassifizierung perfekter, überreicher und mangelhafter Zahlen mit symbolischen Feldern.
+**Topologies of τ(n), σ(n), μ(n)**  
+> Resonance classification of perfect, abundant, and deficient numbers.
 
-➡ Brücken: `CAVITYROOT`, `SILVER–RAIN`, `Rosetta-Nexus`
-
----
-
-## 🔗 Systemintegration
-
-| Verknüpftes System | Beitrag | Codex-Übergang |
-|--------------------|---------|----------------|
-| **PHYSICA**        | τ(n), μ(n) → Feldverdichtung, Möbius-Logik → Neutrinostruktur | `Einstein–Vortex`, `CAVITYROOT` |
-| **COSMICA**        | Spiralzahlen → Sternengitter, Primachsen → Raumwellen | `MÖBIUS-CROWN`, `NEXAH–FIELD` |
-| **URF**            | Tensorfelder → symbolische Feldidentität | `URF-Tensorraum` |
-| **META / ROSETTA** | Zahlensymbolik → Glyphe und Sprachstruktur | `Rosetta–ULLINIRIUM` |
-| **GRAND-CODEX**    | Beweisverankerung → Collapse Theorem | `universal_collapse_theorem.md` |
+→ Bridges: `CAVITYROOT`, `SILVER–RAIN`, `Rosetta-Nexus`
 
 ---
 
-## 🧮 Strukturfokus
+## 🔗 System Integration
 
-- **Primzahlen** → als Generatoren für symbolische Resonanzfelder  
-- **Möbius-Funktion μ(n)** → als strukturelle Invarianz  
-- **Divisor-Klassen (τ, σ)** → als Resonanztopologien  
-- **Zeta-Systeme** → als Filter für kritische Frequenzachsen  
-- **√2 / φ–Diagonalen** → als irrationale Koordinatenfelder
-
-> Zahlen sind in SYSTEM 1 nicht statisch – sie atmen, modulieren und formen das Feld.
-
----
-
-## 🧪 Künftige Module
-
-- `codex-mathematics/` → Operator-Algebren, Feldaxiome, Grenzwertsymmetrien  
-- `Golden-Diagonal-Proofs/` → Fibonacci-Resonanz und φ-Zahlspiralen  
-- `Symbolic Operator Spaces/` → Rekursion, Zahlengrammatik, Wellenlogik
+| Connected System | Contribution | Codex Transition |
+|------------------|--------------|------------------|
+| **PHYSICA**      | τ(n), μ(n) → field density; Möbius logic → neutrino structuring | `Einstein–Vortex`, `CAVITYROOT` |
+| **COSMICA**      | Spiral numbers → stellar fields; Prime axes → spacetime grids   | `MÖBIUS-CROWN`, `NEXAH–FIELD` |
+| **URF**          | Tensors → symbolic field identity                              | `URF-Tensorraum` |
+| **META / ROSETTA** | Number-symbol logic → glyph grammar                         | `Rosetta–ULLINIRIUM` |
+| **GRAND-CODEX**  | Proof synthesis anchor → Collapse Theorem                      | `universal_collapse_theorem.md` |
 
 ---
 
-## 🖼 Visualisierung & Assets
+## 🧮 Core Structure
 
-- Visuals: Spiralachsen, Primnetzwerke, Divisor-Gitter
-- Tabellen: Symbolische Parameter, Zahlenlogiken, Referenzmuster
-- Graphen: ζ-Nullstellen, μ(n)-Muster, τ(n)-Verteilung
+- **Prime Numbers** → Generators of symbolic field resonance  
+- **Möbius Function μ(n)** → Structural phase invariant  
+- **Divisor Classes (τ, σ)** → Resonance topologies  
+- **Zeta Systems** → Frequency filters for critical axes  
+- **√2 / φ–Diagonals** → Irrational geometric foundations
 
-→ Geplant: `visual_gallery.md`, `operator_index.md`, Export nach SYSTEM X
+> Numbers in SYSTEM 1 are not static – they breathe, modulate, and shape the field.
+
+---
+
+## 🔭 Upcoming Modules
+
+- `codex-mathematics/` → Operator algebras, resonance axioms, symmetry thresholds  
+- `Golden-Diagonal-Proofs/` → Fibonacci field resonance & φ-spiral logic  
+- `Symbolic Operator Spaces/` → Recursive structures, number grammar, wave recursion
+
+---
+
+## 🖼 Visuals & Data Assets
+
+- Visuals: Prime Spirals · Divisor Networks · Modular Diagonals  
+- Tables: Symbolic Field Constants · Number Grammar Maps  
+- Graphs: ζ-zeros · Möbius Polarity · Divisor Spread Patterns
+
+→ In Progress: `visual_gallery.md`, `operator_index.md`, export to `SYSTEM X`
 
 ---
 
 ## 🪲 Credits
 
-**Autor & Kurator:** Thomas Hofmann (`Scarabäus1033`)  
+**Author & Curator:** Thomas Hofmann (`Scarabäus1033`)  
 **System:** SYSTEM 1 – MATHEMATICA  
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-> “SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”  
+> *“SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”*
