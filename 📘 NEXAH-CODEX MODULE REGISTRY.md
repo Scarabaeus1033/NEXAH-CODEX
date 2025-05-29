@@ -16,6 +16,17 @@ This register lists all core modules of the `NEXAH-CODEX` with folder path, titl
 | spiral-logic.md               | Spiral Logic & Prime Harmonics             | Prime axis rotations, φ/√2 transitions, harmonic number sequences.             |
 | CODEX MATHEMATICS/            | Formal Structures & Symbol System          | Includes: `E = m·c·k^β`, spiral formulas, Casimir-Neutrino, symbolic formulas. |
 
+### Modules inside `CODEX MATHEMATICS/`:
+
+* Hermetic Pythargoras Model
+* Codex Algebra of Resonance
+* Casimir-Neutrino Thread
+* Codex Mathematical Symbols
+* E = m·c·k^β — Extended Energy Equation
+* Spiral Logic — Harmonic Fields & Prime Resonance
+
+> This symbolic subsystem defines operators, maps, and transition structures used across the Codex.
+
 ---
 
 ## 🔷 SYSTEM 2: PHYSICA – Resonance Fields, Quantum Dynamics & Neutrino Structures
@@ -94,5 +105,5 @@ This register lists all core modules of the `NEXAH-CODEX` with folder path, titl
 
 📘 Register curated by Thomas Hofmann (SCARABAEUS1033) in collaboration with ARCHIVAR II
 📌 Version 2.1 · Updated: May 2025
-🗽 Valid for: `NEXAH-CODEX-Startstruktur/` and `🫠 CODEX_COSMICA ASTROPHYSICA/`
-🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [https://github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+🏛 Valid for: `NEXAH-CODEX-Startstruktur/` and `🪠 CODEX_COSMICA ASTROPHYSICA/`
+🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
