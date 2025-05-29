@@ -3,7 +3,7 @@ title: SYSTEM 3 – COSMICA ASTROPHYSICA
 system: NEXAH-CODEX
 domain: Planetary Fields · Grid Navigation · Stellar Resonance
 color: Violet 🟣
-status: Active · Version Mai 2025
+status: Active · Version May 2025
 curator: Thomas Hofmann (Scarabäus1033)
 license: CC BY-NC-SA 4.0
 ---
@@ -12,123 +12,124 @@ license: CC BY-NC-SA 4.0
 
 **"Where numbers become stars, and time begins to spiral."**
 
-SYSTEM 3 ist das **violette System** im NEXAH-CODEX – das kosmisch-symbolische Modell zur Beschreibung planetarer Frequenzfelder, Resonanzgitter, Lichtachsen und Möbius-Zeitspiegel.
+SYSTEM 3 is the **violet resonance system** of the NEXAH-CODEX –  
+a cosmological-symbolic framework for describing planetary frequency fields, stellar grids, and Möbius-aligned space–time mirrors.
 
-Es übersetzt mathematische Symmetrien und Feldtheorien aus SYSTEM 1 & 2 in **planetare Geometrien**, **galaktische Übergänge** und **archaische Ortssysteme**.
+It translates the mathematics and field structures from SYSTEM 1 & 2 into  
+**geosymbolic configurations**, **light axis overlays**, and **stellar memory geometries**.
 
-> Kosmos ist hier nicht leerer Raum – sondern speichernde Frequenzlandschaft.
+> The cosmos is not empty space – it is a layered field of memory and harmonic frequency.
 
----
-
-## 🧭 Einordnung im NEXAH-CODEX
-
-| System | Farbe | Thema | Rolle |
-|--------|-------|--------|--------|
-| SYSTEM 1 | 🔵 Blau (Mathematica) | Zahl, Symmetrie, Logik | Fundament |
-| SYSTEM 2 | 🟦 Blau (Physica) | Feld, Energie, Frequenz | Resonanzkörper |
-| **SYSTEM 3** | 🟣 Violett (Cosmica) | Raum, Licht, Geographie | Frequenzkarte |
-| SYSTEM X | 🪲 Schwarz/Gold | Synthese, Stabilität | Zentralnexus |
+<p align="center">
+  <img src="./SYSTEM 3 – COSMICA ASTROPHYSICA.png" width="720" alt="SYSTEM 3 – COSMICA ASTROPHYSICA Overview Visual">
+</p>
 
 ---
 
-## 📚 Aktive Module
+## 🧭 Position within the NEXAH-CODEX
 
-### 1. [`EARTHSHIP/`](./EARTHSHIP/)
-**Möbius-Kronen & Planetenfelder**  
-> Spiralarchitektur der Erde, kristalline Frequenztore und magnetische Raumachsen
-
-➡ Verbindet zu: Möbius-Geometrie (`SYSTEM 1`), Feldresonanzen (`ALIWAVE`)
-
----
-
-### 2. [`ETHER-CROWN/`](./ETHER-CROWN/)
-**Gravitations-Echo & Tachyon-Wellen**  
-> Interferenzen und Rückkopplungen im interstellaren Raum auf Basis von Möbius-Tachyon-Feedback
-
-➡ Brücke zu: Neutrino-Vortex (`SYSTEM 2`), Lichtmodulation (`QUANTUMBREACH`)
+| System      | Color        | Domain                         | Role                      |
+|-------------|--------------|--------------------------------|---------------------------|
+| SYSTEM 1    | 🔵 Blue       | Numbers, Symmetry, Logic       | Foundational Structure    |
+| SYSTEM 2    | 🟦 Deep Blue  | Field, Energy, Frequency       | Resonance Engine          |
+| **SYSTEM 3**| 🟣 Violet     | Space, Light, Grid Topology    | Cosmic Navigator          |
+| SYSTEM X    | 🪲 Gold/Black | Synthesis, Stability           | Systemic Convergence      |
 
 ---
 
-### 3. [`Multidimensional-Frontier/`](./Multidimensional-Frontier/)
-**Grenzfelder des Kosmos**  
-> Galaktische Phasenübergänge und Dimensionsfaltungen mit symbolisch-harmonischen Rändern
+## 📚 Active Modules (Planetary, Möbius & Grid Fields)
 
-➡ Links zu: `GRAND-CODEX`, Dimensionsfelder in `FIELD_COLLAPSE`
-
----
-
-### 4. [`NEXAH-HARMONIC-FIELD/`](./NEXAH-HARMONIC-FIELD/)
-**Planetarische Frequenzgitter**  
-> Reale Orte als mathematische Resonanzträger, Zahlengitter auf der Erde
-
-➡ Schnittpunkte mit: Primspiralen aus `√2–Prime-Feld`, System 1
+### [`EARTHSHIP/`](./EARTHSHIP/)
+**Mobius Crowns & Planetary Resonance**  
+> Geomagnetic spirals, crystalline frequency portals, planetary memory grids
 
 ---
 
-### 5. [`NEXAHEART-CODEX/`](./NEXAHEART-CODEX/)
-**Herzachsen der Erde**  
-> Symbolische Knotenpunkte wie Richat, Rödelheim, Jerusalem; 11:9-Symmetrien und Gitterkonstruktionen
-
-➡ Links zu: `Silver Rain`, `QED ALIWAVE`, Frequenzachsen aus SYSTEM 2
+### [`ETHER-CROWN/`](./ETHER-CROWN/)
+**Gravitational Echoes & Tachyon Waves**  
+> Interference fields in stellar zones, Möbius–tachyon overlay logic
 
 ---
 
-### 6. [`NEXA_42_MOBIUS_ALIGNMENT/`](./NEXA_42_MOBIUS_ALIGNMENT/)
-**Licht–Zeit–Möbius–Ausrichtung**  
-> Erde–Arcturus–Achsen, Spiral-Overlay, kosmische Synchronfelder
-
-➡ Verbindung zu: `Riemann Codex`, Lichtmodulation (`QUANTUMBREACH`)
+### [`Multidimensional-Frontier/`](./Multidimensional-Frontier/)
+**Dimensional Edge Fields**  
+> Transition layers, symbolic membranes, interstellar harmonics
 
 ---
 
-### 7. `MÖBIUS-*` Series (in Entwicklung)
-**Spiral-Kronen der Zeitfelder**  
-> Fortgeschrittene Module zu Spiral-Logik, Tachyon-Karten, interstellarer Navigation
-
-➡ Zentrum des gesamten Möbiusnetzwerks über alle Systeme hinweg
+### [`NEXAHARMONIC-FIELD/`](./NEXAHARMONIC-FIELD/)
+**Planetary Prime Resonance Mapping**  
+> Real-world locations aligned to prime field lattices
 
 ---
 
-## 🔗 Systemverknüpfungen
-
-### 🔵 SYSTEM 1 – MATHEMATICA
-- Primachsen ↔ Frequenzgitter (z. B. `NEXAH-HARMONIC-FIELD`)
-- Möbiusfunktion ↔ Zeitspiralen (`EARTHSHIP`, `MÖBIUS-*`)
-- Divisorlogik ↔ Raumverdichtungen (`NEXAHEART`)
-
-### 🟦 SYSTEM 2 – PHYSICA
-- QED Aliwave ↔ Gitter–Licht–Kopplung
-- Neutrino-Layering ↔ Sternenfelder (`ETHER-CROWN`)
-- Grand-Codex ↔ kosmische Übergänge
+### [`NEXAHEART-CODEX/`](./NEXAHEART-CODEX/)
+**Earth’s Resonant Heartline**  
+> Jerusalem, Richat, Rödelheim nodes in harmonic alignment (11:9 ratio)
 
 ---
 
-## 🧮 Symbolische Zielstruktur
-
-- **Frequenzfelder** → als planetarische Koordinatenlogik  
-- **Lichtachsen** → als Spiralzeiten zwischen Sternpunkten  
-- **Gravitationswellen** → als Tachyon-Signaturen  
-- **Ort–Zahl–Zeit-Verknüpfung** → als archaische Resonanzlandschaft  
-- **Synchronfelder** → als kosmische Steuervektoren
+### [`NEXA_42_MOBIUS_ALIGNMENT/`](./NEXA_42_MOBIUS_ALIGNMENT/)
+**Mobius–Light–Time Overlay**  
+> Arcturus–Earth axis, spiral synchronics, cosmic node grid
 
 ---
 
-## 🧪 Visuals & Daten
+## 🔁 Möbius Crown Series (Integrated under SYSTEM 3)
 
-- Globale Resonanzkarten, 42-Feld-Overlay, geosymbolische Frequenztabellen  
-- Visuals: Möbius-Karten, Sternengitter, Lichtspiralen  
-- Verlinkung: `visual_gallery.md`, `map_archive.md` (in Planung)
+These modules have been reorganized from standalone folders into a cohesive Möbius Resonance Suite under SYSTEM 3:
+
+- [`MÖBIUS-CODEX/`](./MÖBIUS-CODEX/)
+- [`MÖBIUS-COMPASS-CODEX/`](./MÖBIUS-COMPASS-CODEX/)
+- [`MÖBIUS-METAL-CODEX/`](./MÖBIUS-METAL-CODEX/)
+- [`MÖBIUS-ROOT-CODEX/`](./MÖBIUS-ROOT-CODEX/)
+- [`MÖBIUS-HARMONIC-CROWN/`](./MÖBIUS%20HARMONIC%20CROWN/)
+- [`MÖBIUS-CODEX-II_CROWN/`](./MÖBIUS-CODEX-II_CROWN/)
+- [`MÖBIUS-PASSCOMPASS-CODEX/`](./MÖBIUS-COMPASS-CODEX/)
+
+**Core Themes:**
+- Time-fold resonance  
+- Spiral logic and crown architecture  
+- Elemental Möbius fields and symbolic star navigation
+
+---
+
+## 🔗 Cross-System Links
+
+| System     | Resonance Bridge                     | Codex Example                     |
+|------------|--------------------------------------|-----------------------------------|
+| SYSTEM 1   | Prime Axes → Frequency Gears         | `NEXAHARMONIC-FIELD`, Möbius maps |
+| SYSTEM 2   | QED Grids ↔ Light–Field Interfaces   | `ALIWAVE`, `Silver Rain`, `QuantumBreach` |
+| SYSTEM X   | Collapse Logic & Navigation Threads  | `GRAND-CODEX`, Möbius Harmonics   |
+
+---
+
+## 🌐 Structural Themes
+
+- **Frequencies** → encoded as geospatial matrices  
+- **Spirals** → used to modulate time layers  
+- **Light Axes** → aligned to stellar events  
+- **Tachyons** → as resonance gradients and information bridges  
+- **Planet–Number–Symbol Mapping** → planetary sites as mathematical encoders
+
+---
+
+## 🖼 Visuals & Archives
+
+- Möbius Grids · Cosmic Axes · Spiral Field Diagrams  
+- Frequency Maps (42-grid, Möbius crossover)  
+- Archive in Progress: `visual_gallery.md`, `map_archive.md`
 
 ---
 
 ## 🪲 Credits
 
-**Kurator & Autor:** Thomas Hofmann (`Scarabäus1033`)  
+**Curator & Author:** Thomas Hofmann (`Scarabäus1033`)  
 **System:** SYSTEM 3 – COSMICA ASTROPHYSICA  
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-> “Mathematics becomes geography – frequency becomes memory – structure becomes time.”  
+> *“Mathematics becomes geography – frequency becomes memory – structure becomes time.”*
