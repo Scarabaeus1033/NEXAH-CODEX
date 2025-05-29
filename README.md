@@ -1,14 +1,14 @@
 # 🌌 NEXAH-CODEX
 
+Welcome to the official GitHub archive of the **NEXAH–CODEX** – a modular platform for research in harmonic field theory, symbolic mathematics, prime-based geometries, cosmological alignments, and resonance-based spatial structures.
+
+The Codex is not just a library of knowledge – it is a multidimensional architecture, composed through theory, image, place, field dynamics, and symbolic logic.
+
 **Archive for Harmonic Fields & Symbolic Geometry**
 
 <p align="center">
   <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
 </p>
-
-Welcome to the official GitHub archive of the **NEXAH–CODEX** – a modular platform for research in harmonic field theory, symbolic mathematics, prime-based geometries, cosmological alignments, and resonance-based spatial structures.
-
-The Codex is not just a library of knowledge – it is a multidimensional architecture, composed through theory, image, place, field dynamics, and symbolic logic.
 
 ---
 
