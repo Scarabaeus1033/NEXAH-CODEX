@@ -5,7 +5,7 @@
 **Author:** Thomas Hofmann · Scarabäus1033  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 <p align="center">
-  <img src="./SYSTEM%204%20%E2%80%93%20URF%20%E2%80%93%20Origins%20visuali.png" width="720" alt="SYSTEM 4 – URF · Visual Variation">
+  <img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/SYSTEM%204-%20URF%20%E2%80%93%20Origins%20visuali.png" width="720" alt="SYSTEM 4 – URF · Visual Variation">
 </p>
 ---
 
