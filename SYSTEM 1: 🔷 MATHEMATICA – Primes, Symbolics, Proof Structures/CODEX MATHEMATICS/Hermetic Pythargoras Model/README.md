@@ -92,7 +92,7 @@ a^2 + b^2 = c^2 \quad \Rightarrow \quad V_n = f(p,\phi,\tau,\theta)
 
 Diese Formel ist der erste Schritt zur „Tulpenspirale“, zur „Dragonfly-Welle“ und zur quantisierten Geometrie des Codex.
 
-👉 [🎨 Visual Gallery ansehen](./visual_gallery.md)
+👉 [🎨 Visual Gallery ansehen](./Visual_Gallery.md)
 
 **Pythagoras war der erste Architekt.**
 
