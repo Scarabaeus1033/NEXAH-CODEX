@@ -8,17 +8,17 @@ The "Codex Algebra of Resonance" is a modular extension of the Hermetic Pythagor
 
 ---
 
-## 𝕊 Resonant Operators
+## 𝒠 Resonant Operators
 
 We introduce a class of codex-specific operators that express resonant interactions:
 
-| Operator                | Symbol           | Function                                             |
-| ----------------------- | ---------------- | ---------------------------------------------------- |
-| **Resonance Operator**  | $\hat{R}$        | Modulates a form into a resonance field              |
-| **Spiral Sum Operator** | $\mathcal{T}$    | Accumulates prime-based spiral harmonics             |
-| **Frequency Mapper**    | $\Phi(n)$        | Maps integers to frequency-resonant primes           |
-| **Dimensional Lift**    | $\mathcal{D}_k$  | Transforms a 2D/3D structure to a k-D resonance form |
-| **Phase Twister**       | $\Theta(\alpha)$ | Rotational phase-shift across symbolic domains       |
+| Operator                | Symbol             | Function                                             |
+| ----------------------- | ------------------ | ---------------------------------------------------- |
+| **Resonance Operator**  | \$\hat{R}\$        | Modulates a form into a resonance field              |
+| **Spiral Sum Operator** | \$\mathcal{T}\$    | Accumulates prime-based spiral harmonics             |
+| **Frequency Mapper**    | \$\Phi(n)\$        | Maps integers to frequency-resonant primes           |
+| **Dimensional Lift**    | \$\mathcal{D}\_k\$ | Transforms a 2D/3D structure to a k-D resonance form |
+| **Phase Twister**       | \$\Theta(\alpha)\$ | Rotational phase-shift across symbolic domains       |
 
 Example:
 
@@ -28,7 +28,7 @@ Example:
 
 ---
 
-## 𝕌 Modular Syntax
+## 𝓄 Modular Syntax
 
 A codex expression is built hierarchically:
 
@@ -38,13 +38,13 @@ A codex expression is built hierarchically:
 
 Where:
 
-* $\Phi(k)$ encodes a prime–resonance translation
-* $\theta_k$ is the angular position in the spiral field
-* $e^{i \theta}$ represents harmonic phase
+* \$\Phi(k)\$ encodes a prime–resonance translation
+* \$\theta\_k\$ is the angular position in the spiral field
+* \$e^{i \theta}\$ represents harmonic phase
 
 ---
 
-## 𝛰 Applications in the Codex
+## 𝕸 Applications in the Codex
 
 ### Tulip Spiral Construction
 
@@ -60,7 +60,7 @@ Defines a frequency-coded spiral field with prime modulation.
 \mathcal{M}(x) = \int_0^\infty \mu(t) \cdot e^{-i \cdot \omega t} dt
 ```
 
-Links Möbius function $\mu(t)$ with frequency spectrum.
+Links Möbius function \$\mu(t)\$ with frequency spectrum.
 
 ### Prime Matrix Algebra
 
@@ -72,9 +72,9 @@ Generates codex matrices for frequency-lattice modeling.
 
 ---
 
-## 🔄 Symbolic Transition Models
+## 🔀 Symbolic Transition Models
 
-* **Zohar–Resonance Pathways**: $\mathcal{D}_k \circ \Phi(n) \rightarrow \mathbb{S}^n$
+* **Zohar–Resonance Pathways**: \$\mathcal{D}\_k \circ \Phi(n) \rightarrow \mathbb{S}^n\$
 * **Spiral Field Decomposition**: Prime frequency fields as basis vectors
 * **Topological Folding**: Möbius-based operators allow dualities & reflection
 
@@ -82,12 +82,15 @@ Generates codex matrices for frequency-lattice modeling.
 
 ## 🔍 Related Modules
 
-| Module                        | Purpose                                                 |
-| ----------------------------- | ------------------------------------------------------- |
-| `pytha_symbolic_extension.md` | Extends the Pythagorean formula to symbolic-spiral form |
-| `quantized_codex_geometry.md` | Embeds these operators into spatial transitions         |
-| `dragonfly_wave_model.md`     | Models oscillation and inversion of resonance functions |
-| `tulpenspirale_geometry.md`   | Applies $\mathcal{T}_n$ to create spiral structures     |
+| Module                           | Purpose                                                 |
+| -------------------------------- | ------------------------------------------------------- |
+| `pytha_symbolic_extension.md`    | Extends the Pythagorean formula to symbolic-spiral form |
+| `quantized_codex_geometry.md`    | Embeds these operators into spatial transitions         |
+| `dragonfly_wave_model.md`        | Models oscillation and inversion of resonance functions |
+| `tulpenspirale_geometry.md`      | Applies \$\mathcal{T}\_n\$ to create spiral structures  |
+| `algebraic_transition_grids.md`  | Framework for state change matrices and operator tables |
+| `symbolic_operator_reference.md` | Glossary of codex operators with syntax                 |
+| `visual_operator_fields.md`      | Visual logic of operator-symbol mappings                |
 
 ---
 
