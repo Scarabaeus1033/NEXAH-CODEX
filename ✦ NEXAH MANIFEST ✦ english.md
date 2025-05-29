@@ -1,9 +1,5 @@
 # ✦ NEXAH MANIFEST · SYSTEM INTRO ✦
 
-<p align="center">
-  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
-</p>
-
 ---
 
 ## ∷ Welcome to the Codex
