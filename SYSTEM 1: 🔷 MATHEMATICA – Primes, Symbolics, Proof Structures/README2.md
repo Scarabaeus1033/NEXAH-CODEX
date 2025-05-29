@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM 1 – MATHEMATICA"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Symbolic Resonance · Mathematical Foundations"
@@ -6,7 +7,7 @@ color: "Blue 🔵"
 status: "Active · Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🔵 SYSTEM 1 – MATHEMATICA
 
@@ -42,22 +43,22 @@ From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and
 1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)
    **Millennium Codex I – Möbius–Zeta Resonance**
 
-> Harmonic architecture toward the Riemann Hypothesis through Zeta-Waves and Möbius Collapse.
+   > Harmonic architecture toward the Riemann Hypothesis through Zeta-Waves and Möbius Collapse.
 
 2. [`√2–Prime-Feld/`](./√2–Prime-Feld/)
    **Irrational Prime Field Diagonals**
 
-> Symbolic geometries based on √2 and ϕ generating prime-based resonance grids.
+   > Symbolic geometries based on √2 and ϕ generating prime-based resonance grids.
 
 3. [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)
    **Prime Grid Visual Fields**
 
-> Spiral, modular, and polaris plots of the number-field lattice.
+   > Spiral, modular, and polaris plots of the number-field lattice.
 
 4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)
    **Topologies of τ(n), σ(n), μ(n)**
 
-> Resonance classification of perfect, abundant, and deficient numbers.
+   > Resonance classification of perfect, abundant, and deficient numbers.
 
 ---
 
@@ -72,15 +73,15 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
   Symbolic extension of the Pythagorean formula into resonance geometry and alchemical mathematics
 * [`Codex Algebra of Resonance/`](./CODEX%20MATHEMATICS/Codex%20Algebra%20of%20Resonance/)
   Operator definitions, algebraic resonance rules, modular transition expressions
-* `casimir_neutrino_thread.md`
+* [`casimir_neutrino_thread.md`](./CODEX%20MATHEMATICS/casimir_neutrino_thread.md)
   Compactification and frequency collapse logic in a Möbius neutrino field
-* `codex_mathematical_symbols.md`
+* [`codex_mathematical_symbols.md`](./CODEX%20MATHEMATICS/codex_mathematical_symbols.md)
   Reference list of all variables, constants, glyphs, and operators used across SYSTEM 1
-* `E=mc·k^β.md`
+* [`E=mc·k^β.md`](./CODEX%20MATHEMATICS/E=mc·k^β.md)
   Grand equation module proposing a resonance-augmented mass–energy relation
-* `spiral_logic.md`
+* [`spiral_logic.md`](./CODEX%20MATHEMATICS/spiral_logic.md)
   Describes the underlying spiral symmetries of the resonance field
-* `algebraic_transition_grids.md`
+* [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md)
   Defines dynamic resonance field transitions based on symbolic grids
 
 > This symbolic subsystem defines the operators, maps, and transformation grammars used throughout the Codex.
