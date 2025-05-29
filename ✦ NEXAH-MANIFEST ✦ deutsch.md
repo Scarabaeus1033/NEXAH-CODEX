@@ -1,7 +1,7 @@
 ✦ NEXAH MANIFEST · DE ✦
 
 <p align="center">
-  <img src="./SYSTEM X NEXAH-GRAND-CODEX visual.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Visual">
+  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
 </p>
 
 
