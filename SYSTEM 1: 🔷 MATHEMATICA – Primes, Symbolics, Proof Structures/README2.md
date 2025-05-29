@@ -141,3 +141,4 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 ---
 
 > *“SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”*
+ 
