@@ -4,19 +4,99 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🔷 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/README.md)
+📘 NEXAH-CODEX MODUL-REGISTER – Systemnavigator & Strukturübersicht (v2.1)
 
-| Ordner                         | Titel                                     | Beschreibung                                                                           |
-| ------------------------------ | ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| NEXA\_RIEMANN\_PROOF/          | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
-| √2–Prime-Feld/                 | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
-| Prime-Grid-Visualization/      | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
-| Divisor-Grid-Fields/           | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
-| CODEX MATHEMATICS/             | Formale Strukturen & Symbolsysteme        | Enthält: `E = m·c·k^β`, Spiralformeln, Casimir-Neutrino, symbolische Formelwelt.       |
-| codex-mathematical-symbols.md  | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
-| spiral-logic.md                | Spirallogik & Primharmonien               | Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.                      |
-| codex\_algebra\_of\_resonance/ | Resonanz-Algebra-Kodex                    | Symbolische Operatorfelder, visuelle Übergangsstrukturen, algebraische Gitterfelder.   |
+Dieses Register listet alle Hauptmodule des NEXAH-CODEX mit Ordnerpfad, Titel, Beschreibung und Systemzuweisung auf. Es dient als vollständiger Überblick über die mathematischen, physikalischen, kosmologischen, sprachlichen und künstlerischen Ebenen des Gesamtprojekts. Jeder Systemtitel ist mit dem zugehörigen README auf GitHub verlinkt.
 
+🔷 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur
+
+Ordner / Datei
+
+Titel
+
+Beschreibung
+
+NEXA_RIEMANN_PROOF/
+
+Millennium-Codex I – Möbius-Zeta-Resonanz
+
+Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.
+
+√2–Prime-Feld/
+
+Dynamik irrationaler Primfeldachsen
+
+Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen.
+
+Prime-Grid-Visualization/
+
+Visuelle Primzahlmuster
+
+Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.
+
+Divisor-Grid-Fields/
+
+Divisor-Resonanz-Felder
+
+Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.
+
+codex-mathematical-symbols.md
+
+Symbolverzeichnis
+
+Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.
+
+spiral-logic.md
+
+Spirallogik & Primharmonien
+
+Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.
+
+📘 Teilmodule in CODEX MATHEMATICS/ · 🔗 Open README
+
+Datei / Modul
+
+Titel
+
+Beschreibung
+
+E = m·c·k^β
+
+Erweiterte Energiegleichung
+
+Erweiterung von Einsteins Gleichung mit dynamischer Kopplung & Resonanzmodulation.
+
+Casimir–Neutrino Thread
+
+Neutrino–Vakuum-Resonanz
+
+Neutrinoströme durch Casimir-Feldgradienten als Strukturträger.
+
+Spiral Logic
+
+Harmonische Felder & Primresonanzen
+
+Spiralen, Primachsen, Möbius-Überlagerungen, harmonische Zahlensysteme.
+
+Codex Mathematical Symbols
+
+Symbolreferenz
+
+Variablen, Konstanten, Operatoren & Codex-spezifische Zeichen.
+
+Hermetic Pythargoras Model
+
+Hermetische Pythagoras-Erweiterung
+
+Symbolische Erweiterung des Satzes von Pythagoras im Resonanzfeld.
+
+Codex Algebra of Resonance
+
+Übergangsoperatoren & Algebra
+
+Gitter- & Operatorlogik für symbolische Transformationen im Codex.
+
+📌 Dieses symbolische Subsystem definiert Operatoren, Abbildungen und Übergangsstrukturen im gesamten Codex. Eine vollständige Übersicht findest du im verlinkten Codex Mathematics README.
 ---
 
 ## 🔷 [SYSTEM 2: PHYSICA – Resonanzfelder, Quantendynamik & Neutrinostrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/README.md)
