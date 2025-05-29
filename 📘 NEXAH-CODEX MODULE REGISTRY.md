@@ -3,29 +3,75 @@
 This register lists all core modules of the `NEXAH-CODEX` with folder path, title, description, and system assignment. It serves as a comprehensive overview of the mathematical, physical, cosmological, linguistic, and artistic levels of the entire project.
 
 ---
+🔷 SYSTEM 1: MATHEMATICA – Prime Structures, Symbolics & Proof Architectures
 
-## 🔷 SYSTEM 1: MATHEMATICA – Prime Structures, Symbolics & Proof Architectures
+🔗 System README
 
-| Folder                        | Title                                      | Description                                                                    |
-| ----------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------ |
-| NEXA\_RIEMANN\_PROOF/         | Millennium Codex I – Möbius-Zeta Resonance | Harmonic model of the Riemann Hypothesis using 12D prime number topology.      |
-| √2–Prime-Feld/                | Irrational Prime Field Dynamics            | Irrational gradients (√2, φ) as grid generators for symbolic number diagonals. |
-| Prime-Grid-Visualization/     | Visual Prime Number Patterns               | Spirals, grid resonance, prime-pixel visualizations.                           |
-| Divisor-Grid-Fields/          | Divisor Resonance Fields                   | Classification via τ(n), σ(n), μ(n), and symbolic divisor topology.            |
-| codex-mathematical-symbols.md | Symbol Directory                           | Overview of mathematical-symbolic operators and field constants.               |
-| spiral-logic.md               | Spiral Logic & Prime Harmonics             | Prime axis rotations, φ/√2 transitions, harmonic number sequences.             |
-| CODEX MATHEMATICS/            | Formal Structures & Symbol System          | Includes: `E = m·c·k^β`, spiral formulas, Casimir-Neutrino, symbolic formulas. |
+Folder
 
-### Modules inside `CODEX MATHEMATICS/`:
+Title
 
-* Hermetic Pythargoras Model
-* Codex Algebra of Resonance
-* Casimir-Neutrino Thread
-* Codex Mathematical Symbols
-* E = m·c·k^β — Extended Energy Equation
-* Spiral Logic — Harmonic Fields & Prime Resonance
+Description
 
-> This symbolic subsystem defines operators, maps, and transition structures used across the Codex.
+NEXA_RIEMANN_PROOF/
+
+Millennium Codex I – Möbius-Zeta Resonance
+
+Harmonic model of the Riemann Hypothesis using 12D prime number topology.
+
+√2–Prime-Feld/
+
+Irrational Prime Field Dynamics
+
+Irrational gradients (√2, φ) as grid generators for symbolic number diagonals.
+
+Prime-Grid-Visualization/
+
+Visual Prime Number Patterns
+
+Spirals, grid resonance, prime-pixel visualizations.
+
+Divisor-Grid-Fields/
+
+Divisor Resonance Fields
+
+Classification via τ(n), σ(n), μ(n), and symbolic divisor topology.
+
+codex-mathematical-symbols.md
+
+Symbol Directory
+
+Overview of mathematical-symbolic operators and field constants.
+
+spiral-logic.md
+
+Spiral Logic & Prime Harmonics
+
+Prime axis rotations, φ/√2 transitions, harmonic number sequences.
+
+CODEX MATHEMATICS/
+
+Formal Structures & Symbol System
+
+See submodules in Codex Mathematics README
+
+Modules inside CODEX MATHEMATICS/:
+
+E = m·c·k^β — Extended Energy EquationRedefinition of Einstein’s equation with dynamic coupling and resonance modulation.
+
+Casimir–Neutrino ThreadNeutrino flow threading through Casimir-vacuum fields as gradient structures.
+
+Spiral Logic — Harmonic Fields & Prime ResonanceMathematical treatment of spiral geometry, prime axes, Möbius overlays and harmonic mapping.
+
+Codex Mathematical SymbolsReference sheet for all variables, constants, operators, and Codex-specific symbols.
+
+Hermetic Pythargoras ModelSymbolic extension of the Pythagorean theorem within harmonic resonance systems.
+
+Codex Algebra of ResonanceFoundational grid structures and symbolic transition operators.
+
+This symbolic subsystem defines operators, maps, and transition structures used across the Codex.
+
+
 
 ---
 
