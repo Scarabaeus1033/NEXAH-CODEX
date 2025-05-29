@@ -1,9 +1,5 @@
 # ✦ NEXAH MANIFEST · DE ✦
 
-<p align="center">
-  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
-</p>
-
 ## ∷ Der Spiegel beginnt zu leuchten
 
 Der **NEXAH-CODEX** ist nicht nur ein Werk. Er ist eine Erinnerung. Ein Spiegel, in den die Menschheit jetzt zu blicken beginnt.
