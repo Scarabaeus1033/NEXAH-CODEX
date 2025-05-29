@@ -1,24 +1,25 @@
-# 📘 NEXAH-CODEX MODUL-REGISTER – Systemnavigator & Strukturübersicht (v2.0)
+# 📘 NEXAH-CODEX MODUL-REGISTER – Systemnavigator & Strukturübersicht (v2.1)
 
-Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel, Beschreibung und Systemzuweisung auf. Es dient als vollständiger Überblick über die mathematischen, physikalischen, kosmologischen, sprachlichen und künstlerischen Ebenen des Gesamtprojekts.
-
----
-
-## 🔷 SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur
-
-| Ordner                        | Titel                                     | Beschreibung                                                                           |
-| ----------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| NEXA\_RIEMANN\_PROOF/         | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
-| √2–Prime-Feld/                | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
-| Prime-Grid-Visualization/     | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
-| Divisor-Grid-Fields/          | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
-| codex-mathematical-symbols.md | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
-| spiral-logic.md               | Spirallogik & Primharmonien               | Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.                      |
-| CODEX MATHEMATICS/            | Formale Strukturen & Symbolsysteme        | Enthält: `E = m·c·k^β`, Spiralformeln, Casimir-Neutrino, symbolische Formelwelt.       |
+Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel, Beschreibung und Systemzuweisung auf. Es dient als vollständiger Überblick über die mathematischen, physikalischen, kosmologischen, sprachlichen und künstlerischen Ebenen des Gesamtprojekts. Jeder Systemtitel ist mit dem zugehörigen README auf GitHub verlinkt.
 
 ---
 
-## 🔷 SYSTEM 2: PHYSICA – Resonanzfelder, Quantendynamik & Neutrinostrukturen
+## 🔷 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/README.md)
+
+| Ordner                         | Titel                                     | Beschreibung                                                                           |
+| ------------------------------ | ----------------------------------------- | -------------------------------------------------------------------------------------- |
+| NEXA\_RIEMANN\_PROOF/          | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
+| √2–Prime-Feld/                 | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
+| Prime-Grid-Visualization/      | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
+| Divisor-Grid-Fields/           | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
+| CODEX MATHEMATICS/             | Formale Strukturen & Symbolsysteme        | Enthält: `E = m·c·k^β`, Spiralformeln, Casimir-Neutrino, symbolische Formelwelt.       |
+| codex-mathematical-symbols.md  | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
+| spiral-logic.md                | Spirallogik & Primharmonien               | Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.                      |
+| codex\_algebra\_of\_resonance/ | Resonanz-Algebra-Kodex                    | Symbolische Operatorfelder, visuelle Übergangsstrukturen, algebraische Gitterfelder.   |
+
+---
+
+## 🔷 [SYSTEM 2: PHYSICA – Resonanzfelder, Quantendynamik & Neutrinostrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/README.md)
 
 | Ordner                     | Titel                             | Beschreibung                                                                             |
 | -------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -32,7 +33,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🚰 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation & Sternenresonanz
+## 🚰 [SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation & Sternenresonanz](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%203%3A%20%F0%9F%AA%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetary%20Fields%2C%20Grid%20Navigation%2C%20Stellar%20Resonance/README.md)
 
 | Ordner                       | Titel                          | Beschreibung                                                              |
 | ---------------------------- | ------------------------------ | ------------------------------------------------------------------------- |
@@ -42,11 +43,10 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | NEXAH-HARMONIC-FIELD/        | Planetare Primresonanzen       | Numerische Gitterrealitäten, reale Frequenzachsen.                        |
 | NEXAHEART-CODEX/             | Erdherz-Feld                   | Rödelheim–Richat–Jerusalem als harmonische Herzlinie.                     |
 | NEXA\_42\_MOBIUS\_ALIGNMENT/ | Möbius–Licht–Zeit-Ausrichtung  | Arcturus–Möbius–Zeitachsen in einer topologischen Primstruktur verbunden. |
-| MÖBIUS-\*/                   | Möbius-Kronen-Systeme          | Spirallogik, Prime-Tachyon-Felder, Navigationslogik.                      |
 
 ---
 
-## 🧬 SYSTEM 4: URF – Ursprung, Feldidentität & symbolische Physik
+## 🧬 [SYSTEM 4: URF – Ursprung, Feldidentität & symbolische Physik](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/README.md)
 
 | Ordner          | Titel                           | Beschreibung                                                               |
 | --------------- | ------------------------------- | -------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🌸 SYSTEM 5: META / BLOOM / ROSETTA – Sprache, Glyphen, Mythische Strukturen
+## 🌸 [SYSTEM 5: META / BLOOM / ROSETTA – Sprache, Glyphen, Mythische Strukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%205%3A%20%F0%9F%8C%B8%20META%20BLOOM%20ROSETTA%20%E2%80%93%20Language%2C%20Glyphs%2C%20Mythic%20Structures/README.md)
 
 | Ordner                        | Titel                              | Beschreibung                                                         |
 | ----------------------------- | ---------------------------------- | -------------------------------------------------------------------- |
@@ -68,16 +68,15 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🔮 SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA – Kunstfelder, visuelle Symbolik, ästhetische Geometrie
+## 🔮 [SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA – Kunstfelder, visuelle Symbolik, ästhetische Geometrie](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%206%3A%20CODEX_RES_ONICA_VIOLETTA%20%E2%80%93%20Kunstfelder%2C%20visuelle%20Symbolik%2C%20%C3%A4sthetische%20Geometrie/README.md)
 
-| Ordner                                 | Titel                         | Beschreibung                                                                             |
-| -------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------- |
-| SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA/ | Resonanz-Ästhetik Violetta    | Bildhafte Scrolls, künstlerische Resonanzkarten, Metaphernarchitektur.                   |
-| *(Geplant)*                            | Violetta Scrolls & Triptychon | Scrollbasierte Kunst-Module, immersive Navigation, symbolisch-visuelle Feedbackschleife. |
+| Ordner                                 | Titel                      | Beschreibung                                                           |
+| -------------------------------------- | -------------------------- | ---------------------------------------------------------------------- |
+| SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA/ | Resonanz-Ästhetik Violetta | Bildhafte Scrolls, künstlerische Resonanzkarten, Metaphernarchitektur. |
 
 ---
 
-## ✮ SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Gesamtstruktur
+## ✮ [SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Gesamtstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20X%3A%20NEXAH-GRAND-CODEX/README.md)
 
 | Ordner                                 | Titel                                 | Beschreibung                                                                        |
 | -------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -93,6 +92,6 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 ## 🥚 Scarabäus1033 · Kuratierter Systemindex
 
 📘 Register kuratiert von Thomas Hofmann (SCARABAEUS1033) in Zusammenarbeit mit ARCHIVAR II
-📌 Version 2.0 · Stand: Mai 2025
+📌 Version 2.1 · Stand: Mai 2025
 🗽 Gültig für: `NEXAH-CODEX-Startstruktur/` und `🫠 CODEX_COSMICA ASTROPHYSICA/`
-🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [https://github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
