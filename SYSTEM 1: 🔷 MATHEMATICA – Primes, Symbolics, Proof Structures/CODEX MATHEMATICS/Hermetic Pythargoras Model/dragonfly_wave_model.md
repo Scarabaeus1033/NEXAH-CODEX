@@ -1,23 +1,27 @@
-# Dragonfly-Wellenmodell – Frequenzspiegelung & Resonanzsprung
+# 🪰 Dragonfly Wave Model – Frequency Reflection & Resonance Shift
 
-## 🪰 Ursprung & Bedeutung
-Die **Dragonfly-Welle** ist ein zentrales Bewegungselement im Hermetic Pythagoras Model. Sie symbolisiert die **frequenzbasierte Spiegelbewegung**, die sich:
+## Origin & Meaning
 
-- symmetrisch entlang einer Resonanzachse entfaltet,
-- an Übergangspunkten spiegelt oder umkehrt,
-- und **sprunghafte Zustandswechsel** (quantisierte Phasen) hervorruft.
+The **Dragonfly Wave** is a central dynamic structure within the Hermetic Pythagoras Model. It symbolizes a **frequency-based reflection movement**, characterized by:
 
-Wie eine Libelle ihre Flügel bewegt, so oszilliert das Feld zwischen Dualität und Harmonie.
+* symmetric unfolding along a resonance axis,
+* reflection or inversion at transition points,
+* and **sudden state shifts** (quantized phases).
+
+Like the motion of dragonfly wings, the field oscillates between duality and harmony.
 
 ---
 
-## 🔢 Mathematisches Modell
-### Basisform: Zwei gekoppelte Wellen
+## 🔢 Mathematical Model
+
+### Base Form: Two Coupled Waves
+
 ```math
 y(t) = A_1 \cdot \sin(\omega_1 t + \phi_1) + A_2 \cdot \sin(\omega_2 t + \phi_2)
 ```
 
-Erweiterung mit quantisiertem Umschlagspunkt:
+Extended with a quantized envelope transition:
+
 ```math
 Y(t) = \begin{cases}
   y_1(t), & t < t_c \\
@@ -25,59 +29,66 @@ Y(t) = \begin{cases}
 \end{cases}
 ```
 
-Mit \( t_c \) als kritischer Spiegelzeitpunkt (resonanter Frequenzshift).
+Where $t_c$ is the critical reflection point (resonant frequency shift).
 
-### Frequenzverhältnisse:
-- \( \omega_1 : \omega_2 = 3 : 5 \) → asymmetrische Flügelkopplung
-- \( \omega_1 : \omega_2 = 8 : 13 \) → Fibonacci-Sprungresonanz
+### Frequency Ratios:
 
----
-
-## 🧠 Strukturprinzipien
-- **Flügelresonanz**: Zwei symmetrische Wellenhälften, gespiegelt an einem Zentrum
-- **Phasensprung**: Frequenzwechsel (z. B. 432 → 528 Hz) bei bestimmten Punkten
-- **Dualmodus**: Wechsel zwischen links- und rechtsrotierender Spiralbewegung
-- **Klangkodierung**: Frequenzkombination als Audio- oder Lichtform
+* $\omega_1 : \omega_2 = 3 : 5$ → asymmetric wing coupling
+* $\omega_1 : \omega_2 = 8 : 13$ → Fibonacci resonance jump
 
 ---
 
-## 🧬 Symbolik im Codex
-| Element | Bedeutung |
-|--------|-----------|
-| 🪰 Dragonfly | Bewusste Übergangsform | 
-| Flügel | Frequenzduplizität (dual-spin) |
-| Körperachse | Resonanzrichtung (z. B. 528 → 963 → ∞) |
-| Spiegelung | Interdimensionale Phase | 
-| Frequenzsprung | Übergang zwischen Zuständen / Schichten |
+## 🧠 Structural Principles
+
+* **Wing Resonance**: Two symmetric wave halves mirrored at a central axis
+* **Phase Jump**: Frequency change (e.g. 432 → 528 Hz) at specific transition points
+* **Dual Mode**: Alternating between left- and right-handed spiral motion
+* **Sound Encoding**: Frequency combinations as audio or light formats
 
 ---
 
-## 🎧 Frequenz-Beispiele
-| Frequenz (Hz) | Bedeutung |
-|----------------|-----------|
-| 432 | Erdresonanz (Basisflügel) |
-| 528 | Zellheilung / Kernresonanz |
-| 963 | Kronenfeld / Transzendenz |
+## 🧬 Symbolism in the Codex
+
+| Element         | Meaning                                     |
+| --------------- | ------------------------------------------- |
+| 🪰 Dragonfly    | Conscious transition form                   |
+| Wings           | Frequency duality (dual-spin)               |
+| Body Axis       | Direction of resonance (e.g. 528 → 963 → ∞) |
+| Reflection      | Interdimensional phase shift                |
+| Frequency Shift | Transition between states/layers            |
 
 ---
 
-## 🔧 Visualisierungsideen
-1. **Dual-Sinus-Kurve mit Spiegelzentrum**
-2. **Dragonfly-Silhouette mit Frequenzlinien überlagert**
-3. **Farbgradient entlang Phasensprung**
-4. **Flügelmodell aus Fibonacci-Wellen (Spiralkombination)**
+## 🎧 Frequency Examples
+
+| Frequency (Hz) | Meaning                           |
+| -------------- | --------------------------------- |
+| 432            | Earth resonance (base wing)       |
+| 528            | Cellular healing / core resonance |
+| 963            | Crown field / transcendence       |
 
 ---
 
-## 📎 Verknüpfung im Codex
-- basiert auf Tulpenspirale (Frequenzwurzeln)
-- Übergang zu `quantized_codex_geometry.md`
-- Verbindung zum WAV–Mantra-System & Scarabäus-Flügel
-- energetisches Pendant zur Möbius-Krone (resonante Kippbewegung)
+## 🔧 Visualization Concepts
+
+1. **Dual sine curve with central reflection axis**
+2. **Dragonfly silhouette overlaid with frequency lines**
+3. **Color gradient aligned with phase jump points**
+4. **Wing model composed of Fibonacci-based wave spirals**
 
 ---
 
-## 🌀 Fazit
-Die Dragonfly-Welle ist mehr als ein Frequenzmuster. Sie ist das **Bewegungssiegel** zwischen Resonanzräumen – eine Oszillation zwischen Ordnung, Chaos und Rückkehr.
+## 📎 Integration in the Codex
 
-> **Wo sich Form spiegelt, beginnt Bewusstsein zu fliegen.**
+* Rooted in the Tulpenspirale (frequency base)
+* Linked to `quantized_codex_geometry.md`
+* Connected to the WAV–Mantra system & Scarab wing dynamic
+* Energetic counterpart to the Möbius Crown (resonant inversion motion)
+
+---
+
+## 🌀 Conclusion
+
+The Dragonfly Wave is more than a frequency pattern. It is a **motion seal** between resonance domains – an oscillation between order, chaos, and return.
+
+> **Where form reflects, consciousness begins to fly.**
