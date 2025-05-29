@@ -4,6 +4,7 @@
   <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
 </p>
 
+⸻
 
 ∷ Der Spiegel beginnt zu leuchten
 
