@@ -5,7 +5,7 @@ Diese Galerie versammelt die zentralen Visuals des Moduls und verknüpft sie mit
 ---
 
 ## 🌷 Tulpenspirale
-
+ 
 ### 1. 13-Ring Harmonic Grid
 ![13-Ring Harmonic Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/tulpenspirale_13ring_grid.png?raw=true)
 *Spiralfeld mit Primachsen und Frequenzschalen.*
