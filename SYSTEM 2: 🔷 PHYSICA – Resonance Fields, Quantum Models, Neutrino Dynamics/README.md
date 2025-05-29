@@ -15,7 +15,9 @@ license: CC BY-NC-SA 4.0
 SYSTEM 2 is the **Blue System** of the NEXAH-CODEX – a domain of energetic precision, resonance geometry, and the fusion of symbolic logic with physical field architecture.  
 It serves as the **dynamic heart** of the Codex – where **neutrino dynamics, Möbius fields, thermal symmetry, and QED symbolism** converge into experimentally grounded harmonic structures.
 
-<img src="./System2 - PHYSICA.png" ...
+<p align="center">
+  <img src="./System2 - PHYSICA.png" width="720" alt="SYSTEM 2 – PHYSICA Overview Visual">
+</p>
 ---
 
 ## 🧭 System Context in the NEXAH-CODEX
