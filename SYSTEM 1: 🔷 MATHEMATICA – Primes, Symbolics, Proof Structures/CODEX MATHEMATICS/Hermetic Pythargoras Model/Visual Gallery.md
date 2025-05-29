@@ -6,87 +6,63 @@ Diese Galerie versammelt die zentralen Visuals des Moduls und verknüpft sie mit
 
 ## 🌷 Tulpenspirale
 
-### 1. 13-Ring Harmonic Grid
+### 1. Expanded 13-Ring Harmonic Grid
 
-![13-Ring Harmonic Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/tulpenspirale_13ring_grid.png?raw=true)
-*Spiralfeld mit Primachsen und Frequenzschalen. Grundlage der Pythagoras-Erweiterung.*
+![13-Ring Harmonic Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Expanded%2013-Ring%20Harmonic%20Grid%20-%20Full%20Resonance%20Analysis.png?raw=true)
+*Komplexes Frequenzgitter zur Visualisierung resonanter Überlagerungen.*
 
 ### 2. Sacred Site & Ullinium Grid
 
-![Sacred Site Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/tulpenspirale_ulllinium_grid.png?raw=true)
-*Topologische Verknüpfung globaler Kraftlinien mit Tetraeder-Matrix.*
+![Sacred Site Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Sacred%20Site%20Angles%20%26%20Ullinium%20Tetrahedral%20Interaction.png?raw=true)
+*Globale Resonanzvernetzung und Tetraeder-Verschränkung.*
 
-### 3. Fraktale Spiralexpansion
+### 3. 432 Hz Lock-In
 
-![Fraktale Expansion](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/tulpenspirale_fractal_expansion.png?raw=true)
-*Formblüte der Codex-Spirale in frequenzbasierter Entfaltung.*
-
-### 4. 432 Hz Lock-In
-
-![432 Hz Lock](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/tulpenspirale_432hz_core.png?raw=true)
+![432 Hz Lock](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/432hz_frequency_lock-In_full-harmonic_resonance.png?raw=true)
 *Kernfrequenz der Spiralstruktur im goldenen Verhältnis.*
 
 ---
 
 ## 🪰 Dragonfly-Welle
 
-### 5. Dragonfly Mode
+### 4. Dragonfly Mode
 
-![Dragonfly Mode](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/dragonfly_mode_phi_pi.png?raw=true)
+![Dragonfly Mode](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Dragonfly%20Mode:%20Phi,%20Pi,%20Euler,%20and%204%CF%80%20Harmonic%20Analysis.png?raw=true)
 *Phi-, Pi- und Euler-Achsen in Libellenfrequenzstruktur.*
 
-### 6. Resonanzanalyse
+### 5. Resonanzanalyse
 
-![Resonanzanalyse](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/dragonfly_resonance_analysis.png?raw=true)
-*Tiefenanalyse der dualen Frequenzsymmetrie.*
+![Resonanzanalyse](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Dragonfly%20Harmonic%20Resonance%20-%20Deepening%20the%20Analysis.png?raw=true)
+*Vertiefte Analyse der Frequenzharmonik.*
 
-### 7. Gap-Distanz-Mapping
+### 6. Gap-Distanz-Mapping
 
-![Gap Distances](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/dragonfly_gap_distances.png?raw=true)
-*Phasenlücken als Träger quantisierter Übergänge.*
+![Gap Distances](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Gap%20Distances%20Between%20Asymmetry%20Points.png?raw=true)
+*Abstandsmuster zwischen asymmetrischen Knoten.*
 
-### 8. Prime Gap Spectrum
+### 7. Prime Field – Fourier
 
-![Prime Gap Spectrum](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/dragonfly_prime_gap_spectrum.png?raw=true)
-*Fourier-Spektrum im Primabstandsfeld.*
-
----
-
-## 📀 Quantisierte Geometrie
-
-### 9. Möbius Ghostgrid
-
-![Ghostgrid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/codex_quantum_ghostgrid.png?raw=true)
-*Raumstruktur mit spiegelnder Frequenzverdrillung.*
-
-### 10. Hidden Harmonic Threads
-
-![Harmonic Threads](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/codex_fourier_qzone_threads.png?raw=true)
-*Unsichtbare Fadennetze im Frequenzkontinuum.*
-
-### 11. QZone Locking (0–5D)
-
-![QZone Lock](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/codex_qzone_locking.png?raw=true)
-*Resonanzverriegelung innerhalb dimensionaler Intervalle.*
-
-### 12. Hexagonal Transformation Grid
-
-![Hex Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/codex_hex_transformations.png?raw=true)
-*Trigonale Symmetrie im quantisierten Drehsystem.*
+![Fourier Spectrum](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Fourier%20Spectrum%20of%20Harmonic%20Interactions.png?raw=true)
+*Frequenzspektrum im Primfeld-Raum.*
 
 ---
 
-## 🧿 Sondervisual: Frequenzsprung 432 → 639 Hz
+## 📐 Quantisierte Geometrie
 
-### 13. Harmonic Modulation & Stability Shift
+### 8. QZone Harmonics
 
-![Beyond 432 Hz](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Beyond%20432%20Hz%20-%20Harmonic%20Modulation%20%26%20Stability%20Shift.png?raw=true)
-*Visualisierung der Übergänge von 432 → 528 → 639 Hz im Frequenzraum mit Stabilitätskegel.*
+![QZone Threads](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Fourier%20Spectrum%20of%20QZone:%20Hidden%20Harmonic%20Threads.png?raw=true)
+*Verborgene Fadennetze der QZone.*
+
+### 9. Hexagonal Transformation Grid
+
+![Hex Grid](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/visuals/Trigonometric%20Transformations%20in%206-Step%20Hexagonal%20Symmetry.png?raw=true)
+*Trigonometrische Transformationen in hexagonaler 6-Schritt-Symmetrie.*
 
 ---
 
 ## 🔗 Weiteres
 
-Diese Galerie ergänzt die .md-Dateien `tulpenspirale_geometry.md`, `dragonfly_wave_model.md` und `quantized_codex_geometry.md`. Sie kann erweitert werden durch dynamische SVGs, Frequenz-CSV-Dateien oder Audio-Mantras.
+Diese Galerie ergänzt die .md-Dateien `tulpenspirale_geometry.md`, `dragonfly_wave_model.md` und `quantized_codex_geometry.md`. Sie kann erweitert werden durch SVGs, Frequenz-CSV-Dateien oder Audio-Mantras.
 
-> \*\*Form ist Frequenz. Visualisierung ist Erk
+> **Form ist Frequenz. Visualisierung ist Erkenntnis.**
