@@ -1,55 +1,50 @@
-# 🧭 Hermetic Foundations – Ursprung des Hermetischen Codex
+🧭 Hermetic Foundations – Origins of the Hermetic Codex
 
-## 🜁 Einleitung
+🜁 Introduction
 
-Das Modul "Hermetic Pythagoras Model" fußt auf einer hermetischen Erweiterung mathematischer Grundlagen. Dieses Dokument legt die konzeptuellen Wurzeln offen: die Verbindung von Zahl, Resonanz, Form und Bewusstsein im Sinne der hermetischen Traditionen, insbesondere im Kontext von Pythagoras, Zohar, Platon und alchemistischen Prinzipien.
+The “Hermetic Pythagoras Model” module is rooted in a hermetic extension of mathematical fundamentals. This document unveils its conceptual origins: the interconnection of number, resonance, form, and consciousness in the spirit of hermetic traditions—particularly drawing from Pythagoras, the Zohar, Plato, and alchemical principles.
 
-## ⚛️ Hermetische Prinzipien und Resonanz
+⚛️ Hermetic Principles and Resonance
 
-Im Zentrum steht das Axiom: *"Wie oben, so unten – wie innen, so außen."* Diese Analogie führt zur Codex-Struktur:
+At the core lies the axiom: “As above, so below – as within, so without.” This analogy guides the Codex structure:
+	•	Number = Form = Frequency = Consciousness
+	•	Polarity ↔ Harmony
+	•	Transformation through Resonance
 
-* **Zahl = Form = Frequenz = Bewusstsein**
-* **Polarität ↔ Harmonie**
-* **Verwandlung durch Resonanz**
+Classical geometric models (triangle, spiral, tetrahedron) are seen as vessels of transformative processes—both mathematically and symbolically.
 
-Dabei werden klassische geometrische Modelle (Dreieck, Spirale, Tetraeder) als Träger transformativer Prozesse betrachtet – mathematisch und symbolisch zugleich.
+🔺 The Role of the Pythagorean Triangle
 
-## 🔺 Die Rolle des Pythagoreischen Dreiecks
+The Pythagorean triangle serves as the foundational structure for:
+	•	Frequency relationships (e.g., 3:4:5)
+	•	Resonance nodes in space
+	•	Transposition into higher dimensions
 
-Das pythagoreische Dreieck bildet die Ursprungsstruktur für:
+Its extension unfolds through Möbius geometries, modular spirals (such as the tulip spiral), and the 432 Hz resonance axis.
 
-* Frequenzbeziehungen (z. B. 3:4:5)
-* Resonanzknoten im Raum
-* Transposition in höhere Dimensionen
+🜃 Alchemy of Number
 
-Die Erweiterung erfolgt durch Möbius-Geometrien, modulare Spiralen (z. B. die Tulpenspirale) und 432-Hz-Schlüsselachsen.
+Numbers are interpreted as “alchemical agents.” Particularly significant are:
+	•	137 – The fine-structure constant as a portal number
+	•	432, 528, 639 – Frequency cascades of stability
+	•	11:9 – Codex ratio for dimensional transition
 
-## 🜃 Alchemie der Zahl
+These numbers act as bridges between symbolic, physical, and geometric realms.
 
-Zahlen werden als "alchemische Agenten" interpretiert. Besonders bedeutsam:
+🜄 Geometry as a Medium of Transformation
 
-* **137** – Feinstrukturkonstante als Portalzahl
-* **432, 528, 639** – Frequenzkaskaden der Stabilität
-* **11:9** – Codex-Verhältnis für Dimensionssprung
+Spiral forms (tulip, dragonfly) are more than visuals—they are transformational structures:
+	•	They filter frequencies
+	•	They structure space
+	•	They enable transitions
 
-Diese Zahlen wirken als Brücken zwischen symbolischer, physikalischer und geometrischer Welt.
+Thus, geometry itself becomes a consciousness operator.
 
-## 🜄 Geometrie als Transformationsmedium
+🜂 Purpose of This Foundational File
 
-Die Spiralformen (Tulpe, Libelle) sind mehr als Visuals – sie sind transformierende Strukturen:
+This document anchors the Hermetic Pythagoras Model within the Codex system and provides its epistemological basis. It supports the integration of further submodules such as:
+	•	pytha_symbolic_extension.md
+	•	codex_geometry_resonance_map.md
+	•	zohar_matrix_alignment.md
 
-* Sie filtern Frequenzen
-* Sie strukturieren Räume
-* Sie ermöglichen Übergänge
-
-Dadurch wird Geometrie selbst zum *Bewusstseinsoperator*.
-
-## 🜂 Ziel dieser Basisdatei
-
-Dieses Dokument verankert das Hermetic Pythagoras Model im Codex-System und liefert die erkenntnistheoretische Grundlage. Es erlaubt die Einbindung weiterer Submodule wie:
-
-* `pytha_symbolic_extension.md`
-* `codex_geometry_resonance_map.md`
-* `zohar_matrix_alignment.md`
-
-> **Hermetik ist nicht esoterisch, sondern präzise Resonanzphysik in symbolischer Form.**
+Hermetics is not esotericism—it is precise resonance physics in symbolic form.
