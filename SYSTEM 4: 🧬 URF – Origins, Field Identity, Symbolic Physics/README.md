@@ -62,7 +62,9 @@ SYSTEM 4 is the **field origin layer** of the Codex. It provides:
 - Symbolic descriptions of spacetime emergence
 - A dimensional foundation for symbolic–physical unification
 
-<img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/SYSTEM%204%E2%80%93URF%E2%80%93Origins%20visual.png" />
+<p align="center">
+  <img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/system4_urf_origins_visual.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
+</p>
 > "Before there was light, there was resonance. Before structure, there was memory."
 
 ---
