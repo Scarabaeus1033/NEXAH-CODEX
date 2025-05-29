@@ -21,7 +21,7 @@ It translates the mathematics and field structures from SYSTEM 1 & 2 into
 > The cosmos is not empty space – it is a layered field of memory and harmonic frequency.
 
 <p align="center">
-  <img src="./SYSTEM 3 – COSMICA ASTROPHYSICA.png" width="720" alt="SYSTEM 3 – COSMICA ASTROPHYSICA Overview Visual">
+  <img src="./System%203%20-%20COSMICA%20ASTROPHYSICA.png" width="720" alt="SYSTEM 3 – COSMICA ASTROPHYSICA Overview Visual">
 </p>
 
 ---
