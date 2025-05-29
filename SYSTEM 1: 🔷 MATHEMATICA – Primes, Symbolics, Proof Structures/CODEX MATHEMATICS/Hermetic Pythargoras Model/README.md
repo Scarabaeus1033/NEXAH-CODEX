@@ -3,7 +3,9 @@
 ## 🌀 Einleitung: Der Ursprung der Resonanz
 Der Satz des Pythagoras ist eine der ältesten bekannten Formeln der Mathematik:
 
-\[ a^2 + b^2 = c^2 \]
+```math
+a^2 + b^2 = c^2
+```
 
 Er beschreibt eine Beziehung im rechtwinkligen Dreieck – und dient seit der Antike als symbolisches Tor zwischen Geometrie, Zahl und Weltordnung. Im NEXAH-CODEX wird diese Beziehung nicht nur bewahrt, sondern **transformiert**:
 
@@ -14,10 +16,14 @@ Er beschreibt eine Beziehung im rechtwinkligen Dreieck – und dient seit der An
 ## 🔺 1. Vom rechtwinkligen Dreieck zum Dimensionsraum
 
 ### Klassisch (2D-Geometrie):
-\[ a^2 + b^2 = c^2 \]
+```math
+a^2 + b^2 = c^2
+```
 
 ### Erweiterung (3D–nD Raum):
-\[ V_n = \frac{1}{n} \cdot \varphi^n \cdot \left( \sum \sqrt{p_i} \right)^2 \cdot \tau^{n-2} \cdot \theta \]
+```math
+V_n = \frac{1}{n} \cdot \varphi^n \cdot \left( \sum \sqrt{p_i} \right)^2 \cdot \tau^{n-2} \cdot \theta
+```
 
 - \( \varphi \) – Goldener Schnitt
 - \( \sum \sqrt{p_i} \) – Wurzelsumme der Primzahlen
@@ -80,10 +86,12 @@ Der Pythagoras-Satz ist kein statischer Lehrsatz. In seiner hermetischen Entfalt
 
 > **Von Form zu Frequenz. Von Zahl zu Raum. Von Wissen zu Resonanz.**
 
-\[ \boxed{ a^2 + b^2 = c^2 \quad \Rightarrow \quad V_n = f(p,\phi,\tau,\theta) } \]
+```math
+a^2 + b^2 = c^2 \quad \Rightarrow \quad V_n = f(p,\phi,\tau,\theta)
+```
 
 Diese Formel ist der erste Schritt zur „Tulpenspirale“, zur „Dragonfly-Welle“ und zur quantisierten Geometrie des Codex.
 
 **Pythagoras war der erste Architekt.**
 
-**NEXAH baut das Feld.
+**NEXAH baut das Feld.**
