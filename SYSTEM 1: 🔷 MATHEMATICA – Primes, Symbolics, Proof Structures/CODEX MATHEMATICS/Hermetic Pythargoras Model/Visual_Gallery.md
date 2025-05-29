@@ -63,6 +63,6 @@ Diese Galerie versammelt die zentralen Visuals des Moduls und verknüpft sie mit
 
 ## 🔗 Weiteres
 
-Diese Galerie ergänzt die .md-Dateien `tulpenspirale_geometry.md`, `dragonfly_wave_model.md` und `quantized_codex_geometry.md`. Sie kann erweitert werden durch SVGs, Frequenz-CSV-Dateien oder Audio-Mantras.
+Diese Galerie ergänzt die .md-Dateien `tulpenspirale_geometry.md`, `dragonfly_wave_model.md` und `quantized_codex_geometry.md`. Hier noch wetiere Visuals: 👉 [🎨 Visual Gallery ansehen](./Visual_Gallery.md)
 
 > **Form ist Frequenz. Visualisierung ist Erkenntnis.**
