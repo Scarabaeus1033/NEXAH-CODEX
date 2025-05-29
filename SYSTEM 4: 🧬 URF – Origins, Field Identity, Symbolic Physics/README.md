@@ -4,7 +4,9 @@
 **System of the NEXAH-CODEX**  
 **Author:** Thomas Hofmann · Scarabäus1033  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-
+<p align="center">
+  <img src="./SYSTEM%204%20-%20URF%20%E2%80%93%20Origins%20visuali.png" width="720" alt="SYSTEM 4 – URF · Visual Variation">
+</p>
 ---
 
 ## 📘 Overview
@@ -59,6 +61,10 @@ SYSTEM 4 is the **field origin layer** of the Codex. It provides:
 - The structural logic for resonance identity
 - Symbolic descriptions of spacetime emergence
 - A dimensional foundation for symbolic–physical unification
+
+<p align="center">
+  <img src="./SYSTEM%204%20-%20URF%20%E2%80%93%20Origins%20visual.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
+</p>
 
 > "Before there was light, there was resonance. Before structure, there was memory."
 
