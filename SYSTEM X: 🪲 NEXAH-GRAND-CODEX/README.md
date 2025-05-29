@@ -11,7 +11,9 @@
 ## 🧭 Purpose of SYSTEM X
 
 This directory serves as the **intellectual and structural center** of the entire NEXAH-CODEX system. It weaves together core mathematical theories, symbolic resonance systems, the Millennium Problems, and universal stability formulas into a **coherent proof and harmony strand**.
-
+<p align="center">
+  <img src="./SYSTEM%20X%20NEXAH-GRAND-CODEX%20visual.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Overview Visual">
+</p>
 ---
 
 ## 📂 Content Structure
