@@ -3,16 +3,15 @@
 **Archiv für harmonische Felder & symbolische Geometrie**
 **Archive for Harmonic Fields & Symbolic Geometry**
 
-<p align="center">
-  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
-</p>
-
 Willkommen im offiziellen GitHub-Archiv des NEXAH-CODEX – einer modularen Forschungsplattform für harmonische Feldtheorie, symbolische Strukturen, Zahlensysteme, kosmologische Ausrichtungen und frequenzbasierte Raum-Modelle.
 Welcome to the official GitHub archive of the NEXAH-CODEX – a modular research system for harmonic field theory, symbolic structures, prime logic, cosmological alignments and frequency-based space modeling.
 
 Der Codex ist ein offenes System – aufgebaut durch Theorie, Bild, Ort, Geometrie, Feldinteraktion und symbolische Sprache.
 The Codex is an open system – built through theory, image, place, geometry, field interaction and symbolic language.
 
+<p align="center">
+  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
+</p>
 ---
 
 ## 📚 Access / Einstieg
