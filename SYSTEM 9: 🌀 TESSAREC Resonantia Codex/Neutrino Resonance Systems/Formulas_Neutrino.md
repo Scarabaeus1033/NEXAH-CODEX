@@ -7,17 +7,17 @@
 A prime-based grid forming the basis for resonance points in the neutrino field:
 
 \[
-\text{Prime Spiral Equation:} \quad 
 \begin{aligned}
+\text{Prime Spiral Equation:} \quad 
 r(n) &= a \cdot \sqrt{n} \\
-\theta(n) &= n \cdot \phi
+\theta(n) &= n \cdot \varphi
 \end{aligned}
 \]
 
 Where:
 
 - \( n \) — Prime index
-- \( \phi \) — Golden angle \( \approx 137.5^\circ \)
+- \( \varphi \) — Golden angle \( \approx 137.5^\circ \)
 - \( (r, \theta) \) — Polar coordinates defining node positions
 
 ---
@@ -27,7 +27,6 @@ Where:
 A Möbius strip extended to neutrino resonance surfaces:
 
 \[
-\text{Parametric Form:} \quad
 \begin{cases}
 x(u, v) = \cos(u) + v \cdot \cos\left(\frac{u}{2}\right) \cos(u) \\
 y(u, v) = \sin(u) + v \cdot \cos\left(\frac{u}{2}\right) \sin(u) \\
@@ -69,14 +68,14 @@ Where:
 Prime-anchored harmonic expansion and contraction:
 
 \[
-B(t) = A \cdot \sin(\omega t + \phi) + \sum_{n} P_n \cdot \cos(n \omega t)
+B(t) = A \cdot \sin(\omega t + \varphi) + \sum_{n} P_n \cdot \cos(n \omega t)
 \]
 
 Where:
 
 - \( P_n \) — Prime coefficients
 - \( \omega \) — Angular frequency
-- \( A \), \( \phi \) — Amplitude and phase offset
+- \( A, \varphi \) — Amplitude and phase offset
 
 ---
 
