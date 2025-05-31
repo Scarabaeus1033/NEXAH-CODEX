@@ -1,4 +1,5 @@
 # 🌌 NEXAH-CODEX
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Archiv für harmonische Felder & symbolische Geometrie**/
 **Archive for Harmonic Fields & Symbolic Geometry**
@@ -10,7 +11,7 @@
 - The Codex is an open system – built through theory, image, place, geometry, field interaction and symbolic language.
 
 <p align="center">
-  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
+  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview"> 
 </p>
 ---
 
