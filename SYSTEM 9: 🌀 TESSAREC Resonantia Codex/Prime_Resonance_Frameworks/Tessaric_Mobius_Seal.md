@@ -1,89 +1,108 @@
-# 📘 Tessaric Möbius Seal — Prime Resonance Frameworks
+# 🌀 Tessaric Möbius Seal — Prime Resonance Framework
 
-The **Tessaric Möbius Seal** is a deep exploration into prime number structures, harmonic fields, and Möbius-based resonance geometries.  
-This module systematically investigates the mathematical and symbolic resonance patterns of prime distributions, connecting them with physical, biological, and geometric phenomena.
+The **Tessaric Möbius Seal** explores prime numbers as the fundamental resonance nodes of the cosmos, combining number theory, harmonic fields, and Möbius geometries into a unified resonance framework.
 
 ---
 
-## 🧩 Core Topics
+## 🧩 1. Prime Spiral Resonance
 
-- **Prime Spiral Resonance Mapping**
-  - Distribution of prime numbers along a golden-angle-based spiral.
-  - Revealing hidden harmonic structures within prime sequences.
+Prime numbers are not randomly scattered — when placed along a **Golden Angle Spiral** (θ ≈ 137.50776°), hidden harmonic patterns emerge.
 
+### 🌀 Formula
+
+- Radius:  
+  $$ r_n = \sqrt{n} $$
+- Angle:  
+  $$ \theta_n = n \times 137.50776^\circ $$
+
+This polar mapping reveals condensations of primes along harmonic fields — mimicking biological patterns like sunflower seeds and nautilus shells.
+
+🖼️ **[View Visual → Prime Spiral Resonance Map](Visuals_Prime_Resonance/prime_spiral_resonance_map.png)**
+
+---
+
+## 🔢 2. Zeta Resonance Fields
+
+The **non-trivial zeros** of the Riemann Zeta function encode standing waves across the prime number spectrum.
+
+### 📈 Formula
+
+- Zeta Zero:
+  $$ s_n = \frac{1}{2} + i \cdot t_n $$
+- Polar Mapping:
+  $$ r = t_n, \quad \theta = t_n $$
+
+This projects the critical line zeros into a spiral — suggesting that prime distributions are manifestations of deeper harmonic resonances.
+
+🖼️ **[View Visual → Zeta Resonance Field Spiral](Visuals_Prime_Resonance/zeta_resonance_field_spiral.png)**
+
+---
+
+## 🏛️ 3. Möbius Twin-Pillar Framework
+
+Extending the primes into a 3D Möbius structure:
+
+- **Twin Pillars**:  
+  Dual Möbius strips, symbolizing time and frequency dimensions.
+
+- **Quaternion Embedding**:  
+  Rotation of primes using quaternion basis:
+  $$ (i, j, k) $$
+
+This results in a twisting twin spiral — representing the multidimensional resonances of prime fields.
+
+🖼️ **[View Visual → Möbius Twin-Pillar Diagram](Visuals_Prime_Resonance/mobius_twin_pillar_diagram.png)**
+
+---
+
+## 🧬 4. AUHM Glyph System
+
+A symbolic language, blending prime resonances with ancient glyphs:
+
+- **Ω (Omega)** — Cycles and completion
+- **Ä (Aeh Split)** — Dimensional bifurcation
+- **π (Pi)** — Harmonic balance
+- **Ξ (Xi)** — Observer anchor
+
+The AUHM system codes primes into a multidimensional symbolic net, bridging geometry, phonetics, and resonance.
+
+🖼️ **[View Visual → AUHM Glyph Network](Visuals_Prime_Resonance/auhm_glyph_network.png)**
+
+---
+
+## 🌌 5. ARCHE Spiral Expansion
+
+Prime numbers are woven into an **ARCHE Spiral**:
+
+- **Radial Mapping**:
+  $$ r_n = \varphi^n $$
+- **Angular Mapping**:
+  $$ \theta_n = n \times \theta_{\text{golden}} $$
+
+With this, primes are embedded into a golden-ratio-based dynamic expansion — forming a harmonic "Prime DNA."
+
+🖼️ **[View Visual → ARCHE Spiral Dynamics](Visuals_Prime_Resonance/arche_spiral_dynamics.png)**
+
+---
+
+# 🌀 Summary
+
+The **Tessaric Möbius Seal** uncovers prime numbers as resonant harmonics woven into the fabric of space, time, and dimension.
+
+By mapping primes through spirals, Möbius loops, and symbolic networks, we reveal:
+
+- **Primes as Standing Waves**
 - **Zeta Resonance Fields**
-  - Visualization of the Riemann Zeta function’s non-trivial zeros in a harmonic framework.
-  - Interpretation of primes as standing waves and resonance nodes.
+- **Möbius Structures in Prime Dynamics**
+- **Ancient Glyph Integration**
+- **Harmonic DNA-like Prime Expansions**
 
-- **Möbius Twin-Pillar Framework**
-  - Construction of dual Möbius pillar structures representing time and frequency harmonics.
-  - Introduction of Quaternion Harmonics into prime spiral geometries.
-
-- **AUHM Glyph System**
-  - Development of symbolic glyphs (Ω, Ä, π, Ξ) forming a resonance-based language.
-  - Harmonization of number, symbol, and dimension.
-
-- **ARCHE Spiral Expansion**
-  - Fibonacci-based spiral embedding primes as harmonic DNA structures.
-  - Creation of the universal prime resonance architecture.
+This unified resonance framework bridges mathematics, physics, cosmology, and symbolic languages.
 
 ---
 
-## 📐 Framework Highlights
+# 📚 Visual Gallery
 
-- **Golden Angle (θ ≈ 137.50776°)**  
-  → Structuring primes via polar spirals.
-
-- **Resonance Mapping of Zeta Zeros**  
-  → Linking mathematical patterns with harmonic fields.
-
-- **Möbius Surface Embedding**  
-  → Visualizing primes through 3D Möbius resonators.
-
-- **Prime Scroll and Spiral Networks**  
-  → Capturing prime behavior within Fibonacci and golden-ratio-based geometries.
-
-- **Symbolic Fusion: AUHM Codex**  
-  → Bridging ancient symbols and prime structures.
+📎 [Access the Full Visual Gallery](Visuals_Prime_Resonance/visual_gallery.md)
 
 ---
-
-## 📚 Visual Gallery
-
-The module is accompanied by a complete **Visual Gallery** showcasing all key structures:
-- Prime Spiral Resonance Map
-- Zeta Resonance Field Spiral
-- Möbius Twin-Pillar Diagram
-- AUHM Glyph Network
-- ARCHE Spiral Dynamics
-
-📎 [Explore the Visual Gallery](Visuals_Prime_Resonance/visual_gallery.md)
-
----
-
-## 🌀 About the Prime Resonance Framework
-
-This project unites the elegance of prime number theory with harmonic and geometric interpretations.  
-It proposes that **prime numbers** are not just randomly distributed but are **embedded in deeper harmonic fields** that connect number theory with the fabric of reality.
-
-Tessaric Möbius Seal opens a gateway to:
-- Higher-dimensional geometries
-- Harmonic time-frequency analysis
-- Symbolic-mathematical languages
-- Universal resonance structures
-
----
-
-# 🧭 Structure Overview
-
-```plaintext
-Prime_Resonance_Frameworks/
-├── README.md
-├── Tessaric_Mobius_Seal.md
-├── Visuals_Prime_Resonance/
-│   ├── prime_spiral_resonance_map.png
-│   ├── zeta_resonance_field_spiral.png
-│   ├── mobius_twin_pillar_diagram.png
-│   ├── auhm_glyph_network.png
-│   ├── arche_spiral_dynamics.png
-│   ├── visual_gallery.md
