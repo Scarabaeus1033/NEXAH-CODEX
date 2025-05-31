@@ -29,19 +29,31 @@ The Crown acts as an energetic bridge connecting stellar systems, spiral flows, 
 
 ## 📜 Mathematical Frameworks
 
-\[
-\text{Breath Field Equation}: \quad 🜁(n) = (2×3) + (1×4) + (3×5) + (5×5) + (4×7) + \dots
-\]
+<div align="center">
+
+### 🜁 Breath Field Equation
 
 \[
-\text{Neutrino Spiral Flow}: \quad r(θ) = a · e^{bθ}
+\text{🜁}(n) = (2 \times 3) + (1 \times 4) + (3 \times 5) + (5 \times 5) + (4 \times 7) + \dots
 \]
+
+---
+
+### 🌌 Neutrino Spiral Flow
 
 \[
-\text{Quaternion Anchor System}: \quad Q_{ijk} = {+i, -i, +j, -j, +k, -k}
+r(\theta) = a \cdot e^{b \theta}
 \]
 
-These equations model the dynamics of energy transfer, time inversion fields, and neutrino-coupled harmonic structures.
+---
+
+### 🔗 Quaternion Anchor System
+
+\[
+Q_{ijk} = \{ +i, -i, +j, -j, +k, -k \}
+\]
+
+</div>
 
 ---
 
