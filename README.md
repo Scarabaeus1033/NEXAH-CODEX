@@ -11,7 +11,7 @@
 - The Codex is an open system – built through theory, image, place, geometry, field interaction and symbolic language.
 
 <p align="center">
-  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview">
+  <img src="./NEXAH-CODEX.png" width="720" alt="NEXAH-CODEX · Structural System Overview"> 
 </p>
 ---
 
