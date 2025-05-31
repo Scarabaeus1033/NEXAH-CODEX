@@ -12,9 +12,9 @@ This visualization models the **Breath Field Equation** using prime number reson
 
 ## 🌌 Ghost Grid Overlay
 
-![Ghost Grid Overlay](./visuals/ghost_grid_overlay.png)
+![Ghost Grid Overlay](./visuals/ghost_grid_overlay.svg)
 
-A subtle **Ghost Grid** reveals the underlying lattice of higher-dimensional curvatures. This hidden structure forms the geometric framework where stellar and neutrino flows resonate, often invisible to standard observational methods.
+A subtle **Ghost Grid** reveals the underlying lattice of higher-dimensional curvatures. Rendered on a dark field, the circle delineates hidden structures where neutrino flows resonate — often invisible to conventional astrophysical detection methods.
 
 ---
 
@@ -42,6 +42,6 @@ This graphic shows the **Möbius Breath Spiral** as the core resonant heartbeat 
 
 ---
 
-> **Note**: The "Ghost Grid Overlay Milkyway" (lotus effect) visualization is excluded from this gallery for clarity and focus.
+> **Note**: The "Ghost Grid Overlay Milkyway" (lotus effect) visualization remains excluded for clarity.
 
 ---
