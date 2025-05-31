@@ -8,7 +8,6 @@ A prime-based grid forming the basis for resonance points in the neutrino field:
 
 \[
 \begin{aligned}
-\text{Prime Spiral Equation:} \quad 
 r(n) &= a \cdot \sqrt{n} \\
 \theta(n) &= n \cdot \varphi
 \end{aligned}
@@ -27,11 +26,11 @@ Where:
 A Möbius strip extended to neutrino resonance surfaces:
 
 \[
-\begin{cases}
-x(u, v) = \cos(u) + v \cdot \cos\left(\frac{u}{2}\right) \cos(u) \\
-y(u, v) = \sin(u) + v \cdot \cos\left(\frac{u}{2}\right) \sin(u) \\
-z(u, v) = v \cdot \sin\left(\frac{u}{2}\right)
-\end{cases}
+\begin{aligned}
+x(u, v) &= \cos(u) + v \cdot \cos\left(\frac{u}{2}\right) \cos(u) \\
+y(u, v) &= \sin(u) + v \cdot \cos\left(\frac{u}{2}\right) \sin(u) \\
+z(u, v) &= v \cdot \sin\left(\frac{u}{2}\right)
+\end{aligned}
 \]
 
 Where:
@@ -53,7 +52,7 @@ Q = a + b \mathbf{i} + c \mathbf{j} + d \mathbf{k}
 Rotation of neutrino state vectors:
 
 \[
-\text{New State:} \quad Q' = Q \cdot R
+Q' = Q \cdot R
 \]
 
 Where:
