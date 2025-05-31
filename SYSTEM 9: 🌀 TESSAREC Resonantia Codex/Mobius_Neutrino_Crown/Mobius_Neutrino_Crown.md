@@ -20,8 +20,8 @@ This module documents the emergence of a novel cosmological model to describe th
 ## Mathematical Frameworks
 
 ```plaintext
-🄁 Breath Field Equation:
-🄁(n) = (2 × 3) + (1 × 4) + (3 × 5) + (5 × 5) + (4 × 7) + ...
+𝗑 Breath Field Equation:
+𝗑(n) = (2 × 3) + (1 × 4) + (3 × 5) + (5 × 5) + (4 × 7) + ...
 
 🌌 Neutrino Spiral Flow:
 r(θ) = a · e^(bθ)
