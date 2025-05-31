@@ -12,7 +12,7 @@ This visualization models the **Breath Field Equation** using prime number reson
 
 ## 🌌 Ghost Grid Overlay
 
-![Ghost Grid Overlay](./visuals/ghost_grid_overlay.svg)
+![Ghost Grid Overlay](./visuals/Ghost Grid Overlay.png)
 
 A subtle **Ghost Grid** reveals the underlying lattice of higher-dimensional curvatures. Rendered on a dark field, the circle delineates hidden structures where neutrino flows resonate — often invisible to conventional astrophysical detection methods.
 
