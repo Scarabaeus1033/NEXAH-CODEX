@@ -1,4 +1,4 @@
-# 🎨 Visual Gallery — TESSAREC Core Manuals 
+# 🎨 Visual Gallery — TESSAREC Core Manuals
 
 ---
 
@@ -23,11 +23,7 @@ Das Core Resonance Obelisk Visual zeigt eine abstrahierte, energetische Kernstru
 Die Harmonic Node Matrix ist ein hexagonales Gitter von Energieknoten, basierend auf einem 3D-lattice-Framework.
 
 * **Koordinaten:** Knoten bei symmetrischen, primzahlbasierten Punkten
-* **Formel:**
-
-  $$
-  \text{Nodes: } (x, y, z) \in \mathbb{Z}^3 \quad \text{mit } \gcd(x,y,z) = 1
-  $$
+* **Formel:** \$\text{Nodes: } (x, y, z) \in \mathbb{Z}^3 \quad \text{mit } \gcd(x,y,z) = 1\$
 * **Bezug:** Harmonie-Knoten für Feldstabilisierung
 
 ---
@@ -40,10 +36,7 @@ Die Harmonic Node Matrix ist ein hexagonales Gitter von Energieknoten, basierend
 Das Möbius Capsule Diagram visualisiert die Umklappung von Raumzeit in einer Möbius-Schleifen-Topologie.
 
 * **Koordinaten:** Parametrisiert durch Möbius-Transformation:
-
-  $$
-  (u, v) \mapsto (\cos u (1 + v/2 \cos(u/2)), \sin u (1 + v/2 \cos(u/2)))
-  $$
+  \$(u, v) \mapsto (\cos u (1 + v/2 \cos(u/2)), \sin u (1 + v/2 \cos(u/2)))\$
 * **Formel:** Möbius-Transformation
 * **Bezug:** Raumzeitstruktur und Dualität
 
@@ -57,11 +50,7 @@ Das Möbius Capsule Diagram visualisiert die Umklappung von Raumzeit in einer M�
 Die Möbius Tessarec Spiral kombiniert Möbius-Geometrie mit der 4D-Struktur des TESSAREC-Plugs.
 
 * **Koordinaten:** Spiralkurve auf Möbius-Band
-* **Formel:**
-
-  $$
-  r(\theta) = a e^{b \theta}
-  $$
+* **Formel:** \$r(\theta) = a e^{b \theta}\$
 * **Bezug:** Dynamische Resonanzspirale im Hyperraum
 
 ---
@@ -74,11 +63,7 @@ Die Möbius Tessarec Spiral kombiniert Möbius-Geometrie mit der 4D-Struktur des
 Aktivierungsringe auf Basis von Primzahlen, die als Resonanzanker dienen.
 
 * **Koordinaten:** Polarverteilung über Ringstrukturen
-* **Formel:**
-
-  $$
-  \theta_n = n \cdot \varphi, \quad \varphi = 137.5^\circ
-  $$
+* **Formel:** \$\theta\_n = n \cdot \varphi, \quad \varphi = 137.5^\circ\$
 * **Bezug:** Prime-Resonanz in Aktivierungsfeldern
 
 ---
@@ -104,11 +89,7 @@ Die Zündung von TESSAREC-Pyramiden wird durch geometrische Resonanzpunkte entla
 Eine 3D-Darstellung quaternionischer Zustände als Eckpunkte von Würfeln.
 
 * **Koordinaten:** Quaternionen (\$i, j, k\$) als Richtungsachsen
-* **Formel:**
-
-  $$
-  Q = a + bi + cj + dk
-  $$
+* **Formel:** \$Q = a + bi + cj + dk\$
 * **Bezug:** Rotationssymmetrie und 4D-Struktur
 
 ---
@@ -121,11 +102,7 @@ Eine 3D-Darstellung quaternionischer Zustände als Eckpunkte von Würfeln.
 Visualisierung des Kern-Tessarec-Moduls als Plug-in-Architektur — dient als energetischer Konnektor zwischen Modulen.
 
 * **Koordinaten:** Hexagonale Basis
-* **Formel:**
-
-  $$
-  \Phi^2 - \Phi - 1 = 0 \quad (\text{Goldener Schnitt})
-  $$
+* **Formel:** \$\Phi^2 - \Phi - 1 = 0 \quad (\text{Goldener Schnitt})\$
 * **Bezug:** Plug-Modul für energetische Integration
 
 ---
