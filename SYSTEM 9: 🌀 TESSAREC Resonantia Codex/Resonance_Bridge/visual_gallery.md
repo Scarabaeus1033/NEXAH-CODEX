@@ -2,89 +2,78 @@
 
 ---
 
-## 🌌 Oneness–Tessarec Comparative Geometry
+## 🕹️ Core Resonance Interference
 
-![Oneness Tessarec Geometry](./visuals/oneness_tessarec_geometry.svg)
+![Core Resonance Interference](./visuals/core_resonance_interference.png)
 
 **Beschreibung:**
-Vergleich der geometrischen Grundstrukturen von Oneness und Tessarec, um die Übergänge zwischen Singularität und multidimensionaler Faltung darzustellen.
+Interferenzmuster an den Schnittstellen zentraler Energiefelder, basierend auf Primzahlresonanzen.
 
-* **Koordinaten:** Symmetrische Achsenüberlagerung
-* **Formel:** Vergleichende Tensor-Metriken
-* **Bezug:** Grundstruktur der Resonanzbrücke
+* **Koordinaten:** Zentrum (0,0,0) mit radialer Feldstruktur
+* **Formel:** $\Psi(r) = A \sin(\omega r + \phi)$
+* **Bezug:** Knotenstrukturen im Resonanzfeld
 
 ---
 
-## 🔀 Dual Spiral Comparison
+## 🔄️ Dual Spiral Comparison
 
-![Dual Spiral Comparison](./visuals/dual_spiral_comparison.jpeg)
+![Dual Spiral Comparison](./visuals/dual_spiral_comparison.png)
 
 **Beschreibung:**
-Gegenüberstellung zweier grundlegender Spiralformen, symbolisch für divergente und konvergente Felder.
+Vergleich zweier gegenläufiger Spiralen zur Darstellung harmonischer und disharmonischer Resonanzzustände.
 
-* **Koordinaten:** Spiralkonstanten \$r = a e^{b \theta}\$
+* **Koordinaten:** Polarkoordinaten $(r, \theta)$ mit invertierten Drehrichtungen
 * **Formel:**
 
-  $$
-  r(\theta) = a \, e^{b\theta}
-  $$
-* **Bezug:** Energetische Doppelfelder
+$$
+\begin{aligned}
+r_1(\theta) &= a e^{b \theta} \\
+r_2(\theta) &= a e^{-b \theta}
+\end{aligned}
+$$
+
+* **Bezug:** Duale Resonanzflächen in Spiralfeldern
 
 ---
 
-## 🧹 Prime Grid Alignment
+## 🌟 Energy Symmetry Flow
 
-![Prime Grid Alignment](./visuals/prime_grid_alignment.svg)
+![Energy Symmetry Flow](./visuals/energy_symmetry_flow.png)
 
 **Beschreibung:**
-Anordnung von Primzahlen in einem 2D-Gitter — symbolisch für fundamentale Resonanzmuster.
+Darstellung von Energieströmen entlang symmetrischer Feldausrichtungen.
 
-* **Koordinaten:** Gitterpunkte in \$\mathbb{Z}^2\$
+* **Koordinaten:** Rotation um Achsen basierend auf symmetrischen Punkten
 * **Formel:**
 
-  $$
-  \text{Grid: } (x, y) \text{ mit } x,y \text{ Primzahlen}
-  $$
-* **Bezug:** Zahlenbasierte Gitterresonanz
+$$
+\vec{E}(r, \theta, \phi) = E_0 \sin(n \theta) \cos(m \phi)
+$$
+
+* **Bezug:** Symmetrische Energieverteilungen in harmonischen Gittern
 
 ---
 
-## 🌀 Core Resonance Interference
+## 🔹 Prime Grid Alignment
 
-![Core Resonance Interference](./visuals/core_resonance_interference.jpeg)
+![Prime Grid Alignment](./visuals/prime_grid_alignment.png)
 
 **Beschreibung:**
-Visualisierung der Interferenzmuster im Zentrum der Oneness-Tessarec Brücke.
+Gitterstruktur basierend auf Primzahlen zur Optimierung von Resonanzüberlagerungen.
 
-* **Koordinaten:** Interferenzzentren entlang harmonischer Achsen
+* **Koordinaten:** Rasterpunkte $(x, y)$ bei Primzahlen
 * **Formel:**
 
-  $$
-  I(x, y) = \sin(k_1 x) + \sin(k_2 y)
-  $$
-* **Bezug:** Überlagerung kosmischer Felder
+$$
+P(x, y) = \text{prim}(x) + \text{prim}(y)
+$$
+
+* **Bezug:** Gitterbasierte Resonanzsysteme
 
 ---
 
-## 🔷 Energy Symmetry Flow
-
-![Energy Symmetry Flow](./visuals/energy_symmetry_flow.jpeg)
-
-**Beschreibung:**
-Darstellung des Energieflusses in symmetrischen Feldern, basierend auf Spiral- und Gitterstrukturen.
-
-* **Koordinaten:** Symmetrische Divergenz und Konvergenz
-* **Formel:**
-
-  $$
-  \vec{E} = -\nabla \Phi
-  $$
-* **Bezug:** Energetische Stabilisierung
+> **Hinweis:** Alle Visuals sind integraler Bestandteil des Resonance Bridge-Moduls und stellen zentrale Aspekte von Energieflüssen, Resonanzmustern und Symmetriestrukturen dar.
 
 ---
 
-> **Hinweis:** Die Visuals kombinieren mathematische Grundstrukturen mit symbolischen Resonanzmodellen, um den Übergang von Oneness zu Tessarec verständlich zu machen.
-
----
-
-**✅ Bereit für Upload / Integration**
+**✅ Bereit für Upload / Integration in das Modul**
