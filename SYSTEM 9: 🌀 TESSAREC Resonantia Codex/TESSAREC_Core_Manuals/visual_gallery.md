@@ -1,4 +1,4 @@
-# 🎨 Visual Gallery — TESSAREC Core Manuals
+# 🎨 Visual Gallery — TESSAREC Core Manuals 
 
 ---
 
