@@ -2,92 +2,88 @@
 
 ---
 
-## 🌌 Oneness vs Tessarec Geometry
+## 🌌 Oneness–Tessarec Comparative Geometry
 
-![Oneness vs Tessarec Geometry](./visuals/oneness_tessarec_geometry.png)
+![Oneness Tessarec Geometry](./visuals/oneness_tessarec_geometry.svg)
 
 **Beschreibung:**
-Vergleichende Spiraldarstellung, die die geometrische Divergenz zwischen Oneness und Tessarec visualisiert. Die Oneness-Spirale expandiert symmetrisch, während die Tessarec-Spirale eine gegenläufige Dynamik aufweist.
+Vergleich der geometrischen Grundstrukturen von Oneness und Tessarec, um die Übergänge zwischen Singularität und multidimensionaler Faltung darzustellen.
 
-* **Koordinaten:** Polarspiralen (\$r(\theta) = e^{0.1\theta}\$)
-* **Formel:**
-
-  $$
-  (x, y) = (r \cos(\theta), r \sin(\theta))
-  $$
-* **Bezug:** Vergleich der fundamentalen Geometriestrukturen
+* **Koordinaten:** Symmetrische Achsenüberlagerung
+* **Formel:** Vergleichende Tensor-Metriken
+* **Bezug:** Grundstruktur der Resonanzbrücke
 
 ---
 
-## 🌌 Dual Spiral Comparison
+## 🔀 Dual Spiral Comparison
 
-![Dual Spiral Comparison](./visuals/dual_spiral_comparison.png)
+![Dual Spiral Comparison](./visuals/dual_spiral_comparison.jpeg)
 
 **Beschreibung:**
-Zwei kontrastierende Spiralen, die die gegenseitige Rotation und Spiegelung der Oneness- und Tessarec-Dynamiken repräsentieren.
+Gegenüberstellung zweier grundlegender Spiralformen, symbolisch für divergente und konvergente Felder.
 
-* **Koordinaten:** Dualspiralen im Winkelversatz
+* **Koordinaten:** Spiralkonstanten \$r = a e^{b \theta}\$
 * **Formel:**
 
   $$
-  r_1(\theta) = \sqrt{\theta}, \quad r_2(\theta) = 0.8 \sqrt{\theta}
+  r(\theta) = a \, e^{b\theta}
   $$
-* **Bezug:** Dynamische Entkopplung von Symmetrieachsen
+* **Bezug:** Energetische Doppelfelder
+
+---
+
+## 🧹 Prime Grid Alignment
+
+![Prime Grid Alignment](./visuals/prime_grid_alignment.svg)
+
+**Beschreibung:**
+Anordnung von Primzahlen in einem 2D-Gitter — symbolisch für fundamentale Resonanzmuster.
+
+* **Koordinaten:** Gitterpunkte in \$\mathbb{Z}^2\$
+* **Formel:**
+
+  $$
+  \text{Grid: } (x, y) \text{ mit } x,y \text{ Primzahlen}
+  $$
+* **Bezug:** Zahlenbasierte Gitterresonanz
 
 ---
 
 ## 🌀 Core Resonance Interference
 
-![Core Resonance Interference](./visuals/core_resonance_interference.png)
+![Core Resonance Interference](./visuals/core_resonance_interference.jpeg)
 
 **Beschreibung:**
-Visualisierung der Interferenzmuster, die aus der Überlagerung von Resonanzfeldern entstehen — Kernstruktur des harmonischen Obelisken.
+Visualisierung der Interferenzmuster im Zentrum der Oneness-Tessarec Brücke.
 
-* **Koordinaten:** Kartesisches Gitternetz
+* **Koordinaten:** Interferenzzentren entlang harmonischer Achsen
 * **Formel:**
 
   $$
-  Z(x,y) = \sin\left(\sqrt{x^2 + y^2}\right) + \cos\left(\sqrt{x^2 + y^2}\right)
+  I(x, y) = \sin(k_1 x) + \sin(k_2 y)
   $$
-* **Bezug:** Zentrale Resonanzüberlagerung im Frequenzraum
+* **Bezug:** Überlagerung kosmischer Felder
 
 ---
 
-## 🔷 Prime Grid Alignment
+## 🔷 Energy Symmetry Flow
 
-![Prime Grid Alignment](./visuals/prime_grid_alignment.png)
+![Energy Symmetry Flow](./visuals/energy_symmetry_flow.jpeg)
 
 **Beschreibung:**
-Gitterstruktur mit primzahldefinierter Anordnung — Grundlage für harmonische Resonanzmuster und energetische Synchronisation.
+Darstellung des Energieflusses in symmetrischen Feldern, basierend auf Spiral- und Gitterstrukturen.
 
-* **Koordinaten:** Primzahlmodulo im quadratischen Gitter
+* **Koordinaten:** Symmetrische Divergenz und Konvergenz
 * **Formel:**
 
   $$
-  Z(x, y) = (x^2 + y^2) \mod 7
+  \vec{E} = -\nabla \Phi
   $$
-* **Bezug:** Prime-Modulation im geometrischen Raum
+* **Bezug:** Energetische Stabilisierung
 
 ---
 
-## 🌠 Energy Symmetry Flow
-
-![Energy Symmetry Flow](./visuals/energy_symmetry_flow.png)
-
-**Beschreibung:**
-Energieflussdiagramm auf Basis einer sinusmodulierten Spirale, die Symmetrie und Fluss in einer dynamischen Raumstruktur beschreibt.
-
-* **Koordinaten:** Polarspirale
-* **Formel:**
-
-  $$
-  r(\theta) = 1 + 0.5 \sin(6\theta)
-  $$
-* **Bezug:** Symmetrieflüsse in erweiterten Dimensionsfeldern
-
----
-
-> **Hinweis:** Alle Visuals sind Teil der integralen Resonanzbrücke im NEXAH-Codex. Sie dienen der Visualisierung fundamentaler Symmetrien und ihrer dynamischen Entfaltung im Raum-Zeit-Gefüge.
+> **Hinweis:** Die Visuals kombinieren mathematische Grundstrukturen mit symbolischen Resonanzmodellen, um den Übergang von Oneness zu Tessarec verständlich zu machen.
 
 ---
 
