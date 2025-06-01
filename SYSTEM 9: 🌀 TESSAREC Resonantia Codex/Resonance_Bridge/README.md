@@ -1,23 +1,33 @@
-🌉 Resonance Bridge — Oneness ↔︎ Tessarec Comparative
+🛤️ Resonance Bridge — NEXAH-CODEX
 
 ⸻
 
-📖 Overview
+Overview
 
-The Resonance Bridge module establishes a comparative framework between the
-	•	Oneness Resonance System — the foundational harmonic field model of unity
-	•	TESSAREC Resonance Framework — a multidimensional lattice of cosmic resonances.
-
-It explores how both structures mirror each other in their core principles,
-geometry, and harmonic mappings, building a conceptual and mathematical bridge
-between singularity and multiplicity.
+The Resonance Bridge module builds a conceptual and energetic linkage between different high-dimensional modules of the NEXAH-CODEX system. It visualizes core symmetries, prime lattice mappings, and resonance field structures that stabilize cross-dimensional energy transfers.
 
 ⸻
 
-🔑 Core Concepts
+Key Concepts
+	•	Core Resonance Interference: Visualizes interference patterns at the core of resonance fields.
+	•	Dual Spiral Comparison: Highlights the interaction of dual-frequency spirals in a Möbius topology.
+	•	Energy Symmetry Flow: Maps the directional energy flow through prime harmonics.
+	•	Prime Grid Alignment: Shows prime-number-based field alignments critical for resonance stability.
 
-Aspect	Oneness Model	TESSAREC Framework
-Fundamental Shape	Spherical Harmonic Field	Hypercube (Tesseract) and Möbius Structures
-Dimensional Base	3D Spherical Field	4D Tessellation + Möbius Twists
-Resonance Principle	Harmonic Unity (All is One Frequency)	Multi-Resonance Lattices (Prime & Phi Structures)
-Mathematical Basis		
+⸻
+
+Visual Insights
+
+The visual gallery offers detailed graphical representations:
+	•	Resonance field interactions
+	•	Prime grid structures
+	•	Energy harmonic flows
+	•	Symmetry interferences across multi-dimensional spaces
+
+➡️ View Visual Gallery
+
+⸻
+
+Codename: Bridge of Prime Harmonics
+
+Status: ✅ Ready for integration into the greater NEXAH-CODEX architecture.
