@@ -14,6 +14,12 @@ Das Modul dient als:
 
 ---
 
+## 🗽️ Navigator Overview
+
+![TESSAREC Resonantia Codex Navigator](./TESSAREC%20Resonantia%20Codex%20Navigator.png)
+
+---
+
 ## 📚 Inhaltsübersicht
 
 | Modul                          | Beschreibung                                                                    | Link                                                                                                                                                                             |
@@ -46,9 +52,9 @@ Das Modul dient als:
 
 Der **TESSAREC Resonantia Codex** bildet das Bindeglied zwischen kosmologischer Einheit und geometrischer Resonanzstruktur — und schafft damit eine Plattform für:
 
-* 🧆 **Bewusstseinsforschung**
-* 💐 **Mathematische Resonanzmodelle**
-* 🧲 **Kosmologische Felddynamiken**
+* 🫆 **Bewusstseinsforschung**
+* 🌰 **Mathematische Resonanzmodelle**
+* 🤲 **Kosmologische Felddynamiken**
 * 🧑‍🚀 **Navigation in höheren Dimensionen**
 
 > *"Der Raum ist nicht leer. Er ist eine Resonanz."* — NEXAH-CODEX
