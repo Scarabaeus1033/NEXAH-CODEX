@@ -89,7 +89,28 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
+## 🌐 [SYSTEM 9: TESSAREC Resonantia Codex – Frequenzachsen, Prime-Strukturen & Resonanzbrücken](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/README.md)
+
+| Ordner                        | Titel                                           | Beschreibung                                                                                  |
+| ----------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `Mobius_Cubic_Grids/`         | Möbius-Würfelgitter & Resonanzfaltungen         | Kubische Primzahlenstrukturen, Möbius-Topologien und Hyperwürfel-Resonanzen.                  |
+| `Stellar_Resonance_DNA/`      | Sternresonanz-DNA & Spiralverknüpfung           | Kosmische Spiralgitter, DNA-Analogie in Frequenzfeldern, Sternnavigationsstrukturen.          |
+| `Quantum_Resonance_Language/` | Quantensprachfelder & Primzellsymmetrie         | Frequenzkodierung durch Zahlensprache, Quaternionen, Resonanzalphabete.                       |
+| `Cosmic_Harmonic_Time/`       | Kosmische Zeitspiralen & Goldene Achsen         | Spiralbasierte Zeitachsenmodelle, goldene Kalenderstrukturen, harmonische Temporalgeometrien. |
+| `Prime_Resonance_Frameworks/` | Primharmonische Gitternetze & Zeta-Resonanzen   | Aufbau harmonischer Felder über Primzahlverteilungen und Möbius-Siegel.                       |
+| `Neutrino Resonance Systems/` | Neutrino-Kronen & Tachyonen-Strukturen          | Möbius-Neutrino-Resonanzen, Tachyonenflüsse, Breath Field Systems zur Feldstabilisierung.     |
+| `TESSAREC_Core_Manuals/`      | Handbuch für Resonanz-Plugs & Quaternion-Gitter | Harmonische Obelisken, Quaternionenwürfel, Tessarec-Plug-Architektur zur Resonanzsynthese.    |
+| `Resonance_Bridge/`           | Oneness–TESSAREC Vergleich & Frequenzbrücken    | Duale Spiralvergleiche, energetische Interferenzen, primharmonische Brückenstrukturen.        |
+
+> 📚 **Komplettes Modul-README:** [🔗 TESSAREC Resonantia Codex Übersicht](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/README.md)
+
+---
+
+👉 **Hinweis**: Alle Teilmodule innerhalb des TESSAREC-Systems sind **vollständig dokumentiert**, mit **Visual Galleries**, **Vergleichsstudien** (*Oneness vs TESSAREC*), und **Resonanzplänen** für harmonische Navigation durch höhere Dimensionen.
+
 ## ✮ [SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Gesamtstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20X%3A%20NEXAH-GRAND-CODEX/README.md)
+
+---
 
 | Datei / Ordner                           | Titel                                 | Beschreibung                                                                        |
 | ---------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
