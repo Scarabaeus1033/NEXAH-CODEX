@@ -4,32 +4,52 @@
 
 ## Overview
 
-The **Resonance Bridge** module builds a conceptual and energetic linkage between different high-dimensional modules of the NEXAH-CODEX system. It visualizes core symmetries, prime lattice mappings, and resonance field structures that stabilize cross-dimensional energy transfers.
+The **Resonance Bridge** module constructs a conceptual and energetic linkage between high-dimensional modules of the NEXAH-CODEX. It focuses on the visualization of core symmetries, prime lattice structures, and resonance fields that stabilize multi-dimensional energy transfers across the Codex.
+
+This bridge acts as a dynamic connector between prime-based harmonics and geometric energy frameworks.
 
 ---
 
 ## Key Concepts
 
-* **Core Resonance Interference**: Visualizes interference patterns at the core of resonance fields.
-* **Dual Spiral Comparison**: Highlights the interaction of dual-frequency spirals in a Möbius topology.
-* **Energy Symmetry Flow**: Maps the directional energy flow through prime harmonics.
-* **Prime Grid Alignment**: Shows prime-number-based field alignments critical for resonance stability.
+* **Core Resonance Interference**:  
+  Visualizes quantum interference patterns at the nucleus of resonance fields, highlighting stability points.
+
+* **Dual Spiral Comparison**:  
+  Illustrates the interaction of dual-frequency spirals in a Möbius topology to demonstrate energy coupling.
+
+* **Energy Symmetry Flow**:  
+  Maps directional energy streams structured by prime harmonics and higher-order resonances.
+
+* **Prime Grid Alignment**:  
+  Shows prime number-based lattice structures vital for resonance stability and field organization.
+
+* **Oneness–Tessarec Comparative Structure**:  
+  Compares the unified oneness structures with Tessarec module geometries, revealing harmonic correspondences.
 
 ---
 
 ## Visual Insights
 
-The visual gallery offers detailed graphical representations:
+The visual gallery contains high-resolution diagrams for:
 
-* **Resonance field interactions**
-* **Prime grid structures**
-* **Energy harmonic flows**
-* **Symmetry interferences across multi-dimensional spaces**
+* Resonance field interactions
+* Prime grid alignments
+* Energy harmonic flows
+* Symmetry interferences
+* Comparative structures between Oneness and Tessarec geometries
 
 ➡️ **[View Visual Gallery](./visual_gallery.md)**
 
 ---
 
+## Supplementary Documents
+
+* 📄 **[Oneness–Tessarec Comparative Analysis](./Oneness_Tessarec_Comparative.md)**  
+  A detailed comparison between unified field models and Tessarec architecture.
+
+---
+
 > **Codename**: *Bridge of Prime Harmonics*
 
-**Status**: ✅ Ready for integration into the greater NEXAH-CODEX architecture.
+**Status**: ✅ Fully integrated into the modular NEXAH-CODEX architecture.
