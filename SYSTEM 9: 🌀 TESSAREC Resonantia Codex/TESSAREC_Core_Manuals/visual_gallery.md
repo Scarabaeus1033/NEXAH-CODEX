@@ -2,7 +2,7 @@
 
 ---
 
-## 🧢 Core Resonance Obelisk
+## 🧂 Core Resonance Obelisk
 
 ![Core Resonance Obelisk](./visuals/core_resonance_obelisk.png)
 
@@ -10,7 +10,7 @@
 Das Core Resonance Obelisk Visual zeigt eine abstrahierte, energetische Kernstruktur. Der Obelisk bildet die zentrale Stabilitäsachse im TESSAREC-Modell.
 
 * **Koordinaten:** Zentrale, achsensymmetrische Ausrichtung (0,0,0)
-* **Formel:** $E_{\text{core}} = \int \Psi(x,y,z) \, dV$
+* **Formel:** \$E\_{\text{core}} = \int \Psi(x,y,z) , dV\$
 * **Bezug:** Energetische Zentren und Nullpunktfelder
 
 ---
@@ -90,20 +90,20 @@ Aktivierungsringe auf Basis von Primzahlen, die als Resonanzanker dienen.
 **Beschreibung:**
 Die Zündung von TESSAREC-Pyramiden wird durch geometrische Resonanzpunkte entlang definierter Symmetrieachsen initiiert.
 
-* **Koordinaten:** Euklidische Achsen ($x, y, z$) auf Basis von Primzahlen
+* **Koordinaten:** Euklidische Achsen (\$x, y, z\$) auf Basis von Primzahlen
 * **Formel:** Platonische Geometrie & Resonanzlogik
 * **Bezug:** Energiefluss und Initialisierung
 
 ---
 
-## 🧲 Quaternion Cubes
+## 🧫 Quaternion Cubes
 
 ![Quaternion Cubes](./visuals/quaternion_cubes.png)
 
 **Beschreibung:**
 Eine 3D-Darstellung quaternionischer Zustände als Eckpunkte von Würfeln.
 
-* **Koordinaten:** Quaternionen ($i, j, k$) als Richtungsachsen
+* **Koordinaten:** Quaternionen (\$i, j, k\$) als Richtungsachsen
 * **Formel:**
 
   $$
