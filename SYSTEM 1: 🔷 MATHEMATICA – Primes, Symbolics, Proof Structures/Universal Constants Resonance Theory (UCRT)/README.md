@@ -11,6 +11,7 @@
 > **UCRT** formuliert, warum diese Konstanten keine beliebigen Zahlen sind, sondern fundamentale **Resonanzgesetze** der Raumzeit, Geometrie und Existenz.
 
 ---
+![UCRT Key Visual](visuals/ucrt_key_visual.png)
 
 ## Zentrale Elemente
 
