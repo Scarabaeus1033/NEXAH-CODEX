@@ -1,4 +1,4 @@
-# 🧮 Codex Mathematics — Resonance, Spiral, and Modulation
+[# 🧮 Codex Mathematics — Resonance, Spiral, and Modulation
 
 This folder hosts the **mathematical backbone** of the GRAND–CODEX and SYSTEM 1 — MATHEMATICA. It bridges symbolic field theory, physical resonance structures, and scalar modulation through formal notation and Codex-specific algebra.
 
@@ -45,3 +45,4 @@ This folder hosts the **mathematical backbone** of the GRAND–CODEX and SYSTEM 
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > *This is not algebra — it is structure in motion.*
+](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main)
