@@ -166,7 +166,7 @@ $$
 
 ### Visual 1: Energy Expansion through Golden Ratio
 
-![Golden Ratio Energy Scaling](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201/CODEX%20MATHEMATICS/einsteins-k-beta-formula/visuals/golden_ratio_energy_scaling.png)
+![Golden Ratio Energy Scaling](./visuals/golden_ratio_energy_scaling.png)
 
 **Description**:
 The energy \$E\$ is modulated by \$c^{\varphi}\$, scaling the light speed by the Golden Ratio \$\varphi\$. This resonance reflects structures found both in natural growth patterns and fundamental field modulations. The outer neutrino shells resonate with similar prime-based structures.
@@ -175,7 +175,7 @@ The energy \$E\$ is modulated by \$c^{\varphi}\$, scaling the light speed by the
 
 ### Visual 2: Resonant Space-Time Oscillation Map
 
-![Resonant Space-Time Oscillation Map](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201/CODEX%20MATHEMATICS/einsteins-k-beta-formula/visuals/resonant_space_time_oscillation_map.png)
+![Resonant Space-Time Oscillation Map](./visuals/resonant_space_time_oscillation_map.png)
 
 **Description**:
 Space-time as a dynamic, oscillating field: exponential expansion (\$e^t\$), cyclic harmonics (\$\tau\$), Golden Ratio modulation (\$\varphi^t\$), and irrational quantum beats (\$\sqrt{2}t\$) combine into a single resonance map.
