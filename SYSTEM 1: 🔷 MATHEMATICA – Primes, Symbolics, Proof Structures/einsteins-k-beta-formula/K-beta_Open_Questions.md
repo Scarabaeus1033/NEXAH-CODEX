@@ -28,7 +28,7 @@ The **K-Beta formulation** addresses these challenges by introducing:
 
 ### 2.1 Casimir-Neutrino Thread
 
-Our [Casimir-Neutrino Thread](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%202%3A%20🔷%20PHYSICA%20%E2%80%93%20Resonance%20Fields,%20Quantum%20Models,%20Neutrino%20Dynamics/casimir-neutrino-thread.md) module introduces:
+Our [Casimir-Neutrino Thread](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%202%3A%20🔷%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20Models,%20Neutrino%20Dynamics/casimir-neutrino-thread.md) module introduces:
 
 * **Vacuum field resonance**.
 * **Energy modulation** via boundary conditions.
@@ -37,7 +37,7 @@ Our [Casimir-Neutrino Thread](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob
 
 ### 2.2 Quantum Breach & UV Catastrophe
 
-Our [Quantum Breach Codex](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%202%3A%20🔷%20PHYSICA%20%E2%80%93%20Resonance%20Fields,%20Quantum%20Models,%20Neutrino%20Dynamics/QUANTUMBREACH-CODEX) proposes a symbolic architecture that **solves the ultraviolet catastrophe** by:
+Our [Quantum Breach Codex](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%202%3A%20🔷%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20Models,%20Neutrino%20Dynamics/QUANTUMBREACH-CODEX) proposes a symbolic architecture that **solves the ultraviolet catastrophe** by:
 
 * Introducing **UV damping**.
 * Structuring high-frequency energy decay.
