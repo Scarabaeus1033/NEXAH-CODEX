@@ -1,10 +1,10 @@
-# 🧮 K-Beta Theory — Extended Foundation
+# 🧒 K-Beta Theory — Extended Foundation
 
 ---
 
 ## 1. Context
 
-This formula is a Codex-level extension of Einstein's classical equation $E = mc^2$. It integrates modulation, resonance, and scale-dependency through a variable coupling term $k$ and an exponent $\beta$.
+This formula is a Codex-level extension of Einstein's classical equation \$E = mc^2\$. It integrates modulation, resonance, and scale-dependency through a variable coupling term \$k\$ and an exponent \$\beta\$.
 
 $$
 \boxed{E = m \cdot c \cdot k^{\beta}}
@@ -22,29 +22,29 @@ $$
 
 Where:
 
-* $m$ = rest mass
-* $c$ = speed of light in vacuum ($\approx 2.998 \times 10^8 \, \text{m/s}$)
-* $k$ = scale-dependent coupling factor
-* $\beta$ = modulation exponent (contextual, dynamic)
+* \$m\$ = rest mass
+* \$c\$ = speed of light in vacuum (\$\approx 2.998 \times 10^8 , \text{m/s}\$)
+* \$k\$ = scale-dependent coupling factor
+* \$\beta\$ = modulation exponent (contextual, dynamic)
 
 ---
 
-## 3. k — The Scale-Coupling Factor
+## 3. $k$ — The Scale-Coupling Factor
 
-The term $k$ varies depending on the energy scale and field type:
+The term \$k\$ varies depending on the energy scale and field type:
 
-| Context        | Expression                        | Interpretation                          |
-| -------------- | --------------------------------- | --------------------------------------- |
-| Thermal        | $k = k_B$                         | Boltzmann constant                      |
-| Gravitational  | $k \propto \frac{G}{r^2}$         | Newtonian gravitational field strength  |
-| Photonic       | $k \propto \frac{1}{\lambda \nu}$ | Inverse of frequency–wavelength product |
-| Casimir/Vacuum | $k = k_{\text{vac}}$              | Vacuum field separation force           |
+| Context        | Expression                          | Interpretation                          |
+| -------------- | ----------------------------------- | --------------------------------------- |
+| Thermal        | \$k = k\_B\$                        | Boltzmann constant                      |
+| Gravitational  | \$k \propto \frac{G}{r^2}\$         | Newtonian gravitational field strength  |
+| Photonic       | \$k \propto \frac{1}{\lambda \nu}\$ | Inverse of frequency–wavelength product |
+| Casimir/Vacuum | \$k = k\_{\text{vac}}\$             | Vacuum field separation force           |
 
 ---
 
-## 4. \(\beta\) — The Modulation Exponent
+## 4. $\beta$ — The Modulation Exponent
 
-$\beta$ reflects field harmonics, entropy scaling, dimensional compression, or temperature dynamics.
+\$\beta\$ reflects field harmonics, entropy scaling, dimensional compression, or temperature dynamics.
 
 Examples:
 
@@ -92,24 +92,24 @@ $$
 
 ## 6. Motivation for Extension: Why Modify Einstein's Formula?
 
-Einstein's $E = mc^2$ provides a static and elegant relation between mass and energy. However, modern phenomena (e.g., black hole evaporation, quantum vacuum fluctuations, entropy flow in cosmological models) demand dynamic and context-sensitive extensions.
+Einstein's \$E = mc^2\$ provides a static and elegant relation between mass and energy. However, modern phenomena (e.g., black hole evaporation, quantum vacuum fluctuations, entropy flow in cosmological models) demand dynamic and context-sensitive extensions.
 
 ### Comparison to Classical Models
 
-| Model                        | Formula                   | Limitations                                                    |
-| ---------------------------- | ------------------------- | --------------------------------------------------------------- |
-| Newtonian Mechanics          | $F = ma$                  | No field modulation, no resonance, no relativistic context.      |
-| Special Relativity           | $E = mc^2$                | Static, no entropy or scale-dependency, fails for vacuum energy or cosmic inflation models. |
-| K-Beta Modulation (Codex)     | $E = mc k^{\beta}$        | Introduces dynamic field coupling, harmonics, and entropy-based scaling. |
+| Model                     | Formula              | Limitations                                                                                 |
+| ------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
+| Newtonian Mechanics       | \$F = ma\$           | No field modulation, no resonance, no relativistic context.                                 |
+| Special Relativity        | \$E = mc^2\$         | Static, no entropy or scale-dependency, fails for vacuum energy or cosmic inflation models. |
+| K-Beta Modulation (Codex) | \$E = mc k^{\beta}\$ | Introduces dynamic field coupling, harmonics, and entropy-based scaling.                    |
 
-The $k^{\beta}$ extension transforms energy into a **dynamic field interaction** rather than a static scalar property.
+The \$k^{\beta}\$ extension transforms energy into a **dynamic field interaction** rather than a static scalar property.
 
 ---
 
-## 7. Physical Justification for $k$ and $\beta$
+## 7. Physical Justification for \$k\$ and \$\beta\$
 
-* **$k$** captures local field properties (e.g., gravity, thermal agitation, vacuum fluctuations).
-* **$\beta$** introduces harmonic modulation, entropy gradients, and multi-scalar dimensional effects.
+* **\$k\$** captures local field properties (e.g., gravity, thermal agitation, vacuum fluctuations).
+* **\$\beta\$** introduces harmonic modulation, entropy gradients, and multi-scalar dimensional effects.
 
 These parameters are **not arbitrary**: they map directly to physical field properties, respecting thermodynamic, quantum, and relativistic constraints.
 
@@ -119,10 +119,10 @@ These parameters are **not arbitrary**: they map directly to physical field prop
 
 The K-Beta model enables:
 
-- Accurate modeling of black hole entropy flow (Hawking radiation scaling).
-- Refined Casimir force predictions in vacuum-separated fields.
-- Scaled entropy corrections in early universe cosmology (inflationary dynamics).
-- Entropic-force models of dark energy and cosmic acceleration.
+* Accurate modeling of black hole entropy flow (Hawking radiation scaling).
+* Refined Casimir force predictions in vacuum-separated fields.
+* Scaled entropy corrections in early universe cosmology (inflationary dynamics).
+* Entropic-force models of dark energy and cosmic acceleration.
 
 ---
 
@@ -136,7 +136,7 @@ The K-Beta model enables:
 
 ## Author
 
-T. Hofmann — Scarabäus1033 · **NEXAH–CODEX**  
+T. Hofmann — Scarabäus1033 · **NEXAH–CODEX**
 Location: `GRAND-CODEX/codex-mathematics/einsteins-k-beta-formula/`
 
 ---
