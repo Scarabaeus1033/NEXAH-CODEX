@@ -1,6 +1,6 @@
-# 🧮 k-beta-formula — Extended Energy Equation
+# 🧼 k-beta-formula — Extended Energy Equation
 
-This module presents an extension of Einstein’s energy formula $E = mc^2$ by integrating field modulation, scale coupling, and dynamic exponents. It introduces a relational, field-dependent formulation for energy in the Codex framework.
+This module presents an extension of Einstein’s energy formula \$E = mc^2\$ by integrating field modulation, scale coupling, and dynamic exponents. It introduces a relational, field-dependent formulation for energy in the Codex framework.
 
 > **In the Codex, energy is a dynamic relational field — not a static product.**
 
@@ -8,15 +8,27 @@ This module presents an extension of Einstein’s energy formula $E = mc^2$ by i
 
 ## 📖 Module Content
 
-| File                               | Description                                                        |
-| ---------------------------------- | ------------------------------------------------------------------ |
-| `doc/extended-energy-equation.md`  | Detailed derivation and interpretation of the k-beta formula.      |
-| `doc/k-beta-prediction-examples.md`| Field examples and predictive scaling based on the k-beta formula. |
-| `doc/q-space-extension.md`         | Q-Space extension and advanced field scaling for higher dimensions. |
+| File                                | Description                                                        |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| `doc/extended-energy-equation.md`   | Detailed derivation and interpretation of the k-beta formula.      |
+| `doc/k-beta_theory.md`              | Theoretical foundation and motivation for the extended equation.   |
+| `doc/k-beta_prediction_examples.md` | Predictions and example calculations compared to classical models. |
+| `doc/q-space_energy_estimate.md`    | Calculation example for Q-Space modulation scenarios.              |
 
 ---
 
-## 🧩 Role within the Codex
+## 🎨 Visuals
+
+| Visual                                                                                                                                                                                                                                                                            | Description                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| ![Q-Space Energy Calculation](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/q-space_energy_calculation.png)           | **Q-Space Energy Calculation** — Example of energy modulation within a hypothetical Q-Space construct.       |
+| ![Field Modulation Map](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/field_modulation_map.png)                       | **Field Modulation Map** — Visual representation of dynamic field modulation and coupling across scales.     |
+| ![Extended Field Interaction Grid](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/extended_field_interaction_grid.png) | **Extended Field Interaction Grid** — 3D structure of interactions in modulated field energy.                |
+| ![Harmonic Modulation Curves](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/harmonic_modulation_curves.png)           | **Harmonic Modulation Curves** — Graphs showing dependency of \$E\$ on different k-\$\beta\$ configurations. |
+
+---
+
+## 🔗 Role within the Codex
 
 * Core formula for dynamic resonance systems.
 * Foundation for spiral logic, resonance modeling, and frequency-algebraic structures.
@@ -26,58 +38,19 @@ This module presents an extension of Einstein’s energy formula $E = mc^2$ by i
 
 ## 🔗 Related Systems
 
-| Connected System         | Related Module                      |
-| ------------------------- | ----------------------------------- |
-| SYSTEM 1: MATHEMATICA     | `Codex Algebra of Resonance`, `Spiral Logic` |
-| SYSTEM 2: PHYSICA         | `Casimir–Neutrino Thread`           |
-| SYSTEM X: GRAND–CODEX     | Synthesis into the unified field structure |
-
----
-
-## 📊 Visualizations
-
-**Q-Space Energy Calculation**  
-_Illustrates the predicted energy scaling in a Q-Space dimensional framework using the k-beta formulation._  
-![Q-Space Energy Calculation](./visuals/q-space_energy_calculation.png)
-
-**Field Modulation Map**  
-_Provides a systematic overview of how the coupling factor $k$ and exponent $\beta$ behave across different physical fields (thermal, gravitational, photonic, vacuum)._  
-![Field Modulation Map](./visuals/field_modulation_map.png)
-
-**Field Dynamics Overview**  
-_Presents comparative graphs for different k-beta fields, showing how modulation changes energy scaling across temperature, frequency, and gravitational distance._  
-![Field Dynamics Overview](./visuals/k-beta_field_dynamics_visuals.png)
-
-**Field Modulation Parameter Map**  
-_Displays a structured matrix of modulation relationships — positioning fields by scale (microscopic to cosmic) and type (thermal, gravitational, photonic, vacuum)._  
-![Field Modulation Parameter Map](./visuals/k-beta_field_map.png)
-
----
-
-## 🌌 Why It Matters
-
-This module extends the classical physics framework to **dynamic, scalable energy fields**, offering a mathematically elegant yet physically consistent way to model energy in diverse contexts — from thermodynamics to cosmology.
-
-### Key Advances:
-- 📈 **Field-Dependent Energy Scaling**: Integrates field type, scale, and dynamics for precision modeling.
-- 🎯 **Predictive Power**: Demonstrates improved predictions in high-energy physics, cosmology, and entropy systems compared to classical formulations.
-- 🧩 **Foundational Extension**: Establishes groundwork for next-generation field theories, dynamic cosmological models, and Q-Space dimensional extensions.
-
----
-
-## 📚 Further Reading
-
-* [Casimir–Neutrino Thread](../casimir-neutrino-thread.md)
-* [Spiral Logic — Prime Resonance Structures](../spiral-logic.md)
-* [Q-Space Extension & Higher-Dimensional Fields](./doc/q-space-extension.md)
+| Connected System      | Related Module                               |
+| --------------------- | -------------------------------------------- |
+| SYSTEM 1: MATHEMATICA | `Codex Algebra of Resonance`, `Spiral Logic` |
+| SYSTEM 2: PHYSICA     | `Casimir–Neutrino Thread`                    |
+| SYSTEM X: GRAND–CODEX | Synthesis into the unified field structure   |
 
 ---
 
 ## 📚 Author
 
-**Thomas Hofmann** · `Scarabäus1033`  
-**Project:** NEXAH–CODEX / SYSTEM 1 – MATHEMATICA  
-**Location:** `SYSTEM 1 — MATHEMATICA / CODEX MATHEMATICS / einsteins-k-beta-formula/`  
+**Thomas Hofmann** · `Scarabäus1033`
+**Project:** NEXAH–CODEX / SYSTEM 1 – MATHEMATICA
+**Location:** `SYSTEM 1 — MATHEMATICA / CODEX MATHEMATICS / einsteins-k-beta-formula/`
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
