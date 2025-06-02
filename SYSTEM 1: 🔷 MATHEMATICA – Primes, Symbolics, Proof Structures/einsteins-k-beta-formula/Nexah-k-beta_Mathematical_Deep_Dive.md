@@ -166,7 +166,7 @@ $$
 
 ### Visual 1: Energy Expansion through Golden Ratio
 
-![Golden Ratio Energy Expansion](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/golden_ratio_energy_expansion.png)
+![Golden Ratio Energy Expansion](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20🔷%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/golden_ratio_energy_expansion.png)
 
 **Description**:
 The energy \$E\$ is modulated by \$c^{\varphi}\$, scaling the light speed by the Golden Ratio \$\varphi\$. This resonance reflects structures found both in natural growth patterns and fundamental field modulations. The outer neutrino shells resonate with similar prime-based structures.
