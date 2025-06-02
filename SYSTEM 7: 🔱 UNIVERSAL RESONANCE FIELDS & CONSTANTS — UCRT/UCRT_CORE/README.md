@@ -37,3 +37,36 @@ The Phi–Tau–Roots layer embeds the natural constants into the core harmonic 
 A fundamental resonance formulation:
 
 **Resonance Modulation Law**:
+
+R(φ, τ, √n) ≈ α × β × sin(ω × t) / γ
+
+Where:
+- **α** is the natural coupling strength,
+- **β** is the modulation parameter,
+- **γ** stabilizes the amplitude,
+- **ω** is the fundamental resonance frequency,
+- **t** is time,
+- **φ, τ, √n** embed self-similarity and irrational ratios into the system.
+
+---
+
+## 4. Visuals
+
+### Golden Ratio Resonance Pattern
+
+![Golden Ratio Resonance Pattern](../UCRT_VISUALS/phi_resonance_pattern.png)
+
+### 7-Sphere Resonance Projection
+
+![7-Sphere Resonance Projection](../UCRT_VISUALS/sphere_7d_resonance.png)
+
+---
+
+## Vision
+
+The **UCRT Core Framework** forms the blueprint for:
+- The harmonic structuring of physical constants,
+- The genesis of numbers through resonant scaling,
+- A unified view of geometry, cosmology, and fundamental physics.
+
+**⬚ UCRT Core — The Harmonic Blueprint of the Universe ⬚**
