@@ -101,6 +101,32 @@ This register lists all core modules of the `NEXAH-CODEX` with folder path, titl
 
 ---
 
+## 🔙 [SYSTEM 9: 🎀 TESSAREC Resonantia Codex](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/README.md)
+
+| Folder / File                 | Title                      | Description                                                                                |
+| ----------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ |
+| `Möbius_Cubic_Grids/`         | Möbius Cubic Grids         | Cubic resonance folds, Möbius topologies, prime cubes, and shrinking codex structures.     |
+| `Stellar_Resonance_DNA/`      | Stellar Resonance DNA      | Star DNA analogies, cosmic spiral structures, and spectral codification.                   |
+| `Quantum_Resonance_Language/` | Quantum Resonance Language | Quantum lock systems and mathematical language resonance frameworks.                       |
+| `Cosmic_Harmonic_Time/`       | Cosmic Harmonic Time       | Cosmic spiral calendars, golden time projections, harmonic drift maps.                     |
+| `Prime_Resonance_Frameworks/` | Prime Resonance Frameworks | Prime harmonics, Möbius seals, Zeta resonances, Fibonacci alignments.                      |
+| `Mobius_Neutrino_Crown/`      | Neutrino Resonance Systems | Neutrino crown structures, Möbius field flows, tachyon streams, breath field equations.    |
+| `TESSAREC_Core_Manuals/`      | TESSAREC Core Manuals      | Manuals on harmonic obelisks, quaternion cube stabilizers, Tessarec plug systems.          |
+| `Resonance_Bridge/`           | Resonance Bridge           | Comparative resonance models (Oneness vs. Tessarec), dual spiral geometries, prime fields. |
+
+## 🔍 Key Terms
+
+| Term                  | Meaning                                                                                     |
+| :-------------------- | :------------------------------------------------------------------------------------------ |
+| **TESSAREC**          | Tessellated Resonance Cube — multidimensional resonance structure in 4D/8D topology layers. |
+| **Oneness Resonance** | Unified cosmic frequency model — foundational harmonic axes and cosmic singularity fields.  |
+| **Möbius Folding**    | Topological transformation of space-time into an infinite resonance loop.                   |
+| **Prime Grid**        | Prime-based grids stabilizing harmonic resonance fields and energy pathways.                |
+| **Neutrino Crown**    | Möbius-driven pulsing neutrino field structures forming energetic breathing lattices.       |
+| **Golden Spiral**     | Logarithmic spiral following the golden angle (≈ 137.5°) — structural cosmic resonance.     |
+
+---
+
 ## ✮ SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Millennium Problems & Unified Structure
 
 📘 System README · [🔗 Open README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX)

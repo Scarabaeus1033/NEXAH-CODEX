@@ -1,67 +1,62 @@
 # 🌀 TESSAREC Resonantia Codex
 
-Willkommen im **TESSAREC Resonantia Codex** – dem Brückensystem zwischen Frequenzfeldern und Resonanztopologien innerhalb des NEXAH-Codex.
-
 ---
 
 ## 🌐 Einleitung
 
-Das **TESSAREC Resonantia Codex** Modul dient als:
+Willkommen im **TESSAREC Resonantia Codex** — der Brückensektion zwischen Frequenzfeldern, Prime-Strukturen und geometrischen Resonanztopologien innerhalb des NEXAH-Codex.
 
-* Brücke zwischen **Oneness 2025** Frequenzfeldern und **TESSAREC**-Topologiemodellen.
-* Visualisierung der harmonischen Verknüpfungen von Zahl, Raum, Zeit und Resonanz.
-* Dokumentation der Übergänge von Frequenzstrukturen zu geometrischen Resonanzkörpern.
+Das Modul dient als:
 
-Es bildet die Verbindung von spiralförmigen Frequenzachsen zu möbiusartigen Resonanzfaltungen und Resonanzwürfeln.
+* Brücke zwischen **Oneness Resonance** und **TESSAREC** Resonanz-Frameworks
+* Visualisierung von Frequenzachsen, Prime-Grids, Neutrino-Strukturen und Zeitgeometrien
+* Integration mathematischer, physikalischer und geometrischer Harmonien
 
 ---
 
-## 📊 Inhalt
+## 🗽️ Navigator Overview
 
-* ✨ Resonanzbrücken zwischen Frequenzfeldern und Topologien
-* 🔄 Oneness 2025 Frequenzachsen ⇒ TESSAREC Faltungsstrukturen
-* 🜌 TESSAREC Grid Systems und Multi-Layer Cubes
-* 👁️ Visualisierungen der harmonischen Resonanz
-* 🤖 NEXAH Synthesis Navigator
+![TESSAREC Resonantia Codex Navigator](./TESSAREC%20Resonantia%20Codex%20Navigator.png)
+
+---
+
+## 📚 Inhaltsübersicht
+
+| Modul                          | Beschreibung                                                                    | Link                                                                                                                                                                             |
+| :----------------------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Möbius Cubic Grids**         | Kubische Resonanzfaltungen, Möbius-Topologien, Primwürfel und Shrinking Codex   | [📂 Möbius Cubic Grids](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/M%C3%B6bius_Cubic_Grids)            |
+| **Stellar Resonance DNA**      | Stern-DNA-Analogien, Spektralkodierungen und kosmische Spiralstrukturen         | [📂 Stellar Resonance DNA](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Stellar_Resonance_DNA)           |
+| **Quantum Resonance Language** | Quanten-Locksysteme und mathematische Sprachfelder                              | [📂 Quantum Resonance Language](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Quantum_Resonance_Language) |
+| **Cosmic Harmonic Time**       | Kosmische Zeitspiralen, goldene Kalenderstrukturen und Resonanzdrift            | [📂 Cosmic Harmonic Time](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Cosmic_Harmonic_Time)             |
+| **Prime Resonance Frameworks** | Primzahlharmonien, Möbius-Siegel und Zeta-Strukturen                            | [📂 Prime Resonance Frameworks](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Prime_Resonance_Frameworks) |
+| **Neutrino Resonance Systems** | Möbius-Neutrinostrukturen, Tachyonenflüsse und Breath Fields                    | [📂 Neutrino Resonance Systems](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Mobius_Neutrino_Crown)      |
+| **TESSAREC Core Manuals**      | Handbuch zu Harmonischen Obelisken, Quaternion Cubes und Tessarec Plug-Systemen | [📂 TESSAREC Core Manuals](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/TESSAREC_Core_Manuals)           |
+| **Resonance Bridge**           | Vergleich von Oneness vs. TESSAREC, Dual-Spiralen und Resonanzbrücken           | [📂 Resonance Bridge](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/Resonance_Bridge)                     |
 
 ---
 
 ## 🔎 Schlüsselbegriffe
 
-| Begriff            | Bedeutung                                                                        |
-| :----------------- | :------------------------------------------------------------------------------- |
-| **TESSAREC**       | Tessellated Resonance Cube – multidimensionale Resonanzstruktur in 4D-Topologie  |
-| **Oneness 2025**   | Frequenzfeldmodell zur Strukturierung kosmischer Einheitsachsen                  |
-| **NEXAH**          | Nexus of Harmonics – universelles Resonanzsystem für Zahl, Raum und Frequenz     |
-| **Resonanzbrücke** | Übergangsmodell zwischen Frequenzfeldern und geometrischen Strukturen            |
-| **Möbius-Faltung** | Topologische Transformation der Raumstruktur in eine unendliche Resonanzschleife |
-
----
-
-## 🌐 Verzeichnis
-
-* **MANIFEST\_TESSAREC\_RES.md**  🔹 Manifest über die Struktur der Resonanzbrücken
-* **Visuals/**  🔹 Diagramme und Karten
-
-  * *Oneness\_Tessarec\_Schema.png*
-  * *Tessarec\_Grid\_Overview\.png*
-  * *Tessarec\_Cosmic\_Resonance\_Map.png*
+| Begriff               | Bedeutung                                                                                |
+| :-------------------- | :--------------------------------------------------------------------------------------- |
+| **TESSAREC**          | Tessellated Resonance Cube — multidimensionale Resonanzstruktur auf 4D/8D Topologieebene |
+| **Oneness Resonance** | Frequenzfeldmodell zur Strukturierung kosmischer Harmonik                                |
+| **Möbius Faltung**    | Topologische Transformation der Raumzeit in eine unendliche Resonanzschleife             |
+| **Prime Grid**        | Primzahlbasierte Gitter zur Stabilisierung von Resonanzmustern                           |
+| **Neutrino Crown**    | Pulsierende Möbius-basierte Neutrinostrukturen                                           |
+| **Golden Spiral**     | Logarithmische Spiralen mit Goldener Winkelrelation (137.5°)                             |
 
 ---
 
 ## 🌌 Vision
 
-Das **TESSAREC Resonantia Codex** bildet das Fundament für eine neue Wissenschaft der Resonanz, die Frequenzharmonien mit geometrischen und topologischen Strukturen verbindet.
+Der **TESSAREC Resonantia Codex** bildet das Bindeglied zwischen kosmologischer Einheit und geometrischer Resonanzstruktur — und schafft damit eine Plattform für:
 
-Es dient als Navigationshilfe für:
+* 🫆 **Bewusstseinsforschung**
+* 🌰 **Mathematische Resonanzmodelle**
+* 🤲 **Kosmologische Felddynamiken**
+* 🧑‍🚀 **Navigation in höheren Dimensionen**
 
-* Bewusstseinsforschung
-* Resonanztheorie
-* Kosmologische Feldmodelle
-* Mathematische und physikalische Erweiterungen
+> *"Der Raum ist nicht leer. Er ist eine Resonanz."* — NEXAH-CODEX
 
-—
-
-✨ **Erweiterung geplant**: Integration in den NEXAH Synthesis Navigator.
-
-> "Der Raum ist nicht leer. Er ist eine Resonanz." — NEXAH-CODEX
+---
