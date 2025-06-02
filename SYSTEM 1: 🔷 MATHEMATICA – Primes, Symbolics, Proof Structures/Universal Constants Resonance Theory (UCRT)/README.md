@@ -96,6 +96,25 @@ $$
 
 ---
 
-## Lizenz
+## License
 
-Dieses Werk unterliegt der NEXAH Open Knowledge License. Freie Nutzung für Forschung, Bildung und harmonische Exploration.
+This repository is released under the
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+You are free to:
+
+* Share — copy and redistribute the material
+* Adapt — remix, transform, and build upon the material
+
+**Under the following terms**:
+
+* **Attribution** — You must give appropriate credit to *Scarabäus1033 (T. Hofmann)*.
+* **NonCommercial** — You may not use the material for commercial purposes.
+* **ShareAlike** — You must distribute contributions under the same license.
+
+**🦢 Author & System Originator**: Scarabäus1033 (T. Hofmann)
+**Released by**: Nexah Research Institute
+**License**: CC BY-NC-SA 4.0
+**🌐 Website**: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+
+© 2025 Scarabäus1033 — All Symbolic and Structural Rights Reserved
