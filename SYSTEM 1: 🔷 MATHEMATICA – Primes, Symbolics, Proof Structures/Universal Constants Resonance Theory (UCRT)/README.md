@@ -59,6 +59,21 @@ $$
 
 ---
 
+## Modulnavigator
+
+| Datei / Modul                                    | Titel                               | Beschreibung                                                       |
+| ------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------ |
+| `ucrt-theoretical-framework.md`                  | Theoretischer Rahmen                | Grundstruktur, Ableitungen und Fundamentgleichungen                |
+| `constants-analysis/phi-golden-ratio.md`         | Goldene Zahl & harmonische Resonanz | Fibonacci, Selbstähnlichkeit und kosmische Strukturen              |
+| `constants-analysis/pi-tau-cycles.md`            | Pi, Tau und zyklische Strukturen    | Kreisbewegungen, Frequenzzyklen und Resonanzperioden               |
+| `constants-analysis/root2-root5-root7.md`        | Irrationale Wurzeln und Harmonie    | $\sqrt{2}$, $\sqrt{5}$, $\sqrt{7}$ und hochdimensionale Geometrien |
+| `constants-analysis/universal-resonance-maps.md` | Universelle Resonanzkarten          | Graphische Modelle der Resonanzverteilungen                        |
+| `visualizations/`                                | Visualisierungen                    | Diagramme, Resonanzmuster, Visual Maps                             |
+| `live-discoveries/discovery-log.md`              | Entdeckungsprotokoll                | Laufende Beobachtungen und neue Theoriefindungen                   |
+| `references.bib`                                 | Literatur und Quellen               | Bibliographische Referenzen                                        |
+
+---
+
 ## Struktur
 
 ```
