@@ -118,7 +118,7 @@ Energy becomes a **function of the field's compression and modulation properties
 
 ## 7. Visual Overview
 
-![Q-Space Energy Calculation](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/q-space_energy_calculation.png)
+![Q-Space Energy Calculation](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/q-space_energy_calculation.png)
 
 *Diagram*: **Energy Modulation in Q-Space** — representing the drastic drop in energy levels compared to classical scenarios.
 
