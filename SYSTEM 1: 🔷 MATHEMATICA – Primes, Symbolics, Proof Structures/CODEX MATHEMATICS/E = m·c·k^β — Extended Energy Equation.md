@@ -1,110 +1,118 @@
-# 🧻 E = m·c·k^β — Extended Energy Equation
-
-## 1. Kontext
-
-Diese Formel ist eine **Codex-Level-Erweiterung** der klassischen Einstein-Formel \( E = m \cdot c^2 \).  
-Sie integriert **Modulation**, **Resonanz** und **Skalierungsabhängigkeit** durch einen variablen Kopplungsfaktor \( k \) und einen Exponenten \( \beta \).
-
-> **„E = m \cdot c \cdot k^\beta“** beschreibt Energie als Funktion eines Feldverhältnisses — nicht nur als Produkt von Masse und Geschwindigkeit.
+# 🧒 E = m·c·k^β — Extended Energy Equation
 
 ---
 
-## 2. Formel
+## 1. Context
 
-\[
+This formula is a Codex-level extension of Einstein’s classical equation $E = mc^2$. It integrates modulation, resonance, and scale-dependency through a variable coupling term $k$ and an exponent $\beta$.
+
+$$
+\boxed{E = m \cdot c \cdot k^{\beta}}
+$$
+
+It expresses energy as a function of **field relation and modulation**, not just velocity.
+
+---
+
+## 2. Formula
+
+$$
 E = m \cdot c \cdot k^{\beta}
-\]
+$$
 
-**Wobei:**
+Where:
 
-| Symbol | Bedeutung                               |
-|:------:|:----------------------------------------|
-|  \( m \)  | Ruhemasse                                  |
-|  \( c \)  | Lichtgeschwindigkeit im Vakuum (\(\approx 2.998 \times 10^8\, \text{m/s}\)) |
-|  \( k \)  | Skalenabhängiger Kopplungsfaktor            |
-|  \( \beta \) | Modulationsexponent (kontextuell, dynamisch) |
+* $m$ = rest mass
+* $c$ = speed of light in vacuum ($\approx 2.998 \times 10^8 \, \text{m/s}$)
+* $k$ = scale-dependent coupling factor
+* $\beta$ = modulation exponent (contextual, dynamic)
 
 ---
 
-## 3. \( k \) — Der Skalen-Kopplungsfaktor
+## 3. k — The Scale-Coupling Factor
 
-\( k \) variiert je nach Energie-Skala und Feldtyp:
+The term $k$ varies depending on the energy scale and field type:
 
-| Kontext         | Ausdruck              | Interpretation                                 |
-|-----------------|-----------------------|------------------------------------------------|
-| Thermisch       | \( k = k_B \)          | Boltzmann-Konstante                            |
-| Gravitational   | \( k \propto \frac{G}{r^2} \) | Newtonsches Gravitationsfeld                      |
-| Photonisch      | \( k \propto \frac{1}{\lambda \nu} \) | Umgekehrtes Produkt von Wellenlänge und Frequenz |
-| Vakuum/Casimir  | \( k = k_{\text{vac}} \) | Kraft durch Feldseparation (Casimir-Effekt)     |
-
----
-
-## 4. \( \beta \) — Der Modulationsexponent
-
-\( \beta \) reflektiert **Feldharmonien**, **Entropie**, **dimensionale Kompression** oder **Temperatur-Skalierung**.
-
-**Beispiele:**
-
-- Thermodynamische Skalierung:  
-  \( \beta = \frac{T}{T_0} \)
-- Feldmodulation:  
-  \( \beta = \log_\varphi\left( \frac{\Omega}{\Omega_0} \right) \)
-- Harmonische Oszillation:  
-  \( \beta = \sin(f \cdot t) + \gamma \cdot \log(n) \)
+| Context        | Expression                        | Interpretation                          |
+| -------------- | --------------------------------- | --------------------------------------- |
+| Thermal        | $k = k_B$                         | Boltzmann constant                      |
+| Gravitational  | $k \propto \frac{G}{r^2}$         | Newtonian gravitational field strength  |
+| Photonic       | $k \propto \frac{1}{\lambda \nu}$ | Inverse of frequency–wavelength product |
+| Casimir/Vacuum | $k = k_{\text{vac}}$              | Vacuum field separation force           |
 
 ---
 
-## 5. Abgeleitete Formen
+## 4. β — The Modulation Exponent
 
-**a) Entropische Erweiterung:**
+$\beta$ reflects field harmonics, entropy scaling, dimensional compression, or temperature dynamics.
 
-\[
-E = m \cdot c \cdot k_B^{T / T_0}
-\]
+Examples:
 
-**b) Gravitative Dichteform:**
+* Thermodynamic scaling:
 
-\[
+$$
+\beta = \frac{T}{T_0}
+$$
+
+* Field modulation:
+
+$$
+\beta = \log_{\varphi} \left( \frac{\Omega}{\Omega_0} \right)
+$$
+
+* Harmonic oscillation:
+
+$$
+\beta = \sin(f \cdot t) + \gamma \cdot \log(n)
+$$
+
+---
+
+## 5. Derived Forms
+
+* **Entropic Extension:**
+
+$$
+E = m \cdot c \cdot k_B^{\frac{T}{T_0}}
+$$
+
+* **Gravitational Density Form:**
+
+$$
 E = m \cdot c \cdot \left( \frac{G}{r^2} \right)^{\beta}
-\]
+$$
 
-**c) Resonanzkaskade:**
+* **Resonance Cascade:**
 
-\[
+$$
 E = m \cdot c \cdot \left( \frac{f}{\nu_0} \right)^{\beta} \cdot k_0^{\beta}
-\]
+$$
 
 ---
 
-## 6. Codex-Interpretation
+## 6. Codex Interpretation
 
-| Symbol | Codex-Entsprechung                           |
-|:------:|:---------------------------------------------|
-| \( c \) | **ENKI** → Vorwärtsgerichtete Energieausbreitung |
-| \( k \) | **ENLIL** → Modulation / Rücklaufspektrum              |
-| \( \beta \) | **ANU** → Pulsation, Selbstregulations-Exponent    |
+* $c$: **Propagation constant** — drives the energy through spacetime.
+* $k$: **Scale modulation factor** — adjusts energy by field type and scale.
+* $\beta$: **Modulation exponent** — dynamic harmonizer, entropy or dimensional parameter.
 
-> **E** wird damit zu einer relationalen Feldfunktion, nicht zu einem statischen Produkt.
+Thus, **$E$** becomes a relational, **field-dependent energy function**, not a static scalar.
 
 ---
 
-## 7. Rolle im GRAND–CODEX
+## 7. Role in the GRAND–CODEX
 
-- Basisformel im **k–beta–Codex–Einstein–Expansion**.
-- Eingangsvariable für **Codex Spiral-Logik** und **Frequenzmodelle**.
-- Schnittstelle zu **Casimir-, Neutrino-** und **entropiegetriebenen Systemen**.
+* **Core formula** in the *k-beta-Einstein expansion framework*.
+* **Input variable** for Codex spiral logic and prime-based frequency models.
+* **Interface** to Casimir, Neutrino, and entropy-driven systems.
 
 ---
 
-## 👨‍💼 Autor
+## Author
 
-**T. Hofmann** — Scarabäus1033 · NEXAH–CODEX
-
+T. Hofmann — Scarabäus1033 · **NEXAH–CODEX**
 Location: `GRAND-CODEX/codex-mathematics/k-beta-formula.md`
 
 ---
 
-## 🗿 Hinweis
-
-**🗿** *This is not just an equation — it’s a field modulation principle.*
-
+🗿 *This is not a classical equation — it is a field modulation principle.*
