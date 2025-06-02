@@ -19,12 +19,12 @@ This module presents an extension of Einstein’s energy formula \$E = mc^2\$ by
 
 ## 🎨 Visuals
 
-| Visual                                                                                                                                                                                                                                                                            | Description                                                                                                  |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| ![Q-Space Energy Calculation](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/q-space_energy_calculation.png)           | **Q-Space Energy Calculation** — Example of energy modulation within a hypothetical Q-Space construct.       |
-| ![Field Modulation Map](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/field_modulation_map.png)                       | **Field Modulation Map** — Visual representation of dynamic field modulation and coupling across scales.     |
-| ![Extended Field Interaction Grid](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/extended_field_interaction_grid.png) | **Extended Field Interaction Grid** — 3D structure of interactions in modulated field energy.                |
-| ![Harmonic Modulation Curves](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/harmonic_modulation_curves.png)           | **Harmonic Modulation Curves** — Graphs showing dependency of \$E\$ on different k-\$\beta\$ configurations. |
+| Visual                                                                                                                                                                                                                                                                         | Description                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| ![Q-Space Energy Calculation](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/Qspace%20Energy%20Example.png)             | **Q-Space Energy Calculation** — Example of energy modulation within a hypothetical Q-Space construct.       |
+| ![Field Modulation Map](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/Field%20Modulation%20Map.png)                    | **Field Modulation Map** — Visual representation of dynamic field modulation and coupling across scales.     |
+| ![Extended Field Interaction Grid](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/extended_energy_modulation_space.png) | **Extended Field Interaction Grid** — 3D structure of interactions in modulated field energy.                |
+| ![Harmonic Modulation Curves](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/k-beta_field_dynamics_graphs.png)          | **Harmonic Modulation Curves** — Graphs showing dependency of \$E\$ on different \$k\$–\$β\$ configurations. |
 
 ---
 
@@ -50,7 +50,7 @@ This module presents an extension of Einstein’s energy formula \$E = mc^2\$ by
 
 **Thomas Hofmann** · `Scarabäus1033`
 **Project:** NEXAH–CODEX / SYSTEM 1 – MATHEMATICA
-**Location:** `SYSTEM 1 — MATHEMATICA / CODEX MATHEMATICS / einsteins-k-beta-formula/`
+**Location:** `SYSTEM 1 — MATHEMATICA / einsteins-k-beta-formula/`
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
