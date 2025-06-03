@@ -89,6 +89,23 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
+## 🔱 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS — UCRT
+
+📘 System README · [🔗 Open README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207:%20🔱%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT)
+
+| Folder                     | Title                         | Description                                                                         |
+| -------------------------- | ----------------------------- | ----------------------------------------------------------------------------------- |
+| `UCRT_CORE/`               | Resonance Constants Core      | Harmonic structures of Φ, π, τ, √2, √5 constants through extended resonance fields. |
+| `UCRT_ROOTROOM/`           | Root Resonance Rooms          | Resonance spaces based on √2, √5, √7 roots and their quasi-periodic lattices.       |
+| `UCRT_HIGHER_DIMENSIONS/`  | Higher-Dimensional Resonance  | 7D, 11D spheres, Hopf fibrations, octonionic resonance frameworks.                  |
+| `UCRT_SUPERPRIME_GENESIS/` | Superprime Resonance Genesis  | Superprimes, mirror symmetries, spiral projections, and modular harmonic fields.    |
+| `UCRT_NUMBER_RES_FUSION/`  | Number Field Resonance Fusion | Euler, Ramanujan, and Riemann resonance field integration.                          |
+| `UCRT_VISUALS/`            | Resonance Visual Gallery      | Visual spirals, mirror structures, harmonic polygons, and resonance animations.     |
+
+> 📌 System 7 establishes a harmonic resonance theory unifying prime numbers, roots, constants, and geometry under a universal field structure.
+
+---
+
 ## 🌐 [SYSTEM 9: TESSAREC Resonantia Codex – Frequenzachsen, Prime-Strukturen & Resonanzbrücken](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%209%3A%20%F0%9F%8C%80%20TESSAREC%20Resonantia%20Codex/README.md)
 
 | Ordner                        | Titel                                           | Beschreibung                                                                                  |
