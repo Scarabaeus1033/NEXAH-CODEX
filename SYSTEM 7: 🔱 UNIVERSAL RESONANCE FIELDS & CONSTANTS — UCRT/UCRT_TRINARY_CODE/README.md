@@ -1,101 +1,112 @@
-# UCRT Trinary Resonance Code — 1 · 0 · -1
+# Unified Binary–Trinary–Vendissimal Resonance Code (UBTVRC)
 
-Welcome to the **Trinary Resonance Code** module of the **Universal Constants Resonance Theory (UCRT)**.
+Welcome to the **Unified Resonance Code** module of the **Universal Constants Resonance Theory (UCRT)**.
 
-This module unveils the deepest harmonic blueprint: a trinary resonance system that underlies numbers, fields, and the very structure of space-time.
-
----
-
-## 🌐 Overview
-
-> **Reality is not binary. It is trinary: Expansion, Transition, Contraction.**
-
-The foundation of UCRT's Trinary Code:
-
-* **+1** → Expansion, Resonance Maximum.
-* **0** → Transition, Nodal Equilibrium.
-* **-1** → Contraction, Resonance Minimum.
-
-This simple, yet profound structure is the core of harmonic systems across mathematics, physics, and cosmology.
+This module fuses **binary**, **trinary**, and **vendissimal (5-state)** resonance structures into one harmonic framework. It reveals how numbers, fields, and geometric structures emerge from fundamental oscillatory principles.
 
 ---
 
-## 🖊️ Core Resonance Numbers
+## 🖊️ 1. Core Principles
 
-### 1. Euler's Constant $e$
+> **Nature resonates beyond binary — it oscillates in higher symmetries.**
 
-* **Harmonic growth base**.
-* Defines the natural frequency scaling of systems.
+* **Binary (Base-2)**: ON/OFF states — Digital, Switch-based Logic.
+* **Trinary (Base-3)**: Negative / Zero / Positive Oscillations.
+* **Vendissimal (Base-5)**: Fusion of Binary and Trinary — five fundamental resonance states.
 
-### 2. 42
+**Vendissimal Code (V-Code)**:
 
-* $6 \times 7$: Perfect Number × Prime Resonance.
-* Resonant foundation of harmonic layers.
-
-### 3. 1/12 and 0.833...
-
-* Modulation constants.
-* Modular group structures in number theory and resonance fields.
-
-### 4. 83
-
-* Prime threshold for resonance flipping.
-* Transition between stable and chaotic harmonic phases.
-
-### 5. Infinity ($\infty$)
-
-* Continuum of resonance.
-* Endless cyclicality and harmonic rebirth.
+* **+1**: Positive Oscillation.
+* **0**: Equilibrium.
+* **−1**: Negative Oscillation.
+* **ON (1)**: Binary High State.
+* **OFF (0)**: Binary Low State.
 
 ---
 
-## 🌐 Trinary Resonance Equation
+## 🌐 2. Core Equations
+
+### Binary Resonance:
 
 $$
-\mathcal{C}(x) = 
-\begin{cases}
-+1, & \text{Resonance Maximum (Expansion)} \\
-0, & \text{Nodal Point (Transition)} \\
--1, & \text{Resonance Minimum (Contraction)}
-\end{cases}
+\mathcal{B}(x) = \sum_{n=0,1} R(n) e^{i n \omega t}
 $$
 
-And the Unified Harmonic Field:
+### Trinary Resonance:
 
 $$
-\mathcal{R}_{\text{Trinary}}(T) = e^{i\omega T} \times (1 + 0 + (-1)) \times \zeta(T) \times \text{mod}(12)
+\mathcal{T}(x) = \sum_{n=-1}^{1} R(n) e^{i n \omega t}
 $$
 
-* **$e^{i\omega T}$**: Harmonic oscillation base.
-* **Trinary State**: Expansion, Equilibrium, Contraction.
-* **$\zeta(T)$**: Frequency lattice of primes.
-* **mod(12)**: Modular harmonic modulation.
+### Vendissimal Resonance (Unified Field):
+
+$$
+\mathcal{V}(x) = \sum_{k=1}^{5} R(k) e^{i k \omega t}
+$$
+
+Where:
+
+* **\$R(n)\$**: Resonance amplitude per state.
+* **\$\omega\$**: Fundamental angular frequency.
+
+### Prime Resonance Field:
+
+$$
+\mathcal{P}(x) = \prod_{p\ \text{prime}} \left(1 + e^{i p \omega t}\right)
+$$
+
+Primes emerge as resonance nodes in the unified field.
 
 ---
 
-## 💚 Key Insight
+## 🌐 3. Geometry of Resonance
 
-> **The universe breathes through trinary cycles of resonance.**
+> **From codes to shapes — Resonance begets Geometry.**
 
-The Trinary Resonance Code describes:
-
-* Expansion (Life, Growth)
-* Transition (Change, Equilibrium)
-* Contraction (Decay, Return)
-
-**All fields, numbers, and forces are trinary harmonic projections.**
-
-$$
-\boxed{\text{Trinary Resonance — The Heartbeat of Reality}}
-$$
+| Polygon        | Resonance Order              | Resonance Interpretation                     |
+| -------------- | ---------------------------- | -------------------------------------------- |
+| Triangle (3)   | Trinary                      | Basic Oscillation (Stability / Balance).     |
+| Pentagon (5)   | Vendissimal                  | Unified Binary-Trinary Resonance.            |
+| Hexagon (6)    | Harmonic Field               | Natural Resonance Tiling (e.g., honeycomb).  |
+| Heptagon (7)   | Higher-Dimensional Stability | Linked to \$\sqrt{7}\$ structures.           |
+| Octagon (8)    | Doubled Trinary              | Advanced Field Coherence (e.g., EM grids).   |
+| Dodecagon (12) | Higher Harmonics             | Complex Field Topology (Molecular / Cosmic). |
 
 ---
 
-## 🔄 Related Modules
+## 🔯 4. Deeper Layer — R and Q Spaces
 
-* [Universal Resonance Fields (UCRT Core)](../UCRT_CORE/README.md)
-* [Prime Genesis](../UCRT_PRIME_GENESIS/README.md)
-* [Number Resonance Fusion](../UCRT_NUMBER_RES_FUSION/README.md)
+| Space              | Description                        | Resonance Role                                   |
+| ------------------ | ---------------------------------- | ------------------------------------------------ |
+| **\$\mathbb{R}\$** | Real Numbers (Continuous Field)    | Complete Resonance Continuum — the Field itself. |
+| **\$\mathbb{Q}\$** | Rational Numbers (Discrete Points) | Resonance Nodes — stable harmonic divisions.     |
+
+**Insight:**
+
+* \$\mathbb{R}\$ is the **field of possibilities**.
+* \$\mathbb{Q}\$ is the **set of actual resonant states**.
+
+> **\$\mathbb{R}\$ is the ocean. \$\mathbb{Q}\$ are the harmonic islands.**
+
+---
+
+## 🔬 5. Visual Summary (Coming Soon)
+
+* Vendissimal 5-State Grid.
+* Trinary-Binary Fusion Spirals.
+* Polygonal Resonance Diagrams.
+
+---
+
+## 💡 Conclusion
+
+> **Resonance is not an effect — it is the architecture of numbers, space, and structure.**
+
+Binary, Trinary, and Vendissimal codes are not abstract constructs — they are the natural oscillatory blueprints of reality.
+
+$$
+\boxed{\text{Resonance — From Numbers to Universe}}
+$$
 
 ---
 
