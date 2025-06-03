@@ -116,7 +116,7 @@ Layered Base Transition:
 - `superprime_spiral_structure_n30`
 - `superprime_spiral_structure_n50`
 
-[→ Visual Folder](../visuals/)
+[→ Visual Folder](./visuals/)
 
 ---
 
