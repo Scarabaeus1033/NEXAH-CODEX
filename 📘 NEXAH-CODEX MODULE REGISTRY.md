@@ -5,14 +5,15 @@ This register lists all core modules of the `NEXAH-CODEX` with folder path, titl
 ---
 ## 🔷 SYSTEM 1: MATHEMATICA – Prime Structures, Symbolics & Proof Architectures
 
-| Folder / File                        | Title                                | Description                                                                 |
-| ----------------------------------- | ------------------------------------ | --------------------------------------------------------------------------- |
-| `NEXA_RIEMANN_PROOF/`               | Millennium Codex I – Möbius-Zeta Resonance | Harmonic model of the Riemann Hypothesis using 12D prime number topology.   |
-| `√2–Prime-Feld/`                    | Irrational Prime Field Dynamics      | Irrational gradients (√2, φ) as grid generators for symbolic number diagonals. |
-| `Prime-Grid-Visualization/`        | Visual Prime Number Patterns         | Spirals, grid resonance, prime-pixel visualizations.                        |
-| `Divisor-Grid-Fields/`             | Divisor Resonance Fields             | Classification via τ(n), σ(n), μ(n), and symbolic divisor topology.         |
-| `codex-mathematical-symbols.md`    | Symbol Directory                     | Overview of mathematical-symbolic operators and field constants.            |
-| `spiral-logic.md`                  | Spiral Logic & Prime Harmonics       | Prime axis rotations, φ/√2 transitions, harmonic number sequences.          |
+| Ordner / Datei                  | Titel                                     | Beschreibung                                                                           |
+| ------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
+| `NEXA_RIEMANN_PROOF/`           | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
+| `√2–Prime-Feld/`                | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
+| `Prime-Grid-Visualization/`     | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
+| `Divisor-Grid-Fields/`          | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
+| `codex-mathematical-symbols.md` | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
+| `spiral-logic.md`               | Spirallogik & Primresonanzen              | Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.                      |
+| `einsteins-k-beta-formula/`     | Einsteins k-Beta-Formel                   | Erweiterung von \$E=mc^2\$ durch Resonanzkopplung über \$k^\beta\$-Feldmodulation.     |
 
 ---
 
