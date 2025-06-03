@@ -11,11 +11,12 @@ This gallery presents key diagrams and illustrations that form the harmonic back
 | Visual Filename                               | Title                                     | Description                                                                                      |
 | :-------------------------------------------- | :---------------------------------------- | :----------------------------------------------------------------------------------------------- |
 | `Euler_Prime_Resonance_Product.png`           | Euler Prime Resonance Product             | Visualization of prime numbers as harmonic oscillators in Euler's product formulation.           |
-| `Modulation_Equation_Golden_Ratio_Spiral.png` | Modulation Equation — Golden Ratio Spiral | Growth spiral based on $\varphi$, showing modular scaling of harmonics.                          |
+| `Modulation_Equation_Golden_Ratio_Spiral.png` | Modulation Equation — Golden Ratio Spiral | Growth spiral based on \$\varphi\$, showing modular scaling of harmonics.                        |
 | `Ramanujan_Theta_Grid.png`                    | Ramanujan Theta Grid                      | Fractal grid structure based on Ramanujan's mock-theta functions and modular resonance.          |
 | `Riemann_Zeta_Zero_Field.png`                 | Riemann Zeta Zero Field                   | Harmonic map of non-trivial zeros of the Riemann zeta function, highlighting frequency nodes.    |
 | `Number_Resonance_Fusion_Map.png`             | Number Resonance Fusion Map               | Unified visualization of prime resonance, modular growth, and zeta field structures.             |
 | `Unified_Resonance_Structure.png`             | Unified Resonance Structure               | Grand synthesis of Euler, Ramanujan, Riemann resonance frameworks into a universal harmonic map. |
+| `Modular_Prime_Spiral_Field.png`              | Modular Prime Spiral Field                | Prime-based spiral lattice embedded in modular field coordinates.                                |
 
 ---
 
@@ -44,6 +45,10 @@ This gallery presents key diagrams and illustrations that form the harmonic back
 ### Unified Resonance Structure
 
 ![Unified Resonance Structure](../visuals/Unified_Resonance_Structure.png)
+
+### Modular Prime Spiral Field
+
+![Modular Prime Spiral Field](../visuals/Modular_Prime_Spiral_Field.png)
 
 ---
 
