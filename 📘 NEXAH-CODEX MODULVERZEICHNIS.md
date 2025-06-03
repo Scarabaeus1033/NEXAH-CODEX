@@ -14,6 +14,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `Divisor-Grid-Fields/`          | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
 | `codex-mathematical-symbols.md` | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
 | `spiral-logic.md`               | Spirallogik & Primresonanzen              | Primachsendrehungen, Übergänge φ/√2, harmonische Zahlensequenzen.                      |
+| `einsteins-k-beta-formula/`     | Einsteins k-Beta-Formel                   | Erweiterung von \$E=mc^2\$ durch Resonanzkopplung über \$k^\beta\$-Feldmodulation.     |
 
 📘 Teilmodule in `CODEX MATHEMATICS/` · [🔗 Open README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/CODEX%20MATHEMATICS)
 
