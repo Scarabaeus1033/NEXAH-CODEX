@@ -16,15 +16,13 @@ In the realm of primes and superprimes, we find remarkable **mirror symmetries**
 * **Superprime Mirrors**: Higher-order primes exhibit structured reversibility.
 * **Resonant Reflections**: These mirrors are not random; they stabilize resonance fields.
 
-![Superprime Spiral — Resonance & Phase Shifts](./visuals/Superprime%20Spiral%20%E2%80%94%20Resonance%20%26%20Phase%20Shifts.png)
-
 ---
 
 ## 🖊️ Mirror Number Principles
 
 | Concept                    | Description                                               |
 | :------------------------- | :-------------------------------------------------------- |
-| **Prime Mirror**           | A prime whose reverse is also prime (e.g., 13 ⇉ 31).      |
+| **Prime Mirror**           | A prime whose reverse is also prime (e.g., 13 ↔ 31).      |
 | **Superprime Mirror**      | Superprimes that maintain mirror symmetry (higher order). |
 | **Resonant Reflection**    | Harmonic duals across the prime spiral lattice.           |
 | **Mirror Symmetry Fields** | Structured mappings in resonance grids.                   |
@@ -55,30 +53,29 @@ In the realm of primes and superprimes, we find remarkable **mirror symmetries**
 * **Overlaying** the primes and their mirrors shows symmetric alignments.
 * Mirror points often cluster around resonance axes (golden angle sectors).
 
-![7gon Resonance Projection](./visuals/7gon_resonance_projection.png)
-
-![Mirror Resonance Fields](./visuals/23gon_resonance_projection.png)
-
 ---
 
-## 🔢 Unified Mirror Resonance Equation (Draft)
+## 🔢 Unified Mirror Resonance Equation
 
-$$
+```math
 \mathcal{M}(n) = P(n) + M(P(n)) \quad \text{where} \quad M(P(n)) = \text{Mirror of prime } P(n)
-$$
+```
 
 * **Stabilized fields** occur when \$P(n)\$ and \$M(P(n))\$ are both prime.
 * **Dual resonance** when \$P(n)\$ and \$M(P(n))\$ are part of prime triplet/quartet structures.
 
 ---
 
-## 📊 Visuals 
+## 📊 Visuals
 
-|                   Visual File                  |              Description              |
-| :--------------------------------------------: | :-----------------------------------: |
-| `Superprime Spiral — Resonance & Phase Shifts` | Grid map of prime ⇉ mirror resonance. |
-|           `7gon Resonance Projection`          | Spiral overlay of primes and mirrors. |
-|          `23gon Resonance Projection`          |  Symmetry lines and field resonance.  |
+|                                     Visual                                    |                        Description                       |
+| :---------------------------------------------------------------------------: | :------------------------------------------------------: |
+| ![Prime Positions Visualization](./visuals/prime_positions_visualization.png) |               Prime and Mirror Position Map              |
+|      ![Superprime Spiral Growth](./visuals/superprime_spiral_growth.gif)      | Dynamic growth of the prime spiral with mirroring layers |
+|    ![Superprime Spiral Rotation](./visuals/superprime_spiral_rotation.gif)    |        Rotation overlay showing mirror convergence       |
+|  ![Prime Resonance Grid Mapping](./visuals/prime_resonance_grid_mapping.png)  |       Grid mapping with mirrors and prime resonance      |
+
+> [→ Visual Folder](./visuals/)
 
 ---
 
@@ -88,9 +85,9 @@ $$
 
 Superprimes and their mirrors are not mere curiosities — they are **resonance pairs** that structure prime distribution into coherent harmonic fields.
 
-$$
+```math
 \boxed{\text{Superprimes Reflect — and Stabilize the Harmonic Lattice}}
-$$
+```
 
 ---
 
