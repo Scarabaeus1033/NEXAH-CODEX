@@ -28,7 +28,7 @@ These roots are not random: they encode **resonant ratios** crucial for stable a
 
 ## 3. Visualization
 
-![Root-Based Quasi-Periodic Mesh](../UCRT_VISUALS/root_mesh_grid.png)
+![Root-Based Quasi-Periodic Mesh](../root_mesh_grid.png)
 
 *Visualization of harmonic grids structured by irrational roots.*
 
