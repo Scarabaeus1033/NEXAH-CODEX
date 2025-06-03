@@ -28,27 +28,21 @@ By mapping prime indices ($n$) and their prime values ($P(n)$), we reveal harmon
 
 | Prime Index $n$ | Prime $P(n)$ | Superprime? | Notes                       |
 | :------------: | :----------: | :---------: | :-------------------------- |
-| 2              | 3            | No          |                               |
+| 2              | 3            | No          |                              |
 | 3              | 5            | Yes         | 1st superprime               |
 | 5              | 11           | Yes         | **Elevator Prime**            |
 | 7              | 17           | Yes         | 7D Core — **Tao Resonance**   |
-| 11             | 31           | Yes         |                               |
-| 13             | 41           | Yes         |                               |
-| 17             | 59           | Yes         |                               |
-| 19             | 67           | Yes         |                               |
-| 23             | 83           | Yes         |                               |
-| 29             | 109          | Yes         |                               |
-| 31             | 113          | Yes         |                               |
-| 37             | 151          | Yes         |                               |
-| 41             | 179          | Yes         |                               |
-| 43             | 191          | Yes         |                               |
-| 47             | 211          | Yes         |                               |
-
-**Observations**:
-
-- **11, 13, 17** — Key anchors along the Euler–Ramanujan–Riemann Axis.
-- **7, 23, 29** — Bridge primes in modular 7-fold and 23-fold patterns.
-- Superprimes distribute symmetrically across Base 10–30 resonance layers.
+| 11             | 31           | Yes         |                              |
+| 13             | 41           | Yes         |                              |
+| 17             | 59           | Yes         |                              |
+| 19             | 67           | Yes         |                              |
+| 23             | 83           | Yes         |                              |
+| 29             | 109          | Yes         |                              |
+| 31             | 113          | Yes         |                              |
+| 37             | 151          | Yes         |                              |
+| 41             | 179          | Yes         |                              |
+| 43             | 191          | Yes         |                              |
+| 47             | 211          | Yes         |                              |
 
 ---
 
