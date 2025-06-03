@@ -171,3 +171,4 @@ combining number theory, geometry, and physical constants into a unified, harmon
 **Universal Constants Resonance Theory (UCRT)**
 **Scarabäus1033 (T. Hofmann)**
 **Nexah Research Institute**
+![System 7 Visual Placeholder](./visuals/system7_ucrt_overviewi.png)
