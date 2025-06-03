@@ -8,7 +8,7 @@
 
 ---
 
-![Codex Triad Synthesis](./codex_triad_synthesis_diagram.png)
+![Codex Triad Synthesis](.visuals/codex_triad_synthesis_diagram.png)
 
 ---
 
