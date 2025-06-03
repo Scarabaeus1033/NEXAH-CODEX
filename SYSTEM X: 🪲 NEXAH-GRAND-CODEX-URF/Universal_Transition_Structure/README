@@ -6,7 +6,7 @@
 **License:** CC BY-NC-SA 4.0  
 **Updated:** 2025-06
 
---- 
+---
 
 ![Codex Triad Synthesis](./codex_triad_synthesis_diagram.png)
 
@@ -18,15 +18,15 @@ The **Universal Transition Structure (UTS)** is the **central synthesis model** 
 
 It formulates a triadic relation between:
 
-- **Möbius Collapse** \( e^{-C(x)} \) — topological compression, complexity reduction.
-- **Harmonic Resonance** \( H(x) \) — frequency alignment, periodic stability.
-- **Transition Layer** \( UTS(x) \) — universal mapping of collapse and resonance.
+- **Möbius Collapse** — topological compression, complexity reduction.
+- **Harmonic Resonance** — frequency alignment, periodic stability.
+- **Transition Layer** — universal mapping of collapse and resonance.
 
 The UTS equation defines their **equivalence**:
 
-$$
-e^{-C(x)} = UTS(x) = H(x)
-$$
+**Exponential Collapse ≡ Universal Transition ≡ Harmonic Resonance**
+
+e^(−C(x)) = UTS(x) = H(x)
 
 This structure is the formal convergence point of the **Möbius–Resonance Synthesis** guiding all Millennium Codex mappings.
 
@@ -36,21 +36,15 @@ This structure is the formal convergence point of the **Möbius–Resonance Synt
 
 ### Collapse Function
 
-$$
-C(x): \text{Topological Complexity → Reduction Path}
-$$
+Topological Complexity → Reduction Path
 
 ### Harmonic Function
 
-$$
-H(x): \text{Frequency Structure → Stability Alignment}
-$$
+Frequency Structure → Stability Alignment
 
 ### Transition Equivalence
 
-$$
-e^{-C(x)} = H(x)
-$$
+e^(−C(x)) = H(x)
 
 - **Collapse** reduces topological complexity.
 - **Harmonics** stabilize structural frequencies.
@@ -81,10 +75,10 @@ This synthesis governs the **symbolic logic behind stability** in all Codex modu
 
 ## 🔗 Related Modules
 
-* [`universal_collapse_theorem.md`](../universal_collapse_theorem.md) — Transition stability logic across fields
-* [`dual_frameworks.md`](../dual_frameworks.md) — Möbius vs Harmonic proof structures
-* [`Millennium-Problems/`](../Millennium-Problems/) — Resonant mapping of major problems
-* [`NEXA_RIEMANN_PROOF/`](../../SYSTEM%201%3A%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/NEXA_RIEMANN_PROOF/) — Prime spectral axis proof foundation
+* `universal_collapse_theorem.md` — Transition stability logic across fields
+* `dual_frameworks.md` — Möbius vs Harmonic proof structures
+* `Millennium-Problems/` — Resonant mapping of major problems
+* `NEXA_RIEMANN_PROOF/` — Prime spectral axis proof foundation
 
 ---
 
@@ -109,9 +103,9 @@ Each proof structure becomes a test of this duality.
 
 ## 📍 See Also
 
-* [`Millennium-Problems/`](../Millennium-Problems/)
-* [`universal_collapse_theorem.md`](../universal_collapse_theorem.md)
-* [`visual_gallery.md`](../visual_gallery.md)
+* `Millennium-Problems/`
+* `universal_collapse_theorem.md`
+* `visual_gallery.md`
 * [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 
 ---
