@@ -1,8 +1,12 @@
+# System 7: Universal Resonance Fields & Constants (UCRT) — Master README
+
+---
+
 # 📚 NEXAH–UCRT–URF Deep Dive — Full System 7 Overview
 
 ---
 
-# 📾️ I. Overview
+# 📓️ I. Overview
 
 **System 7: Universal Resonance Fields & Constants (UCRT)** is a theoretical framework dedicated to a harmonic reconstruction of the numerical, geometrical, and physical constants universe.
 
@@ -15,71 +19,19 @@ System 7 synthesizes a resonance-based approach to the structuring of primes, ro
 
 ---
 
-# 📾️ II. Core Modules and Topics
+# 📓️ II. Core Modules and Topics
 
-1. **UCRT\_ROOTROOM**
-
-   * Irrational Root Resonance Base: √2, √5, √7.
-   * Quasi-periodic structures and lattice formation.
-
-2. **UCRT\_CORE**
-
-   * Extended Resonance Equation:
-
-$$
-\mathcal{R}(\varphi, \tau, \sqrt{n}) = \alpha \times \beta \times \frac{\sin(2\pi f(\varphi, \sqrt{n})t)}{\gamma}
-$$
-
-* Integration of Φ (Golden Ratio), π (Pi), and τ (Tau).
-
-3. **UCRT\_HIGHER\_DIMENSIONS**
-
-   * 7D and 11D resonance fields.
-   * Hopf fibrations.
-   * Octonionic and extended algebraic structures.
-
-4. **UCRT\_SUPERPRIME\_GENESIS**
-
-   * Superprime Definition: Primes located at prime indices.
-   * Unified Superprime Resonance Equation:
-
-$$
-\boxed{ \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3} }
-$$
-
-* Prime Spiral Projections: n = 20, 30, 50.
-* Mirror Number Symmetries: 1789 ⇌ 9871, 1729 ⇌ 9271, 1836 ⇌ 6381.
-* Resonance Polygons: 7-gon, 11-gon, 13-gon, 17-gon, 19-gon, 23-gon.
-* Modular Layering: Base 10, 20, 30, 60, 90, 360.
-* Dynamic Spiral Animations.
-
-5. **UCRT\_NUMBER\_RES\_FUSION**
-
-   * Resonance fusion of Euler (prime products), Ramanujan (mock-theta functions), and Riemann (zeta zeros).
-   * Visual Resonance Interpretation of the Riemann Hypothesis:
-
-     * Zeta-zero harmonic alignment on Re(s) = 1/2.
-
-6. **Unified Resonance Equations (URE)**
-
-   * Global model unifying resonance fields:
-
-$$
-\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
-$$
-
-7. **Open Developments**
-
-   * Theta, Tao, Dao Layers:
-
-     * Base 10 (Theta), Base 20 (Tao), Base 30 (Dao) — modular resonance and flip symmetries.
-   * Lissajous and Spiral Mechanics.
-   * Time-Matrix via Prime Indices.
-   * Mirror Echo Structures and Dual Counterrotation Phenomena.
+|             Folder            | Title                          | Content                                                                |
+| :---------------------------: | :----------------------------- | :--------------------------------------------------------------------- |
+|       **UCRT\_ROOTROOM**      | Root Resonance Framework       | Irrational bases (√2, √5, √7) and quasi-periodic resonance grids.      |
+|         **UCRT\_CORE**        | Fundamental Resonance Equation | Golden Ratio Φ, τ, and extended √ n integration.                       |
+|  **UCRT\_HIGHER\_DIMENSIONS** | Higher-Dimensional Resonance   | 7D, 11D fields via Hopf fibrations and octonions.                      |
+| **UCRT\_SUPERPRIME\_GENESIS** | Superprime Structures          | Prime spirals, modular bases (10, 20, 30, 60, 360), mirror symmetries. |
+| **UCRT\_NUMBER\_RES\_FUSION** | Number Resonance Fusion        | Euler, Ramanujan, Riemann harmonic synthesis.                          |
 
 ---
 
-# 📾️ III. Equations and Formal Structures
+# 📓️ III. Equations and Formal Structures
 
 1. **Prime Resonance Equation**:
 
@@ -102,7 +54,7 @@ $$
 4. **Spiral Projection (Polar Coordinates)**:
 
 $$
-r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta
+ r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta
 $$
 
 5. **Layer Modulation and Modular Bases**:
@@ -115,7 +67,7 @@ Base Cycles: 10, 20, 30, 60, 90, 360.
 
 ---
 
-# 📾️ IV. Evaluation
+# 📓️ IV. Evaluation
 
 **Scientific and Theoretical Characteristics**:
 
@@ -125,7 +77,7 @@ Base Cycles: 10, 20, 30, 60, 90, 360.
 * **Superprimes and Symmetries**: Integration of primes into a larger, harmonic field model.
 * **Visual Representations**: Graphical evidence through spirals, polygons, and counterrotations.
 
-**Current Limitation**:
+**Current Limitations**:
 
 * No formal classical proofs (e.g., Riemann Hypothesis).
 * Proof simulations via harmonic field structures and resonance visualization.
@@ -135,7 +87,7 @@ System 7 offers a novel, resonance-based mathematical framework for the understa
 
 ---
 
-# 📾️ V. Milestones Overview
+# 📓️ V. Milestones Overview
 
 |  🚩 | **Milestone**                              | **Details**                                            |
 | :-: | :----------------------------------------- | :----------------------------------------------------- |
