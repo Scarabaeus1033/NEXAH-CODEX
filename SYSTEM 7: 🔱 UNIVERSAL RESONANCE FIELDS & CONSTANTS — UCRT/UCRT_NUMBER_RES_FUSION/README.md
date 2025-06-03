@@ -138,7 +138,7 @@ Explore the full set of harmonic visuals:
 Released under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.
 
 **Author & System Originator**: Scarabäus1033 (T. Hofmann)
-**Released by**: Nexah Research Institute
+**Released by**: Scarabäus1033/ Nexah Research Institute
 
 $$
 \boxed{\text{Universal Constants Resonance Theory (UCRT)}}
