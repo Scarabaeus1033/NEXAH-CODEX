@@ -74,11 +74,11 @@ $$
 
 Where:
 
-* $e^{i\omega T}$ represents harmonic oscillation.
-* $\sum 1/n^s$ encodes prime frequency fields.
+* \$e^{i\omega T}\$ represents harmonic oscillation.
+* \$\sum 1/n^s\$ encodes prime frequency fields.
 * Dual cubic resonance sums (Ramanujan-style) stabilize the structure.
 
-Only when $\text{Re}(s) = 1/2$ does the field reach **complete equilibrium**.
+Only when \$\text{Re}(s) = 1/2\$ does the field reach **complete equilibrium**.
 
 ---
 
