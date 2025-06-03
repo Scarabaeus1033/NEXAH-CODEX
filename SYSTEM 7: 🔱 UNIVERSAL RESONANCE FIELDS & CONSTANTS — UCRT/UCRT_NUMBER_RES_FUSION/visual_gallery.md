@@ -19,17 +19,39 @@ This gallery presents key diagrams and illustrations that form the harmonic back
 
 ---
 
+## Visuals
+
+### Euler Prime Resonance Product
+
+![Euler Prime Resonance Product](../visuals/Euler_Prime_Resonance_Product.png)
+
+### Modulation Equation — Golden Ratio Spiral
+
+![Modulation Equation — Golden Ratio Spiral](../visuals/Modulation_Equation_Golden_Ratio_Spiral.png)
+
+### Ramanujan Theta Grid
+
+![Ramanujan Theta Grid](../visuals/Ramanujan_Theta_Grid.png)
+
+### Riemann Zeta Zero Field
+
+![Riemann Zeta Zero Field](../visuals/Riemann_Zeta_Zero_Field.png)
+
+### Number Resonance Fusion Map
+
+![Number Resonance Fusion Map](../visuals/Number_Resonance_Fusion_Map.png)
+
+### Unified Resonance Structure
+
+![Unified Resonance Structure](../visuals/Unified_Resonance_Structure.png)
+
+---
+
 ## Notes
 
 * All visuals are located in the `/visuals/` subfolder:
 
 `/SYSTEM 7: 🔱 UNIVERSAL RESONANCE FIELDS & CONSTANTS — UCRT/visuals/`
-
-Example embedding:
-
-```markdown
-![Euler Prime Resonance Product](../visuals/Euler_Prime_Resonance_Product.png)
-```
 
 ---
 
