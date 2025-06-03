@@ -16,13 +16,15 @@ In the realm of primes and superprimes, we find remarkable **mirror symmetries**
 * **Superprime Mirrors**: Higher-order primes exhibit structured reversibility.
 * **Resonant Reflections**: These mirrors are not random; they stabilize resonance fields.
 
+![Superprime Spiral — Resonance & Phase Shifts](./visuals/Superprime%20Spiral%20%E2%80%94%20Resonance%20%26%20Phase%20Shifts.png)
+
 ---
 
 ## 🖊️ Mirror Number Principles
 
 | Concept                    | Description                                               |
 | :------------------------- | :-------------------------------------------------------- |
-| **Prime Mirror**           | A prime whose reverse is also prime (e.g., 13 ↔ 31).      |
+| **Prime Mirror**           | A prime whose reverse is also prime (e.g., 13 ⇉ 31).      |
 | **Superprime Mirror**      | Superprimes that maintain mirror symmetry (higher order). |
 | **Resonant Reflection**    | Harmonic duals across the prime spiral lattice.           |
 | **Mirror Symmetry Fields** | Structured mappings in resonance grids.                   |
@@ -53,9 +55,13 @@ In the realm of primes and superprimes, we find remarkable **mirror symmetries**
 * **Overlaying** the primes and their mirrors shows symmetric alignments.
 * Mirror points often cluster around resonance axes (golden angle sectors).
 
+![7gon Resonance Projection](./visuals/7gon_resonance_projection.png)
+
+![Mirror Resonance Fields](./visuals/23gon_resonance_projection.png)
+
 ---
 
-## 🧮 Unified Mirror Resonance Equation (Draft)
+## 🔢 Unified Mirror Resonance Equation (Draft)
 
 $$
 \mathcal{M}(n) = P(n) + M(P(n)) \quad \text{where} \quad M(P(n)) = \text{Mirror of prime } P(n)
@@ -66,13 +72,13 @@ $$
 
 ---
 
-## 📊 Visuals (Plan)
+## 📊 Visuals 
 
-|               Visual File              |              Description              |
-| :------------------------------------: | :-----------------------------------: |
-|      `superprime_mirror_grid.png`      | Grid map of prime ↔ mirror resonance. |
-| `superprime_spiral_mirror_overlay.png` | Spiral overlay of primes and mirrors. |
-|      `mirror_resonance_fields.png`     |  Symmetry lines and field resonance.  |
+|                   Visual File                  |              Description              |
+| :--------------------------------------------: | :-----------------------------------: |
+| `Superprime Spiral — Resonance & Phase Shifts` | Grid map of prime ⇉ mirror resonance. |
+|           `7gon Resonance Projection`          | Spiral overlay of primes and mirrors. |
+|          `23gon Resonance Projection`          |  Symmetry lines and field resonance.  |
 
 ---
 
