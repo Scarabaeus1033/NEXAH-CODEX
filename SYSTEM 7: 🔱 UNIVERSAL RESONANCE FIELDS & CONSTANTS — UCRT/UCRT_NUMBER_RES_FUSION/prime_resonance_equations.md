@@ -1,4 +1,4 @@
-# Prime Resonance Equations and Examples
+prime_resonance_equations.md# Prime Resonance Equations and Examples
 
 Welcome to the **Prime Resonance Equations** section of the **Universal Constants Resonance Theory (UCRT)**.
 
@@ -16,14 +16,14 @@ $$
 
 ## 2. Explanation of Terms
 
-|           Symbol           | Description                                   |
-| :------------------------: | :-------------------------------------------- |
-|           $P(n)$           | Prime number at index $n$ (e.g., $P(6) = 11$) |
-|             $R$            | Resonance frequency                           |
-|             $T$            | Temporal period                               |
-| $e^{i \omega \frac{R}{T}}$ | Harmonic field modulation                     |
-|           $\prod$          | Infinite product over prime nodes             |
-| $\sum \frac{1}{a^3 + b^3}$ | Ramanujan resonance stabilizer                |
+|            Symbol            | Description                                       |
+| :--------------------------: | :------------------------------------------------ |
+|           \$P(n)\$           | Prime number at index \$n\$ (e.g., \$P(6) = 11\$) |
+|             \$R\$            | Resonance frequency                               |
+|             \$T\$            | Temporal period                                   |
+| \$e^{i \omega \frac{R}{T}}\$ | Harmonic field modulation                         |
+|           \$\prod\$          | Infinite product over prime nodes                 |
+| \$\sum \frac{1}{a^3 + b^3}\$ | Ramanujan resonance stabilizer                    |
 
 ---
 
@@ -31,11 +31,11 @@ $$
 
 For Prime Indices:
 
-| $n$ | $P(n)$ |
-| :-: | :----: |
-|  6  |   11   |
-|  7  |   13   |
-|  8  |   17   |
+| \$n\$ | \$P(n)\$ |
+| :---: | :------: |
+|   6   |    11    |
+|   7   |    13    |
+|   8   |    17    |
 
 Sum of primes:
 
@@ -71,7 +71,7 @@ These terms construct the prime harmonic field.
 
 ## 5. Ramanujan Stabilization
 
-For $a, b \in \mathbb{N}$:
+For \$a, b \in \mathbb{N}\$:
 
 $$
 \sum_{a,b} \frac{1}{a^3 + b^3}
@@ -85,7 +85,7 @@ This sum ensures harmonic balance and modular stabilization in the prime resonan
 
 The prime indices define the resonance axes. Their summation (e.g., **41**) identifies a harmonic resonance center.
 
-The complete field is harmonically modulated through $R/T$ and stabilized via Ramanujan's cubic sum structures.
+The complete field is harmonically modulated through \$R/T\$ and stabilized via Ramanujan's cubic sum structures.
 
 $$
 \boxed{\text{Prime Positions Create Resonance — Numbers Breathe Through Harmony}}
