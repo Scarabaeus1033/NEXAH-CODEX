@@ -19,11 +19,9 @@ This module explores the deeper **genesis** of prime numbers, their mirror symme
 * **Mirror Number Symmetries**: Natural reflections within prime sequences (e.g., 1789 ⇌ 9871).
 * **Resonance Formulas**:
 
-$$
-\boxed{
+\[
 \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3}
-}
-$$
+\]
 
 Where:
 
