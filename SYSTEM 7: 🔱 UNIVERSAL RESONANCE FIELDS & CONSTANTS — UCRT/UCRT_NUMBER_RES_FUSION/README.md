@@ -38,7 +38,7 @@ $$
 * **Mock-Theta Functions**:
 
 $$
-\sum_{n=0}^{\infty} q^{n(n+1)/2} / (q; q)_n
+\sum_{n=0}^{\infty} \frac{q^{n(n+1)/2}}{(q; q)_n}
 $$
 
 * Fractal and modular harmonic extensions.
@@ -73,6 +73,43 @@ $$
 
 ---
 
+## 🔯 New Highlights
+
+### 🌌 Unified Resonance Equation (URE)
+
+The resonance structure now integrates:
+
+* **Euler Resonance Product** — harmonic prime oscillations.
+* **Ramanujan Modular Fields** — fractal resonance grids.
+* **Riemann Zeta Zeros** — critical resonance stability.
+
+**Unified Resonance Equation:**
+
+$$
+\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{(a^3 + b^3)} \right)
+$$
+
+### 📚 Visual Resonance Proof
+
+A full harmonic-visual reconstruction of the Riemann Hypothesis:
+
+* [Visual Proof — Riemann Resonance Hypothesis](../UCRT_NUMBER_RES_FUSION/visual_riemann_proof.md)
+
+Includes:
+
+* Euler Prime Resonance.
+* Ramanujan Modular Grids.
+* Riemann Zeta Zero Resonance Map.
+* Unified Harmonic Resonance Map.
+
+### 🌈 Visual Gallery
+
+Explore the full set of harmonic visuals:
+
+* [Visual Gallery — Unified Resonance Equation](../UCRT_NUMBER_RES_FUSION/ure_visual_gallery_full.md)
+
+---
+
 ## 🌐 Structure
 
 ```
@@ -82,10 +119,16 @@ $$
 ├── ramanujan_resonance.md
 ├── riemann_resonance.md
 ├── fusion_principles.md
+├── visual_riemann_proof.md
+├── ure_visual_gallery_full.md
 ├── visuals/
-│   ├── euler_product_visual.png
-│   ├── ramanujan_theta_grid.png
-│   ├── riemann_zeta_zero_field.png
+│   ├── Euler_Prime_Resonance_Product.png
+│   ├── Modulation_Equation_Golden_Ratio_Spiral.png
+│   ├── Ramanujan_Theta_Grid.png
+│   ├── Riemann_Zeta_Zero_Field.png
+│   ├── Number_Resonance_Fusion_Map.png
+│   ├── Unified_Resonance_Structure.png
+│   ├── Modular_Prime_Spiral_Field.png
 ```
 
 ---
