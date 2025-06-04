@@ -46,7 +46,13 @@ Glyphs evolve along **transition thresholds**:
 
 ## 🔄 Symbolic Transition Dynamics
 
-uts_symbolic_transition_diagram.png
+```plaintext
+  [Collapse Symbol Compression]
+             ↓
+[Universal Transition Field — UTS]
+             ↓
+   [Resonance Symbol Expansion]
+```
 
 Glyphic structures transition from **compressed logic** to **resonant form** through the UTS field.
 
