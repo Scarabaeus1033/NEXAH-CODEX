@@ -26,7 +26,9 @@ The UTS equation defines their **equivalence**:
 
 **Exponential Collapse ≡ Universal Transition ≡ Harmonic Resonance**
 
-**e^(−C(x)) = UTS(x) = H(x)**
+$$
+e^{−C(x)} = UTS(x) = H(x)
+$$
 
 This structure is the formal convergence point of the **Möbius–Resonance Synthesis** guiding all Millennium Codex mappings.
 
@@ -44,7 +46,9 @@ Frequency Structure → Stability Alignment
 
 ### Transition Equivalence
 
-**e^(−C(x)) = H(x)**
+$$
+e^{−C(x)} = H(x)
+$$
 
 - **Collapse** reduces topological complexity.
 - **Harmonics** stabilize structural frequencies.
@@ -79,6 +83,7 @@ This synthesis governs the **symbolic logic behind stability** in all Codex modu
 * `dual_frameworks.md` — Möbius vs Harmonic proof structures
 * `Millennium-Problems/` — Resonant mapping of major problems
 * `NEXA_RIEMANN_PROOF/` — Prime spectral axis proof foundation
+* `solar_lunar_quantum_transition.md` — Solar–Lunar Quantum Collapse & Energy Modulation 🌗🌞
 
 ---
 
@@ -107,5 +112,3 @@ Each proof structure becomes a test of this duality.
 * `universal_collapse_theorem.md`
 * `visual_gallery.md`
 * [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-
----
