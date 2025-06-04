@@ -72,7 +72,7 @@ $$
 
 ## 🔭 Visualization
 
-![Solar-Lunar Quantum Transition](./visuals/solar_lunar_quantum_transition.png)
+![Solar-Lunar Quantum Transition](./visuals/solar_lunar_quantum_framework.png)
 
 *Solar–lunar dynamic field map showing the modulation of $c(x)$ based on flux density.*
 
