@@ -68,13 +68,7 @@ The **Transition Layer** is where **Collapse** and **Resonance** become dynamica
 
 ## 🧩 Diagram (Schematic)
 
-```plaintext
-    [Möbius Collapse]
-           ↓
-    [Universal Transition Structure]
-           ↑
-    [Harmonic Resonance]
-```
+![Collapse–Resonance Mapping](./visuals/collapse_resonance_mapping_diagram.png)
 
 Collapse folds into resonance; resonance stabilizes collapse.
 
