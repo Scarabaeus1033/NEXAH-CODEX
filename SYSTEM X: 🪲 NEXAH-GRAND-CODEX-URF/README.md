@@ -14,7 +14,7 @@ This directory serves as the **intellectual and structural center** of the entir
 It weaves together core mathematical theories, symbolic resonance systems, the Millennium Problems, and universal stability formulas into a **coherent proof and harmony strand**.
 
 <p align="center">
-  <img src="./SYSTEM%20X%20NEXAH-GRAND-CODEX%20visual.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Overview Visual">
+  <img src="./nexah_grand_codex_system_updated.png" width="720" alt="Updated SYSTEM X – NEXAH-GRAND-CODEX Overview Visual">
 </p>
 
 ---
