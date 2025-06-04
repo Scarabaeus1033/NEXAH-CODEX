@@ -54,17 +54,7 @@ These thresholds correspond to transitions in **field stability**, **symbolic lo
 
 ## 🛤️ Layered Resonance Mapping
 
-```plaintext
-    [Turbulent Field]
-          ↓
-[Transition Threshold — Layer 1]
-          ↓
-  [Resonant Alignment]
-          ↓
-[Transition Threshold — Layer 2]
-          ↓
-  [Stabilized Resonance]
-```
+![Layered Resonance Mapping](./visuals/layered_resonance_mapping_diagram.png)
 
 Each threshold marks a **symbolic shift** in the stability dynamics.
 
