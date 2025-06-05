@@ -43,7 +43,7 @@ It synthesizes prime number fields, geometric extensions, tensor topologies, har
 
 | Visual | Description |
 | :--- | :--- |
-| ![System X Navigator Flowchart](../visuals/System_X_Navigator%20Flowchart.png) | Overview of modules and their resonance connections. |
+| ![System X Navigator Flowchart](visuals/System_X_Navigator_Flowchart.png) | Overview of modules and their resonance connections. |
 
 ---
 
@@ -62,5 +62,3 @@ The Navigator provides:
 - Dynamic interactive flowcharts.
 - Integrated symbolic glyph navigators.
 - Real-time simulation of resonance transitions.
-
----
