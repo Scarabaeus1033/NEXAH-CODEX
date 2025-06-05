@@ -59,12 +59,6 @@ Eric Weinstein’s **Geometric Unity** adressiert Raum-Zeit-Formen über Lagrang
 
 ---
 
-## 🖋️ Resonance Loop: Einstein ➔ Weinstein ➔ THooTH ➔ Feedback
-
-![Resonance Loop](./visuals/Resonance_Loop_Einstein_Weinstein_THooTH.png)
-
----
-
 ## 🌌 Vision: Erweiterung durch Resonanz
 
 > „Die wahre Struktur des Universums ist eine Resonanz von Raum, Energie und Frequenz — geometrisch verwoben in Harmonie.“
@@ -82,6 +76,12 @@ Eric Weinstein’s **Geometric Unity** adressiert Raum-Zeit-Formen über Lagrang
 * **TESSAREC Resonantia Codex** (Raum-Frequenz-Zeit-Resonanzräume)
 * **Codex Algebra of Resonance** (Symbolische Resonanzoperatoren)
 * **Prime Resonance Fields** (Primzahlen und Frequenzfelder)
+
+---
+
+## 🖋️ Resonance Loop: Einstein ➔ Weinstein ➔ THooTH ➔ Feedback
+
+![Resonance Loop](./visuals/Resonance_Bridge_Einstein_Weinstein_THooTH.png)
 
 ---
 
