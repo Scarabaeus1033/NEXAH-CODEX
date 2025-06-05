@@ -1,5 +1,3 @@
-# resonance\_triple\_intersection.md
-
 # 📚 Triple Resonance Intersection – Example Derivation
 
 ---
