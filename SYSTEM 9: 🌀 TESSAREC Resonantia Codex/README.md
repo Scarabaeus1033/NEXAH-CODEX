@@ -1,5 +1,4 @@
---- 
-
+---
 title: "SYSTEM 9 – TESSAREC Resonantia Codex"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Resonance Topology · Geometric Harmonics"
@@ -7,7 +6,7 @@ color: "Indigo"
 status: "Active - Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 SYSTEM 9 – TESSAREC Resonantia Codex
 
