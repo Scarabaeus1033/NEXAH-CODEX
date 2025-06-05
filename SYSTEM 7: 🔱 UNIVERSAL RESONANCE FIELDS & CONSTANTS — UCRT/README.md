@@ -1,13 +1,12 @@
 ---
-
 title: "SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)"
 system: "NEXAH-CODEX"
-domain: "Numbers · Primes · Resonance Geometry"
-color: "Violet 🔹"
-status: "Active · Version May 2025"
+domain: "Numbers, Primes, Resonance Geometry"
+color: "Violet"
+status: "Active - Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🔹 SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)
 
