@@ -116,4 +116,4 @@ This resonance extension introduces:
 
 ---
 
-\© Scarabäus1033 · 2025 · All Resonances Reserved.
+© Scarabäus1033 · Thomas Hofmann · 2025 · All Resonances Reserved.
