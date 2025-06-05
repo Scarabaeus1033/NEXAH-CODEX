@@ -107,7 +107,7 @@ Higher-dimensional tensor spaces modeling physical-symbolic field transitions.
 ## 🖼 Visual Overview
 
 <p align="center">
-  <img src="./system4_urf_origins_visual.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
+  <img src="./system4_urf_origins_variation.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
 </p>
 
 ---
