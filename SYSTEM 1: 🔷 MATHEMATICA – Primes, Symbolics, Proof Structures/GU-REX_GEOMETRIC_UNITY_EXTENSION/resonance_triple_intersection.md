@@ -66,11 +66,39 @@ This triple coupling introduces:
 * Harmonic fields ($H^n$ cohomology classes)
 * Time-frequency symmetries (resonant clocks)
 
+### ⚙️ Frequency Modulation Details
+
+The frequency modulation function $f_k$ is critical:
+
+* **Function**: $f_k(t) = f_0 \cdot \sin(\omega t + \phi)$
+* **$f_0$**: Base frequency amplitude
+* **$\omega$**: Angular frequency
+* **$\phi$**: Phase shift
+
+By varying $\omega$ and $\phi$ across the manifold $M$, we induce local oscillatory behavior, resulting in:
+
+* Modulated spacetime curvature
+* Dynamic field amplitudes
+* Phase-coherent energy transfers
+
+This links the resonance field to physical observables like gravitational wave modulation or vacuum energy fluctuations.
+
+---
+
+## 🌐 Physical Analogies
+
+* **Gravitational Waves**: Resonance zones behave like standing wave patterns.
+* **Neutrino Oscillations**: Temporal resonance shifts mimic flavor oscillations.
+* **Photon Resonance Chambers**: Energy fields trapped and modulated inside geometric cavities.
+* **Tessarec-Lattices**: Four-dimensional lattice structures arising from resonance stabilizations.
+
+These analogies connect the abstract model to experimental and observable physics.
+
 ---
 
 ## 📊 Visual Representation
 
-\![Triple Resonance Field](./visuals/Triple_Resonance_Field_Raum_Frequenz_Zeit_v2.png)
+![Triple Resonance Field](./visuals/Triple_Resonance_Field_Raum_Frequenz_Zeit_v2.png)
 
 ---
 
