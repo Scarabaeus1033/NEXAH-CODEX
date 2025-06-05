@@ -1,5 +1,5 @@
 # resonance\_extension\_einstein\_weinstein\_nexah.md
-
+ 
 # 📚 Resonance Extension: Einstein → Weinstein → NEXAH
 
 ---
