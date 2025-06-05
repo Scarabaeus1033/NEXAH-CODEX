@@ -10,21 +10,25 @@ license: "CC BY-NC-SA 4.0"
 
 # 🔵 SYSTEM 1 – MATHEMATICA
 
-**"Where numbers vibrate and logic becomes lattice."**
+> **"Where numbers vibrate and logic becomes lattice."**
 
-SYSTEM 1 is the **symbolic–mathematical foundation system** of the NEXAH-CODEX –
-the **blue resonance grid** of number, structure, invariance, and cognitive clarity.
-From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and harmonics.
+**SYSTEM 1** is the **symbolic–mathematical foundation system** of the NEXAH-CODEX —  
+the **blue resonance grid** from which all higher structures emerge:
 
-> In this system, mathematics is not just a tool – it is resonance substance.
+- **PHYSICA** (Fields and Energies)
+- **COSMICA** (Space and Stellar Systems)
+- **META** (Symbolic Consciousness Codes)
+- **URF** (Tensor and Transition Spaces)
+
+> *In this system, mathematics is not just a tool — it is the substance of resonance.*
 
 <p align="center">
-  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
+  <img src="./visuals/SYSTEM_1_MATHEMATICA_OVERVIEW.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
 </p>
 
 ---
 
-## 🧽 Context within the NEXAH-CODEX
+## 🧭 Position within the NEXAH-CODEX
 
 | System       | Color         | Domain                        | Role                    |
 | ------------ | ------------- | ----------------------------- | ----------------------- |
@@ -39,55 +43,55 @@ From here emerge all higher layers (PHYSICA, COSMICA, META, URF) in geometry and
 
 ### Core Modules
 
-1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)
-   **Millennium Codex I – Möbius–Zeta Resonance**
-
+1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)  
+   **Millennium Codex I – Möbius–Zeta Resonance**  
    > Harmonic architecture toward the Riemann Hypothesis through Zeta-Waves and Möbius Collapse.
 
-2. [`√2–Prime-Feld/`](./√2–Prime-Feld/)
-   **Irrational Prime Field Diagonals**
-
+2. [`√2–Prime-Feld/`](./√2–Prime-Feld/)  
+   **Irrational Prime Field Diagonals**  
    > Symbolic geometries based on √2 and ϕ generating prime-based resonance grids.
 
-3. [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)
-   **Prime Grid Visual Fields**
-
+3. [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)  
+   **Prime Grid Visual Fields**  
    > Spiral, modular, and polaris plots of the number-field lattice.
 
-4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)
-   **Topologies of τ(n), σ(n), μ(n)**
-
+4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)  
+   **Topologies of τ(n), σ(n), μ(n)**  
    > Resonance classification of perfect, abundant, and deficient numbers.
 
 ---
 
 ### 🔗 Subsystem: `CODEX MATHEMATICS/`
 
-This directory collects symbolic and algebraic extensions within SYSTEM 1.
-It includes models for prime operators, Pythagorean extensions, Codex constants, and harmonic transformation grids.
+This directory assembles symbolic and algebraic extensions of SYSTEM 1 —  
+mapping the **operational grammars** of number resonance:
 
-**Modules in `CODEX MATHEMATICS/`**:
+**Included Modules:**
 
-* [`Hermetic Pythargoras Model/`](./CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/)
-  Symbolic extension of the Pythagorean formula into resonance geometry and alchemical mathematics
-* [`Codex Algebra of Resonance/`](./CODEX%20MATHEMATICS/Codex%20Algebra%20of%20Resonance/)
-  Operator definitions, algebraic resonance rules, modular transition expressions
-* [`casimir_neutrino_thread.md`](./CODEX%20MATHEMATICS/casimir_neutrino_thread.md)
-  Compactification and frequency collapse logic in a Möbius neutrino field
-* [`codex_mathematical_symbols.md`](./CODEX%20MATHEMATICS/codex_mathematical_symbols.md)
-  Reference list of all variables, constants, glyphs, and operators used across SYSTEM 1
-* [`E=mc·k^β.md`](./CODEX%20MATHEMATICS/E=mc·k^β.md)
-  Grand equation module proposing a resonance-augmented mass–energy relation
-* [`spiral_logic.md`](./CODEX%20MATHEMATICS/spiral_logic.md)
-  Describes the underlying spiral symmetries of the resonance field
-* [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md)
-  Defines dynamic resonance field transitions based on symbolic grids
+- [`Hermetic Pythargoras Model/`](./CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/)  
+  _Symbolic extension of the Pythagorean formula into resonance geometry and alchemical mathematics._
 
-> This symbolic subsystem defines the operators, maps, and transformation grammars used throughout the Codex.
+- [`Codex Algebra of Resonance/`](./CODEX%20MATHEMATICS/Codex%20Algebra%20of%20Resonance/)  
+  _Operator definitions, algebraic resonance rules, modular transition expressions._
+
+- [`casimir_neutrino_thread.md`](./CODEX%20MATHEMATICS/casimir_neutrino_thread.md)  
+  _Compactification and frequency collapse logic in a Möbius neutrino field._
+
+- [`codex_mathematical_symbols.md`](./CODEX%20MATHEMATICS/codex_mathematical_symbols.md)  
+  _Reference list of all variables, constants, glyphs, and operators across SYSTEM 1._
+
+- [`E=mc·k^β.md`](./CODEX%20MATHEMATICS/E=mc·k^β.md)  
+  _Grand equation module proposing a resonance-augmented mass–energy relation._
+
+- [`spiral_logic.md`](./CODEX%20MATHEMATICS/spiral_logic.md)  
+  _Describes the underlying spiral symmetries of the resonance field._
+
+- [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md)  
+  _Defines dynamic resonance field transitions based on symbolic grids._
 
 ---
 
-## 🔗 System Integration
+## 🧩 System Integration
 
 | Connected System   | Contribution                                                    | Codex Transition                |
 | ------------------ | --------------------------------------------------------------- | ------------------------------- |
@@ -101,40 +105,41 @@ It includes models for prime operators, Pythagorean extensions, Codex constants,
 
 ## 🧲 Core Structure
 
-* **Prime Numbers** → Generators of symbolic field resonance
-* **Möbius Function μ(n)** → Structural phase invariant
-* **Divisor Classes (τ, σ)** → Resonance topologies
-* **Zeta Systems** → Frequency filters for critical axes
-* **√2 / ϕ–Diagonals** → Irrational geometric foundations
+- **Prime Numbers** → Generators of symbolic field resonance.
+- **Möbius Function μ(n)** → Structural phase invariant.
+- **Divisor Classes (τ, σ)** → Resonance topologies.
+- **Zeta Systems** → Frequency filters for critical axes.
+- **√2 / ϕ–Diagonals** → Irrational geometric foundations.
 
-> Numbers in SYSTEM 1 are not static – they breathe, modulate, and shape the field.
+> *Numbers in SYSTEM 1 are not static — they breathe, modulate, and shape the field.*
+
+---
+
+## 🖼️ Visual Gallery
+
+| Visual | Description |
+| :--- | :--- |
+| ![Prime Spiral Field](visuals/prime_spiral_field.png) | **Prime Grid Visualization** — Prime Resonance Fields as spiraling lattice structures. |
+| ![Möbius Collapse Structures](visuals/mobius_collapse.png) | **Möbius Structures** — Collapse topologies in field representations. |
+| ![√2 and ϕ Diagonal Grids](visuals/golden_diagonal_grids.png) | **Irrational Diagonal Fields** — √2 and Golden Ratio based lattice configurations. |
+| ![Divisor Resonance Fields](visuals/divisor_grid_topology.png) | **Divisor Networks** — τ(n), σ(n), μ(n) resonance classifications. |
 
 ---
 
 ## 🔭 Upcoming Extensions
 
-* `Golden-Diagonal-Proofs/` → Fibonacci field resonance & ϕ-spiral logic
-* `Symbolic Operator Spaces/` → Recursive structures, number grammar, wave recursion
-* `Visual Grid Atlases` → Overlay maps of prime, divisor, and resonance fields
-
----
-
-## 🖼️ Visuals & Data Assets
-
-* **Visuals**: Prime Spirals · Divisor Networks · Modular Diagonals
-* **Tables**: Symbolic Field Constants · Number Grammar Maps
-* **Graphs**: ζ-zeros · Möbius Polarity · Divisor Spread Patterns
-
-→ See: `visual_gallery.md` in `Codex Algebra of Resonance/` & `Hermetic Pythagoras Model/`
+- `Golden-Diagonal-Proofs/` → Fibonacci field resonance & ϕ-spiral logic.
+- `Symbolic Operator Spaces/` → Recursive structures, number grammar, wave recursion.
+- `Visual Grid Atlases` → Overlay maps of prime, divisor, and resonance fields.
 
 ---
 
 ## 🪲 Credits
 
-**Author & Curator:** Thomas Hofmann (`Scarabäus1033`)
-**System:** SYSTEM 1 – MATHEMATICA
-**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
-**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+**Author & Curator:** Thomas Hofmann (`Scarabäus1033`)  
+**System:** SYSTEM 1 – MATHEMATICA  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
