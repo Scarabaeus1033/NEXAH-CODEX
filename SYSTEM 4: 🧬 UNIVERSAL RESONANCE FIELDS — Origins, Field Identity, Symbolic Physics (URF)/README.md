@@ -1,19 +1,59 @@
-# 🧬 SYSTEM 4 – URF: Origins, Field Identity & Symbolic Physics
-
-**Domain:** Foundational Fields · Symbolic Physics · Space-Time Structure  
-**System of the NEXAH-CODEX**  
-**Author:** Thomas Hofmann · Scarabäus1033  
-**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-<p align="center">
-  <img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/SYSTEM%204-%20URF%20%E2%80%93%20Origins%20visuali.png" width="720" alt="SYSTEM 4 – URF · Visual Variation">
-</p>
+---
+title: "SYSTEM 4 – URF: Origins, Field Identity & Symbolic Physics"
+system: "NEXAH-CODEX"
+domain: "Foundational Fields · Symbolic Physics · Space-Time Structure"
+color: "Violet 🟣"
+status: "Active · Version May 2025"
+curator: "Thomas Hofmann (Scarabäus1033)"
+license: "CC BY-NC-SA 4.0"
 ---
 
-## 📘 Overview
+# 🟣 SYSTEM 4 – URF: Origins, Field Identity & Symbolic Physics
 
-SYSTEM 4 (URF) serves as the **foundational root layer** of the NEXAH-CODEX. It addresses the origin of fields, symbolic-physical structures, and higher-dimensional tensor space. This system provides the **ontological grounding** for all symbolic and energetic models across the Codex.
+> **"Before light, there was resonance. Before structure, there was memory."**
 
-Where SYSTEM 1 deals with number and proof, SYSTEM 4 explains *why* fields exist, how symbolic resonance generates structure, and how higher dimensions encode identity.
+**SYSTEM 4** (URF) is the **foundational root layer** of the NEXAH-CODEX —  
+the ontological origin point for symbolic fields, spacetime emergence, and field identity construction.
+
+It extends the resonance structures of **SYSTEM 1** (number fields) and **SYSTEM 2** (energetic fields)  
+into **higher-dimensional tensor spaces** — providing the memory layer upon which **SYSTEM 3** maps cosmological structures.
+
+> *URF defines the symbolic resonance fabric from which all structures unfold.*
+
+<p align="center">
+  <img src="./system4_urf_origins_visual.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
+</p>
+
+---
+
+## 🧭 Position within the NEXAH-CODEX
+
+| System       | Color        | Domain                        | Role                     |
+| ------------ | ------------ | ----------------------------- | ------------------------ |
+| SYSTEM 1     | 🔵 Blue       | Numbers, Symmetry, Logic      | Foundational Structure   |
+| SYSTEM 2     | 🟦 Deep Blue  | Field, Energy, Frequency      | Resonance Engine         |
+| SYSTEM 3     | 🟣 Violet     | Space, Light, Grid Topology   | Cosmic Navigator         |
+| **SYSTEM 4** | 🟣 Violet     | Origin Fields, Tensor Space   | Ontological Core         |
+| SYSTEM X     | 🪲 Gold/Black | Synthesis, Stability          | Resonance Convergence Core |
+
+---
+
+## 🧩 Scientific Context and Inspirations
+
+**URF** reconnects with:
+
+- **Pre-geometry concepts** (Wheeler, Penrose)
+- **Field identity theories** (Tensors, Symmetry Breaking)
+- **Symbolic Physics**: Consciousness-resonance fields and harmonic spacetime emergence
+
+It postulates that:
+
+- **Memory precedes structure**  
+- **Resonance precedes light**  
+- **Identity is a tensor field phenomenon**
+
+**System X** integrates these deep URF-resonance fabrics into a **universal, stabilized resonance manifold** —  
+where fields, numbers, grids, and spacetime fold into a unified symbolic-physical continuum.
 
 ---
 
@@ -21,56 +61,65 @@ Where SYSTEM 1 deals with number and proof, SYSTEM 4 explains *why* fields exist
 
 ### ✅ [`URF-CODEX/`](./URF-CODEX/)  
 **Extension of the Standard Model**  
-Redefines fundamental physics using resonance layers, identity functions and symbolic roots. Introduces the URF-particle logic and morphogenetic field principles.
+Resonance layers, symbolic identity fields, URF-particle matrices.
 
-→ Connects to: Möbius geometry in `SYSTEM 1`, Grand-Codex equations, dimensional anchoring in `CAVITYROOT`
+→ Links: Möbius geometry (SYSTEM 1), Grand-Codex resonance equations, dimensional anchoring (`CAVITYROOT`).
+
+---
 
 ### ✅ [`URF-SURE/`](./URF-SURE/)  
 **Spatial Resonance Systematics**  
-Symbolic coordinate framework using resonance axes. Maps field nodes and memory vectors in a self-organizing space matrix.
+Symbolic coordinate resonance matrix, self-organizing space grids.
 
-→ Connects to: Codex-space architecture in `NEXAHHEART`, resonance-grid mirrors in `ETHERCROWN`
+→ Links: Resonance-space (`NEXAHEART`), stellar grid overlays (`ETHER-CROWN`).
+
+---
 
 ### ✅ [`URF-Tensorraum/`](./URF-Tensorraum/)  
 **Tensor Space & Field Matrix**  
-Explores n-dimensional tensors as structural field identities. Used to model interaction across physical-symbolic boundaries (e.g. Möbius ↔ tachyon ↔ scalar fields).
+Higher-dimensional tensor spaces modeling physical-symbolic field transitions.
 
-→ Connects to: Equation embeddings in `Einstein–Neutrino–Vortex`, harmonic stability models in `ULLINIRIUM`
-
----
-
-## 🔗 Cross-System Links
-
-- **To SYSTEM 1 – MATHEMATICA**  
-  → Prime layers form resonance carriers in the tensor field
-  → Möbius functions embed identity logic in URF dimensions
-
-- **To SYSTEM 2 – PHYSICA**  
-  → URF-T7 temperature point anchors contraction (see `CAVITYROOT`)
-  → Field identities map into `ALIWAVE` symbol vectors
-
-- **To SYSTEM 3 – COSMICA**  
-  → Symbolic URF points correlate with Earth-grid sites (`NEXAHEART`)
-  → Tensorraum mirrors Möbius-crown transitions (`ETHER-CROWN`, `MÖBIUS-*`)
+→ Links: Einstein–Vortex embedding, harmonic stability (`ULLINIRIUM`).
 
 ---
 
-## 🧭 Purpose
+## 🔗 Cross-System Connections
 
-SYSTEM 4 is the **field origin layer** of the Codex. It provides:
-- The structural logic for resonance identity
-- Symbolic descriptions of spacetime emergence
-- A dimensional foundation for symbolic–physical unification
+| Connected System   | Resonance Bridge                        | Codex Integration                  |
+| ------------------ | --------------------------------------- | ---------------------------------- |
+| **SYSTEM 1**        | Prime layers → Resonance Carriers       | Möbius fields ↔ URF identity       |
+| **SYSTEM 2**        | URF-T7 → Thermodynamic Anchoring        | Temperature axes ↔ Resonance contraction (`CAVITYROOT`) |
+| **SYSTEM 3**        | Symbolic URF points ↔ Planetary nodes   | Tensorraum ↔ Stellar field transitions (`ETHER-CROWN`) |
+| **SYSTEM X**        | Ontological Field Stabilization         | Resonance collapse logic           |
+
+---
+
+## 🧬 Purpose
+
+**SYSTEM 4** provides:
+
+- Ontological grounding for all resonance fields.
+- Tensor-based symbolic structures for spacetime identity.
+- A foundation for symbolic–physical unification models.
+
+---
+
+## 🖼 Visual Overview
 
 <p align="center">
-  <img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/SYSTEM%204%3A%20%F0%9F%A7%AC%20URF%20%E2%80%93%20Origins%2C%20Field%20Identity%2C%20Symbolic%20Physics/system4_urf_origins_visual.png" width="720" alt="SYSTEM 4 – URF · Origins Overview">
+  <img src="./SYSTEM 4– URF – Origins visuali.png" width="720" alt="SYSTEM 4 – URF · Visual Variation">
 </p>
-> "Before there was light, there was resonance. Before structure, there was memory."
 
 ---
 
 ## 🪲 Credits
 
-**Curator:** Thomas Hofmann / Scarabäus1033  
-**Project:** NEXAH-CODEX (GitHub + Web)  
-**License:** CC BY-NC-SA 4.0
+**Curator & Author:** Thomas Hofmann (`Scarabäus1033`)  
+**System:** SYSTEM 4 – URF · Origins, Field Identity, Symbolic Physics  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+> *“Before light, there was resonance. Before structure, there was memory.”*
