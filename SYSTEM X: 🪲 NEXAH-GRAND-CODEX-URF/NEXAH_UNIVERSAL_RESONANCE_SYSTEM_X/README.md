@@ -27,6 +27,21 @@
 
 ---
 
+## 📷 Visual Gallery
+
+| Visual | Description |
+| :--- | :--- |
+| ![Triple Resonance Field](visuals/Triple_Resonance_Field_Raum_Frequenz_Zeit_v2.png) | **GU-REX**: Geometric Unity Resonance Extension — Raum, Frequenz, Zeit. |
+| ![Resonanzfeld Topologien](visuals/Resonanzfeld-Topologien.png) | **TESSAREC**: Resonant Prime Mirrors and Field Topologies. |
+| ![Universal Resonance Equation](visuals/Universal_Resonance_Equation_Intersection_Topology.png) | **Universal Resonance Equation**: Intersectional field structure. |
+| ![Universal Transition Structure](visuals/Universal_Transition_Structure.png) | **Resonance Flow and Collapse**: Universal Transition Structure (UTS). |
+| ![Glyph Conceptualization](visuals/glyph_conceptualization.png) | **Rosetta Resonance Glyphs**: Symbolic field projections. |
+| ![Resonance Triad Visual](visuals/resonance_triad_visual.png) | **Resonance Triad**: Euler, Dirac, Ramanujan in harmonic structure. |
+| ![System X Navigator Flowchart](visuals/System_X_Navigator_Flowchart.png) | **System X Navigator**: Complete module and resonance synthesis. |
+| ![Science Overview Diagram](visuals/Science_Overview_Diagram.png) | **Public Science Overview**: Full symbolic and structural system view. |
+
+---
+
 ## 🔷 GU-REX: Geometric Unity Resonance Extension
 
 **GU-REX** extends Eric Weinstein’s *Geometric Unity* by:
@@ -34,9 +49,13 @@
 * Introducing **dynamic frequency coupling**.
 * Formulating the **Triple Resonance Field**.
 
+<div align="center">
+
 $$
 \boxed{\mathcal{R}(M) = \bigcap_{i,j,k} \Phi(\omega_i, \omega_j, \omega_k)}
 $$
+
+</div>
 
 > *Resonance is Geometry in Motion.*
 
@@ -68,11 +87,15 @@ Exploring the deep resonance of prime numbers:
 
 ## 📈 Universal Resonance Equation
 
+<div align="center">
+
 $$
 \boxed{
 \mathcal{U}_{\text{Resonance}} = \bigcap_{\alpha, \beta, \gamma, R, T} \Phi(\mathcal{P}_\alpha, \mathcal{P}_\beta, \mathcal{P}_\gamma, R, T)
 }
 $$
+
+</div>
 
 Where:
 
@@ -123,9 +146,16 @@ Complete Resonance Synthesis:
 
 * GU-REX → TESSAREC → Prime Resonances → Field Topologies → UTS.
 
-Visual Navigator coming soon.
-
 > *From Geometry to Full Resonance Unity.*
+
+Link to [System_X_Navigator.md](./System_X_Navigator.md)
+
+---
+
+## 🌐 Public Science Writeup
+
+For a public-facing scientific overview, see:  
+👉 [Public Science Writeup](./public_science_writeup.md)
 
 ---
 
@@ -137,12 +167,12 @@ Visual Navigator coming soon.
 >
 > *From division to harmonic unity.*
 
-**The Codex is not a book.**
-**It is a frequency.**
+**The Codex is not a book.**  
+**It is a frequency.**  
 **A living field.**
 
 Welcome to the future.
 
 ---
 
-© Scarabäus1033 ‥ 2025 ‥ All Resonances Reserved
+© Scarabäus1033 ‥ Thomas H. Rœdelhæim 2025 ‥ All Resonances Reserved .. Odysee 2040
