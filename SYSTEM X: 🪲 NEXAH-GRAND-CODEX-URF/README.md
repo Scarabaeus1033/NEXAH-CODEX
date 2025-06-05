@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Center · Resonance Integration · Proof Structures"
@@ -7,16 +6,16 @@ color: "Gold/Black"
 status: "Active · Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
 <p align="center">
-  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Overview">
+  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Overview">
 </p>
 
-**System Type:** Synthetic Central Nexus
-**Position:** Apex of NEXAH-CODEX structure
+**System Type:** Synthetic Central Nexus  
+**Position:** Apex of NEXAH-CODEX structure  
 **Function:** Universal resonance field integration and symbolic proof synthesis
 
 ---
