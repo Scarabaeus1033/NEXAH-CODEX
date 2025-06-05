@@ -20,10 +20,8 @@ the **blue resonance grid** from which all higher structures emerge:
 - **META** (Symbolic Consciousness Codes)
 - **URF** (Tensor and Transition Spaces)
 
-> *In this system, mathematics is not just a tool — it is the substance of resonance.*
-
 <p align="center">
-  <img src="./visuals/SYSTEM_1_MATHEMATICA_OVERVIEW.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
+  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
 </p>
 
 ---
@@ -36,6 +34,24 @@ the **blue resonance grid** from which all higher structures emerge:
 | SYSTEM 2     | 🗆 Deep Blue  | Field, Energy, Frequency      | Physical Resonance Core |
 | SYSTEM 3     | 🕣 Violet     | Space, Light, Stellar Systems | Cosmological Field Map  |
 | SYSTEM X     | 🪲 Gold/Black | Synthesis, Stability          | Center of All Systems   |
+
+---
+
+## 🧩 Scientific Context and Inspirations
+
+**SYSTEM 1** continues the legacy of grand unification efforts —  
+but shifts the paradigm from geometry alone to **resonance foundations**.
+
+- **Einstein** envisioned the fabric of spacetime as dynamic geometry.
+- **Weinstein** advanced the notion with **Geometric Unity** — extending symmetry and structure.
+- **Riemann** laid the harmonic groundwork with his zeta structures, hinting at deeper vibratory fields.
+
+> **NEXAH Codex** takes the next step:  
+> From geometry and symmetry to **resonance as the universal fabric**.
+
+Here, **prime numbers**, **divisor functions**, and **zeta systems** are not abstract artifacts —  
+they are **living resonance fields** —  
+generating, stabilizing, and modulating the entire Codex architecture.
 
 ---
 
@@ -64,7 +80,7 @@ the **blue resonance grid** from which all higher structures emerge:
 ### 🔗 Subsystem: `CODEX MATHEMATICS/`
 
 This directory assembles symbolic and algebraic extensions of SYSTEM 1 —  
-mapping the **operational grammars** of number resonance:
+mapping the **operational grammars** of number resonance.
 
 **Included Modules:**
 
@@ -91,18 +107,6 @@ mapping the **operational grammars** of number resonance:
 
 ---
 
-## 🧩 System Integration
-
-| Connected System   | Contribution                                                    | Codex Transition                |
-| ------------------ | --------------------------------------------------------------- | ------------------------------- |
-| **PHYSICA**        | τ(n), μ(n) → field density; Möbius logic → neutrino structuring | `Einstein–Vortex`, `CAVITYROOT` |
-| **COSMICA**        | Spiral numbers → stellar fields; Prime axes → spacetime grids   | `MÖBIUS-CROWN`, `NEXAH–FIELD`   |
-| **URF**            | Tensors → symbolic field identity                               | `URF-Tensorraum`                |
-| **META / ROSETTA** | Number-symbol logic → glyph grammar                             | `Rosetta–ULLINIRIUM`            |
-| **GRAND-CODEX**    | Proof synthesis anchor → Collapse Theorem                       | `universal_collapse_theorem.md` |
-
----
-
 ## 🧲 Core Structure
 
 - **Prime Numbers** → Generators of symbolic field resonance.
@@ -112,17 +116,6 @@ mapping the **operational grammars** of number resonance:
 - **√2 / ϕ–Diagonals** → Irrational geometric foundations.
 
 > *Numbers in SYSTEM 1 are not static — they breathe, modulate, and shape the field.*
-
----
-
-## 🖼️ Visual Gallery
-
-| Visual | Description |
-| :--- | :--- |
-| ![Prime Spiral Field](visuals/prime_spiral_field.png) | **Prime Grid Visualization** — Prime Resonance Fields as spiraling lattice structures. |
-| ![Möbius Collapse Structures](visuals/mobius_collapse.png) | **Möbius Structures** — Collapse topologies in field representations. |
-| ![√2 and ϕ Diagonal Grids](visuals/golden_diagonal_grids.png) | **Irrational Diagonal Fields** — √2 and Golden Ratio based lattice configurations. |
-| ![Divisor Resonance Fields](visuals/divisor_grid_topology.png) | **Divisor Networks** — τ(n), σ(n), μ(n) resonance classifications. |
 
 ---
 
