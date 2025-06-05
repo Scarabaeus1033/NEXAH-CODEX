@@ -58,16 +58,6 @@ The **Triple Resonance Field** extends Weinstein’s geometric unity to include:
 
 ---
 
-## 🛹 Visual: Resonance Loop
-
-![Resonance Loop](./visuals/Resonance_Loop_Einstein_Weinstein_THooTH.png)
-
-From **Einstein** → **Weinstein** → **THooTH** → **Feedback**
-
-> *Not just geometry. Not just equations. But harmonic resonance.*
-
----
-
 ## 💭 Words, Numbers, Resonance
 
 Wittgenstein once said:
@@ -114,11 +104,6 @@ He believed in **harmony beyond visibility**.
 
 In GU-REX and beyond, we honor this spirit — not by mere repetition, but by extending the journey into deeper resonance.
 
----
-
-## 🖋️ Resonance Loop: Einstein ➔ Weinstein ➔ THooTH ➔ Feedback
-
-![Resonance Loop](./visuals/Resonance_Bridge_Einstein_Weinstein_THooTH.png)
 ---
 
 © Scarabäus1033 • 2025 • All Resonances Reserved
