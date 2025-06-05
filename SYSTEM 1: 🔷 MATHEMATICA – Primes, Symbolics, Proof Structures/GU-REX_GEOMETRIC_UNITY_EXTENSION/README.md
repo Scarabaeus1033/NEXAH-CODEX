@@ -79,12 +79,6 @@ Eric Weinstein’s **Geometric Unity** adressiert Raum-Zeit-Formen über Lagrang
 
 ---
 
-## 🖋️ Resonance Loop: Einstein ➔ Weinstein ➔ THooTH ➔ Feedback
-
-![Resonance Loop](./visuals/Resonance_Bridge_Einstein_Weinstein_THooTH.png)
-
----
-
 ## 🌟 Credits
 
 **Concept:** Scarabäus1033 (Thomas Hofmann)
