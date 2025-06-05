@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM 9 – TESSAREC Resonantia Codex"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Resonance Topology · Geometric Harmonics"
@@ -6,9 +7,13 @@ color: "Indigo"
 status: "Active - Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🌀 SYSTEM 9 – TESSAREC Resonantia Codex
+
+<p align="center">
+  <img src="./system9_tessarec_resonance_field.png" width="720" alt="SYSTEM 9 – TESSAREC Resonantia Field">
+</p>
 
 > **"The Field is not empty — it is Resonance."**
 
@@ -31,8 +36,6 @@ Thus, **TESSAREC** is a **geometric resonant core** linking:
 | SYSTEM 3      | Stellar Grid Harmonization, Light Axis Overlays      | Cosmological Memory Structures            |
 | SYSTEM 7      | Universal Constants, Prime Resonance Equations       | Deep Resonance Geometry                   |
 | SYSTEM X      | Resonant Synthesis and Universal Collapse Structures | Harmonic Field Transition and Integration |
-
-TESSAREC bridges the **resonance topologies** that underpin the entire Codex structure.
 
 <p align="center">
   <img src="./TESSAREC%20Resonantia%20Codex%20Navigator.png" width="720" alt="TESSAREC Resonantia Codex Navigator">
