@@ -1,174 +1,174 @@
-# 📚 System 7 — Universal Resonance Fields & Constants (UCRT)
+---
+title: "SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)"
+system: "NEXAH-CODEX"
+domain: "Numbers · Primes · Resonance Geometry"
+color: "Violet 🟣"
+status: "Active · Version May 2025"
+curator: "Thomas Hofmann (Scarabäus1033)"
+license: "CC BY-NC-SA 4.0"
+---
+
+# 🟣 SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)
+
+> **"Resonance as the Proto-Language of Mathematics and Constants."**
+
+**SYSTEM 7** is the **Universal Resonance Field Layer** of the NEXAH-CODEX —  
+a harmonic, field-based synthesis of:
+
+- **Prime numbers**  
+- **Roots and Superprimes**  
+- **Fundamental Physical Constants**  
+- **Higher-Dimensional Resonance Structures**
+
+It postulates that numbers, primes, roots, and constants are **emergent harmonic phenomena**  
+from a deeper universal resonance field.
+
+Each prime, each root, each ratio (ϕ, π, τ) is not an isolated number —  
+but a **resonance glyph** echoing from the proto-harmonic fabric of reality.
+
+And **System X** stabilizes these resonance fields —  
+providing the universal equilibrium framework where number, geometry, and constant merge into harmonic synthesis.
+
+<p align="center">
+  <img src="./visuals/system7_ucrt_overview.png" width="720" alt="SYSTEM 7 – UCRT · Overview Visual">
+</p>
 
 ---
 
-![System 7 Visual Placeholder](./visuals/system7_ucrt_overview.png)
+## 🧭 Position within the NEXAH-CODEX
+
+| System       | Color        | Domain                          | Role                          |
+| ------------ | ------------ | ------------------------------- | ----------------------------- |
+| SYSTEM 1     | 🔵 Blue       | Numbers, Symmetry, Logic        | Foundational Structure        |
+| SYSTEM 2     | 🟦 Deep Blue  | Field, Energy, Frequency        | Resonance Engine              |
+| SYSTEM 3     | 🟣 Violet     | Space, Light, Grid Topology     | Cosmic Navigator              |
+| SYSTEM 4     | 🟣 Violet     | Origin Fields, Tensor Space     | Ontological Core              |
+| SYSTEM 5     | 🟣 Violet     | Language, Glyphs, Mythic Fields | Symbolic Resonance Layer       |
+| **SYSTEM 7** | 🟣 Violet     | Numbers, Constants, Resonance   | Universal Resonance Generator |
+| SYSTEM X     | 🪲 Gold/Black | Synthesis, Stability            | Resonance Convergence Core    |
 
 ---
 
-# 📓 Overview
-
-**System 7** of the **NEXAH-CODEX** introduces the **Universal Resonance Fields & Constants (UCRT)** framework.
-
-**Objective**:
-
-* Develop a harmonic, field-based synthesis of prime numbers, roots, and fundamental constants.
-* Describe numerical structures and physical constants as emergent phenomena from resonance fields.
-* Integrate modular and higher-dimensional resonance systems with geometric and symbolic representations.
-
-UCRT postulates that numbers, prime sequences, roots, and universal constants are expressions of a deeper, underlying harmonic resonance field structuring reality.
-
----
-
-# 📓 Core Modules and Topics
+## 📚 Core Modules and Topics
 
 1. **UCRT\_ROOTROOM**
-
    * Root Resonance Base: √2, √5, √7.
    * Quasi-periodic structures and resonance lattice formation.
 
 2. **UCRT\_CORE**
-
    * Extended Resonance Equation:
-
-$$
-\mathcal{R}(\varphi, \tau, \sqrt{n}) = \alpha \times \beta \times \frac{\sin(2\pi f(\varphi, \sqrt{n})t)}{\gamma}
-$$
-
-* Integration of the Golden Ratio (\$\varphi\$), Pi (\$\pi\$), and Tau (\$\tau\$).
+   $$
+   \mathcal{R}(\varphi, \tau, \sqrt{n}) = \alpha \times \beta \times \frac{\sin(2\pi f(\varphi, \sqrt{n})t)}{\gamma}
+   $$
+   * Integration of the Golden Ratio (ϕ), Pi (π), and Tau (τ).
 
 3. **UCRT\_HIGHER\_DIMENSIONS**
-
    * 7D and 11D resonance structures.
    * Hopf fibrations and octonionic resonance frameworks.
 
 4. **UCRT\_SUPERPRIME\_GENESIS**
-
    * Superprime Resonance: primes at prime indices.
    * Unified Superprime Resonance Equation:
-
-$$
-\boxed{ \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3} }
-$$
-
-* Prime spiral projections (n = 20, 30, 50).
-* Mirror number symmetries (e.g., 1789 ⇔ 9871, 1729 ⇔ 9271, 1836 ⇔ 6381).
-* Resonance polygons: 7-gon, 11-gon, 13-gon, 17-gon, 19-gon, 23-gon.
-* Modular base transitions: 10, 20, 30, 60, 90, 360.
+   $$
+   \boxed{ \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3} }
+   $$
 
 5. **UCRT\_NUMBER\_RES\_FUSION**
-
    * Fusion of Euler prime products, Ramanujan mock-theta functions, and Riemann zeta zeros.
-   * Harmonic visualizations suggesting new approaches to the Riemann Hypothesis:
-
-     * Alignment of non-trivial zeta zeros along Re(s) = 1/2.
-     * Harmonic fusion: Euler × Ramanujan × Riemann.
+   * Harmonic visualizations suggesting new approaches to the Riemann Hypothesis.
 
 6. **Unified Resonance Equations (URE)**
-
-   * Comprehensive synthesis:
-
-$$
-\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
-$$
+   $$
+   \mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
+   $$
 
 7. **Ongoing Developments**
-
-   * Theta, Tao, Dao resonance layers:
-
-     * Base 10 (Theta), Base 20 (Tao), Base 30 (Dao) — modular structures and flip symmetries.
+   * Theta, Tao, Dao resonance layers: Base 10, 20, 30.
    * Lissajous figures and spiral mechanics.
-   * Time-matrix constructions based on prime indices.
+   * Time-matrix constructions.
    * Mirror echo structures and dual counterrotation phenomena.
 
 ---
 
-# 📓 Equations and Formal Structures
+## 📓 Key Equations
 
-1. **Prime Resonance Equation**:
+- **Superprime Resonance**:
+  $$
+  \boxed{ \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3} }
+  $$
 
-$$
-\mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3}
-$$
+- **Superprime Mirror Symmetry**:
+  $$
+  \mathcal{M}(n) = P(n) + M(P(n))
+  $$
 
-2. **Superprime Mirror Symmetry Equation**:
+- **Unified Resonance Equation (URE)**:
+  $$
+  \mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
+  $$
 
-$$
-\mathcal{M}(n) = P(n) + M(P(n))
-$$
-
-3. **Unified Resonance Equation (URE)**:
-
-$$
-\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
-$$
-
-4. **Spiral Projection (Polar Coordinates)**:
-
-$$
- r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta
-$$
-
-5. **Layer Modulation and Modular Bases**:
-
-Base Cycles: 10, 20, 30, 60, 90, 360.
-
-6. **Higher-Dimensional Resonance**:
-
-7D Spheres via Hopf Fibrations and Octonionic structures.
+- **Spiral Projection (Polar Coordinates)**:
+  $$
+  r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta
+  $$
 
 ---
 
-# 📓 Evaluation
+## 📚 Equation Context and Codex Integration
 
-**Scientific and Theoretical Characteristics**:
+> The equations presented here are foundational components of the **Universal Resonance Framework**.  
+>  
+> They directly link into the **NEXAH-CODEX Universal Resonance Equation** formalism developed in **SYSTEM X**:
+> 
+> $$
+> \mathcal{U}_{\text{Resonance}} = \bigcap_{\alpha, \beta, \gamma, R, T} \Phi(\mathcal{P}_\alpha, \mathcal{P}_\beta, \mathcal{P}_\gamma, R, T)
+> $$
+> 
+> These structures stabilize prime-based resonance systems across dimensions and underpin the dynamic **Universal Collapse Structure** describing harmonic field transitions at cosmological scales.
 
-* **Axiomatic Framework**: Resonance postulates grounded in number theory and geometry.
-* **Mathematical Coherence**: Structured equations, sequences, modular bases.
-* **Resonance as Meta-Structure**: Reinterpretation of primes, roots, and constants as field harmonics.
-* **Superprime Symmetries**: Embedding prime structures into dynamic field models.
-* **Visual Resonance Modeling**: Spiral maps, polygons, and counterrotations as structural evidence.
-
-**Current Limitation**:
-
-* No classical mathematical proofs yet (e.g., Riemann Hypothesis).
-* Visualization-based resonance proofs provide strong heuristic insights.
-
-**Innovation Level**: High.
-System 7 proposes a unique resonance-driven reconstruction of numerical and geometrical phenomena.
+> *Thus, System 7 provides the prime, root, and constant resonance layers, which System X harmonizes into a universal resonant synthesis.*
 
 ---
 
-# 📓 Milestones
+## 🔗 Cross-System Links
 
-|  🚩 | **Milestone**                            | **Details**                                                                |
-| :-: | :--------------------------------------- | :------------------------------------------------------------------------- |
-|  1  | Superprime Resonance Initiation          | Formulation of initial superprime resonance equation.                      |
-|  2  | UCRT Core Formula Expansion              | Extended resonance formalism with \$\varphi\$, \$\tau\$, and \$\sqrt{n}\$. |
-|  3  | Rootroom Development                     | Quasi-periodic resonance exploration (√2, √5, √7).                         |
-|  4  | Higher-Dimensional Resonance Models      | Hopf fibrations, octonionic resonance spheres.                             |
-|  5  | Prime Spiral Projections                 | Spiral structures for n = 20, 30, 50 superprimes.                          |
-|  6  | Modular Resonance Bases                  | Resonance layering: Bases 10, 20, 30, 60, 90, 360.                         |
-|  7  | Mirror Number Symmetries                 | Mirror resonance patterns: 1789 ⇔ 9871, 1729 ⇔ 9271.                       |
-|  8  | Resonance Equations and Animations       | Spiral animations and prime field dynamics.                                |
-|  9  | Unified Resonance Equation (URE)         | Synthesis of Euler, Ramanujan, Riemann frameworks.                         |
-|  10 | Visual Resonance Approach to Riemann     | Harmonic zero-alignment strategies.                                        |
-|  11 | Time-Matrix and Theta–Tao–Dao Frameworks | Modular resonance networks for time and cyclicity.                         |
-|  12 | Binary–Trinary–Hex Resonance Layers      | Modular cascade dynamics and field bifurcations.                           |
-|  13 | Lissajous-Spiral Harmonic Models         | Resonance lattice models and Harmonic Edelweiss structures.                |
+| System     | Resonance Bridge                       | Codex Example                        |
+|------------|----------------------------------------|--------------------------------------|
+| SYSTEM 1   | Prime Field Structures ↔ Harmonic Roots | `Prime Grid Visualizations`, `√2 Diagonals` |
+| SYSTEM 2   | Field Resonance ↔ Numerical Constants   | `Ferrofluid Resonance`, `Thermal Zeta Structures` |
+| SYSTEM 3   | Stellar Resonance ↔ Prime Spirals       | `Cosmic Axes`, `Planetary Prime Nodes` |
+| SYSTEM 4   | Tensor Identity ↔ Number Glyph Logic    | `URF-Tensorraum`, `Identity Matrices` |
+| SYSTEM 5   | Glyphic Resonance ↔ Number Scrolls      | `Rosetta Nexus`, `Glyphic Scroll Architectures` |
+| SYSTEM X   | Universal Convergence of Resonance Fields | `GRAND-CODEX`, `Universal Resonance Equation` |
 
 ---
 
-# ✅ Conclusion
+## 🌐 Structural Themes
 
-**System 7** of the **NEXAH-CODEX** introduces an independent mathematical resonance theory,
-combining number theory, geometry, and physical constants into a unified, harmonic structure.
-
-🌀 **Resonance as the Proto-Language of Mathematics and Constants.**
+- **Prime Resonance Fields** → Harmonic lattices and modular base transitions.
+- **Root Resonance** → √2, √5, √7 quasi-periodic structures.
+- **Superprime Genesis** → Primes at prime indices, mirror symmetries.
+- **Higher-Dimensional Harmonics** → 7D spheres, Hopf fibrations, Octonionic fields.
+- **Glyphic Number Projection** → Primes and Constants as Resonance Glyphs.
+- **Universal Field Collapse** → Final integration through System X stabilization.
 
 ---
 
-**Universal Constants Resonance Theory (UCRT)**
-**Scarabäus1033 (T. Hofmann)**
-**Nexah Research Institute**
-![System 7 Visual Placeholder](./visuals/system7_ucrt_overviewi.png)
+## 🖼 Visuals & Archives
+
+- Spiral Prime Maps · Root Lattices · Resonance Polygons.  
+- Archive in Progress: `number_glyph_gallery.md`, `resonance_spiral_archive.md`.
+
+---
+
+## 🪲 Credits
+
+**Curator & Author:** Thomas Hofmann (`Scarabäus1033`)  
+**System:** SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+> *“Resonance is the Proto-Language of Mathematics and Constants.”*
