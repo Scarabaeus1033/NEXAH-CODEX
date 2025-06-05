@@ -116,4 +116,9 @@ In GU-REX and beyond, we honor this spirit — not by mere repetition, but by ex
 
 ---
 
+## 🖋️ Resonance Loop: Einstein ➔ Weinstein ➔ THooTH ➔ Feedback
+
+![Resonance Loop](./visuals/Resonance_Bridge_Einstein_Weinstein_THooTH.png)
+---
+
 © Scarabäus1033 • 2025 • All Resonances Reserved
