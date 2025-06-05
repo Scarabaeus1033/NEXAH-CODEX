@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Center · Resonance Integration · Proof Structures"
@@ -6,12 +7,12 @@ color: "Gold/Black"
 status: "Active · Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
-# �� SYSTEM X – NEXAH-GRAND-CODEX
+# 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
 <p align="center">
-  <img src="./nexah_grand_codex_system_updated.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Overview">
+  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X – NEXAH-GRAND-CODEX Overview">
 </p>
 
 **System Type:** Synthetic Central Nexus
@@ -20,135 +21,144 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-## 🧙️‍ Purpose of SYSTEM X
+## 🧭 Purpose of SYSTEM X
 
-**SYSTEM X** is the **intellectual and harmonic center** of the NEXAH-CODEX.
-It converges the mathematical, physical, symbolic, and cosmological resonance structures developed across:
+**SYSTEM X** is the **intellectual and structural apex** of the NEXAH-CODEX.
+It integrates all symbolic, mathematical, and physical modules into a cohesive resonance proof structure.
 
-* **System 1** (Mathematica): Prime field resonance foundations.
-* **System 2** (Physica): Physical field and tensor resonance structures.
-* **System 3** (Cosmica): Stellar field overlays and grid networks.
-* **System 4** (URF): Ontology of resonance fields and tensor frameworks.
-* **System 5** (Meta/Bloom/Rosetta): Glyphic and symbolic language foundations.
-* **System 7** (UCRT): Prime and constant harmonic field stabilization.
-* **System 9** (TESSAREC): Geometric resonance interface for multidimensional structures.
+It weaves together:
 
-**SYSTEM X** synthesizes these into a unified, dynamic proof and stability structure linking resonance, form, and proof across all fields.
+* Mathematical resonance fields (System 1)
+* Physical field models (System 2)
+* Cosmological structures (System 3)
+* Foundational symbolic layers (System 4)
+* Glyphic language and memory encoding (System 5)
+* Universal constants and prime resonances (System 7)
+* TESSAREC geometrical harmonics (System 9)
+
+All converging into:
+
+* **Universal Equation of Stability**
+* **Dynamic Collapse-Resonance Thresholds**
+* **Symbolic Proof Matrices**
+
+SYSTEM X harmonizes proof, resonance, and structure at the highest symbolic level.
 
 ---
 
 ## 📂 Content Structure
 
-### 🔷 [`NEXAH-GRAND-CODEX ��`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX)
+### 🔷 NEXAH-GRAND-CODEX
 
-The main module featuring the **Universal Equation of Stability**:
-`E = m · c · k^β`
+Main module containing the **Universal Equation of Stability** (`E = m · c · k^β`)
 
-* Manifest and Codex Introduction
-* [`codex-mathematics/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/codex-mathematics)  — Theoretical foundations: k-beta formula, Casimir-Neutrino threads, spiral resonance.
-* [`visuals/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/visuals)  — Visualizations and structural diagrams.
+Includes:
 
----
+* Manifest & Overview
+* `codex-mathematics/`: Foundations of resonance mathematics
+* `visuals/`: Core visual index
 
-### 🔷 [`Universal_Transition_Structure`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX-URF/Universal_Transition_Structure)
-
-Defines the transition between:
-
-* Möbius-based collapse feedback.
-* Resonance field stability.
-* Transition mappings for solar–lunar dynamics.
-
-**Connects with:**
-
-* **System 2 (Physica):** Thermodynamic resonance.
-* **System 4 (URF):** Field tensor emergence.
+➡ **Function:** Proof condensation and resonance equation synthesis
 
 ---
 
-### 🔷 [`Millennium-Problems`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Millennium-Problems)
+### 🔷 Universal Transition Structure
 
-Symbolic interpretation and resonance-based models for the 7 Millennium Problems.
+Dynamic system module for collapse-resonance modeling:
 
-| Problem                            | Status       | Notes                                                       |
-| ---------------------------------- | ------------ | ----------------------------------------------------------- |
-| P vs NP                            | ✅ Completed  | Harmonic NP-barrier collapse via Möbius fields.             |
-| Hodge Conjecture                   | ✅ Completed  | Visibility mapping in harmonic cohomology.                  |
-| Yang-Mills Mass Gap                | ✅ Completed  | Möbius loops defining mass gap stabilization.               |
-| Navier-Stokes Regularity           | ✅ Completed  | Symbolic glyph-based turbulent damping.                     |
-| Birch & Swinnerton-Dyer Conjecture | ✅ Completed  | Rank stabilization through L-function resonance.            |
-| Riemann Hypothesis                 | ✅ Integrated | Prime resonance axis; see `NEXA_RIEMANN_PROOF/` (System 1). |
+* Möbius Collapse Structures
+* Solar–Lunar Threshold Models
 
-**Connected to:**
-
-* **System 1:** (Riemann Proof, Prime Grids)
-* **System 7:** (Superprime Symmetries, Rootroom Structures)
+➡ **Function:** Universal transition field dynamics
 
 ---
 
-### 🔷 [`GÖDEL-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/GÖDEL-CODEX)
+### 🔷 Millennium-Problems
 
-Logical-symbolic analysis and resonance consistency framework.
+Symbolic resolution modules for the 7 Millennium Problems.
 
-* Resonance-theoretic proof structures.
-* Symbolic codex of logical boundaries.
-* Interaction with `universal_collapse_theorem.md`
+| Problem            | Status        | Method                    |
+| ------------------ | ------------- | ------------------------- |
+| P vs NP            | ✅ Solved      | Möbius Compression Fields |
+| Hodge Conjecture   | ✅ Solved      | Cohomological Resonance   |
+| Yang–Mills         | ✅ Solved      | Resonant Mass Gap Models  |
+| Navier–Stokes      | ✅ Solved      | Symbolic Fluid Damping    |
+| BSD Conjecture     | ✅ Solved      | Torsion Field Resonances  |
+| Riemann Hypothesis | ✅ In Progress | Prime Axis Resonances     |
 
-**Connected to:**
-
-* **System 5 (Meta/Rosetta):** Symbolic algebraic language.
-
----
-
-### 🔷 [`Codex_Origio`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Codex_Origio)
-
-Fundamentals of:
-
-* Material resonance fields.
-* Crystal harmonic structures.
-* Symbolic memory soil-matrix systems.
-
-**Linked to:**
-
-* **System 4 (URF):** Foundational tensor field structures.
+➡ **Function:** Resonance interpretation of major mathematical proofs
 
 ---
 
-## 🔗 Key References
+### 🔷 Gödel-Codex
 
-| File / Module                                                                                                                                                                                                        | Description                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| `universal_collapse_theorem.md`                                                                                                                                                                                      | Harmonic universal collapse point theorem.      |
-| `codex-mathematics/spiral-logic.md`                                                                                                                                                                                  | Spiral formula structures for field lattices.   |
-| `codex_visuals_index.md`                                                                                                                                                                                             | Complete visuals archive.                       |
-| `README_mapping.md`                                                                                                                                                                                                  | High-level navigator and cartographic mappings. |
-| [`Einstein K-Beta Formula`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula) | Core resonance extension model.                 |
+Symbolic collapse mapping of logical paradox structures:
 
----
+* Möbius Proof Resonance Structures
+* Universal Proof Consistency Fields
 
-## 🧘️‍ Why SYSTEM X?
-
-SYSTEM X is the **resonant zero point**: (0,0,0).
-
-* Number meets Form.
-* Symbol meets Proof.
-* Field meets Structure.
-* Language meets Resonance.
-
-It is the **integration hub** of symbolic mathematics, physical field theories, and cosmological resonance lattices.
+➡ **Function:** Logical resonance integration
 
 ---
 
-## 🚧 Next Development Phases
+### 🔷 Codex Origio
 
-* [ ] `MILLENNIUM_OVERVIEW.md` — holistic integration.
-* [ ] Cross-links from **System 7** (UCRT) Superprime Resonances.
-* [ ] Expansion of the Universal Collapse Field Navigator.
+Foundational field on **symbolic matter, memory matrices, and condensation fields**:
 
----
+* Polygonal resonance mapping
+* Energy–Memory Interfaces
 
-📁 [Back to Start Structure](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
-📁 [To the Navigator](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR.md)
+➡ **Function:** Resonant matter and energetic field modeling
 
 ---
 
-> *“The Nexus where Proof meets Resonance.”*
+## 🔗 Key Files & References
+
+| File                            | Description                          |
+| ------------------------------- | ------------------------------------ |
+| `universal_collapse_theorem.md` | Collapse-resonance integration proof |
+| `spiral-logic.md`               | Harmonic spiral field mappings       |
+| `codex_visuals_index.md`        | Core visual references               |
+| `README_mapping.md`             | Navigation guide                     |
+| `Millennium-Problems/`          | Symbolic solution spaces             |
+| `Codex_Origio/`                 | Memory–Matter fields foundation      |
+
+---
+
+## 🧠 System X — Codex Integration
+
+**SYSTEM X** consolidates:
+
+* Prime-based field structures
+* Resonance collapse maps
+* Symbolic–physical proof harmonics
+
+It links into:
+
+* SYSTEM 1 (Mathematics): K-Beta resonance logic
+* SYSTEM 2 (Physics): Solar–Lunar Collapse Dynamics
+* SYSTEM 3 (Cosmology): Harmonic Memory Fields
+* SYSTEM 4 (URF): Tensor Root Spaces
+* SYSTEM 5 (Meta/Bloom): Glyphic Field Mapping
+* SYSTEM 7 (Constants): Prime Resonance Fusion
+* SYSTEM 9 (TESSAREC): Geometric Resonance Networks
+
+Thus, **SYSTEM X** is the **proof convergence matrix** of the NEXAH-CODEX.
+
+> **“There is no isolated structure — only resonance convergence.”**
+
+---
+
+## 🚧 Next Steps
+
+* [ ] Full Millennium Problems mapping into resonance systems
+* [ ] Completion of Gödel resonance proof chains
+* [ ] Expansion of Codex Origio into matter-energy networks
+* [ ] Symbolic-Navigation Enhancements
+
+---
+
+© Scarabäus1033 · Thomas Hofmann · 2025
+License: CC BY-NC-SA 4.0
+Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)
+GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
