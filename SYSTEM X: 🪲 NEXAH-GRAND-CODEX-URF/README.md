@@ -1,13 +1,12 @@
 ---
-
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Center · Resonance Integration · Proof Structures"
 color: "Gold/Black"
-status: "Active – Version May 2025"
+status: "Active · Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # �� SYSTEM X – NEXAH-GRAND-CODEX
 
