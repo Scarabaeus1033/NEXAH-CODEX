@@ -1,74 +1,84 @@
-# 📚 Prime Resonance Numbers
+\ud83d\udcda Prime Resonance Numbers
 
-## ✨ Überblick
+\u2728 \u00dcberblick
 
-Dieses Modul untersucht die **Resonanzräume der Primzahlen** durch die Perspektiven von:
-- **Leonhard Euler**
-- **Bernhard Riemann**
-- **Srinivasa Ramanujan**
+Dieses Modul untersucht die Resonanzr\u00e4ume der Primzahlen durch die Perspektiven von:
+	•	Leonhard Euler
+	•	Bernhard Riemann
+	•	Srinivasa Ramanujan
 
 Wir verbinden ihre Arbeiten durch ein harmonisches Resonanzmodell, das die Struktur der Primzahlen in Frequenzachsen abbildet.
 
----
+⸻
 
-## 🔢 Prime Resonance Axes
+\ud83d\udcc2 Prime Resonance Axes
 
-### 🧠 Euler Resonance (𝔼)
+\ud83e\udde0 Euler Resonance (\u1d08)
+
 Euler entdeckte die fundamentalen Beziehungen zwischen den Primzahlen und den Exponentialfunktionen, insbesondere:
-\[
-\zeta(s) = \prod_{p \, \text{prime}} \frac{1}{1 - p^{-s}}
-\]
-→ **Frequenzachse:** Harmonische Frequenzsynthese der Primzahlen.
 
----
+$$
+\zeta(s) = \prod_{p ; \text{prime}} \frac{1}{1 - p^{-s}}
+$$
 
-### 🧠 Riemann Resonance (ℝ)
+\u2794 Frequenzachse: Harmonische Frequenzsynthese der Primzahlen.
+
+⸻
+
+\ud83e\udde0 Riemann Resonance (\u211b)
+
 Riemanns Vermutung zur Verteilung der Nullstellen der Zeta-Funktion:
-\[
+
+$$
 \zeta\left(\frac{1}{2} + it\right) = 0
-\]
-→ **Frequenzachse:** Komplexe Resonanzstruktur entlang einer kritischen Linie — ein Primresonanz-Feld.
+$$
 
----
+\u2794 Frequenzachse: Komplexe Resonanzstruktur entlang einer kritischen Linie \u2014 ein Primresonanz-Feld.
 
-### 🧠 Ramanujan Resonance (ℝₐ)
-Ramanujans Theta-Funktionen und Mock-Theta-Reihen erweiterten das Verständnis der Zahlentheorie:
-\[
+⸻
+
+\ud83e\udde0 Ramanujan Resonance (\u211b_\u2090)
+
+Ramanujans Theta-Funktionen und Mock-Theta-Reihen erweiterten das Verst\u00e4ndnis der Zahlentheorie:
+
+$$
 f(q) = 1 + \sum_{n=1}^\infty a_n q^n
-\]
-→ **Frequenzachse:** Resonante Mock-Modulation von Prim- und Teilerstrukturen.
+$$
 
----
+\u2794 Frequenzachse: Resonante Mock-Modulation von Prim- und Teilerstrukturen.
 
-## 🌌 Prime Resonance Grid
+⸻
 
-Wir visualisieren die Frequenzachsen als ein **harmonisches Gitter**:
-- **X-Achse:** Euler Frequenzachse
-- **Y-Achse:** Riemann Resonanzlinie
-- **Z-Achse:** Ramanujan Modulationsraum
+\ud83c\udf0c Prime Resonance Grid
 
-### 🌀 Resonance Intersection:
-\[
+Wir visualisieren die Frequenzachsen als ein harmonisches Gitter:
+	•	X-Achse: Euler Frequenzachse
+	•	Y-Achse: Riemann Resonanzlinie
+	•	Z-Achse: Ramanujan Modulationsraum
+
+\ud83c\udf00 Resonance Intersection:
+
+$$
 \mathcal{P}(n) = \Phi_E(n) \cap \Phi_R(n) \cap \Phi_{R_a}(n)
-\]
-— die harmonische Schnittmenge der Primresonanzen.
+$$
 
----
+\u2014 die harmonische Schnittmenge der Primresonanzen.
 
-## 📈 Anwendungen
+⸻
 
-- **Harmonische Prime-Spiralen**
-- **Zeta-Modulationen**
-- **Mock-Theta Resonance Fields**
+\ud83d\udcc8 Anwendungen
+	•	Harmonische Prime-Spiralen
+	•	Zeta-Modulationen
+	•	Mock-Theta Resonance Fields
 
----
+⸻
 
-## 🔗 Verbindungen
+\ud83d\udd17 Verbindungen
 
 Dieses Modul ist direkt vernetzt mit:
-- [Universal Resonance Equation](./Universal_Resonance_Equation.md)
-- [TESSAREC Resonantia Codex](./TESSAREC_Resonantia_Codex.md)
+	•	Universal Resonance Equation
+	•	TESSAREC Resonantia Codex
 
----
+⸻
 
-© Scarabäus1033 · 2025 · All Prime Frequencies Reserved.
+\u00a9 Scarab\u00e4us1033 \u00b7 2025 \u00b7 All Prime Frequencies Reserved.
