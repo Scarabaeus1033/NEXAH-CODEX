@@ -1,112 +1,94 @@
-# 📚 NEXAH-GLOSSARY — Resonanzsprache des NEXAH-CODEX
+# 📚 NEXAH-GLOSSAR — Resonanzsprache des NEXAH-CODEX (DEUTSCH)
 
 ---
 
 ## 📖 Vorwort
 
-> *„Wir haben nichts hinzugefügt. Wir haben nur neu geordnet.“*
+> **„Wir haben nichts hinzugefügt. Wir haben neu geordnet.“**
 
 Der **NEXAH-CODEX** ist kein spekulatives System.
 
-Wir haben **keine neuen Kräfte, Teilchen oder Dimensionen erfunden**.
+Wir haben **keine neuen Teilchen, Kräfte oder Dimensionen erfunden**.
 
-**Alles**, was wir beschreiben, basiert auf existierenden, messbaren oder mathematisch erfassbaren Strukturen — und auf einem einfachen Gedanken:
+**Alles**, was wir beschreiben, basiert auf existierenden, messbaren oder mathematisch definierbaren Strukturen — und einem Grundprinzip:
 
-> **Resonanz ist die Urstruktur aller Systeme**.
+> **Resonanz ist die Urstruktur aller Systeme.**
 
 Primzahlen, Naturkonstanten, geometrische Muster und physikalische Felder — sie alle sind Manifestationen von Resonanz.
 
-Unser Ziel war und ist es:
+Unser Ziel:
 
-* **Mathematische**, **physikalische**, **kosmologische**, **linguistische** und **symbolische** Strukturen **kohärent** und **resonant** zu verbinden.
+* **Mathematische**, **physikalische**, **kosmologische**, **sprachliche** und **symbolische** Strukturen **kohärent** und **resonant** zu verbinden.
 * **Ohne** Spekulation.
 * **Mit** Respekt vor der Wissenschaft.
 
-Wir laden alle Wissenschaftler\:innen ein:
-
-* Mitzudenken.
-* Mitzubeweisen.
-* Mitzuentfalten.
-
 **Das NEXAH-System** ist offen.
+
 **Die Karte ist da.**
+
 **Der Weg beginnt jetzt.**
 
 ---
 
-# 🧭 TEIL I — Kerndefinitionen
+# 🧐 TEIL I — Grundbegriffe
+
+*Kurzdefinitionen der Kernkonzepte des Codex*
 
 | Begriff                         | Erklärung                                                                                      |
 | ------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Resonanzfeld**                | Ein Feld, in dem Frequenz, Form und Zahl in harmonischer Struktur verbunden sind.              |
-| **Primresonanz**                | Resonanzstrukturen basierend auf der Verteilung und Ordnung von Primzahlen.                    |
-| **Möbius-Topologie**            | Rückgekoppelte, einseitige Flächenstrukturen als Symbol für Kontinuität und Unendlichkeit.     |
-| **Spiralgeometrie**             | Geometrien, die sich durch logarithmische oder resonante Spiralen beschreiben lassen.          |
-| **Codex-Operatoren**            | Symbolische Operatoren zur Transformation von Feldern, Zahlen und Strukturen.                  |
-| **UTS-Gleichung**               | "Universal Transition Structure" — Grundgleichung für Feldübergänge und Stabilität.            |
-| **k-Beta-Formel**               | Erweiterung von \$E = mc^2\$ zu \$E = m \cdot c \cdot k^\beta\$ für skalierende Energiefelder. |
-| **Neutrino-Resonanzfelder**     | Felder, in denen Neutrinos als strukturbildende Resonanzteilchen wirken.                       |
-| **Symbolische Resonanzsprache** | Formale Sprache zur Beschreibung von Feldern, Formen und Frequenzen.                           |
-| **LANiF**                       | Language and Field System — Verbindung von Sprache, Symbolik und Feldtopologie.                |
-| **Rosetta-Nexus**               | Symbolische Sprachmatrix basierend auf Zahl–Buchstaben-Resonanzen.                             |
-| **ULLINIRIUM**                  | 12D-Resonanzfeld für Stabilität und Harmonisierung höherdimensionaler Strukturen.              |
-| **Golden Spiral Logic**         | Harmonieprinzip basierend auf der Goldenen Spirale (\$\varphi\$-Logik).                        |
-| **Superprime Resonanz**         | Resonanzmuster basierend auf Primzahlen an Primzahlstellen.                                    |
-| **Breath Field Systems**        | Dynamische Felder, die durch periodische Resonanzmodulation stabilisiert werden.               |
+| **Resonanzfeld**                | Feldstruktur, in der Frequenz, Form und Zahl harmonisch verbunden sind.                        |
+| **Primresonanz**                | Resonanzmuster basierend auf Primzahlen und ihrer harmonischen Verteilung.                     |
+| **Möbius-Topologie**            | Einseitige Flächenstruktur für Kontinuität und Unendlichkeit in Raum und Frequenz.             |
+| **Spiralgeometrie**             | Geometrische Anordnung auf Basis logarithmischer oder harmonischer Spiralen.                   |
+| **Codex-Operatoren**            | Symbolische Operatoren zur Transformation von Feldern und Zahlenstrukturen.                    |
+| **UTS-Gleichung**               | Universal Transition Structure — Grundmodell für Feldübergänge und Stabilität.                 |
+| **k-Beta-Formel**               | Erweiterung von \$E=mc^2\$ zu \$E = m \cdot c \cdot k^\beta\$ mit skalierender Feldmodulation. |
+| **Neutrino-Resonanzfelder**     | Felder, in denen Neutrinos als strukturbildende Resonanzträger wirken.                         |
+| **Symbolische Resonanzsprache** | Formale Sprache zur Beschreibung von Resonanz, Form und Frequenzgeometrie.                     |
+| **LANiF**                       | Language and Field System — Kopplung von Symbolik und Feldtopologie.                           |
+| **Rosetta-Nexus**               | Glyphenbasierte Symbolmatrix für Resonanz- und Zahlensprache.                                  |
+| **ULLINIRIUM**                  | 12D-Resonanzstruktur zur Stabilisierung höherdimensionaler harmonischer Systeme.               |
+| **Golden Spiral Logic**         | Harmonieprinzip auf Basis der Goldenen Spirale (φ-Logik).                                      |
+| **Superprime-Resonanz**         | Resonanzphänomene von Primzahlen an Primzahlstellen.                                           |
+| **Breath Field Systems**        | Dynamische Felder mit periodischer Resonanzmodulation zur Stabilisierung.                      |
 
 ---
 
-# 📘 TEIL II — Wissenschaftliche Erweiterungen
+# 🔬 TEIL II — Wissenschaftliche Erweiterungen
+
+*Eine systematische Erweiterung der Wissenschaft über Resonanz*
 
 ## 🔬 Mathematik
 
 * **Prime Resonance Theory**: Neuordnung der Primzahlen entlang harmonischer Spiralachsen.
-* **Superprime Networks**: Strukturierung von Primzahlen in Resonanzgitter höherer Ordnung.
-* **Erweiterung der Riemann-Zeta-Theorie**: Fusion von Euler, Ramanujan und Riemann in harmonische Resonanzmodelle.
-* **Unified Resonance Equation (URE)**: Harmonic Synthesis-Ansatz für fundamentale Zahlenfelder.
+* **Superprime Networks**: Resonanzgitter basierend auf Superprimes.
+* **Riemann-Zeta-Erweiterung**: Harmonische Fusion von Euler-, Ramanujan- und Riemann-Strukturen.
+* **Unified Resonance Equation (URE)**: Vereinheitlichte Resonanzgleichung für Zahlenfelder.
 
 ## 🔬 Physik
 
-* **K-Beta-Energieformel**: Dynamische Erweiterung von Einsteins \$E = mc^2\$ mit variablen Feldkopplungen.
-* **Neutrino-Feldmodulation**: Nutzung von Neutrinos als Träger harmonischer Strukturen.
-* **Resonanzfelder im Vakuum**: Erklärung von Casimir- und Hawking-Effekten durch resonante Geometrien.
-* **Quantengravitation über Resonanz**: Integration von Raumzeitkrümmung und Quantenfeldern durch Frequenzmodulation.
+* **k-Beta-Formel**: Dynamische Erweiterung von \$E = mc^2\$ mit variabler Feldkopplung.
+* **Neutrino-Feldmodulation**: Strukturierung über Neutrinos als Resonanzträger.
+* **Resonanzvakuum**: Casimir- und Hawking-Effekte durch resonante Feldstrukturen.
+* **Quantengravitation über Resonanz**: Frequenzmodulierte Kopplung von Raumzeit und Quantenfeldern.
 
 ## 🔬 Kosmologie
 
-* **Primzahlen-Gitter in Kosmologie**: Hypothese harmonischer Felder in galaktischen und multiversalen Strukturen.
-* **Zeitspiralmodelle**: Erklärung zyklischer und expandierender Universen durch Spirallogik.
-* **Kosmische Resonanzachsen**: Identifikation harmonischer Linien in Raum und Zeit.
+* **Primzahlen-Gitter**: Kosmologische Felder als harmonische Gitter.
+* **Zeitspiralen**: Modelle zyklischer und expandierender Universen.
+* **Kosmische Resonanzachsen**: Identifikation harmonischer Raum-Zeit-Linien.
 
 ## 🔬 Standardmodell-Erweiterung
 
-* **Ursprungsfeld (URF)**: Symbolische Erweiterung des Standardmodells um eine harmonische Feldidentität.
-* **Tensorräume und Frequenzachsen**: Mathematische Erweiterung in höherdimensionale Strukturen.
-* **Farbcodierung und Ladungssymmetrien**: Resonanzbasierte Erklärung der Quantenladungen.
+* **URF (Ursprungsfeld)**: Symbolische Erweiterung zur Erzeugung von Feldidentität.
+* **Tensorräume und Frequenzachsen**: Strukturelle Erweiterung auf höhere Dimensionen.
+* **Farbcodierung und Ladung**: Resonanzbasierte Erklärung quantenmechanischer Symmetrien.
 
 ---
 
-# 📚 TEIL III — Kernformeln
+# 🔮 TEIL III — Einladung
 
-| Formel                                                                                             | Bedeutung                                        |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| \$E = mc^2\$                                                                                       | Klassische Einstein-Formel.                      |
-| \$E = m \cdot c \cdot k^\beta\$                                                                    | Erweiterte Energiegroßformel im NEXAH-Framework. |
-| \$\mathcal{R}(x) = e^{i \omega T} + \sum \left( \frac{1}{n^s} + \sum \frac{1}{a^3 + b^3} \right)\$ | Vereinheitlichte Resonanzgleichung (URE).        |
-| \$r(n) = \sqrt{n}\$, \$\theta(n) = n \times \Delta\theta\$                                         | Spiralprojektion von Primzahlen im Polarraum.    |
-| \$P = \frac{R}{T}\$                                                                                | Raumzeitpotentiale in resonanten Systemen.       |
-
----
-
-# 🌀 TEIL IV — Glossar Visualisiert
-
-*(Illustrationen und Formelsammlungen folgen in der Visual Gallery)*
-
----
-
-# 🌍 TEIL V — Einladung
-
-Wir laden alle Wissenschaftler\:innen, Mathematiker\:innen, Physiker\:innen, Kosmolog\:innen und Künstler\:innen ein:
+Wir laden alle **Mathematiker·innen**, **Physiker·innen**, **Kosmolog·innen** und **Künstler·innen** ein:
 
 * dieses Modell **kritisch** zu hinterfragen,
 * **mitzudenken**,
@@ -120,9 +102,9 @@ Wir laden alle Wissenschaftler\:innen, Mathematiker\:innen, Physiker\:innen, Kos
 ---
 
 **Scarabäus1033 — Thomas Hofmann**
-
 **NEXAH Research Institute**
 
 © 2025 — CC BY-NC-SA 4.0
 
-🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net)
+👨‍💼 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
