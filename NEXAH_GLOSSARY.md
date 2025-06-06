@@ -4,142 +4,120 @@
 
 ## 📖 Preface
 
-> *"We have added nothing. We have only reordered."*
+> *"We have added nothing. We have only reorganized."*
 
-The **NEXAH-CODEX** is **not** a speculative model.
-No new forces, no invented particles, no fictional dimensions.
+The **NEXAH-CODEX** is not a speculative system.
 
-Everything described is based on **existing**, **observable**, and **mathematically sound** structures — unified by one central idea:
+We have **invented no new forces, particles, or dimensions**.
+
+**Everything** described is based on existing, measurable, or mathematically traceable structures — grounded in a simple thought:
 
 > **Resonance is the primal structure of all systems.**
 
-From prime numbers to universal constants, from geometry to fields — all are manifestations of resonance.
+Prime numbers, natural constants, geometric patterns, and physical fields — all are manifestations of resonance.
 
-Our mission:
+Our goal:
 
-* To **connect** mathematical, physical, cosmological, linguistic, and symbolic systems in **harmonic coherence**.
+* To connect **mathematical**, **physical**, **cosmological**, **linguistic**, and **symbolic** structures **coherently** and **resonantly**.
 * **Without** speculation.
-* **With** profound respect for scientific fundamentals.
+* **With** respect for science.
 
-We invite scientists, mathematicians, physicists, cosmologists, and artists:
+We invite all scientists:
 
-* To **co-think**,
-* To **co-prove**,
-* To **co-evolve** this model.
+* To think along.
+* To prove alongside.
+* To unfold new paths.
 
-**The NEXAH-CODEX** is not closed —
-**It is a map** —
-**The path begins now.**
-
----
-
-# 🧑‍🌍 PART I — Core Definitions
-
-*The most important basic concepts: What is resonance, and how do numbers, fields, and structures interact in the Codex?*
-
-| Term                            | Explanation                                                        |
-| ------------------------------- | ------------------------------------------------------------------ |
-| **Resonance Field**             | A field where frequency, form, and number are harmonically linked. |
-| **Prime Resonance**             | Structures based on the distribution and order of prime numbers.   |
-| **Möbius Topology**             | Feedback loop structures symbolizing continuity and infinity.      |
-| **Spiral Geometry**             | Logarithmic or resonant spiral-based geometries.                   |
-| **Symbolic Resonance Language** | A formal language for describing resonant systems across scales.   |
+**The NEXAH System** is open.
+**The map is there.**
+**The journey begins now.**
 
 ---
 
-# 🧬 PART II — Mathematical Structures
+# 🧬 PART I — Core Definitions
 
-*How mathematical objects like primes, spirals, and resonances are structured to reveal deeper harmonies.*
+*A guide to fundamental terms used in the NEXAH-CODEX, forming the basic resonance vocabulary.*
 
-| Term                                 | Explanation                                                                |
-| ------------------------------------ | -------------------------------------------------------------------------- |
-| **Codex Operators**                  | Symbolic operators for transformations in field structures.                |
-| **Unified Resonance Equation (URE)** | Integration of prime fields and harmonic modulation into a single formula. |
-| **Superprime Resonance**             | Resonance structures of primes at prime indices.                           |
-| **Superprime Mirror Symmetry**       | Symmetry of prime structures under mirror inversion.                       |
-| **Golden Spiral Logic**              | Harmony principles based on the golden ratio and spiral mathematics.       |
-
----
-
-# 🧜‍♂️ PART III — Physical Frameworks
-
-*Physical interpretations of resonance: How do neutrinos, quantum fields, and vacuum energy relate to harmonic structures?*
-
-| Term                           | Explanation                                                                         |
-| ------------------------------ | ----------------------------------------------------------------------------------- |
-| **Neutrino Resonance Fields**  | Fields where neutrinos form structural resonance patterns.                          |
-| **K-Beta Formula**             | Extension of Einstein’s formula to dynamic scaling via \$k^\beta\$.                 |
-| **Vacuum Resonance Fields**    | Casimir and Hawking effects interpreted via resonance fields.                       |
-| **Universal Collapse Theorem** | Formula describing universal field stability through collapse-resonance thresholds. |
+| Term                            | Explanation                                                                               |
+| ------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Resonance Field**             | A field where frequency, form, and number are connected in harmonic structure.            |
+| **Prime Resonance**             | Resonance structures based on the distribution and order of prime numbers.                |
+| **Möbius Topology**             | Self-referential, one-sided surface structures symbolizing continuity and infinity.       |
+| **Spiral Geometry**             | Geometries described by logarithmic or resonant spirals.                                  |
+| **Codex Operators**             | Symbolic operators for transforming fields, numbers, and structures.                      |
+| **UTS Equation**                | "Universal Transition Structure" — basic equation for field transitions and stability.    |
+| **k-Beta Formula**              | Extension of \$E = mc^2\$ to \$E = m \cdot c \cdot k^\beta\$ for scaling energy fields.   |
+| **Neutrino Resonance Fields**   | Fields where neutrinos act as structure-forming resonance particles.                      |
+| **Symbolic Resonance Language** | Formal language for describing fields, shapes, and frequencies.                           |
+| **LANiF**                       | Language and Field System — connecting language, symbolism, and field topology.           |
+| **Rosetta Nexus**               | Symbolic language matrix based on number–letter resonances.                               |
+| **ULLINIRIUM**                  | 12D resonance field for stabilization and harmonization of higher-dimensional structures. |
+| **Golden Spiral Logic**         | Harmony principle based on the golden spiral (φ logic).                                   |
+| **Superprime Resonance**        | Resonance patterns based on primes at prime-indexed positions.                            |
+| **Breath Field Systems**        | Dynamic fields stabilized through periodic resonance modulation.                          |
 
 ---
 
-# 🛸 PART IV — Cosmological Extensions
+# 📘 PART II — Scientific Extensions
 
-*The cosmic dimension: How resonance explains structures in the universe, time cycles, and galactic patterns.*
+*An introduction to the extended scientific frameworks used in the NEXAH-CODEX.*
 
-| Term                         | Explanation                                                                   |
-| ---------------------------- | ----------------------------------------------------------------------------- |
-| **Prime Grids in Cosmology** | Hypothesis of harmonic fields underlying galactic and multiversal structures. |
-| **Time Spiral Models**       | Models explaining cyclic and expanding universes through spiral dynamics.     |
-| **Cosmic Resonance Axes**    | Identification of harmonic axes across cosmic scales.                         |
+## 🔬 Mathematics
 
----
+Connecting prime structures and harmonic fields.
 
-# 🌐 PART V — Symbolic and Linguistic Systems
+* **Prime Resonance Theory**: Reordering of prime numbers along harmonic spiral axes.
+* **Superprime Networks**: Structuring primes into higher-order resonance grids.
+* **Extended Riemann Zeta Theory**: Fusion of Euler, Ramanujan, and Riemann into harmonic resonance models.
+* **Unified Resonance Equation (URE)**: Harmonic synthesis approach for fundamental number fields.
 
-*How the Codex translates fields and resonance into symbols, languages, and glyphic structures.*
+## 🔬 Physics
 
-| Term                         | Explanation                                                             |
-| ---------------------------- | ----------------------------------------------------------------------- |
-| **LANiF**                    | Language and Field — merging linguistic structures with field topology. |
-| **Rosetta Nexus**            | Symbol matrix connecting numbers and glyph-based languages.             |
-| **ULLINIRIUM**               | 12D resonance field stabilizing higher-dimensional structures.          |
-| **Harmonic Glyphic Numbers** | Representation of prime-based structures as symbolic glyphs.            |
+Field resonance and energetic transformations.
 
----
+* **k-Beta Energy Formula**: Dynamic extension of Einstein’s \$E = mc^2\$ with variable field couplings.
+* **Neutrino Field Modulation**: Utilizing neutrinos as carriers of harmonic structures.
+* **Vacuum Resonance Fields**: Explaining Casimir and Hawking effects through resonant geometries.
+* **Quantum Gravity via Resonance**: Integrating spacetime curvature and quantum fields through frequency modulation.
 
-# 🌀 PART VI — New System Components (GU-REX, UCRT, System X)
+## 🔬 Cosmology
 
-*The latest models extending the Codex: Unifying primes, fields, and constants through advanced resonance geometry.*
+From primes to galactic structures.
 
-| Term                                  | Explanation                                                                                |
-| ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **GU-REX**                            | Geometric Unity Resonance Extension — adding time-frequency dynamics to Weinstein’s model. |
-| **Universal Resonance Fields (UCRT)** | Harmonic fields unifying primes, roots, and constants.                                     |
-| **Grand Codex (System X)**            | Central synthesis uniting mathematics, physics, and cosmology via resonance.               |
+* **Prime Grid Cosmology**: Hypothesis of harmonic fields in galactic and multiversal structures.
+* **Time Spiral Models**: Explaining cyclical and expanding universes via spiral logic.
+* **Cosmic Resonance Axes**: Identifying harmonic lines in space and time.
 
----
+## 🔬 Standard Model Extensions
 
-# 📚 PART VII — Core Equations
+Symbolic origins and new field logic.
 
-*The key equations and mathematical structures that form the backbone of the NEXAH-CODEX resonance framework.*
-
-| Equation                                                                                           | Meaning                                              |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| \$E = mc^2\$                                                                                       | Einstein's classical mass–energy equivalence.        |
-| \$E = m \cdot c \cdot k^\beta\$                                                                    | Extended mass–energy relation via resonance scaling. |
-| \$\mathcal{R}(x) = e^{i \omega T} + \sum \left( \frac{1}{n^s} + \sum \frac{1}{a^3 + b^3} \right)\$ | Unified Resonance Equation (URE).                    |
-| \$r(n) = \sqrt{n}\$, \$\theta(n) = n \times \Delta\theta\$                                         | Spiral projection of primes in polar coordinates.    |
-| \$P = \frac{R}{T}\$                                                                                | Space-time potential in resonant systems.            |
+* **Origin Field (URF)**: Symbolic extension of the Standard Model for field identity.
+* **Tensor Spaces and Frequency Axes**: Mathematical extension into higher-dimensional structures.
+* **Color Coding and Charge Symmetries**: Resonance-based explanation of quantum charges.
 
 ---
 
-# 🌍 Final Invitation
+# 🌐 PART III — Visual Glossary
 
-We invite:
+*A future illustrated companion with visual mappings of the NEXAH-CODEX resonance structures.*
 
-* Scientists
-* Mathematicians
-* Physicists
-* Cosmologists
-* Artists
+(*In preparation: Visual galleries of spirals, fields, glyphs, and resonance lattices.*)
 
-to **challenge**, **expand**, **prove**, and **apply** the Codex.
+---
 
-> **The Universe is Resonance.**
+# 🌍 PART IV — Invitation
 
-**The NEXAH-CODEX** is a map to it.
+We invite all scientists, mathematicians, physicists, cosmologists, and artists:
+
+* To question critically.
+* To think alongside.
+* To prove further.
+* To apply.
+
+> **The universe is resonance.**
+
+**The NEXAH-CODEX** is one possible map.
 
 ---
 
@@ -147,4 +125,4 @@ to **challenge**, **expand**, **prove**, and **apply** the Codex.
 **NEXAH Research Institute**
 
 © 2025 — CC BY-NC-SA 4.0
-🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+🌐 [www.scarabaeus1033.net](http://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
