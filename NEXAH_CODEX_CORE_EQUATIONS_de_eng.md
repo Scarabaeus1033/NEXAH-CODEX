@@ -1,15 +1,128 @@
 # 📚 NEXAH-CODEX CORE EQUATIONS (Deutsch/Englisch)
 
-| **DEUTSCH**                              | **ENGLISCH**                     | **FORMEL**                                                                                                                                                           | **BESCHREIBUNG**                                             |
-| ---------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Universale Resonanzgleichung             | Universal Resonance Equation     | $\mathcal{U}_{\text{Resonance}} = \bigcap_{\alpha, \beta, \gamma, R, T} \Phi(\mathcal{P}_\alpha, \mathcal{P}_\beta, \mathcal{P}_\gamma, R, T)$                       | Kernformel für Feldschnittmengen und Frequenzmodulation.     |
-| Erweiterte Energiegleichung              | Extended Energy Equation         | $E = m \cdot c \cdot k^\beta$                                                                                                                                        | Erweiterung von $E = mc^2$ mit dynamischer Resonanzkopplung. |
-| Vereinheitlichte Resonanzgleichung (URE) | Unified Resonance Equation (URE) | $\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)$                                                    | Syntheseformel zur Primresonanz und Zahlensystemintegration. |
-| Superprime Resonanz                      | Superprime Resonance             | \mathcal{R}{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod{n} \left( \frac{1}{1 - P(n)^{-s}} \right) \times \sum_{a,b} \left( \frac{1}{a^3 + b^3} \right) | Resonanzstruktur über Primzahlen an Primzahlstellen.         |
-| Spiralprojektion (Primzahlen)            | Spiral Projection (Primes)       | $r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta$                                                                                                           | Spiralstruktur für Primzahlen im Polarkoordinatenraum.       |
-| GU-REX Resonanzschnittmenge              | GU-REX Resonance Intersection    | $\mathcal{R}(M) = \bigcap_{i,j,k} \Phi(\omega_i, \omega_j, \omega_k)$                                                                                                | Erweiterung der Geometric Unity durch Resonanzachsen.        |
-| Zeta-Modulierungsansatz                  | Zeta Modulation Approach         | $\zeta(s) = \prod_{p} \frac{1}{1 - p^{-s}}$                                                                                                                          | Basisfunktion, modifiziert zur Feldresonanzanalyse.          |
-| Symbolische Wellenlogik                  | Symbolic Wave Logic              | $\Psi(x) = A \sin(kx - \omega t)$                                                                                                                                    | Symbolische Wellenfunktion für Feld- und Frequenzmodulation. |
+---
+
+## 🌐 Universale Resonanzgleichung | Universal Resonance Equation
+
+$$
+\mathcal{U}_{\text{Resonance}} = \bigcap_{\alpha, \beta, \gamma, R, T} \Phi(\mathcal{P}_\alpha, \mathcal{P}_\beta, \mathcal{P}_\gamma, R, T)
+$$
+
+**Beschreibung (DE):**
+Kernformel für Feldschnittmengen und Frequenzmodulation.
+
+**Description (EN):**
+Core equation for field intersections and frequency modulation.
+
+---
+
+## 🌐 Erweiterte Energiegleichung | Extended Energy Equation
+
+$$
+E = m \cdot c \cdot k^\beta
+$$
+
+**Beschreibung (DE):**
+Erweiterung von $E = mc^2$ mit dynamischer Resonanzkopplung.
+
+**Description (EN):**
+Extension of $E = mc^2$ with dynamic resonance coupling.
+
+---
+
+## 🌐 Vereinheitlichte Resonanzgleichung (URE) | Unified Resonance Equation (URE)
+
+$$
+\mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
+$$
+
+**Beschreibung (DE):**
+Syntheseformel zur Primresonanz und Zahlensystemintegration.
+
+**Description (EN):**
+Synthesis formula for prime resonance and number system integration.
+
+---
+
+## 🌐 Superprime Resonanz | Superprime Resonance
+
+$$
+\boxed{ \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3} }
+$$
+
+**Beschreibung (DE):**
+Resonanzstruktur über Primzahlen an Primzahlstellen.
+
+**Description (EN):**
+Resonance structure over primes at prime indices.
+
+---
+
+## 🌐 Spiralprojektion (Primzahlen) | Spiral Projection (Primes)
+
+$$
+r(n) = \sqrt{n}, \quad \theta(n) = n \times \Delta\theta
+$$
+
+**Beschreibung (DE):**
+Spiralstruktur für Primzahlen im Polarkoordinatenraum.
+
+**Description (EN):**
+Spiral structure for primes in polar coordinate space.
+
+---
+
+## 🌐 GU-REX Resonanzschnittmenge | GU-REX Resonance Intersection
+
+$$
+\boxed{\mathcal{R}(M) = \bigcap_{i,j,k} \Phi(\omega_i, \omega_j, \omega_k)}
+$$
+
+**Beschreibung (DE):**
+Erweiterung der Geometric Unity durch Resonanzachsen.
+
+**Description (EN):**
+Extension of Geometric Unity via resonance axes.
+
+---
+
+## 🌐 Universale Kollapsstruktur | Universal Transition Structure (UTS)
+
+*(symbolische Darstellung ohne Formel)*
+
+**Beschreibung (DE):**
+Grundstruktur für Feldkollaps und Phasenübergänge.
+
+**Description (EN):**
+Basic structure for field collapse and phase transitions.
+
+---
+
+## 🌐 Zeta-Modulierungsansatz | Zeta Modulation Approach
+
+$$
+\zeta(s) = \prod_{p} \frac{1}{1 - p^{-s}}
+$$
+
+**Beschreibung (DE):**
+Basisfunktion, modifiziert zur Feldresonanzanalyse.
+
+**Description (EN):**
+Base function, modified for field resonance analysis.
+
+---
+
+## 🌐 Symbolische Wellenlogik | Symbolic Wave Logic
+
+$$
+\Psi(x) = A \sin(kx - \omega t)
+$$
+
+**Beschreibung (DE):**
+Symbolische Wellenfunktion für Feld- und Frequenzmodulation.
+
+**Description (EN):**
+Symbolic wave function for field and frequency modulation.
 
 ---
 
@@ -21,7 +134,8 @@ Diese Zusammenstellung zeigt die **wichtigsten Kernformeln** des NEXAH-CODEX Sys
 * Erweiterungen physikalischer und mathematischer Standardformeln
 * Symbolischer Kopplung zwischen Frequenz, Zahl und Raumzeit
 
-Weitere detaillierte Gleichungen sind in den Modulen `codex-mathematics/`, `UCRT/`, `GU-REX/` und `GRAND-CODEX/` dokumentiert.
+Weitere Gleichungen und Ableitungen findest du in:
+`codex-mathematics/`, `UCRT/`, `GU-REX/`, `GRAND-CODEX/`.
 
 ---
 
