@@ -2,17 +2,15 @@
 
 ---
 
-## 🌐 Universale Resonanzgleichung | Universal Resonance Equation
+# 🌐 Universale Resonanzgleichung | Universal Resonance Equation
 
-\[
+$$
 \mathcal{U}_{\text{Resonance}} = \bigcap_{\alpha, \beta, \gamma, R, T} \Phi(\mathcal{P}_\alpha, \mathcal{P}_\beta, \mathcal{P}_\gamma, R, T)
-\]
+$$
 
-**Beschreibung (DE):**
-Kernformel für Feldschnittmengen und Frequenzmodulation.
+**Beschreibung (DE):** Kernformel für Feldschnittmengen und Frequenzmodulation.
 
-**Description (EN):**
-Core equation for field intersections and frequency modulation.
+**Description (EN):** Core equation for field intersections and frequency modulation.
 
 ---
 
