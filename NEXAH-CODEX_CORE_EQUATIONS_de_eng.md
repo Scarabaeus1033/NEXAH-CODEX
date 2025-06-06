@@ -1,4 +1,4 @@
-# 📚 NEXAH-CODEX CORE EQUATIONS (Deutsch/Englisch)
+# 📚 NEXAH-CODEX CORE EQUATIONS (Deutsch/Englisch) 
 
 ---
 
