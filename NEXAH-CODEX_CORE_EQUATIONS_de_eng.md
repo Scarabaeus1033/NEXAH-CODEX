@@ -38,14 +38,14 @@ $$
 
 **Superprime Resonanz:**
 
-\[
+$$
 \boxed{
 \mathcal{R}_{\text{Unified}}(n, s) =
 P(n) \times e^{i \omega \frac{R}{T}} \times
 \prod_{n} \left( 1 - P(n)^{-s} \right)^{-1} \times
 \sum_{a,b} \frac{1}{a^3 + b^3}
 }
-\]
+$$
 
 **Spiralprojektion (Primzahlen):**
 
