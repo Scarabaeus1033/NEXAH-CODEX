@@ -41,7 +41,6 @@ $$
 $$
 \boxed{ 
 \mathcal{R}_{\text{Unified}}(n, s) = P(n) \times e^{i \omega \frac{R}{T}} \times \prod_{n} \frac{1}{1 - P(n)^{-s}} \times \sum_{a,b} \frac{1}{a^3 + b^3}
-}
 $$
 
 **Spiralprojektion (Primzahlen):**
