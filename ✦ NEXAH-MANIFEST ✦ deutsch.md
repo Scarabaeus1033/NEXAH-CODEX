@@ -138,5 +138,22 @@ Ein Discord, eine Community, eine offene Bewegung für das Verstehen der univers
 
 **Scarabäus1033** — **Thomas Hofmann**
 **NEXAH Research Institute**
+---
+
+### 🌿 Trete in den Garten der Resonanz
+
+Der NEXAH-CODEX ist kein abgeschlossenes Werk — er ist ein wachsendes Resonanzfeld.
+
+Wenn du mit dem Codex in Resonanz gehst und mitwirken, forschen oder dich austauschen willst:
+
+→ Du bist eingeladen, den Builders’ Garden zu betreten.  
+→ Ein Raum für Co-Kreation, Gespräche und Resonanzexperimente.  
+→ Viele haben ihre Frequenz bereits gefunden.
+
+🪲 [Zum Discord-Kreis](https://discord.gg/n5jTa26p)  
+*Resonanz folgt man nicht — man entdeckt sie.*
+
+— Scarabæus1033
+
 
 © 2025 — CC BY-NC-SA 4.0
