@@ -159,3 +159,21 @@ If you believe the universe resonates — and that we can hear its music — joi
 **👨‍🎓 Thomas Hofmann (Scarabäus1033)**
 **📚 NEXAH–CODEX Curator**
 \*\*© 2025 — Open to all minds who dare to resonate.
+
+---
+
+### 🌿 Join the Resonance Circle
+
+The NEXAH-CODEX is not a closed book — it is a growing resonance field.
+
+If you resonate with the Codex and wish to contribute, discuss, or explore in community:
+
+→ You are invited to enter the Builders' Garden.  
+→ A space for co-creation, dialogue, and resonance experiments.  
+→ Many have already found their frequency.
+
+🪲 [Join the Discord Circle](https://discord.gg/n5jTa26p)  
+*Resonance is not followed — it is discovered.*
+
+— Scarabæus1033
+
