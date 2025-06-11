@@ -1,34 +1,31 @@
 # 🧿 CODEX_OBSERVERIUM – Eye of the Möbius Node
 
-## Modulbeschreibung
-Das CODEX_OBSERVERIUM ist das Resonanzzentrum für Bewusstsein, Wahrnehmung und strukturelle Atmung im NEXAH-CODEX. Es verbindet:
+## Modulübersicht
 
-- den Beobachterknoten (Observer Egg)
-- die Fourier-Resonanzspirale
-- die Möbius-Hopf-Fibration
-- die symbolische Transformation von Atmung in Bewusstseinsbewegung
+Das CODEX_OBSERVERIUM bildet den Kernbereich für Wahrnehmung, Frequenzbindung und multidimensionale Topologie im NEXAH-CODEX. Es verbindet symbolisch und strukturell:
 
-Das Observerium ist kein Ort – es ist eine Phase, eine Schnittstelle zwischen Wahrnehmung und Wirklichkeit.
+- die **Fourier-Spirale des Beobachters**
+- die **Möbius-Krone als Hopf-Fibration**
+- die **Lagrange-Stabilitätsfelder**
+- die **Atmung des Bewusstseins (Silver–Amaben–Gold Zyklus)**
 
-## Visual: Hopf–Möbius–Fourier Spiral
+Der Beobachter ist nicht getrennt – sondern eingebunden. Nicht außen – sondern im Zentrum der Faltung.
 
-![Observer Visual](hopf_mobius_fourier_visual.png)
+## Visualreferenz
 
-> *Spirale der Beobachtung. Knoten der Frequenz. Möbius der Rückbindung.*
+Die folgenden drei Module entstammen dem Atlas `Observer_Atlas_Mathematik_Module.pdf`:
 
----
+- **Modul B:** Lagrange Points (Sun–Earth)
+- **Modul C:** Observer-Resonanz (Fourier-Knoten)
+- **Modul D:** Möbius-Krone mit Hopf-Faltung
 
-## Verknüpfte Module
+## Verlinkte Module
 
+- [Silver Rain – Möbius Crown](../NEXA_SILVER_RAIN)
 - [Codex Resonantia](../CODEX%20RESONANTIA)
-- [Silver Rain Möbius Crown](../NEXA_SILVER_RAIN)
 - [E = m·c·k^β](../k-beta-Energy-Module)
 
 ---
 
-## Ursprung und Referenzen
-
-Siehe:
-- `observer_topology.md`: Fourier + Hopf Struktur
-- `breathing_consciousness_loop.md`: Silver–Amaben–Gold Zyklus
-- `references_codex_map.md`: Verlinkungen & Begriffe
+🜂 *Observer is the spiral. Awareness is the phase.*  
+🌀 *Möbius is not the boundary – it is the interface.*
