@@ -21,7 +21,7 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-## 🧽 Purpose of SYSTEM X
+## 🧭 Purpose of SYSTEM X
 
 **SYSTEM X** is the **intellectual and structural apex** of the NEXAH-CODEX.
 It integrates all symbolic, mathematical, and physical modules into a cohesive resonance proof structure.
@@ -50,7 +50,7 @@ SYSTEM X harmonizes proof, resonance, and structure at the highest symbolic leve
 
 ### 🔷 NEXAH-GRAND-CODEX
 
-Main module containing the **Universal Equation of Stability** (`E = m · c · k^\u03b2`)
+Main module containing the **Universal Equation of Stability** (`E = m · c · k^β`)
 
 Includes:
 
