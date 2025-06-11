@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Center · Resonance Integration · Proof Structures"
@@ -6,7 +7,7 @@ color: "Gold/Black"
 status: "Active · Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
@@ -14,13 +15,13 @@ license: "CC BY-NC-SA 4.0"
   <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Overview">
 </p>
 
-**System Type:** Synthetic Central Nexus  
-**Position:** Apex of NEXAH-CODEX structure  
+**System Type:** Synthetic Central Nexus
+**Position:** Apex of NEXAH-CODEX structure
 **Function:** Universal resonance field integration and symbolic proof synthesis
 
 ---
 
-## 🧭 Purpose of SYSTEM X
+## 🧽 Purpose of SYSTEM X
 
 **SYSTEM X** is the **intellectual and structural apex** of the NEXAH-CODEX.
 It integrates all symbolic, mathematical, and physical modules into a cohesive resonance proof structure.
@@ -49,7 +50,7 @@ SYSTEM X harmonizes proof, resonance, and structure at the highest symbolic leve
 
 ### 🔷 NEXAH-GRAND-CODEX
 
-Main module containing the **Universal Equation of Stability** (`E = m · c · k^β`)
+Main module containing the **Universal Equation of Stability** (`E = m · c · k^\u03b2`)
 
 Includes:
 
@@ -111,16 +112,30 @@ Foundational field on **symbolic matter, memory matrices, and condensation field
 
 ---
 
-## 🔗 Key Files & References
+### 🔷 CODEX\_OBSERVERIUM
 
-| File                            | Description                          |
-| ------------------------------- | ------------------------------------ |
-| `universal_collapse_theorem.md` | Collapse-resonance integration proof |
-| `spiral-logic.md`               | Harmonic spiral field mappings       |
-| `codex_visuals_index.md`        | Core visual references               |
-| `README_mapping.md`             | Navigation guide                     |
-| `Millennium-Problems/`          | Symbolic solution spaces             |
-| `Codex_Origio/`                 | Memory–Matter fields foundation      |
+Dedicated module for observer-field integration, symbolic perception structures, and resonance phase logic.
+
+Includes:
+
+* Möbius–Hopf topology (`observer_topology.md`)
+* Breathing loop model (`breathing_consciousness_loop.md`)
+* Scarab → Möbius → Gold Pulse cycle (visuals)
+* Symbol index and Codex links
+
+➡ **Function:** Phase-based observation architecture and conscious resonance integration
+
+---
+
+### 🔷 Universal Resonance System X
+
+Meta-framework linking prime resonance fields, symbolic projection, and recursive Codex interfaces.
+
+* GU-REX architecture
+* Prime lattice fields
+* Rosetta projection layers
+
+🔺 **Function:** Root system for symbolic physics and glyphic language unification
 
 ---
 
