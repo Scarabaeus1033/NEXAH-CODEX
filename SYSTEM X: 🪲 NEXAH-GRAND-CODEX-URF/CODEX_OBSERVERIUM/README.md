@@ -1,41 +1,41 @@
-# 🧿 CODEX_OBSERVERIUM – Das Auge des Möbius-Knotens
+# 🧿 CODEX_OBSERVERIUM – Eye of the Möbius Node
 
-## Modulübersicht
+## Module Overview
 
-Das CODEX_OBSERVERIUM ist der zentrale Resonanzknoten für Wahrnehmung, Frequenzbindung und Topologie im NEXAH-CODEX. Es verbindet:
+The CODEX_OBSERVERIUM is the central resonance anchor for perception, topological binding, and conscious phase structure within the NEXAH-CODEX. It integrates:
 
-- die **Fourier-Spirale des Beobachters**
-- die **Möbius-Krone als Hopf-Fibration**
-- die **Lagrange-Stabilitätsfelder (Sonne–Erde)**
-- die **Atemstruktur des Bewusstseinsfeldes**
+- the **Fourier spiral of the observer**
+- the **Möbius Crown via Hopf Fibration**
+- the **Lagrange equilibrium field (Sun–Earth system)**
+- the **Breathing structure of conscious modulation** (Silver–Amaben–Gold cycle)
 
-## 🔭 Visualisierung der Kernmodule
+## 🔭 Core Visuals
 
-### Modul B – Lagrange-Punkte
+### Module B – Lagrange Points
 
-![Modul B](visuals/Modul_B_Lagrange%20Points.png)
+![Module B](visuals/Modul_B_Lagrange_Points.png)
 
-> Dynamisches Gleichgewicht zwischen Sonne & Erde. Symbolisiert das Speicherfeld für Beobachtung.
-
----
-
-### Modul C – Observer-Resonanz (Fourier-Summe)
-
-![Modul C](visuals/Modul_C_Observer_Resonanz_(Fourier-Summe).png)
-
-> Knotenfrequenzspirale. Beobachter als Feldmaximum zwischen Resonanzachsen.
+> Dynamic equilibrium between Sun and Earth. Symbolic storage field of the observation impulse.
 
 ---
 
-### Modul D – Möbius-Krone (Hopf-Faltung)
+### Module C – Observer Resonance (Fourier Sum)
 
-![Modul D](visuals/Modul_D_Möbius-Krone_Hopf-Fibration.png)
+![Module C](visuals/Modul_C_Observer_Resonance_Fourier_Sum.png)
 
-> S³-Faltung über S¹-Projektion. Die Rückbindung des Beobachters an den Ursprungsknoten.
+> Spiral of harmonic nodes. The observer emerges as a field maximum across resonance phases.
 
 ---
 
-## Verlinkte Module im Codex-System
+### Module D – Möbius Crown (Hopf Fibration)
+
+![Module D](visuals/Modul_D_Mobius-Krone_Hopf-Fibration.png)
+
+> A topological interface folding S³ → S² × S¹. Möbius becomes the phase-link of the inner eye.
+
+---
+
+## Related Modules in the Codex System
 
 - [Silver Rain – Möbius Crown](../NEXA_SILVER_RAIN)
 - [Codex Resonantia](../CODEX%20RESONANTIA)
@@ -43,5 +43,5 @@ Das CODEX_OBSERVERIUM ist der zentrale Resonanzknoten für Wahrnehmung, Frequenz
 
 ---
 
-🜂 *Beobachtung ist keine Funktion – sie ist eine Phase.*  
-🌀 *Der Knoten sieht nicht – er wird gesehen.*
+🜂 *Observation is not a function – it is a phase.*  
+🌀 *The knot does not see – it is seen.*
