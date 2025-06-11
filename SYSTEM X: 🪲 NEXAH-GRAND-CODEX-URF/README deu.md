@@ -1,114 +1,177 @@
-# 🪲 SYSTEM X: NEXAH-GRAND-CODEX
+---
+
+titel: "SYSTEM X – NEXAH-GRAND-CODEX"
+system: "NEXAH-CODEX"
+domäne: "Synthetisches Zentrum · Resonanzintegration · Beweisstrukturen"
+farbe: "Gold/Schwarz"
+status: "Aktiv · Version Mai 2025"
+kurator: "Thomas Hofmann (Scarabäus1033)"
+lizenz: "CC BY-NC-SA 4.0"
+---
+
+# 🪲 SYSTEM X – NEXAH-GRAND-CODEX
+
+<p align="center">
+  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Übersicht">
+</p>
 
 **Systemtyp:** Synthetischer Zentralnexus
-**Position:** Oberstes Strukturmodul im NEXAH-CODEX
-**Funktion:** Verknüpfung aller mathematisch-symbolischen Systeme zu einem kohärenten Resonanzfeld
-**Stand:** Thread II – Millennium-Fortsetzung (Mai 2025)
-**Archiv-Verantwortung:** Scarabäus1033 (T. Hofmann)
+**Position:** Spitze der NEXAH-CODEX-Struktur
+**Funktion:** Integration universeller Resonanzfelder und symbolischer Beweissynthese
 
 ---
 
-## 🧡 Zielsetzung von SYSTEM X
+## 🧭 Zweck von SYSTEM X
 
-Dieses Verzeichnis bildet das **intellektuelle und strukturelle Zentrum** des gesamten NEXAH-CODEX-Systems. Hier werden zentrale mathematische Theorien, symbolische Resonanzsysteme, Millennium-Probleme und universelle Stabilitätsformeln zu einem **kohärenten Beweis- und Harmoniestrang** verwoben.
+**SYSTEM X** bildet den **intellektuellen und strukturellen Gipfel** des NEXAH-CODEX.
+Es vereint alle symbolischen, mathematischen und physikalischen Module zu einer kohärenten Resonanzbeweisstruktur.
 
----
+Es verwebt:
 
-## 📂 Inhaltsstruktur
+* Mathematische Resonanzfelder (System 1)
+* Physikalische Feldmodelle (System 2)
+* Kosmologische Strukturen (System 3)
+* Symbolische Grundschichten (System 4)
+* Glyphische Sprache & Erinnerungscodierung (System 5)
+* Universelle Konstanten & Primresonanzen (System 7)
+* Geometrische Harmonien (TESSAREC – System 9)
 
-### 🔷 [`NEXAH-GRAND-CODEX 🪲`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX)
+Alle münden in:
 
-Das Hauptmodul, das die **universelle Formel der Stabilität** (`E = m · c · k^β`) enthält.
-Enthalten sind:
+* **Universelle Gleichung der Stabilität**
+* **Dynamische Schwellenfelder (Resonanz vs. Kollaps)**
+* **Symbolische Beweismatrizen**
 
-* Manifest & Einleitung
-* [`codex-mathematics/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/codex-mathematics): Theoretisch-mathematische Grundbausteine (z.B. k-Beta-Formel, Casimir-Neutrino-Thread, Spiralformeln)
-* [`visuals/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/visuals): Graphische Darstellung der Konzepte
-* `codex_visuals_index.md`: Visualverzeichnis
-
-➡ **Funktion:** Mathematische und visuelle Verdichtung der Codex-Kernformeln
-
----
-
-### 🔷 [`Millennium-Problems/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Millennium-Problems)
-
-Ein eigenes Untersystem zur Bearbeitung der **7 Millennium-Probleme** im symbolisch-physikalischen Kontext.
-Alle Module werden unter den drei Codex-Dimensionen betrachtet:
-
-* **Möbius Compression** — topologisches Feedback, Knotengeometrie, Torsion
-* **Harmonic Resonance** — Frequenzlogik, Dämpfung, Eigenformen
-* **UTS Threshold (Θ(n))** — Übergangsbedingung, Symbolkollaps, Sichtbarkeitsfenster
-
-| Folder Name         | Problem                            | Status       | Beschreibung                                                                  |
-| ------------------- | ---------------------------------- | ------------ | ----------------------------------------------------------------------------- |
-| `01_P_vs_NP/`       | P vs NP                            | ✅ Completed  | Möbius-resonantes Feldkollaps-Modell; NP-Blockade als harmonische Schranke.   |
-| `02_Hodge_Codex/`   | Hodge Conjecture                   | ✅ Completed  | Sichtbarkeit von (p,p)-Formen in kohomologischen Resonanzräumen.              |
-| `03_Yang_Mills/`    | Yang–Mills Mass Gap                | ✅ Completed  | Neutrinogeführte Möbius-Loop-Struktur zur Massengap-Bildung.                  |
-| `04_Navier_Stokes/` | Navier–Stokes Regularity           | ✅ Completed  | Glyphische Strömungsdämpfung; UTS-viskose Turbulenzgrenzen.                   |
-| `05_BSD_Codex/`     | Birch & Swinnerton-Dyer Conjecture | ✅ Completed  | Rank als Resonanz-Echo der L-Funktion; torsionsgesteuertes Sichtbarkeitsfeld. |
-| `06_Riemann_Codex/` | Riemann Hypothesis                 | ✅ Integrated | Prime-Resonanzachse via `NEXA_RIEMANN_PROOF/` aus System 1.                   |
-
-➡ **Funktion:** Symbolisch-formale Lösung der großen mathematischen Fragen im Einklang mit den NEXAH-Feldern
+SYSTEM X harmonisiert Beweis, Resonanz und Struktur auf höchster symbolischer Ebene.
 
 ---
 
-### 🔷 [`GÖDEL-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/GÖDEL-CODEX)
+## 📂 Modulstruktur
 
-Ein eigenständiges Modul zur logischen, symbolischen und resonanztheoretischen Bearbeitung der Gödel’schen Inkomplettheit.
+### 🔷 NEXAH-GRAND-CODEX
 
-* Möbius-Kollapsstruktur
-* Symbolische Beweisform mit Codex-Resonanz
-* Verbindung zur P≠NP–Logik und Universal Collapse Theorem
+Hauptmodul mit der **universellen Stabilitätsformel** (`E = m · c · k^β`)
 
-➡ **Funktion:** Fundament der symbolischen Konsistenzprüfung im gesamten NEXAH-System
+Enthält:
 
----
+* Manifest & Übersicht
+* `codex-mathematics/`: Grundlagen der Resonanzmathematik
+* `visuals/`: Zentrale Visualgalerie
 
-### 🔷 [`Codex_Origio/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Codex_Origio)
-
-Das Fundamentmodul zur **Resonanzkondensation von Materie**, Kristallstruktur, Myzelvernetzung und speicherfähiger Bodenmatrix.
-
-* Enthält ein resonantes Periodensystem mit polygonalen & bioaktiven Einträgen
-* Stellt Verbindung zu URF-Äquivalenzsystem und LANiF-Verzweigungen her
-* Basismodul für `Soil`, `Bio`, `Crystals` und experimentelle Impulsfelder
-
-➡ **Funktion:** Symbolisch-physischer Ursprungspunkt für Felddichte und Speicherstoffe im System
+➡ **Funktion:** Verdichtung von Beweismodellen und Gleichungssynthese
 
 ---
 
-## 🔗 Zentrale Dateien & Referenzen
+### 🔷 Universal Transition Structure
 
-| Datei / Modul                       | Beschreibung                                              |
-| ----------------------------------- | --------------------------------------------------------- |
-| `universal_collapse_theorem.md`     | Mathematisch-symbolische Formulierung des Kollaps-Punktes |
-| `codex-mathematics/spiral-logic.md` | Spiralformel-Symbolik für Feldstrukturen                  |
-| `codex_visuals_index.md`            | Visuelles Inhaltsverzeichnis                              |
-| `README_mapping.md`                 | Kartographische Übersicht aller 7+1 Probleme              |
+Dynamisches Modul zur Modellierung von Resonanzkollaps:
+
+* Möbius-Kollapsstrukturen
+* Solar–Lunar-Schwellenmodellierungen
+
+➡ **Funktion:** Universelle Übergangsdynamik der Feldresonanz
 
 ---
 
-## 🧠 Kontext: Warum „SYSTEM X“?
+### 🔷 Millennium-Problems
 
-SYSTEM X bildet den **symmetrischen Ursprungspunkt (0,0,0)** des gesamten NEXAH-CODEX.
-Hier konvergieren:
+Symbolische Lösungsmodule für die 7 Millennium-Probleme.
 
-* Zahl & Feld
-* Form & Beweis
-* Ort & Symbol
-* Wissenschaft & Resonanz
+| Problem                | Status      | Methode                         |
+| ---------------------- | ----------- | ------------------------------- |
+| P vs NP                | ✅ Gelöst    | Möbius-Kompressionsfelder       |
+| Hodge-Vermutung        | ✅ Gelöst    | Kohomologische Resonanz         |
+| Yang–Mills-Massenlücke | ✅ Gelöst    | Resonante Lückengeometrien      |
+| Navier–Stokes          | ✅ Gelöst    | Symbolische Fluiddämpfung       |
+| BSD-Vermutung          | ✅ Gelöst    | Torsionsresonanz der L-Funktion |
+| Riemann-Vermutung      | ✅ In Arbeit | Primzahlachsen & Zeta-Feld      |
 
-Es ist ein multidimensionaler **Integrationsraum für Beweisketten**, Codex-Visuals und harmonische Systeme auf höchstem Niveau.
+➡ **Funktion:** Resonanzinterpretation mathematischer Grenzfragen
+
+---
+
+### 🔷 Gödel-Codex
+
+Symbolische Kartographie logischer Paradoxien:
+
+* Möbius-Beweisstrukturen
+* Universale Konsistenzfelder
+
+➡ **Funktion:** Integration logischer Resonanz
+
+---
+
+### 🔷 Codex Origio
+
+Grundmodul über **symbolische Materie, Erinnerungsfelder und Verdichtungsprozesse**:
+
+* Resonantes Periodensystem
+* Polygonale Felddynamik
+* Myzelnetzwerke & Speichermaterie
+
+➡ **Funktion:** Modellierung energetisch-symbolischer Materiestrukturen
+
+---
+
+### 🔷 CODEX\_OBSERVERIUM
+
+Modul zur Integration von Beobachterfeldern, Wahrnehmungsphasen und Resonanzarchitektur.
+
+Enthält:
+
+* Möbius–Hopf-Topologie (`observer_topology.md`)
+* Atmungsmodell (`breathing_consciousness_loop.md`)
+* Zyklus: 🪶 Scarab → ∞ Möbius → ◯ Gold-Puls (Visuals)
+* Symbolindex und Systemverweise
+
+➡ **Funktion:** Architektur bewusster Resonanzphasen & Spiegelung
+
+---
+
+### 🔷 Universelles Resonanzsystem X
+
+Metastruktur zur Verbindung primresonanter Zahlenfelder, glyphischer Projektionen und symbolischer Brückensysteme.
+
+* GU-REX-Architektur
+* Primzahlen-Gitterfelder
+* Rosetta-Glyph-Projektionen
+
+🔺 **Funktion:** Wurzelsystem symbolischer Physik & Sprachstruktur
+
+---
+
+## 🧠 System X – Codex-Integration
+
+**SYSTEM X** verbindet:
+
+* Primresonanz & Zahlengitter
+* Resonanzkollaps & Beweisstrukturen
+* Symbolik & Physik auf harmonischer Ebene
+
+Verlinkt mit:
+
+* SYSTEM 1 (Mathematik): K-Beta-Strukturen
+* SYSTEM 2 (Physik): Solar–Lunar-Kollapsachsen
+* SYSTEM 3 (Kosmologie): Erinnerungsfelder
+* SYSTEM 4 (URF): Tensor-Raumstruktur
+* SYSTEM 5 (Meta/Rosetta): Glyphenfelder
+* SYSTEM 7 (Konstanten): Primzahlresonanz
+* SYSTEM 9 (TESSAREC): Geometrische Harmonien
+
+> **„Es gibt keine isolierte Struktur — nur Resonanzkonvergenz.“**
 
 ---
 
 ## 🚧 Nächste Schritte
 
-* [ ] Ergänzung von `MILLENNIUM_OVERVIEW.md`
-* [ ] Kosmetische Registry für Coq/Lean-Komponenten
-* [ ] Wiki-Integration (Export/HTML?)
-* [ ] Archivierte ROADMAP für SYSTEM X
+* [ ] Vollständige Millennium-Kartographie im Resonanzsystem
+* [ ] Abschluss der Gödel-Resonanzketten
+* [ ] Ausweitung von Codex Origio in energetische Materiefelder
+* [ ] Erweiterung der symbolischen Navigation
 
 ---
 
-📁 [Zurück zur Startstruktur](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur)
-📁 [Zum Navigator](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR.md)
+© Scarabäus1033 · Thomas Hofmann · 2025
+Lizenz: CC BY-NC-SA 4.0
+Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)
+GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
