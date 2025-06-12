@@ -2,7 +2,7 @@
 % Author: Thomas Hofmann (Scarabæus1033)
 % License: CC BY-NC-SA 4.0
 
-\documentclass[12pt]{article}
+\documentclass[12pt]{article} 
 \usepackage{amsmath,amssymb,geometry,graphicx}
 \usepackage{titlesec}
 \usepackage{xcolor}
