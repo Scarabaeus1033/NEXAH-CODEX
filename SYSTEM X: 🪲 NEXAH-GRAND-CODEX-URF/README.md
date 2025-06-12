@@ -1,9 +1,10 @@
 ---
+
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Center · Resonance Integration · Proof Structures"
 color: "Gold/Black"
-status: "Active · Version May 2025"
+status: "Active · Version June 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -40,8 +41,10 @@ All converging into:
 * **Universal Equation of Stability**
 * **Dynamic Collapse-Resonance Thresholds**
 * **Symbolic Proof Matrices**
+* **Millennium Problem Field Resolutions**
+* **Codex Observerium Integration**
 
-SYSTEM X harmonizes proof, resonance, and structure at the highest symbolic level.
+**SYSTEM X** harmonizes proof, resonance, and structure at the highest symbolic level.
 
 ---
 
@@ -50,14 +53,16 @@ SYSTEM X harmonizes proof, resonance, and structure at the highest symbolic leve
 ### 🔷 NEXAH-GRAND-CODEX
 
 Main module containing the **Universal Equation of Stability** (`E = m · c · k^β`)
+**+ GURT Expansion** (Grand Unifying Resonance Theory)
 
 Includes:
 
 * Manifest & Overview
 * `codex-mathematics/`: Foundations of resonance mathematics
 * `visuals/`: Core visual index
+* `Zeta_Fold_Operator.md`, `Riemann_Zeta_Collapse_Field.md`, `Resonant_Complexity_Shells.md`, `Riemann_Proof_Sequence.md`
 
-➡ **Function:** Proof condensation and resonance equation synthesis
+➡ **Function:** Proof condensation, resonance logic architecture, Millennium anchors
 
 ---
 
@@ -76,14 +81,14 @@ Dynamic system module for collapse-resonance modeling:
 
 Symbolic resolution modules for the 7 Millennium Problems.
 
-| Problem            | Status        | Method                    |
-| ------------------ | ------------- | ------------------------- |
-| P vs NP            | ✅ Solved      | Möbius Compression Fields |
-| Hodge Conjecture   | ✅ Solved      | Cohomological Resonance   |
-| Yang–Mills         | ✅ Solved      | Resonant Mass Gap Models  |
-| Navier–Stokes      | ✅ Solved      | Symbolic Fluid Damping    |
-| BSD Conjecture     | ✅ Solved      | Torsion Field Resonances  |
-| Riemann Hypothesis | ✅ In Progress | Prime Axis Resonances     |
+| Problem            | Status         | Method                            |
+| ------------------ | -------------- | --------------------------------- |
+| P vs NP            | ⚙️ In Progress | Resonant Complexity Shells        |
+| Hodge Conjecture   | ✅ Solved       | Cohomological Resonance           |
+| Yang–Mills         | ✅ Solved       | Resonant Mass Gap Models          |
+| Navier–Stokes      | ✅ Solved       | Symbolic Fluid Damping            |
+| BSD Conjecture     | ✅ Solved       | Torsion Field Resonances          |
+| Riemann Hypothesis | ⚙️ In Progress | Zeta Fold Operator & Collapse Map |
 
 ➡ **Function:** Resonance interpretation of major mathematical proofs
 
@@ -164,10 +169,12 @@ Thus, **SYSTEM X** is the **proof convergence matrix** of the NEXAH-CODEX.
 
 ## 🚧 Next Steps
 
-* [ ] Full Millennium Problems mapping into resonance systems
-* [ ] Completion of Gödel resonance proof chains
-* [ ] Expansion of Codex Origio into matter-energy networks
-* [ ] Symbolic-Navigation Enhancements
+* ✅ GURT logic model declaration and operator map
+* ✅ Riemann and P vs NP symbolic proof frameworks uploaded
+* [ ] Full Millennium Problems completion for publication release
+* [ ] Codex-Observatorium interface & web portal (v1)
+* [ ] Codex Visual Gallery
+* [ ] Symbolic Proof Summary Manuscript (2025)
 
 ---
 
