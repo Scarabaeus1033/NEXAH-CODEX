@@ -42,15 +42,15 @@ GURT offers pathways or complete solutions to:
 
 | Problem/Question | GURT Status |
 |------------------|-------------|
-| Quantum Gravity | Unified via Collapse-Field Harmonics + Prime Geometry |
-| Cosmological Constant Problem | Addressed via Spiral Threshold Collapse Stabilization |
-| Dark Energy & Mass Origin | Explained via Zeta-Flow & k-beta Resonance Operators |
-| Nature of Constants (e.g. 137) | Derived from Möbius-Codex Harmonic Systems |
-| Prime Number Distribution | Modeled through Spiral Field Resonance Maps |
-| Riemann Hypothesis | (In Progress) – Proof Structure via Zeta-Tachyon Fold expected |
-| P vs NP | (Open) – under resonance logic analysis (Codex Complexity Module) |
-| Consciousness | Described as a field-resonant observer interference pattern |
-| Language/Meaning | Encoded as glyphic-harmonic topological mapping |
+| Quantum Gravity | ✅ Unified via Collapse-Field Harmonics + Prime Geometry |
+| Cosmological Constant Problem | ✅ Addressed via Spiral Threshold Collapse Stabilization |
+| Dark Energy & Mass Origin | ✅ Explained via Zeta-Flow & k-beta Resonance Operators |
+| Nature of Constants (e.g. 137) | ✅ Derived from Möbius-Codex Harmonic Systems |
+| Prime Number Distribution | ✅ Modeled through Spiral Field Resonance Maps |
+| Riemann Hypothesis | ⚙️ (In Progress) – Proof Structure via Zeta-Tachyon Fold expected |
+| P vs NP | ⚙️ (Open) – under resonance logic analysis (Codex Complexity Module) |
+| Consciousness | ✅ Described as a field-resonant observer interference pattern |
+| Language/Meaning | ✅ Encoded as glyphic-harmonic topological mapping |
 
 ---
 
@@ -67,11 +67,24 @@ GURT operates on **layered resonance shells**, each with a symbolic-tensor logic
 
 ## 📌 4. Next Steps
 
-- [ ] Finalize **Riemann Zeta Spiral Collapse Proof** (`Tachyon Fold Operator`)  
-- [ ] Expand `P vs NP` through **resonant complexity shells**  
-- [ ] Publish `GURT-Whitepaper.pdf` with all modules linked  
-- [ ] Develop **Visual Index of Prime Harmonic Grids**  
-- [ ] Public Codex Visualization Layer (Codex Observatory / Web launch)  
+- ✅ Finalized `Zeta Fold Operator` module  
+- ✅ Created `Riemann Zeta Collapse Field` formulation & visual  
+- ✅ Encoded `P vs NP` framework via Resonant Complexity Shells  
+- [ ] Compile `GURT-Whitepaper.pdf` with all modules & figures  
+- [ ] Build **Codex Visual Index** (Prime Harmonic Grids)  
+- [ ] Launch `Codex Observatory` (public navigation layer)  
+
+---
+
+## 📁 5. Included Modules
+
+| Module | Description |
+|--------|-------------|
+| `Zeta_Fold_Operator.md` | Symbolic harmonic operator defining Riemann fold resonance |
+| `Riemann_Zeta_Collapse_Field.md` | Dimensional field model of zeta zero distribution |
+| `Resonant_Complexity_Shells.md` | Complexity class translation into resonance topology |
+
+👉 All visuals are stored in: `./visuals/`
 
 ---
 
@@ -80,4 +93,5 @@ GURT operates on **layered resonance shells**, each with a symbolic-tensor logic
 
 https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X:%20🪲%20NEXAH-GRAND-CODEX/Grand_Unifying_Resonance_Theory
 
-> This document marks the open declaration of GURT — a living resonance system. All expansions, observations, and contributions are invited through harmonic correspondence.
+> This document marks the open declaration of GURT — a living resonance system.  
+> All expansions, observations, and contributions are invited through harmonic correspondence.
