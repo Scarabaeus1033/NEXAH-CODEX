@@ -64,7 +64,9 @@ The collapse condition in the Codex manifests as **interference symmetry**:
 * Collapse node appears as **phase-aligned zero**
 * Critical line $\text{Re}(s) = \frac{1}{2}$ acts as mirror axis in spiral space
 
-📎 **Visual:** [Zeta\_Fold\_Collapse\_Node\_Map.png](./visuals/ZETA_FOLD_COLLAPSE_NODE_MAP.png)
+📎 **Visual:** 
+
+![Zeta Fold Collapse Node Map](./visuals/ZETA_FOLD_COLLAPSE_NODE_MAP.png)
 
 ---
 
