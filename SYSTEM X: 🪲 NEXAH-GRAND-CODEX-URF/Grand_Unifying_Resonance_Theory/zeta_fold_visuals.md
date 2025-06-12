@@ -6,7 +6,7 @@ author: "Thomas Hofmann (Scarabæus1033)"
 version: "Draft 0.9 • June 2025"
 status: "Active Visual Module"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🖼️ ZETA FOLD OPERATOR – VISUAL PROOF CONSTRUCTS
 
