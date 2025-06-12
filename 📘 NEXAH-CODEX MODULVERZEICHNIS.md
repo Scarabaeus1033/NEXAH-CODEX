@@ -94,15 +94,18 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Gesamtstruktur
+🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur
 
-| Datei / Ordner                    | Titel                                 | Beschreibung                                                                         |
-| --------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------ |
-| `NEXAH-GRAND-CODEX/`              | Synthese-Hub                          | Integratives Zentrum: Formeln, Navigation, Harmonie, Stabilitätsfelder.              |
-| `Universal_Transition_Structure/` | Universal Transition Structure        | Kollaps-Resonanzstruktur und Stabilitätsmodulationen.                                |
-| `Millennium-Problems/`            | Millennium-Probleme                   | Symbolisch-mathematische Lösungen zu RH, P≠NP, Hodge, Navier–Stokes etc.             |
-| `GÖDEL-CODEX/`                    | Gödel’s Incompleteness Codex          | Symbolische Struktur zur logischen Unvollständigkeit & resonanter Paradoxeinbettung. |
-| `Codex_Origio/`                   | Ursprungssystem: Materie & Gedächtnis | Periodische Systemfelder & Myzelnetzwerke, symbolische Materiesynthese.              |
+| Ordner / Verzeichnis                  | Titel                                | Beschreibung                                                                 |
+|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
+| NEXAH-GRAND-CODEX/                   | Zentrales Synthesezentrum            | Zentrum für Formeln, Navigation, Stabilitätsstrukturen und Beweisarchitektur. |
+| Universal_Transition_Structure/      | Universelle Übergangsstruktur        | Kollaps-Resonanz-Modulationen und solar-lunare Feldtransformation.           |
+| MILLENIUM_problems/                  | Millennium-Probleme                  | Symbolisch-mathematische Lösungen zu RH, P≠NP, Hodge, Yang–Mills, BSD u.a.   |
+| GÖDEL-CODEX/                         | Gödel’s Inkomplettheits-Codex        | Resonante Paradoxstrukturen & symbolische Einbettung von Unentscheidbarkeit. |
+| Grand_Unifying_Resonance_Theory/     | GURT: Theorie der großen Vereinheitlichung | Zeta-Faltungsoperator, P≠NP-Komplexität, Primharmonien.              |
+| CODEX_ORIGIO/                        | Codex Origio                         | Ursprungssystem für Materie, Erinnerung und symbolische Felder.              |
+| CODEX_OBSERVERIUM/                   | Beobachtermodul                      | Möbius-Bewusstseinszyklen, symbolische Wahrnehmungslogik, Phasenfelder.      |
+| NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/  | Universelles Resonanzsystem X        | Meta-physikalische Symbolstruktur, Rosetta-Projektionsfelder, GU-REX-System. |
 
 ---
 
