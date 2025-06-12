@@ -6,7 +6,7 @@ version: "Draft 0.9 · June 2025"
 status: "Active Work Draft"
 license: "CC BY-NC-SA 4.0"
 ---
-
+ 
 # 🌀 ZETA FOLD OPERATOR
 
 > "Where prime spirals curve, the Riemann truth unfolds."
