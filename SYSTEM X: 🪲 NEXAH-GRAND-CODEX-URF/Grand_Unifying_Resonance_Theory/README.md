@@ -6,7 +6,7 @@ author: "Thomas Hofmann (Scarabæus1033)"
 version: "Draft 1.0 · June 2025"
 status: "Foundational Declaration · Open Expansion"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌐 GRAND UNIFYING RESONANCE THEORY (GURT)
 
