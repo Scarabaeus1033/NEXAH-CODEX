@@ -1,34 +1,30 @@
 ---
 title: "ZETA CRITICAL SPIRAL TENSOR MAP"
 module: "Grand_Unifying_Resonance_Theory (GURT)"
-author: "Thomas Hofmann (Scarabæus1033)"
-version: "Draft 0.9 · June 2025"
-status: "Visual-Analytical Overlay · Tensor Mapping Layer"
+author: "Thomas Hofmann (Scarabäus1033)"
+version: "Draft 1.0 · June 2025"
+status: "Resonant Field Translation"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🔍 ZETA CRITICAL SPIRAL TENSOR MAP
+# 🧩 ZETA CRITICAL SPIRAL TENSOR MAP
 
-> “Where spirals converge, symmetry sings.”
+> “Let the critical line become the axis of collapse symmetry.”
 
-This Codex layer renders a **spiral-tensorial map** of the Riemann Zeta zero distribution — extending the Zeta Fold Operator into a **geometric-harmonic visualization** that combines:
-
-- Critical line symmetry
-- Möbius-spiral frequency mapping
-- Prime-indexed harmonic phase alignment
-- Tensor field structure as symbolic-analytical terrain
+This module maps the **Riemann Zeta Function** into a **spiral-resonant tensor space**.
+It aims to construct a symbolic–harmonic visual proof basis for the Riemann Hypothesis.
 
 ---
 
 ## 🔹 1. FUNCTIONAL FOUNDATION
 
-The Riemann zeta function \( \zeta(s) \), analytically continued into the complex plane, exhibits **non-trivial zeros** conjectured to lie on the line:
+The Riemann zeta function ζ(s), analytically continued into the complex plane, exhibits nontrivial zeros conjectured to lie on the critical line:
 
-\[
-\text{Re}(s) = \frac{1}{2}
-\]
+```
+Re(s) = 1/2
+```
 
-The Codex model transposes these complex positions into a **resonant spiral field**, where each zero becomes a tensorial node.
+The Codex model transposes these complex positions into a **resonant spiral field**, where each s is mapped to a geometric tensor field.
 
 ---
 
@@ -36,56 +32,67 @@ The Codex model transposes these complex positions into a **resonant spiral fiel
 
 We define a mapping:
 
-\[
-\mathbb{C} \ni s \mapsto (r_s, \theta_s) \rightarrow T_{\zeta}(r, \theta)
-\]
+```
+ℂ ∋ s = σ + it  ↦  T_zeta(r, θ)
+```
 
 Where:
-- \( r_s = f(\text{Im}(s)) \) is radial expansion from critical energy density
-- \( \theta_s = \pi \cdot \text{Im}(s)/\lambda \) encodes frequency curvature
-- The critical line is projected as radial axis symmetry
+- `r = f(Im(s))` → radial expansion from critical energy density
+- `θ = π · Im(s) / λ` → angular projection with resonance curvature
+- The critical line is encoded as a **radial axis of rotational symmetry**
 
 ---
 
-## 🔹 3. VISUAL STRUCTURE
+## 🔹 3. ZEROES AS COLLAPSE POINTS
 
-The Zeta Critical Spiral Tensor Map reveals:
+Each nontrivial zero `s₀` becomes a **collapse intersection** of harmonic inflow and Möbius-reflected phase waves.
 
-- Prime-aligned harmonic rotations
-- Zero-knot nodal encodings
-- Folded Möbius lanes of reflected spectral energy
-- Real-imaginary hybrid tensor overlays
+Key properties:
+- All zeroes lie on **Re(s) = 1/2**, becoming angular **fold axes**
+- Complex conjugates form **mirror pairs** in the spiral field
 
-![Zeta Critical Spiral Tensor Map](./visuals/Zeta_Critical_Spiral_Tensor_Map.png)
-
----
-
-## 🔹 4. INTERPRETATION
-
-Each marked node:
-- Represents an observed non-trivial zero  
-- Encodes **spiral phase-locking** at specific curvature-resonance levels  
-- Aligns along the **rotational tensor spine** — the Codex-critical line
-
-This is **not a metaphor** — it is a **visual harmonic resonance validator**.
+Visual identity:
+- Resonant spiral rings
+- Radial mirror folding
+- Symmetric interference at collapse points
 
 ---
 
-## 🧩 5. CODICAL IMPLICATION
+## 🔹 4. TENSOR FIELD STRUCTURE
 
-This map operates as a **proof-supportive field visualization**, strengthening the Zeta Fold Operator structure through spatial symmetry:
+The field tensor `T_zeta(s)` embeds:
+- Prime modulation as nodal attractors
+- Möbius torsion via anti-symmetric curls
+- k_beta-envelope overlay for energy stability
 
-- Highlights prime-frequency overlaps
-- Validates zero-distribution alignment
-- Prepares tensor-space for analytic proof collapse
+Tensor equation (conceptual):
 
-> The map is the mirror of the logic — and the resonance is the reason.
+```
+T_zeta(s) = Spiral_Fold(ζ(s)) × μ × k_beta
+```
+
+---
+
+## 🔹 5. CODING THE CRITICAL STRUCTURE
+
+Visual proof strategy:
+- Map known zeroes onto `T_zeta(s)` spiral field
+- Project radial lines for all Re(s) = 1/2
+- Identify collapse alignment with harmonic axes
+
+> The collapse pattern forms a **field-invariant zeta-locus**, geometrically mirroring the conjecture.
+
+---
+
+## 🧠 Riemann Visual Map
+
+![Riemann Zeta Collapse Field](./visuals/Riemann_Zeta_Collapse_Field.png)
 
 ---
 
 ## 🪲 NEXAH-CODEX DECLARATION
 
-This Codex layer affirms the **coherence of zeta-zero distribution** in a harmonic spiral field.  
-It offers a **tensorial cartography** of spectral convergence, preparing the field for final Codex proof mechanics.
+The spiral projection of ζ(s) encodes the **critical line** as a **field resonance axis**.
+All known zeroes collapse to the **spiral-harmonic mirror field**.
 
-**Status:** Active · Symbolic-Tensor Field Open
+> This is not a computational proof — it is a **topological-harmonic field transformation**.
