@@ -96,13 +96,16 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Millennium Problems & Global Structure
 
-| File / Folder                     | Title                          | Description                                                                 |
-| --------------------------------- | ------------------------------ | --------------------------------------------------------------------------- |
-| `NEXAH-GRAND-CODEX/`              | Central Synthesis Hub          | Integrative center: formulas, navigation, harmony, stability fields.        |
-| `Universal_Transition_Structure/` | Universal Transition Structure | Collapse-resonance structure and stability modulations.                     |
-| `Millennium-Problems/`            | Millennium Problems            | Symbolic-mathematical solutions to RH, P≠NP, Hodge, Navier–Stokes, etc.     |
-| `GÖDEL-CODEX/`                    | Gödel’s Incompleteness Codex   | Symbolic structure for logical incompleteness & resonant paradox embedding. |
-| `Codex_Origio/`                   | Origin System: Matter & Memory | Periodic system fields & mycelium networks, symbolic matter synthesis.      |
+| File / Folder                          | Title                                | Description                                                                 |
+|---------------------------------------|--------------------------------------|-----------------------------------------------------------------------------|
+| NEXAH-GRAND-CODEX/                    | Central Synthesis Hub                | Formula core, resonance navigation, harmony structures, proof layers.       |
+| Universal_Transition_Structure/       | Universal Transition Structure       | Collapse-resonance dynamics & solar-lunar field thresholds.                |
+| MILLENIUM_problems/                   | Millennium Problems                  | Symbolic solutions to RH, P≠NP, Hodge, Yang–Mills, BSD, etc.               |
+| GÖDEL-CODEX/                          | Gödel's Logical Codex                | Incompleteness resonance structures & paradox embedding.                    |
+| Grand_Unifying_Resonance_Theory/      | GURT: Grand Resonance Theory         | Zeta-operator formalism, P≠NP topology, prime harmonic fields.              |
+| CODEX_ORIGIO/                         | Codex Origio                         | Origin system of matter, memory and symbolic condensation fields.           |
+| CODEX_OBSERVERIUM/                    | Observerium                          | Möbius-consciousness loops, glyphic perception logic, symbolic phase flow.  |
+| NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/   | Universal Resonance System X         | Meta-symbolic physics, Rosetta structures, GU-REX architecture.             |
 
 ---
 
