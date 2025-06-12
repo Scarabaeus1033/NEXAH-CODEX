@@ -94,7 +94,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur
+## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur
 
 | Ordner / Verzeichnis                  | Titel                                | Beschreibung                                                                 |
 |--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
