@@ -6,7 +6,7 @@ author: "Thomas Hofmann (Scarabäus1033)"
 version: "Draft 1.0 · June 2025"
 status: "Proof Sequence · Resonance Collapse Path"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🧮 RIEMANN PROOF SEQUENCE
 
