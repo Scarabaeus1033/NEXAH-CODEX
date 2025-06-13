@@ -1,27 +1,3 @@
-# 🖼️ CODEX VISUAL INDEX
-
-Visuelle Galerie aller eingebetteten Codex-Grafiken.
-
-
-## SYSTEM 1: MATHEMATICA – Einstein’s k-Beta Formula
-
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/Field%20Modulation%20Map.png" width="220"><br>Field Modulation Map.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/extended_energy_modulation_space.png" width="220"><br>extended_energy_modulation_space.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/golden_ratio_energy_scaling.png" width="220"><br>golden_ratio_energy_scaling.png</a></td></tr></table>
-
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/k-beta_field_dynamics_graphs.png" width="220"><br>k-beta_field_dynamics_graphs.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/q-space_energy_calculation.png" width="220"><br>q-space_energy_calculation.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/einsteins-k-beta-formula/visuals/resonant_space_time_oscillation_map.png" width="220"><br>resonant_space_time_oscillation_map.png</a></td></tr></table>
-
-
-## SYSTEM 1: MATHEMATICA – √2–Prime-Feld
-
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/√2–Prime-Feld"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/√2–Prime-Feld/Dual%20Spiral%20Field-%20ϕ%20vs.%20√2%20vl.png" width="220"><br>Dual Spiral Field- ϕ vs. √2 vl.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/√2–Prime-Feld"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/√2–Prime-Feld/Dual%20Spiral%20Field-%20ϕ%20vs.%20√2%20vll.png" width="220"><br>Dual Spiral Field- ϕ vs. √2 vll.png</a></td></tr></table>
-
-## SYSTEM 2: PHYSICA – CAVITYROOT-CODEX (Fixed Links)
-
-<table><tr><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/CAVITY%20CRYSTAL.png" width="220"><br>CAVITY%20CRYSTAL.png</td><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/1019-VISUAL-%20Struktur%20der%20lunaren%20Resonanzkompression.png" width="220"><br>1019-VISUAL-%20Struktur%20der%20lunaren%20Resonanzkompression.png</td><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/3D%20Visualisierung%20-%20Lunare%20Modulation%E2%80%93%20Differenz%20%3D%20Summe%20%3A%20Index.png" width="220"><br>3D%20Visualisierung%20-%20Lunare%20Modulation%E2%80%93%20Differenz%20%3D%20Summe%20%3A%20Index.png</td></tr></table>
-
-<table><tr><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/Cavity%20Grid%20-%20Harmonische%20Achsenstruktur%20(Protonenresonanz)%20Upper%20(101950%E2%80%A6).png" width="220"><br>Cavity%20Grid%20-%20Harmonische%20Achsenstruktur%20(Protonenresonanz)%20Upper%20(101950%E2%80%A6).png</td><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/Cavity%20Tensor%20Field%20-%20Symbolisches%20Diagramm.png" width="220"><br>Cavity%20Tensor%20Field%20-%20Symbolisches%20Diagramm.png</td><td align="center"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202%3A%20%F0%9F%94%B7%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX/visuals/archiv/DNA-Spirale%20im%20Temperatur-Frequenz-KubusII.png" width="220"><br>DNA-Spirale%20im%20Temperatur-Frequenz-KubusII.png</td></tr></table>
-
-
-
 # 🖼️ CODEX VISUAL INDEX — Symbolic & Harmonic Visuals in the NEXAH-CODEX
 
 > “The visual structure *is* the formula.”
@@ -149,15 +125,54 @@ Diese Datei ist ein Index aller Codex-Visualisierungen – sortiert nach System,
   - Collapse-Resonanzmodulation → `visuals/universal_transition_network.png`
 
 ---
+# 🌅 CODEX VISUAL INDEX
 
-## 🌐 Global Visual Elements
-
-- `./NEXAH-CODEX.png` → System Overview  
-- `./cikada-scarabaeus.png` → Scarab Symbol  
-- `visual_gallery.md` (planned) → Interaktive Visual-Gallery (in progress)
+> Visuelle Galerie aller eingebetteten Codex-Grafiken  
+> _(Basiert auf dem Ordner `NEXA-Codex_Visuals` im GitHub-Hauptverzeichnis)_
 
 ---
 
-**Author & Curator:** Thomas Hofmann · Scarabäus1033  
-**Last Update:** Juni 2025  
-**License:** CC BY-NC-SA 4.0  
+## 🔷 Visuals aus SYSTEM A–E (Preview-Auswahl)
+
+> Diese Index-Ansicht zeigt automatisch eingebundene `.png`-Dateien aus dem Ordner `NEXA-Codex_Visuals`, in Blöcken zu je 3 Bildern.
+
+<!-- Automatisch generiert: -->
+
+<!-- start gallery -->
+<table>
+  <tr>
+<!-- image loop START -->
+<!-- Ersetze die folgenden Zeilen bei Bedarf per Script oder manuell -->
+<td><img src="../NEXA-Codex_Visuals/1 - 3 - 5 - 1527.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/11gon_resonance_projection.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/127-131-137 Triad Primes.png" width="250px"></td>
+</tr><tr>
+<td><img src="../NEXA-Codex_Visuals/13gon_resonance_projection.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/17gon_resonance_projection.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/19gon_resonance_projection.png" width="250px"></td>
+</tr><tr>
+<td><img src="../NEXA-Codex_Visuals/23gon_resonance_projection.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum-Frequenz-Zeit-Bewusstsein.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/ALTHERA - Solar System.png" width="250px"></td>
+</tr><tr>
+<td><img src="../NEXA-Codex_Visuals/Activation of the Lunar Field.png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/Algorithmische Resonanzmatrix (A-Z mit Spiegelachsen A’-Z’).png" width="250px"></td>
+<td><img src="../NEXA-Codex_Visuals/Anwendungsvisualisierung - ein Resonanzfeld einen Quantenprozess sichtbar steuert.png" width="250px"></td>
+<!-- image loop END -->
+</tr>
+</table>
+<!-- end gallery -->
+
+---
+
+### ℹ️ Hinweis
+
+Die vollständigen PNG-Dateien befinden sich im Ordner [`NEXA-Codex_Visuals`](../NEXA-Codex_Visuals) auf Repository-Hauptebene.  
+Für eine konsistente Anzeige ist es wichtig, dass:
+- die Dateien das `.png`-Format haben,
+- keine Leerzeichen im Dateinamen enthalten sind,
+- und dass die Dateiendungen exakt übereinstimmen.
+
+> Du kannst dieses Markdown durch ein kurzes Script generieren lassen, das alle `.png` im Ordner ausliest und automatisch `<img>`-Blöcke in 3er-Gruppierung erzeugt.
+
+---
