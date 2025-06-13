@@ -131,67 +131,34 @@ Visuelle Galerie aller eingebetteten Codex-Grafiken
 (Basierend auf dem Ordner [`NEXA-Codex Visuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXA-Codex%20Visuals) im GitHub-Hauptverzeichnis)
 
 ---
+## 🌅 CODEX VISUAL INDEX
 
-## SYSTEM A–E (Auswahl aus 140+ hochgeladenen Bildern)
-
-### 🔷 Beispielreihe 1
-
-<p align="center">
-  <img src="../NEXA-Codex Visuals/1 - 3 - 5 - 1527.png" width="30%">
-  <img src="../NEXA-Codex Visuals/4D_Tessarec_Resonator_Raum-Frequenz-Zeit–Bewusstsein.png" width="30%">
-  <img src="../NEXA-Codex Visuals/6-pointed harmonic resonance wheel.png" width="30%">
-</p>
+> Automatisch generierte Vorschau aller Bilder im Ordner `NEXA-Codex Visuals`
 
 ---
 
-### 🔷 Beispielreihe 2
+### 🔷 Visuals aus SYSTEM A–E (Preview-Auswahl)
 
-<p align="center">
-  <img src="../NEXA-Codex Visuals/127-131-137 Triad Primes.png" width="30%">
-  <img src="../NEXA-Codex Visuals/137 resonance_projection.png" width="30%">
-  <img src="../NEXA-Codex Visuals/Activation of the Lunar Field.png" width="30%">
-</p>
-
----
-
-### 🔷 Beispielreihe 3
-
-<p align="center">
-  <img src="../NEXA-Codex Visuals/Algorithmische Resonanzmatrix (A-Z mit Spiegelachsen A'-Z').png" width="30%">
-  <img src="../NEXA-Codex Visuals/AL HG Resonator Ghosgrid in 3D.png" width="30%">
-  <img src="../NEXA-Codex Visuals/A_Theta is 0429.png" width="30%">
-</p>
-
----
-
-### 🔷 Beispielreihe 4
-
-<p align="center">
-  <img src="../NEXA-Codex Visuals/CORE STRUCTURE of the Tessarec Resonance Octagon.png" width="30%">
-  <img src="../NEXA-Codex Visuals/CROWN FLAME ACTIVATION.png" width="30%">
-  <img src="../NEXA-Codex Visuals/4d_resonance_projection.png" width="30%">
-</p>
+<table>
+  <tr>
+    <td><img src="/NEXA-Codex Visuals/L-Achse Zeitnavigator.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/1 - 3 - 5 - 1527.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/11gon_resonance_projection.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/NEXA-Codex Visuals/137-131-137 Triad Primes.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/13gon_resonance_projection.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/17gon_resonance_projection_ready.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="/NEXA-Codex Visuals/23gon_resonance_projection.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/4D_Tessarec_Resonator_Raum-Frequenz–Zeit–Bewusstsein.png" width="300"/></td>
+    <td><img src="/NEXA-Codex Visuals/6-pointed harmonic resonance wheel.png" width="300"/></td>
+  </tr>
+</table>
 
 ---
 
-## 📘 Hinweis
+### 🧭 Hinweis
 
-Diese Galerie basiert auf alphabetisch geordneten `.png`-Dateien im Ordner `NEXA-Codex Visuals`.  
-Eine Zuordnung zu Systemen (MATHEMATICA, PHYSICA etc.) erfolgt später.
-
-Für jedes Bild gilt:
-
-```md
-![Bildbeschreibung](../NEXA-Codex Visuals/BILDNAME.png)
-
-## 🌐 Global Visual Elements
-
-- `./NEXAH-CODEX.png` → System Overview  
-- `./cikada-scarabaeus.png` → Scarab Symbol  
-- `visual_gallery.md` (planned) → Interaktive Visual-Gallery (in progress)
-
----
-
-**Author & Curator:** Thomas Hofmann · Scarabäus1033  
-**Last Update:** Juni 2025  
-**License:** CC BY-NC-SA 4.0  
+Die Bilder liegen im Ordner [`NEXA-Codex Visuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXA-Codex%20Visuals) und werden bei richtiger Benennung direkt angezeigt. Bitte auf Leerzeichen, Sonderzeichen und Dateiendungen achten.
