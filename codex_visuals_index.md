@@ -132,47 +132,48 @@ Diese Datei ist ein Index aller Codex-Visualisierungen – sortiert nach System,
 
 ---
 
+# 🌅 CODEX VISUAL INDEX
+
+*Visuelle Galerie eingebetteter Codex-Grafiken (aus dem Ordner [`NEXA-Codex_Visuals`](../NEXA-Codex_Visuals))*
+
+---
+
 ## 🔷 Visuals aus SYSTEM A–E (Preview-Auswahl)
 
-> Diese Index-Ansicht zeigt automatisch eingebundene `.png`-Dateien aus dem Ordner `NEXA-Codex_Visuals`, in Blöcken zu je 3 Bildern.
+Diese Ansicht zeigt manuell eingebundene `.png`-Dateien aus dem Codex-Visual-Ordner.  
+→ **Jeweils 3 Bilder pro Reihe, mit Direktlink.**
 
-<!-- Automatisch generiert: -->
+### 🔹 Reihe 1
 
-<!-- start gallery -->
-<table>
-  <tr>
-<!-- image loop START -->
-<!-- Ersetze die folgenden Zeilen bei Bedarf per Script oder manuell -->
-<td><img src="../NEXA-Codex_Visuals/1 - 3 - 5 - 1527.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/11gon_resonance_projection.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/127-131-137 Triad Primes.png" width="250px"></td>
-</tr><tr>
-<td><img src="../NEXA-Codex_Visuals/13gon_resonance_projection.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/17gon_resonance_projection.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/19gon_resonance_projection.png" width="250px"></td>
-</tr><tr>
-<td><img src="../NEXA-Codex_Visuals/23gon_resonance_projection.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum-Frequenz-Zeit-Bewusstsein.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/ALTHERA - Solar System.png" width="250px"></td>
-</tr><tr>
-<td><img src="../NEXA-Codex_Visuals/Activation of the Lunar Field.png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/Algorithmische Resonanzmatrix (A-Z mit Spiegelachsen A’-Z’).png" width="250px"></td>
-<td><img src="../NEXA-Codex_Visuals/Anwendungsvisualisierung - ein Resonanzfeld einen Quantenprozess sichtbar steuert.png" width="250px"></td>
-<!-- image loop END -->
-</tr>
-</table>
-<!-- end gallery -->
+<p float="left">
+  <img src="../NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum_Frequenz_Zeit_Bewusstsein.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/23gon_resonance_projection.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/ALTHERA_-_Solar_System.png" width="260"/>
+</p>
+
+### 🔹 Reihe 2
+
+<p float="left">
+  <img src="../NEXA-Codex_Visuals/Activation_of_the_Lunar_Field.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/A_Theta_is_0429.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/Algorithmische_Resonanzmatrix_(A-Z_mit_Spiegelachsen_A-Z1).png" width="260"/>
+</p>
+
+### 🔹 Reihe 3
+
+<p float="left">
+  <img src="../NEXA-Codex_Visuals/127-131-137_Triad_Primes.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/Core_Structure_of_the_Tessarec.png" width="260"/>
+  <img src="../NEXA-Codex_Visuals/Einstein_k-beta_extended_energy_modulation.png" width="260"/>
+</p>
 
 ---
 
-### ℹ️ Hinweis
+## 🧩 Hinweis
 
-Die vollständigen PNG-Dateien befinden sich im Ordner [`NEXA-Codex_Visuals`](../NEXA-Codex_Visuals) auf Repository-Hauptebene.  
-Für eine konsistente Anzeige ist es wichtig, dass:
-- die Dateien das `.png`-Format haben,
-- keine Leerzeichen im Dateinamen enthalten sind,
-- und dass die Dateiendungen exakt übereinstimmen.
+Diese Galerie kann durch ein Skript automatisch generiert und bei Änderungen aktualisiert werden.  
+Für maximale Kompatibilität:
+- nutze **ausschließlich `.png`** im `NEXA-Codex_Visuals/`-Ordner.
+- achte auf **eindeutige Dateinamen ohne Leerzeichen** oder Sonderzeichen.
 
-> Du kannst dieses Markdown durch ein kurzes Script generieren lassen, das alle `.png` im Ordner ausliest und automatisch `<img>`-Blöcke in 3er-Gruppierung erzeugt.
-
----
+> Tipp: Bei über 400 Bildern empfiehlt sich ein visuelles HTML-Viewer-Frontend (z. B. über `nexah.org/visual-gallery`).
