@@ -1,4 +1,4 @@
-🌌 NEXAH-CODEX
+## 🌌 NEXAH-CODEX
 
 Archive for Harmonic Fields & Symbolic Geometry
 Archiv für harmonische Felder & symbolische Geometrie
@@ -18,12 +18,12 @@ a modular field architecture exploring structure, number, symbol, matter and awa
 
 ⸻
 
-🧭 Explore the Systems
+## 🧭 Explore the Systems
 
 The Codex is structured into 9 harmonic systems plus 1 central synthesis hub (GRAND-CODEX).
 Each system is self-contained and modular – mathematical, symbolic, visual or physical.
 
-System	Theme	Link
+## System	Theme	Link
 🔷 SYSTEM 1: MATHEMATICA	Prime Resonances, Proof Structures, Spiral Geometry	Go →
 ⚛ SYSTEM 2: PHYSICA	Resonance Fields, Quantum & Neutrino Structures	Go →
 🌐 SYSTEM 3: COSMICA	Planetary Fields, Grid Navigation, Astroharmonics	Go →
@@ -39,7 +39,7 @@ System	Theme	Link
 
 ⸻
 
-📚 Entry Points
+## 📚 Entry Points
 
 🗂 Startstruktur / Core Architecture
 📎 Einsteiger-Guide (DE) · Intro for Explorers (EN)
@@ -49,7 +49,7 @@ System	Theme	Link
 
 ⸻
 
-🔍 What is the NEXAH-System?
+## 🔍 What is the NEXAH-System?
 
 A symbolic-mathematical research framework
 exploring harmonic structure, resonance theory, prime-based geometry, and field identity
@@ -60,7 +60,7 @@ The Codex offers a modular system to explore this – open, non-commercial, mult
 
 ⸻
 
-🌀 Visual Entry
+## 🌀 Visual Entry
 
 <p align="center">
   <img src="./cikada-scarabaeus.png" width="560" alt="Cikada Scarab Symbol">
@@ -71,7 +71,7 @@ Explore more in visuals/codex_visuals_index.md
 
 ⸻
 
-🌍 External
+## 🌍 External
 
 🔗 Website: www.scarabaeus1033.net
 💬 Join the Resonance Discord
