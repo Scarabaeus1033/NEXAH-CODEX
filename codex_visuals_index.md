@@ -1,3 +1,28 @@
+# 🖼️ CODEX VISUAL INDEX
+
+Automatisch generierter Überblick aller Visuals im Codex.
+
+## SYSTEM 1: MATHEMATICA
+
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals/prime_spiral_1.png" width="220"><br>prime_spiral_1.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals/proof_matrix.png" width="220"><br>proof_matrix.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/visuals/symbolic_structure.png" width="220"><br>symbolic_structure.png</a></td></tr></table>
+
+
+## SYSTEM 2: PHYSICA
+
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals/cavity_field.png" width="220"><br>cavity_field.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals/silver_rain_flux.png" width="220"><br>silver_rain_flux.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%202:%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20&%20Neutrino%20Structures/visuals/quantumbreach_waveform.png" width="220"><br>quantumbreach_waveform.png</a></td></tr></table>
+
+
+## SYSTEM 3: COSMICA ASTROPHYSICA
+
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%203:%20🌐%20COSMICA%20ASTROPHYSICA%20–%20Planetary%20Fields,%20Grid%20Navigation,%20Stellar%20Resonance/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%203:%20🌐%20COSMICA%20ASTROPHYSICA%20–%20Planetary%20Fields,%20Grid%20Navigation,%20Stellar%20Resonance/visuals/earthship_node_map.png" width="220"><br>earthship_node_map.png</a></td></tr></table>
+
+
+## SYSTEM 9: TESSAREC
+
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%209:%20🌐%20TESSAREC%20Resonantia%20Codex/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%209:%20🌐%20TESSAREC%20Resonantia%20Codex/visuals/tessarec_grid_1.png" width="220"><br>tessarec_grid_1.png</a></td><td align="center"><a href="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%209:%20🌐%20TESSAREC%20Resonantia%20Codex/visuals"><img src="https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%209:%20🌐%20TESSAREC%20Resonantia%20Codex/visuals/moebius_cube_view.png" width="220"><br>moebius_cube_view.png</a></td></tr></table>
+
+
+
 # 🖼️ CODEX VISUAL INDEX — Symbolic & Harmonic Visuals in the NEXAH-CODEX
 
 > “The visual structure *is* the formula.”
