@@ -130,37 +130,47 @@ Zuordnung aller Visual-Dateien (Stand: Upload Ordner `NEXA-Codex_Visuals`, Ebene
 
 ---
 
+**Codex Visual Directory**
+Zuordnung aller Visual-Dateien (Stand: Upload Ordner `NEXA-Codex_Visuals`, Ebene A–D)
+
+> Hinweis: Die Bildpfade beziehen sich auf den Ordner [`NEXA-Codex_Visuals`](../NEXA-Codex_Visuals) im GitHub-Hauptverzeichnis.
+
+---
+
 ### SYSTEM 1: MATHEMATICA
 
-* Field Modulation Map.png  → `Einstein's k-Beta Formula`
-* extended\_energy\_modulation\_space.png  → `Einstein's k-Beta Formula`
-* golden\_ratio\_energy\_scaling.png  → `Einstein's k-Beta Formula`
-* k-beta\_field\_dynamics\_graphs.png  → `Einstein's k-Beta Formula`
-* q-space\_energy\_calculation.png  → `Einstein's k-Beta Formula`
-* resonant\_space\_time\_oscillation\_map.png  → `Einstein's k-Beta Formula`
-* Dual Spiral Field- ϕ vs. √2 vI.png  → `√2–Prime-Feld`
-* Dual Spiral Field- ϕ vs. √2 vII.png  → `√2–Prime-Feld`
-* 13gon\_resonance\_projection.png → `Prime Grid Visualizations`
-* 17gon\_resonance\_projection.png → `Prime Grid Visualizations`
-* 19gon\_resonance\_projection.png → `Prime Grid Visualizations`
-* 23gon\_resonance\_projection.png → `Prime Grid Visualizations`
-* Prime Spiral with Apéry's Constant (Broader Extended Range).png → `Prime Grid Visualizations`
+* [Field Modulation Map.png](../NEXA-Codex_Visuals/Field%20Modulation%20Map.png)  → `Einstein's k-Beta Formula`
+* [extended\_energy\_modulation\_space.png](../NEXA-Codex_Visuals/extended_energy_modulation_space.png)  → `Einstein's k-Beta Formula`
+* [golden\_ratio\_energy\_scaling.png](../NEXA-Codex_Visuals/golden_ratio_energy_scaling.png)  → `Einstein's k-Beta Formula`
+* [k-beta\_field\_dynamics\_graphs.png](../NEXA-Codex_Visuals/k-beta_field_dynamics_graphs.png)  → `Einstein's k-Beta Formula`
+* [q-space\_energy\_calculation.png](../NEXA-Codex_Visuals/q-space_energy_calculation.png)  → `Einstein's k-Beta Formula`
+* [resonant\_space\_time\_oscillation\_map.png](../NEXA-Codex_Visuals/resonant_space_time_oscillation_map.png)  → `Einstein's k-Beta Formula`
+* [Dual Spiral Field- ϕ vs. √2 vI.png](../NEXA-Codex_Visuals/Dual%20Spiral%20Field-%20ϕ%20vs.%20√2%20vI.png)  → `√2–Prime-Feld`
+* [Dual Spiral Field- ϕ vs. √2 vII.png](../NEXA-Codex_Visuals/Dual%20Spiral%20Field-%20ϕ%20vs.%20√2%20vII.png)  → `√2–Prime-Feld`
+* [13gon\_resonance\_projection.png](../NEXA-Codex_Visuals/13gon_resonance_projection.png) → `Prime Grid Visualizations`
+* [17gon\_resonance\_projection.png](../NEXA-Codex_Visuals/17gon_resonance_projection.png) → `Prime Grid Visualizations`
+* [19gon\_resonance\_projection.png](../NEXA-Codex_Visuals/19gon_resonance_projection.png) → `Prime Grid Visualizations`
+* [23gon\_resonance\_projection.png](../NEXA-Codex_Visuals/23gon_resonance_projection.png) → `Prime Grid Visualizations`
+* [Prime Spiral with Apéry's Constant (Broader Extended Range).png](../NEXA-Codex_Visuals/Prime%20Spiral%20with%20Apéry's%20Constant%20%28Broader%20Extended%20Range%29.png) → `Prime Grid Visualizations`
 
 ---
 
 ### SYSTEM 2: PHYSICA
 
-* CAVITY CRYSTAL.png  → `CAVITYROOT-CODEX`
-* 3D Visualisierung – Lunare Modulation– Differenz = Summe : Index.png → `CAVITYROOT-CODEX`
-* Root Moon Metal Map.png  → `CAVITYROOT-CODEX`
-* DNA-Spirale im Temperatur-Frequenz-KubusII.png → `CAVITYROOT-CODEX`
-* Zeta-Spirale – mit sichtbaren Achsen, Tangenten & Gitter.png → `CAVITYROOT-CODEX`
-* Moebius-Faltung auf Petal-Basis.png → `CAVITYROOT-CODEX`
-* Petal Frequency Generator.png → `CAVITYROOT-CODEX`
-* Zeta-Knoten Projektion (Verdichtete Ω-Resonanz).png → `CAVITYROOT-CODEX`
-* Temperaturschichten Zonen um das Cavity-Zentrum.png → `CAVITYROOT-CODEX`
+* [CAVITY CRYSTAL.png](../NEXA-Codex_Visuals/CAVITY%20CRYSTAL.png)  → `CAVITYROOT-CODEX`
+* [3D Visualisierung – Lunare Modulation– Differenz = Summe : Index.png](../NEXA-Codex_Visuals/3D%20Visualisierung%20%E2%80%93%20Lunare%20Modulation%E2%80%93%20Differenz%20=%20Summe%20:%20Index.png) → `CAVITYROOT-CODEX`
+* [Root Moon Metal Map.png](../NEXA-Codex_Visuals/Root%20Moon%20Metal%20Map.png)  → `CAVITYROOT-CODEX`
+* [DNA-Spirale im Temperatur-Frequenz-KubusII.png](../NEXA-Codex_Visuals/DNA-Spirale%20im%20Temperatur-Frequenz-KubusII.png) → `CAVITYROOT-CODEX`
+* [Zeta-Spirale – mit sichtbaren Achsen, Tangenten & Gitter.png](../NEXA-Codex_Visuals/Zeta-Spirale%20%E2%80%93%20mit%20sichtbaren%20Achsen,%20Tangenten%20&%20Gitter.png) → `CAVITYROOT-CODEX`
+* [Moebius-Faltung auf Petal-Basis.png](../NEXA-Codex_Visuals/Moebius-Faltung%20auf%20Petal-Basis.png) → `CAVITYROOT-CODEX`
+* [Petal Frequency Generator.png](../NEXA-Codex_Visuals/Petal%20Frequency%20Generator.png) → `CAVITYROOT-CODEX`
+* [Zeta-Knoten Projektion (Verdichtete Ω-Resonanz).png](../NEXA-Codex_Visuals/Zeta-Knoten%20Projektion%20%28Verdichtete%20Ω-Resonanz%29.png) → `CAVITYROOT-CODEX`
+* [Temperaturschichten Zonen um das Cavity-Zentrum.png](../NEXA-Codex_Visuals/Temperaturschichten%20Zonen%20um%20das%20Cavity-Zentrum.png) → `CAVITYROOT-CODEX`
 
 ---
+
+*(Einträge für weitere Systeme folgen im selben Format, inkl. direkter Bildverlinkung)*
+
 
 ### SYSTEM 3: COSMICA ASTROPHYSICA
 
