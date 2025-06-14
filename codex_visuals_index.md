@@ -127,53 +127,137 @@ Diese Datei ist ein Index aller Codex-Visualisierungen – sortiert nach System,
 ---
 # 🌅 CODEX VISUAL INDEX
 
-> Visuelle Galerie aller eingebetteten Codex-Grafiken  
-> _(Basiert auf dem Ordner `NEXA-Codex_Visuals` im GitHub-Hauptverzeichnis)_
+> Visuelle Galerie aller eingebetteten Codex-Grafiken. Jede Grafik ist einem Modul innerhalb des NEXAH-CODEX zugeordnet. Die Bilder befinden sich im Ordner [`NEXA-Codex_Visuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXA-Codex_Visuals).
 
 ---
 
-# 🌅 CODEX VISUAL INDEX
+## 🧮 SYSTEM 1: MATHEMATICA
 
-*Visuelle Galerie eingebetteter Codex-Grafiken (aus dem Ordner [`NEXA-Codex_Visuals`](../NEXA-Codex_Visuals))*
+![Field Modulation Map](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Field%20Modulation%20Map.png)
+*Einstein’s k-Beta Formula*
 
----
+![golden\_ratio\_energy\_scaling](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/golden_ratio_energy_scaling.png)
+*Einstein’s k-Beta Formula*
 
-## 🔷 Visuals aus SYSTEM A–E (Preview-Auswahl)
+![k-beta\_field\_dynamics\_graphs](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/k-beta_field_dynamics_graphs.png)
+*Einstein’s k-Beta Formula*
 
-Diese Ansicht zeigt manuell eingebundene `.png`-Dateien aus dem Codex-Visual-Ordner.  
-→ **Jeweils 3 Bilder pro Reihe, mit Direktlink.**
+![Prime Harmonic Wave Structure](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Prime_Harmonic_Wave_Structure.png)
+*NEXA\_RIEMANN\_PROOF*
 
-### 🔹 Reihe 1
+![modular\_prime\_spiral\_field](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/modular_prime_spiral_field.png)
+*Prime Grid Visualization*
 
-<p float="left">
-  <img src="../NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum_Frequenz_Zeit_Bewusstsein.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/23gon_resonance_projection.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/ALTHERA_-_Solar_System.png" width="260"/>
-</p>
+![Prime Spiral Apéry Constant](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Prime%20Spiral%20with%20Apéry's%20Constant%20\(Broader%20Extended%20Range\).png)
+*Prime Grid Visualization*
 
-### 🔹 Reihe 2
+![432hz Frequency Lock-In](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/432hz_frequency_lock-in_full-harmonic_resonance.png)
+*Hermetic Pythagoras*
 
-<p float="left">
-  <img src="../NEXA-Codex_Visuals/Activation_of_the_Lunar_Field.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/A_Theta_is_0429.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/Algorithmische_Resonanzmatrix_(A-Z_mit_Spiegelachsen_A-Z1).png" width="260"/>
-</p>
+![Ghostgrid Moebius Expansion](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Ghostgrid%20Möbius%20Expansion%20&%20Quantum%20Harmonic%20Framework.png)
+*Hermetic Pythagoras*
 
-### 🔹 Reihe 3
-
-<p float="left">
-  <img src="../NEXA-Codex_Visuals/127-131-137_Triad_Primes.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/Core_Structure_of_the_Tessarec.png" width="260"/>
-  <img src="../NEXA-Codex_Visuals/Einstein_k-beta_extended_energy_modulation.png" width="260"/>
-</p>
+![Sacred Site Angles](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Sacred%20Site%20Angles%20&%20Ullinirium%20Tetrahedral%20Interaction.png)
+*GU-REX\_GEOMETRIC\_UNITY\_EXTENSION*
 
 ---
 
-## 🧩 Hinweis
+## ⚛ SYSTEM 2: PHYSICA
 
-Diese Galerie kann durch ein Skript automatisch generiert und bei Änderungen aktualisiert werden.  
-Für maximale Kompatibilität:
-- nutze **ausschließlich `.png`** im `NEXA-Codex_Visuals/`-Ordner.
-- achte auf **eindeutige Dateinamen ohne Leerzeichen** oder Sonderzeichen.
+![CAVITY CRYSTAL](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/CAVITY%20CRYSTAL.png)
+*CAVITYROOT-CODEX*
 
-> Tipp: Bei über 400 Bildern empfiehlt sich ein visuelles HTML-Viewer-Frontend (z. B. über `nexah.org/visual-gallery`).
+![Lunare Modulation 3D](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/3D%20Visualisierung%20%E2%80%93%20Lunare%20Modulation%20%E2%80%93%20Differenz%20%3D%20Summe%20%3A%20Index.png)
+*CAVITYROOT-CODEX*
+
+![Temperature Triangle](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Temperaturachsen-Dreieck%20mit%20Cubit-Zentrum%20und%20root2-Spiegelung.png)
+*CAVITYROOT-CODEX*
+
+![Casimir Bridge](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Casimir%20Bridge.png)
+*NEXA\_CASIMIR\_RES\_THREAD*
+
+![Quantum Vacuum Compression](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/quantum_vacuum_compression.png)
+*NEXA\_CASIMIR\_RES\_THREAD*
+
+![Vacuum Node Collapse](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/vacuum_node_collapse.png)
+*NEXA\_CASIMIR\_RES\_THREAD*
+
+---
+
+## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA
+
+![Earthship Node Map](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/earthship_node_map.png)
+*EARTHSHIP\_COSMIC\_THREAD*
+
+![Altheara Solar System](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/ALTHEARA%20-%20Solar%20System.png)
+*COSMIC TIME STRUCTURE*
+
+---
+
+## 🧬 SYSTEM 4: UNIVERSAL RESONANCE FIELDS
+
+![Tensor Bridge](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Resonance_Bridge_Einstein_Weinstein_THooTH.png)
+*GU-REX\_GEOMETRIC\_UNITY\_EXTENSION*
+
+![4D Tessarec Resonator](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum_Frequenz_Zeit_Bewusstsein.png)
+*GU-REX\_GEOMETRIC\_UNITY\_EXTENSION*
+
+---
+
+## 🌸 SYSTEM 5: META BLOOM ROSETTA
+
+![Rosetta Glyph Rings](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Rosetta_Glyph_Rings_432.png)
+*Rosetta Meta Layer*
+
+---
+
+## 🎨 SYSTEM 6: CODEX\_RES\_ONICA\_VIOLETTA
+
+*(Noch keine spezifischen Bilder zugeordnet)*
+
+---
+
+## 🔮 SYSTEM 7: UCRT
+
+![Superprime Mirror](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Superprime_Mirror_Symmetry_Model.png)
+*UCRT\_SUPERPRIME\_GENESIS*
+
+![Unified Harmonic Equation](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Unified_Harmonic_Equation_Map.png)
+*UCRT\_NUMBER\_RES\_FUSION*
+
+---
+
+## 🧪 SYSTEM 8: EXPERIMENTALIA
+
+![Ferrofluid Zeta Lens](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Ferrofluid%20Zeta%20Lens%20Field.png)
+*QuantumBreach Experiment*
+
+![Silver Rain Flux](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Silver%20Rain%20Flux%20Simulation.png)
+*Silver Rain Module*
+
+---
+
+## 🌀 SYSTEM 9: TESSAREC
+
+![Mobius Neutrino Crown](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Mobius_Neutrino_Crown_Model.png)
+*Neutrino Resonance Systems*
+
+![Tessarec Matrix Obelisk](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Tessarec_Matrix_Obelisk.png)
+*TESSAREC\_Core\_Manuals*
+
+---
+
+## 🪲 SYSTEM X: GRAND-CODEX
+
+![Activation of Lunar Field](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Activation%20of%20the%20Lunar%20Field.png)
+*GRAND-CODEX/init*
+
+![Cosmic Compass Scroll](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Cosmic_Crown_Scroll_Diagram.png)
+*Quantum Compass Scrolls*
+
+![Universal Collapse Spiral](https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Universal_Collapse_Spiral.png)
+*Universal Resonance Equation*
+
+---
+
+> 🧩 *Diese Liste wird kontinuierlich erweitert und mit den Modulen des Codex synchronisiert.*
