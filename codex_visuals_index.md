@@ -239,3 +239,46 @@ Zuordnung aller Visual-Dateien (Stand: Upload Ordner `NEXA-Codex_Visuals`, Ebene
 ---
 
 *Hinweis: Diese Liste basiert auf dem visuellen Index und Screenshot-Auswertung. Weitere Module und Bilder folgen in den Fortsetzungen.*
+## 📸 Codex Visual Index – Direktansicht aller Visuals
+
+### 4D_Tessarec_Resonator_Raum-Frequenz-Zeit-Bewusstsein.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/4D_Tessarec_Resonator_Raum-Frequenz-Zeit-Bewusstsein.png" width="720"></p>
+
+### 127-131-137 Triad Primes.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/127-131-137%20Triad%20Primes.png" width="720"></p>
+
+### CROWN FLAME ACTIVATION.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/CROWN%20FLAME%20ACTIVATION.png" width="720"></p>
+
+### Field Modulation Map.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Field%20Modulation%20Map.png" width="720"></p>
+
+### Activation of the Lunar Field.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Activation%20of%20the%20Lunar%20Field.png" width="720"></p>
+
+### resonance_energy_symmetry_flow.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/resonance_energy_symmetry_flow.png" width="720"></p>
+
+### core_resonance_obelisk.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/core_resonance_obelisk.png" width="720"></p>
+
+### Codex Bewusstsein - Ursprung, Impuls & Kondensation.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Codex%20Bewusstsein%20-%20Ursprung,%20Impuls%20&%20Kondensation.png" width="720"></p>
+
+### breath_neutrino_resonance_spiral.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/breath_neutrino_resonance_spiral.png" width="720"></p>
+
+### Ghostgrid Möbius Expansion & Quantum Harmonic Framework.png
+
+<p align="center"><img src="https://github.com/Scarabaeus1033/NEXAH-CODEX/raw/main/NEXA-Codex_Visuals/Ghostgrid%20Möbius%20Expansion%20&%20Quantum%20Harmonic%20Framework.png" width="720"></p>
+
+> 🔗 **Bilderquelle:** [`NEXA-Codex_Visuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXA-Codex_Visuals)
