@@ -24,7 +24,7 @@ A Vitruvian-like planetary body map aligns Earth regions with anatomical archety
 | Somali Ridge          | Feet         | Inversion Gateway, Rebirth   |
 
 **Visual:**
-![Earth Ganzkörper](../visuals/Erde_Ganzkörper-Visualisierung.png)
+![Earth Ganzkörper](../visuals/Erde_Ganzkoerper-Visualisierung.png)
  
 ---
 
