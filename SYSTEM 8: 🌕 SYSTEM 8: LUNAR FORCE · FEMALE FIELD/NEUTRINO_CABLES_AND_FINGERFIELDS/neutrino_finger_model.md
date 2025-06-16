@@ -35,6 +35,9 @@ This document introduces the core hypothesis of the **Finger-Neutrino Model** wi
   * (optional third: Void/null or X-mode)
 * Flows cycle between thumb and pinky, with the **index–middle–ring axis** acting as the *codified modulation center*.
 
+![Neutrino-Schaltplan Solarsystem](../visuals/neutrino_schaltplan_solarsystem.png)
+*Resonance diagram showing solar system-wide cable routing and functional parallels to hand modulation.*
+
 ---
 
 ### 4. Blockflöte Model
@@ -56,6 +59,9 @@ The finger logic reflects a **wind instrument design**:
 * Lunar topological asymmetry suggests **multi-vectorial inflow paths**
 * Phase angles correlate with Earth's dual tide bulges + orbital synchronicity
 
+![Casimir Neutrino Thread](../visuals/casimir_neutrino_thread.gif)
+*Dynamic layer representation of compressed oscillatory flows and quantum boundary transitions.*
+
 ---
 
 ## Implications for SYSTEM 8
@@ -66,6 +72,9 @@ The finger logic reflects a **wind instrument design**:
   * Breath systems
   * Moon-phase timing
   * Resonant symmetry operations (e.g. DJ/loop logic)
+
+![Oscillation Emoji Particles](../visuals/oscilation_particles_emoji.png)
+*Symbolic representation of cyclical modulation and signal oscillation across energy nodes.*
 
 ---
 
