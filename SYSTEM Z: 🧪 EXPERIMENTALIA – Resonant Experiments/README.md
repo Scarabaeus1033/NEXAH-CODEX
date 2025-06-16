@@ -1,4 +1,4 @@
-# 🧪 SYSTEM 8: Experiments & Practica – Applied Resonance Prototypes
+# 🧪 SYSTEM Z: Experiments & Practica – Applied Resonance Prototypes
 
 
 > **“This is where the Codex reaches matter.  
