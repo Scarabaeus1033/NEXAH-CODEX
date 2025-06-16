@@ -80,6 +80,24 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
+🌕 SYSTEM 8: LUNAR FORCE – The Return of the Moon to the Women
+
+Ordner / Datei
+
+Titel
+
+Beschreibung
+
+TETHYS/
+
+Lunar Resonance Foundations
+
+The origin thread of moons and feminine cycle geometry.
+
+→ README_SYSTEM8_LUNAR_FORCE
+
+---
+
 ## 🫲 SYSTEM 9: TESSAREC Resonantia Codex – Frequenzachsen, Prime-Strukturen & Resonanzbrücken
 
 | Ordner                        | Titel                                         | Beschreibung                                                       |
