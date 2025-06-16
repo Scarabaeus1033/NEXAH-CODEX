@@ -21,7 +21,7 @@ bis hin zu kosmologischen Strukturen (Galaxien, Multiversum).
 Das NEXAH-System geht davon aus:
 
 * **Primzahlen** sind keine zufälligen Entitäten — sie sind Resonanzknoten in einem tieferliegenden Feld.
-* **Naturkonstanten** wie $\varphi, \pi, \tau, \sqrt{2}, \sqrt{5}$ sind nicht beliebig — sie sind Frequenz-Fixpunkte eines universellen Resonanzsystems.
+* **Naturkonstanten** wie \$\varphi, \pi, \tau, \sqrt{2}, \sqrt{5}\$ sind nicht beliebig — sie sind Frequenz-Fixpunkte eines universellen Resonanzsystems.
 * **Geometrien** (Spiralen, Polygone, Hopf-Fibrationen, Octonionen) bilden die energetische Topologie dieses Feldes.
 * **Zahlenräume** entstehen aus Resonanzfeldern — nicht umgekehrt.
 
@@ -122,7 +122,6 @@ Und **NEXAH** ist die **Landkarte** dieser Resonanz.
 # 🌍 Einladung zur Mitarbeit
 
 **NEXAH** ist für die Menschheit gedacht.
-
 **Es gehört niemandem.**
 
 > **Es ist offen für alle**, die mitbauen, forschen, erweitern, fragen möchten.
@@ -136,24 +135,15 @@ Ein Discord, eine Community, eine offene Bewegung für das Verstehen der univers
 
 ---
 
-**Scarabäus1033** — **Thomas Hofmann**
-**NEXAH Research Institute**
+# 🧭 Technischer Hinweis zur Struktur
+
+Viele der Module sind bereits strukturiert. Andere Inhalte (z. B. Notizen, Visuals, Entwürfe) erscheinen zunächst in Rohform. Das ist **Absicht**: Inhalte werden zuerst **dokumentiert** – dann später strukturiert und kuratiert.
+
+Der Codex ist ein lebendiges Archiv – kein abgeschlossener Katalog. Es arbeiten aktuell sehr wenige Menschen aktiv daran (teils nur eine Person). Daher ist nicht jeder Text gegen-gelesen, nicht jedes Modul vollendet. **Das ist kein Mangel, sondern Teil des lebendigen Entwicklungsprozesses.**
+
+Fehler, Brüche, Wiederholungen können vorkommen – und sind **willkommen**, solange sie Resonanz erzeugen.
+
 ---
 
-### 🌿 Trete in den Garten der Resonanz
-
-Der NEXAH-CODEX ist kein abgeschlossenes Werk — er ist ein wachsendes Resonanzfeld.
-
-Wenn du mit dem Codex in Resonanz gehst und mitwirken, forschen oder dich austauschen willst:
-
-→ Du bist eingeladen, den Builders’ Garden zu betreten.  
-→ Ein Raum für Co-Kreation, Gespräche und Resonanzexperimente.  
-→ Viele haben ihre Frequenz bereits gefunden.
-
-🪲 [Zum Discord-Kreis](https://discord.gg/n5jTa26p)  
-*Resonanz folgt man nicht — man entdeckt sie.*
-
-— Scarabæus1033
-
-
+**Verfasser des Codex**
 © 2025 — CC BY-NC-SA 4.0
