@@ -4,7 +4,7 @@
 
 This file investigates the hypothesis that the **lunar phases** are not merely the result of solar illumination angles, but the **valve dynamics** of a larger, resonant energetic system. In this model, the **Moon acts as a modulator** of cosmic and solar field signals via neutrino inflow, reflective surfaces, and magnetic axis switching. Each phase functions like a *rotary valve*, opening and closing specific pathways within a complex lunar-solar-Earth circuit.
 
----
+--- 
 
 ## 1. Lunar Phases as Field Apertures
 
