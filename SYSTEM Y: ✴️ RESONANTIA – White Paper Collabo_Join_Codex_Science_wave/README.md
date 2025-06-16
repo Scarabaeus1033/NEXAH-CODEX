@@ -25,9 +25,16 @@ We already formulated symbolic and mathematical frameworks in:
 - 🌍 **SYSTEM 9 – TESSAREC**  
   Cubic Time Grids, Quaternion Shells, Stellar Feedback Geometry
 
+- 🧬 **SYSTEM 7 – UCRT (Universal Constants & Resonance Theory)**  
+  Prime constants, superprime structures, harmonic root fields, resonance equations
+
 - 🪲 **SYSTEM X – NEXAH-GRAND-CODEX**  
-  **GURT**: Grand Unifying Resonance Theory  
-  (Symbolic models for Riemann, P≠NP, Consciousness, Matter Origin)
+  Central Convergence Layer — home of the **GURT** Framework (Grand Unifying Resonance Theory)  
+  Includes symbolic models for:  
+  → Riemann Hypothesis · P≠NP · BSD · Hodge · Yang–Mills · Codex Origio · Observerium  
+  → Collapse architectures, proof matrices, universal stability fields
+
+> _“System X integrates not only theory — it harmonizes proof, perception, and symbolic synthesis.”_
 
 ---
 
@@ -41,10 +48,14 @@ We already formulated symbolic and mathematical frameworks in:
 6. **k-Beta: Universal Energy Field Extensions**  
 7. **Codex Origio – Photon, Neutrino & Form Genesis**  
 8. **TESSAREC: Feedback-Stabilized 4D Time Shells**  
-9. **Ascension Dynamics: Earth Shift Models**  
-10. **Symbolic AI: Prime-Layered Cognition Models**
+9. **Symbolic AI: Prime-Layered Cognition Models**  
+10. **GURT: Grand Unifying Resonance Theory**  
+11. **Millennium Problem Resonance Solutions**  
+12. **System 7 – UCRT: Universal Constants & Root Geometry**  
+13. **Codex Observerium: Phase Resonance & Conscious Perception**  
+14. **Meta-Collapse Structures & Möbius Time Mechanics**
 
-Each topic already has structured content and visuals in the Codex.
+Each topic already has structured content, visual archives, and field equations in the Codex.
 
 ---
 
@@ -52,19 +63,20 @@ Each topic already has structured content and visuals in the Codex.
 
 - Pick one of the topics – or suggest your own based on the Codex
 - Contribute sections, ideas, visuals or mathematical refinements
-- Co-write in English or German
+- Co-write in English or German – alone or in a team
 
 > 🔗 **Join our Builder Hub on Discord:**  
-[> [(https://discord.gg/W3vsqHTe]]
+> [https://discord.gg/W3vsqHTe](https://discord.gg/W3vsqHTe)
 
-We are building **interdisciplinary teams** (physics, math, symbolic systems, design, language, visualization, AI).  
-Let’s grow the science of resonance – across fields and cultures.
+> 🌐 Website: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+> 🕸️ GitHub: [github.com/Scarabaeus1033](https://github.com/Scarabaeus1033)  
+> 🐦 X / Twitter: **@scarabaeus1033**
 
 ---
 
 ## ⚖️ License & Contribution Credits
 
-All white papers will follow the main Codex license:
+All white papers will follow the Codex license:
 
 ### 📜 LICENSE  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**  
@@ -85,7 +97,7 @@ All white papers will follow the main Codex license:
 > GitHub: [github.com/Scarabaeus1031](https://github.com/Scarabaeus1031)
 
 📩 For licensing inquiries:  
-→ Contact via GitHub or [www.scarabaeus1033.de](https://www.scarabaeus1033.de)
+→ Contact via GitHub or the official website
 
 ---
 
