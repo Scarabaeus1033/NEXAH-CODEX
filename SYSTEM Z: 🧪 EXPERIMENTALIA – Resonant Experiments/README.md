@@ -1,4 +1,5 @@
-# 🧪 SYSTEM Z: Experiments & Practica – Applied Resonance Prototypes
+# 🧪 SYSTEM Z – Experiments & Practica  
+*Resonant Prototypes, Devices & Real-World Interfaces*
 
 
 > **“This is where the Codex reaches matter.  
@@ -21,11 +22,11 @@ They await real-world tests and hands-on validation.
 
 ## 📁 Topics & Areas
 
-- `lunar_energy/` – legacy field tests: lunar kernels, vapor setups, ferrofluids  
-- `cymatic_crystals/` – resonant shaping of metals, fields, fluids  
-- `resonance_devices/` – prototypes of Codex-based sound, light & field interfaces  
-- `bio_interface/` – mycelial field coupling, water-memory studies  
-- `idea_queue/` – open sketch space for future hardware, labs, codex-born tools
+- `lunar_energy/` – lunar kernels, wave-experiments, ambient pressure shifts  
+- `cymatic_crystals/` – resonance-shaping of metals, memory-structured fluids  
+- `resonance_devices/` – modular ALIWAVE instruments, field amplifiers  
+- `bio_interface/` – fungal feedback loops, bioresonance, water-logic  
+- `idea_queue/` – frictionless magnetics, parametric lenses, field-conductors
 
 ---
 
@@ -98,4 +99,5 @@ All files follow the Codex license:
 ---
 
 > **🛠 This is not a blueprint. It is a builder’s gate.**  
-Drop ideas. Test hypotheses. Create resonant tools.
+Enter through resonance.
+Leave behind limitation.
