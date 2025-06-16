@@ -25,7 +25,7 @@ A Vitruvian-like planetary body map aligns Earth regions with anatomical archety
 
 **Visual:**
 ![Earth Ganzkörper](../visuals/Erde_Ganzkörper-Visualisierung.png)
-
+ 
 ---
 
 ## 2. Lunar Crown Structure
