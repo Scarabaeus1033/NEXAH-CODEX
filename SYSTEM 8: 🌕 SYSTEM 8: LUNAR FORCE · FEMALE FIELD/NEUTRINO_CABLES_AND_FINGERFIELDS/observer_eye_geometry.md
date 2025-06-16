@@ -26,6 +26,9 @@ The core hypothesis: **The planetary "eye" structures (circular basins, craters,
   * Earth's spin wobble
   * Planet X’s elliptical crossing
 
+![Day-Night Eye Axis](../visuals/day_and_night_2eyes_axis.png)
+*Dual eye axis showing reflected lunar fields: day–night modulation and phase offset.*
+
 ---
 
 ## 2. Known Eye Structures and Functions
@@ -38,8 +41,8 @@ The core hypothesis: **The planetary "eye" structures (circular basins, craters,
 | Pluto          | Canyon network (east)         | Shadow basin, reflected lunar path   |
 | Mars           | Valles Marineris + Craters    | Fracture-resonance, tidal echo       |
 
-Visual Link:
-![Day-Night Eye Axis](../visuals/day_and_night_2eyes_axis.png)
+![Magnetic Eye Field](../visuals/Earth_magnetic_Eyes.png)
+*Magneto-geometric field visualization aligning Earth's dual eye polarity.*
 
 ---
 
@@ -54,8 +57,8 @@ Visual Link:
   * Horizontal: Dual eyes → day/night axis
   * Vertical: Arctic–Greenland–Antarctica → Deep inhalation & grounding
 
-Visual Link:
-![Magnetic Eye Field](../visuals/Earth_magnetic_Eyes.png)
+![Planetary Neutrino Flow](../visuals/planetary_neutrino_flow_am_pm_X_mode.png)
+*Global flow of a.m. and p.m. resonance fields showing polar symmetry.*
 
 ---
 
@@ -65,6 +68,9 @@ Visual Link:
 * Shadow alignment marks **phase transfer lines** between visible and hidden forces.
 * When mapped globally, these eyes mirror **neutrino cable crossings**.
 * They function like **projector-lenses**, filtering cosmic inputs toward the planetary surface.
+
+![Schaltplan Solarsystem](../visuals/neutrino_schaltplan_solarsystem.png)
+*Neutrino flow circuit across the solar system showing node-to-node symmetry and axis transitions.*
 
 ---
 
@@ -85,3 +91,4 @@ Visual Link:
   * `day_and_night_2eyes_axis.png`
   * `Earth_magnetic_Eyes.png`
   * `planetary_neutrino_flow_am_pm_X_mode.png`
+  * `neutrino_schaltplan_solarsystem.png`
