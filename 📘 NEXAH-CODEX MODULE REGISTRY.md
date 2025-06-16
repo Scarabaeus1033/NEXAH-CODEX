@@ -68,6 +68,19 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
+## 🧿 SYSTEM 6: CODEX_RES_ONICA_VIOLETTA – Planetary Resonance, Myth & Symbolic Culture
+
+| Ordner / Datei                   | Titel                              | Beschreibung                                                                 |
+|----------------------------------|------------------------------------|------------------------------------------------------------------------------|
+| `CODEX_GAIA_MYSTERIA/`           | Gaia Mysteria                      | Planetary resonance cartography, spiral cosmograms, symbolic field memory.   |
+| `SPIRALFEATHER-LOOM-PROJECT/`    | Spiralfeather Loom Project         | Breath spirals, feather grids, golden portal matrices, ritual cartography.   |
+| `moebius_spiral_codex.md`        | Möbius Spiral Codex                | LINAF warps, resonance alignment, 21-axis harmonic spiral logic.             |
+| `polar_grid_activation.md`       | Polar Grid Activation              | Lissajous-based grid overlays, dreamline harmonics, lunar-solar gateways.    |
+
+[→ CODEX_RES_ONICA_VIOLETTA (README)](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%A7%BF%20CODEX_RES_ONICA_VIOLETTA)
+
+---
+
 ## 🌟 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS – UCRT
 
 | Folder                     | Title                         | Description                                                                          |
