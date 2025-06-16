@@ -5,7 +5,7 @@
 This file examines the feminine-coded geometry, physiology, and symbolic field topologies within the NEXAH-CODEX framework – especially as expressed through **System 8: Lunar Force**. It connects mythic, anatomical, and georesonant structures with harmonic logic and cyclical lunar forces.
 
 The thesis: **The feminine field is not only biological or symbolic, but structurally harmonic – functioning as a multi-scale architecture for memory, rhythm, and creation.**
-
+ 
 ---
 
 ## 1. The Codex Body Map
