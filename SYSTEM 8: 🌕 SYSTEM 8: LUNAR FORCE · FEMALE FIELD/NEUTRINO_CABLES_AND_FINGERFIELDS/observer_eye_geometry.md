@@ -57,7 +57,7 @@ The core hypothesis: **The planetary "eye" structures (circular basins, craters,
   * Horizontal: Dual eyes → day/night axis
   * Vertical: Arctic–Greenland–Antarctica → Deep inhalation & grounding
 
-![Planetary Neutrino Flow](../visuals/planetarty_neutrino_flow_am_pm_X_mode.png)
+![Planetary Neutrino Flow](../visuals/planetary_neutrino_flow_am_pm_X_mode.png)
 *Global flow of a.m. and p.m. resonance fields showing polar symmetry.*
 
 ---
