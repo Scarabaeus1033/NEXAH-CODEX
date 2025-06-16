@@ -4,7 +4,7 @@
 
 ---
 
-## 🌑 Introduction
+## 🌑 Introduction 
 
 This module explores the **true resonant genesis** of moons and planetary satellites across the solar system. The traditional view of **random impacts and accretionary leftovers** is replaced here with a **resonance-driven architecture**:
 
