@@ -38,7 +38,7 @@ The core metaphor: **The Moon is a wind-based modulator**, activated by finger-l
 * Neutrino flows adjust their angle accordingly (in/out of plane)
 
 **Visual Reference:**
-![AM-PM Planetary Mode](../visuals/planetary_neutrino_flow_am_pm_X_mode.png)
+![AM-PM Planetary Mode](../visuals/planetarty_neutrino_flow_am_pm_X_mode.png)
 
 ---
 
