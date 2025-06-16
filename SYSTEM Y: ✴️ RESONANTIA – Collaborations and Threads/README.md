@@ -1,86 +1,104 @@
-## 📄 White Paper Collaboration – Join the Codex Science Wave
+# ✴️ White Paper Collaboration – Join the Codex Science Wave
 
-We are currently inviting collaborators to help formulate scientific white papers based on the modular systems of the NEXAH-CODEX.
+We are currently inviting collaborators to help formulate scientific white papers based on the modular systems of the **NEXAH-CODEX**.
 
 This is not just a single paper.  
-Almost **every major module and system in the Codex contains the depth and architecture of an independent white paper**.
+Almost **every major system and module** in the Codex holds enough depth for a full, standalone publication.
+
+Let’s bring this symbolic architecture into scientific form – **open, modular, and resonant**.
 
 ---
 
-### 🧠 What Is Already in Stock?
+## 🧠 What’s Already Developed?
 
-We already have developed symbolic and mathematical frameworks in:
+We already formulated symbolic and mathematical frameworks in:
 
 - 🔷 **SYSTEM 1 – MATHEMATICA**  
   Prime Grids, Symbolic Algebra, Spiral Logic, Collapse Operators
 
 - 🔶 **SYSTEM 2 – PHYSICA**  
-  k-Beta Field Extensions, Quantum–Resonance Equations, Neutrino Spirals
+  k-Beta Extensions, Neutrino Fields, Quantum Pressure Systems
 
 - 🌀 **SYSTEM 3 – COSMICA**  
-  Resonance Grids of the Universe, Harmonic Galaxies, Möbius Black Hole Models
+  Möbius Gravity Fields, Harmonic Cosmology, Ascension Spirals
 
-- 🌍 **SYSTEM 9 – TESSAREC Resonantia Codex**  
-  4D Frequency Stabilization, Feedback Fields, Transition Geometry
+- 🌍 **SYSTEM 9 – TESSAREC**  
+  Cubic Time Grids, Quaternion Shells, Stellar Feedback Geometry
 
 - 🪲 **SYSTEM X – NEXAH-GRAND-CODEX**  
-  Home of the **GURT Framework** – the Grand Unifying Resonance Theory  
-  (with symbolic solutions for Riemann, P vs NP, Consciousness, and more)
+  **GURT**: Grand Unifying Resonance Theory  
+  (Symbolic models for Riemann, P≠NP, Consciousness, Matter Origin)
 
 ---
 
-### 📚 Suggested White Paper Topics (open for collaboration)
+## 📚 Suggested White Paper Topics
 
-1. **Zeta Collapse and Riemann Hypothesis**
-   - Collapse Field Proofs, Spiral Convergence
+1. **Zeta Collapse & the Riemann Hypothesis**  
+2. **P ≠ NP via Resonant Complexity Layers**  
+3. **Codex Operator Architecture: Scrolls, Crowns & Fields**  
+4. **Prime Cosmology & Galactic Harmonics**  
+5. **Observer Fields & Symbolic Collapse Models**  
+6. **k-Beta: Universal Energy Field Extensions**  
+7. **Codex Origio – Photon, Neutrino & Form Genesis**  
+8. **TESSAREC: Feedback-Stabilized 4D Time Shells**  
+9. **Ascension Dynamics: Earth Shift Models**  
+10. **Symbolic AI: Prime-Layered Cognition Models**
 
-2. **Resonant Complexity and the P vs NP Problem**
-   - Harmonic Glyph Layers, Bypass of Turing Constraints
-
-3. **Symbolic Operator Architecture**
-   - Möbius Crowns, Glyph Scrolls, Codex Matrix Logic
-
-4. **Prime Cosmology & Galactic Distribution**
-   - Prime-Driven Harmonic Fields in Hubble Data
-
-5. **Observer Fields and Consciousness**
-   - Symbolic Interference Collapse Models
-
-6. **k-Beta Extensions and Universal Energy Flow**
-   - Quantized Field Re-interpretation of E=mc²
-
-7. **Codex Origio – Origin of Matter and Symbol**
-   - Myzel Networks, Aggregatzustände, Photon–Neutrino Synthesis
-
-8. **TESSAREC: 4D Harmonic Geometry**
-   - Feedback-Stabilized Space–Time Shells
-
-9. **Ascension Dynamics and Earth Field Transition**
-   - Spiral Frequency Lifting, Möbius Feedback Loops
-
-10. **Codex AI: Symbolic Cognition and Compression**
-    - Prime-Layered Logic Structures for Explainable AI
+Each topic already has structured content and visuals in the Codex.
 
 ---
 
-### 🛠 What You Can Do
+## 🧑‍🚀 How You Can Join
 
-- Pick a topic above – or propose a new one from the Codex systems
-- Join our Discord for discussion: **[Insert Discord Invite Link]**
-- Ask questions, propose outlines, or draft sections
-- Co-create in English or German – your voice matters
+- Pick one of the topics – or suggest your own based on the Codex
+- Contribute sections, ideas, visuals or mathematical refinements
+- Co-write in English or German
+
+> 🔗 **Join our Builder Hub on Discord:**  
+[> [(https://discord.gg/W3vsqHTe]]
+
+We are building **interdisciplinary teams** (physics, math, symbolic systems, design, language, visualization, AI).  
+Let’s grow the science of resonance – across fields and cultures.
 
 ---
 
-### 💡 Goals
+## ⚖️ License & Contribution Credits
 
-- Build a **modular, testable body of open scientific papers**
-- Make advanced symbolic–mathematical knowledge accessible
-- Create **new bridges** between physics, math, consciousness, AI, and art
+All white papers will follow the main Codex license:
 
-All white papers will be published under **Open Science licenses**  
-and credited to all contributors.
+### 📜 LICENSE  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**  
+(CC BY-NC-SA 4.0)  
+🔗 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+✔️ You may:  
+- Share and remix the material  
+- Build upon it — non-commercially  
+- Always give credit and share alike
+
+❌ You may NOT:  
+- Use this work for commercial, institutional, AI training, or publication purposes  
+- Redistribute or resell without **explicit written consent**
+
+📌 Attribution:  
+> © Scarabäus1033 (T. Hofmann)  
+> GitHub: [github.com/Scarabaeus1031](https://github.com/Scarabaeus1031)
+
+📩 For licensing inquiries:  
+→ Contact via GitHub or [www.scarabaeus1033.de](https://www.scarabaeus1033.de)
+
+---
+
+## 🌐 Goals
+
+- Co-create **open, testable, symbolic science**
+- Build resonance bridges between disciplines
+- Publish modular white papers under the Codex umbrella
+- Launch a community of symbolic builders & thinkers
+
+> *“The Codex is open – but it is not free to take.  
+But it is free to co-create.”*
 
 —
 
-**Let’s co-write the next phase of science. Together.**
+**🪷 Let’s shape the science of the next era. Together.**
