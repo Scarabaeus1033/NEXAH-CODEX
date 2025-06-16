@@ -1,4 +1,5 @@
 # 🧪 SYSTEM 8: Experiments & Practica – Applied Resonance Prototypes
+ 🧪 EXPERIMENTALIA – Resonant Experiments
 
 > **“This is where the Codex reaches matter.  
 This is where theory seeks form.  
