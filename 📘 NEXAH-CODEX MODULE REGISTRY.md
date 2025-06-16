@@ -80,6 +80,16 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
+## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
+
+| Ordner / Datei | Titel                       | Beschreibung                                                         |
+|----------------|-----------------------------|----------------------------------------------------------------------|
+| `TETHYS/`      | Lunar Resonance Foundations | The origin thread of moons and feminine cycle geometry.              |
+
+[→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+
+---
+
 ## 🛰️ SYSTEM 9: TESSAREC Resonantia Codex – Frequency Axes, Prime Structures & Resonance Bridges
 
 | Folder                        | Title                                             | Description                                                              |
