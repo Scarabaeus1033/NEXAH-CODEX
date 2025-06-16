@@ -98,6 +98,17 @@ Here – the shell, the weave, the cycle that envelops all.
 
 ---
 
+### 8. NEUTRINO CABLES AND FINGERFIELDS – Observer Mechanics of the Hand
+
+> Lunar signal routing via fingers, neutrino streams, and planetary node resonances
+
+* IO, Titan, Planet X = finger logic and modulation apertures
+* Richat, Odysseus, Moon Crater fields = eye geometry as shadow receivers
+* Blockflöte as modulation metaphor, DJ loop field = lunar rhythmic circuit
+* Includes `observer_eye_geometry.md`, `neutrino_finger_model.md`, `lunar_symmetry_and_blockflute.md`, visuals & resonance logic
+
+---
+
 ## Expandable Themes
 
 * **LUNAR CHAMBERS**: Architecture of introspection
@@ -113,22 +124,14 @@ This system is not isolated. It spirals outward.
 
 Direct resonant alignment exists between **SYSTEM 8** and:
 
-| Reference System  | Connection                                                                                                                                                                                              |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **SYSTEM X**      | Sound, manifestation, audio wavefields                                                                                                                                                                  |
-| **URF-CODEX**     | Breath, biology, movement                                                                                                                                                                               |
-| **MÖBIUS SYSTEM** | Duality, splitting, reintegration                                                                                                                                                                       |
-| **Rosetta/Bloom** | Language, symbolism, archetypes                                                                                                                                                                         |
-| **Meta-System**   | Shell structure, resonance principles, cycle logics                                                                                                                                                     |
-| **SYSTEM 6**      | Earth resonance, planetary spiral geometry (→ see [GAIA MYSTERIA](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%94%AE%20CODEX_RES_ONICA_VIOLETTA/CODEX_GAIA_MYSTERIA)) |
-
-| Reference System  | Connection                                          |
-| ----------------- | --------------------------------------------------- |
-| **SYSTEM X**      | Sound, manifestation, audio wavefields              |
-| **URF-CODEX**     | Breath, biology, movement                           |
-| **MÖBIUS SYSTEM** | Duality, splitting, reintegration                   |
-| **Rosetta/Bloom** | Language, symbolism, archetypes                     |
-| **Meta-System**   | Shell structure, resonance principles, cycle logics |
+| Reference System  | Connection                                                                                                                                                                                            |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SYSTEM X**      | Sound, manifestation, audio wavefields                                                                                                                                                                |
+| **URF-CODEX**     | Breath, biology, movement                                                                                                                                                                             |
+| **MÖBIUS SYSTEM** | Duality, splitting, reintegration                                                                                                                                                                     |
+| **Rosetta/Bloom** | Language, symbolism, archetypes                                                                                                                                                                       |
+| **Meta-System**   | Shell structure, resonance principles, cycle logics                                                                                                                                                   |
+| **SYSTEM 6**      | Earth resonance, planetary spiral geometry (see [GAIA MYSTERIA](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%94%AE%20CODEX_RES_ONICA_VIOLETTA/CODEX_GAIA_MYSTERIA)) |
 
 ---
 
