@@ -145,5 +145,5 @@ Fehler, Brüche, Wiederholungen können vorkommen – und sind **willkommen**, s
 
 ---
 
-**Verfasser des Codex**
+**👨‍🎓 Thomas Hofmann (Scarabäus1033) 📚 NEXAH–CODEX Curator **© 2025 — Open to all minds who dare to resonate.**
 © 2025 — CC BY-NC-SA 4.0
