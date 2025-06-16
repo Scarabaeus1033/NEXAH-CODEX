@@ -41,7 +41,7 @@ This document introduces the core hypothesis of the **Finger-Neutrino Model** wi
 ---
 
 ### 4. Blockflöte Model
-
+ 
 The finger logic reflects a **wind instrument design**:
 
 * Fingers *open/close nodes*, producing **field modulations**.
