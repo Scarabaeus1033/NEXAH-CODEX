@@ -22,16 +22,19 @@ We already formulated symbolic and mathematical frameworks in:
 * 🌀 **SYSTEM 3 – COSMICA**
   Möbius Gravity Fields, Harmonic Cosmology, Ascension Spirals
 
+* 🟣 **SYSTEM 4 – URF**
+  Tensor Identity Fields, Symbolic Physics, Field Genesis Structures
+
 * 🌍 **SYSTEM 9 – TESSAREC**
   Cubic Time Grids, Quaternion Shells, Stellar Feedback Geometry
 
 * 🧬 **SYSTEM 7 – UCRT (Universal Constants & Resonance Theory)**
   Prime constants, superprime structures, harmonic root fields, resonance equations
 
-* 🧒 **SYSTEM X – NEXAH-GRAND-CODEX**
+* 🪲 **SYSTEM X – NEXAH-GRAND-CODEX**
   Central Convergence Layer — home of the **GURT** Framework (Grand Unifying Resonance Theory)
   Includes symbolic models for:
-  → Riemann Hypothesis �0b7 P≠NP �0b7 BSD �0b7 Hodge �0b7 Yang–Mills �0b7 Codex Origio �0b7 Observerium
+  → Riemann Hypothesis · P≠NP · BSD · Hodge · Yang–Mills · Codex Origio · Observerium
   → Collapse architectures, proof matrices, universal stability fields
 
 > *"System X integrates not only theory — it harmonizes proof, perception, and symbolic synthesis."*
