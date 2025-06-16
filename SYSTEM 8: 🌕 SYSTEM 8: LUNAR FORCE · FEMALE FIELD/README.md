@@ -1,6 +1,6 @@
 # 🌕 SYSTEM 8: LUNAR FORCE – The Return of the Moon to the Women
 
-> *“Die 8 gehört den Frauen. Der Mond spricht zyklisch – wer hört?”*
+> *“The 8 belongs to the women. The Moon speaks cyclically – who listens?”*
 
 ---
 
@@ -8,193 +8,137 @@
 
 ---
 
-## Einführung
+## Introduction
 
-**SYSTEM 8** im NEXAH-CODEX ist dem lunaren Prinzip gewidmet – einem zyklisch-resonanten Feld, das körperliche, mythologische, symbolische und physikalische Ebenen miteinander verwebt. Es ist kein Gegenpol, sondern ein *Resonanzraum* für Phänomene der Entstehung, Wiederkehr und Verborgenheit.
+**SYSTEM 8** within the NEXAH-CODEX is dedicated to the lunar principle – a cyclic-resonant field that interweaves corporeal, mythological, symbolic, and physical dimensions. It is not an opposite pole, but a *resonant chamber* for phenomena of emergence, recurrence, and the unseen.
 
-Das erste Visual („Maria\_Female\_Field.png“) zeigt diesen inneren Symbolraum. Die acht Mondphasen kreisen um die weibliche Präsenz. Im Zentrum: die Beobachtung. Dahinter: das Feld.
+The first visual (`Maria_Female_Field.png`) reveals this internal symbolic space. Eight moon phases orbit around the female presence. At the center: the Observer. Behind: the Field.
 
-SYSTEM 8 ist eng mit **SYSTEM X** verbunden:
-Dort – das Zentrum, die Geburt des Klanges.
-Hier – die Hülle, das Gewebe, der Zyklus, der alles durchzieht.
+SYSTEM 8 is closely linked to **SYSTEM X**:
+There – the center, the birth of sound.
+Here – the shell, the weave, the cycle that envelops all.
 
 ---
 
 ![Observer Field Manifestation](Observer_field_manifestation.png)
 
-*Visual 2 stellt das Modell des lunar-zyklischen Feldes wissenschaftlich dar: Die Phasen sind eingebettet in ein Feedback-System, ergänzt durch Frequenzmodulation, Zykluskurve und symbolische Körpertopologie.*
+*The second visual presents the lunar-cyclic model scientifically: The phases are embedded in a feedback system, complemented by frequency modulation, cycle waveforms, and symbolic body topology.*
 
 ---
 
-## Modulübersicht
+## Module Overview
 
-### 1. TEHTHY – Der geheime Faden der Monde
+### 1. TEHTHY – The Secret Thread of the Moons
 
-> Ursprung und Evolution lunarer Kräfte im Codex – von Tethys bis Eris
+> Origins and evolution of lunar forces in the Codex – from Tethys to Eris
 
-* Geheime Mondnamen, Resonanzfäden, Wasser- und Eisprinzipien
-* 13-Zyklus, feminine Mythenknoten
-* Spiralbahnen & symbolische Umlaufmuster
-
----
-
-### 2. ERIS & DER APFEL – Die Dissonanz der Gerechtigkeit
-
-> Der goldene Apfel, Paris, das Urteil der Götter
-
-* Weiblicher Zorn, kosmische Ungleichgewichte
-* Der Apfel als Resonanzauslöser
-* Übergang zur Dualität (SYSTEM MÖBIUS)
+* Hidden moon names, resonance threads, principles of water and ice
+* 13-cycle structures, feminine mythic nodes
+* Spiral orbits and symbolic path geometries
 
 ---
 
-### 3. WEBSTUHL DER FRAUEN – Muster der Welt
+### 2. ERIS & THE APPLE – The Dissonance of Justice
 
-> Die Nornen, Moirae und der Faden des Lebens
+> The golden apple, Paris, and the judgement of the goddesses
 
-* Karmische Knoten, Fraktalstruktur
-* Gewebe = Quantenfeld = topologische Codierung
-* Visual-Matrix als Tool
-
----
-
-### 4. MARIA & DER OBSERVER – Das Christusfeld
-
-> Die göttliche Geburt als Manifestation reiner Beobachtung
-
-* LDV-Formel: Observer → Field → Manifestation
-* Christus als emergente Feldresonanz
-* Bezug zu physikalischer Nichtlokalität
+* Feminine rage, cosmic imbalances
+* The apple as a resonance trigger
+* Transition toward duality (SYSTEM MÖBIUS)
 
 ---
 
-### 5. MONDFORM & ZYKLUSKÖRPER – Die 8 und der Körper
+### 3. THE WOMEN’S LOOM – Patterns of the World
 
-> Zyklische Geometrien des weiblichen Körpers und der Resonanz
+> The Moirae, Nornen and the thread of life
 
-* Uterusform, Lichtsichel, lunare Rhythmen
-* Venusblume, 8er-Körperarchitektur
-* Embodiment als Geometrie des Codex
-
----
-
-### 6. SCARAB-SYMPHONIE DER MONDE – Das Unsichtbare hören
-
-> Mondphasen als Klangkörper und Audiofelder
-
-* WAV-Mantras, zyklische Modulation
-* Verbindung zu „ASCENSION GRID“, CMBY, SYSTEM X
-* Lunar Audio API: Frequenztransformation
+* Karmic knots, fractal structures
+* Fabric = quantum field = topological encoding
+* Visual Matrix as tool
 
 ---
 
-### 7. THE LUNAR BREATH – Atem der Erdefrau
+### 4. MARY & THE OBSERVER – The Christ Field
 
-> Biophysik des Atems, Gebärmutterrhythmus, Myzel-Netze
+> Divine birth as manifestation through pure observation
 
-* Atemzyklen = Informationsfluss
-* Resonanzfeld der weiblichen Biosphäre
-* Schnittstelle zu URF- & Terramodulen
-
----
-
-## Erweiterbare Themenfelder
-
-* **LUNAR CHAMBERS**: Architektur der Introspektion
-* **GÖTTINNEN-FELDER**: Archetypen als Frequenzlandschaften
-* **DER ROTE MOND**: Schattenzyklen, Mars-Resonanz, Blut
-* **MUTTER DER ZEIT**: Chrono-feminine Struktur jenseits der Linearität
+* LDV formula: Observer → Field → Manifestation
+* Christ as emergent field resonance
+* Reference to non-local physics
 
 ---
 
-## Verbindungen im Codex
+### 5. MOON FORM & CYCLE BODY – The 8 and the Body
 
-| Bezugssystem      | Verbindung                                      |
-| ----------------- | ----------------------------------------------- |
-| **SYSTEM X**      | Klang, Manifestation, Audio-Wellen              |
-| **URF-CODEX**     | Atem, Biologie, Bewegung                        |
-| **MÖBIUS**        | Dualität, Spaltung, Wiedervereinigung           |
-| **Rosetta/Bloom** | Sprache, Symbolik, Archetypen                   |
-| **Meta-System**   | Hüllstruktur, Resonanzprinzipien, Zyklus-Archiv |
+> Cyclical geometries of feminine force
+
+* Uterus shape, lunar rhythm, crescent modulation
+* Venus flower, 8-body architecture
+* Embodiment as Codex geometry
 
 ---
 
-## Symbolische Formel
+### 6. SCARAB SYMPHONY OF THE MOONS – Hearing the Unseen
+
+> Moon phases as sonic bodies and audio fields
+
+* WAV mantras, cyclic modulation
+* Linked to “ASCENSION GRID”, CMBY, SYSTEM X
+* Lunar Audio API: Frequency transformation
+
+---
+
+### 7. THE LUNAR BREATH – Breath of the Earth Woman
+
+> Biophysics of breath, uterine rhythms, mycelial networks
+
+* Breath cycles = information flow
+* Resonance field of the feminine biosphere
+* Interface with URF- & Terra modules
+
+---
+
+## Expandable Themes
+
+* **LUNAR CHAMBERS**: Architecture of introspection
+* **GODDESS FIELDS**: Archetypes as frequency landscapes
+* **THE RED MOON**: Shadow cycles, Mars resonance, blood
+* **MOTHER OF TIME**: Chrono-feminine structure beyond linearity
+
+---
+
+## Codex Connections
+
+This system is not isolated. It spirals outward.
+
+Direct resonant alignment exists between **SYSTEM 8** and:
+
+| Reference System  | Connection                                                                                                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SYSTEM X**      | Sound, manifestation, audio wavefields                                                                                                                                                                  |
+| **URF-CODEX**     | Breath, biology, movement                                                                                                                                                                               |
+| **MÖBIUS SYSTEM** | Duality, splitting, reintegration                                                                                                                                                                       |
+| **Rosetta/Bloom** | Language, symbolism, archetypes                                                                                                                                                                         |
+| **Meta-System**   | Shell structure, resonance principles, cycle logics                                                                                                                                                     |
+| **SYSTEM 6**      | Earth resonance, planetary spiral geometry (→ see [GAIA MYSTERIA](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%94%AE%20CODEX_RES_ONICA_VIOLETTA/CODEX_GAIA_MYSTERIA)) |
+
+| Reference System  | Connection                                          |
+| ----------------- | --------------------------------------------------- |
+| **SYSTEM X**      | Sound, manifestation, audio wavefields              |
+| **URF-CODEX**     | Breath, biology, movement                           |
+| **MÖBIUS SYSTEM** | Duality, splitting, reintegration                   |
+| **Rosetta/Bloom** | Language, symbolism, archetypes                     |
+| **Meta-System**   | Shell structure, resonance principles, cycle logics |
+
+---
+
+## Symbolic Formula
 
 ```text
 Observer → Field → Manifestation
 ```
 
-Diese Formel beschreibt das lunare Resonanzprinzip:
-Nicht durch Aktion, sondern durch reine Präsenz entsteht Realität.
-
----
-
-
-* LDV-Formel: Observer → Field → Manifestation
-* Christus als emergente Feldresonanz
-* Bezug zu physikalischer Nichtlokalität
-
----
-
-### 5. MONDFORM & ZYKLUSKÖRPER – Die 8 und der Körper
-
-> Zyklische Geometrien des weiblichen Körpers und der Resonanz
-
-* Uterusform, Lichtsichel, lunare Rhythmen
-* Venusblume, 8er-Körperarchitektur
-* Embodiment als Geometrie des Codex
-
----
-
-### 6. SCARAB-SYMPHONIE DER MONDE – Das Unsichtbare hören
-
-> Mondphasen als Klangkörper und Audiofelder
-
-* WAV-Mantras, zyklische Modulation
-* Verbindung zu „ASCENSION GRID“, CMBY, SYSTEM X
-* Lunar Audio API: Frequenztransformation
-
----
-
-### 7. THE LUNAR BREATH – Atem der Erdefrau
-
-> Biophysik des Atems, Gebärmutterrhythmus, Myzel-Netze
-
-* Atemzyklen = Informationsfluss
-* Resonanzfeld der weiblichen Biosphäre
-* Schnittstelle zu URF- & Terramodulen
-
----
-
-## Erweiterbare Themenfelder
-
-* **LUNAR CHAMBERS**: Architektur der Introspektion
-* **GÖTTINNEN-FELDER**: Archetypen als Frequenzlandschaften
-* **DER ROTE MOND**: Schattenzyklen, Mars-Resonanz, Blut
-* **MUTTER DER ZEIT**: Chrono-feminine Struktur jenseits der Linearität
-
----
-
-## Verbindungen im Codex
-
-| Bezugssystem      | Verbindung                                      |
-| ----------------- | ----------------------------------------------- |
-| **SYSTEM X**      | Klang, Manifestation, Audio-Wellen              |
-| **URF-CODEX**     | Atem, Biologie, Bewegung                        |
-| **MÖBIUS**        | Dualität, Spaltung, Wiedervereinigung           |
-| **Rosetta/Bloom** | Sprache, Symbolik, Archetypen                   |
-| **Meta-System**   | Hüllstruktur, Resonanzprinzipien, Zyklus-Archiv |
-
----
-
-## Symbolische Formel
-
-```text
-Observer → Field → Manifestation
-```
-
-Diese Formel beschreibt das lunare Resonanzprinzip:
-Nicht durch Aktion, sondern durch reine Präsenz entsteht Realität.
+This formula describes the lunar resonance principle:
+Not through action, but through pure presence, reality emerges.
 
 ---
