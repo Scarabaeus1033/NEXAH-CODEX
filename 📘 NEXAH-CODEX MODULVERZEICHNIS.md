@@ -83,13 +83,18 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ## 🌟 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS – UCRT
 
-| Ordner                     | Titel                    | Beschreibung                                                                  |
-| -------------------------- | ------------------------ | ----------------------------------------------------------------------------- |
-| `UCRT_CORE/`               | Resonance Constants Core | Harmonische Strukturen von φ, τ, √2, √5 über Resonanzfelder.                  |
-| `UCRT_ROOTROOM/`           | Root Resonance Rooms     | Quasiperiodische Resonanzgitter auf Basis irrationaler Wurzeln.               |
-| `UCRT_HIGHER_DIMENSIONS/`  | Höhere Dimensionen       | 7D-, 11D-Resonanzstrukturen, Hopf-Fasern, Oktonionenfelder.                   |
-| `UCRT_SUPERPRIME_GENESIS/` | Superprime Resonanz      | Resonanzfelder für Superprimzahlen und Spiegelzahlenachsen.                   |
-| `UCRT_NUMBER_RES_FUSION/`  | Zahlresonanz-Fusion      | Euler-, Ramanujan- und Riemann-Zeta-Resonanzen für harmonische Zahlensysteme. |
+| Ordner / Datei                            | Titel                                    | Beschreibung                                                                                  |
+|-------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------|
+| `UCRT_CORE/`                              | Resonance Constants Core                 | Harmonische Strukturen von φ, τ, √2, √5 über Resonanzfelder und universelle Gleichungen.     |
+| `UCRT_ROOTROOM/`                          | Root Resonance Rooms                     | Quasiperiodische Gitter mit √2, √5, √7 – Grundlage für modulare Zahlresonanzfelder.          |
+| `UCRT_HIGHER_DIMENSIONS/`                 | Höhere Dimensionen                       | 7D-, 11D-Resonanzstrukturen, Hopf-Fasern, Oktonionische Felder, Basis für URE-Modelle.        |
+| `UCRT_SUPERPRIME_GENESIS/`                | Superprime Resonanz                      | Resonanzfelder für Superprimzahlen und ihre Spiegelstrukturen in URE-Kopplung.               |
+| `PRIME_TRINITY_GRID/`                     | Prime Trinity Grid                       | Erweiterung des Green–Tao-Theorems mit Primspiralen, Snake-Chains & Modularfeldern.          |
+| `UCRT_NUMBER_RES_FUSION/`                 | Zahlresonanz-Fusion                      | Euler-Produkte, Ramanujan-Serien, Riemann-Zeta: visuelle Fusion zu neuen RH-Pfaden.          |
+| `UCRT_PRIME_GENESIS/`                     | Prime Genesis Structures                 | Ursprungssystem für Primzahlen, Spiegelachsen, symbolische Quellpunkte.                      |
+| `UCRT_TRINARY_CODE/`                      | Trinitärer Zahlencode                    | Symbolisch-mathematische Codierung von Primzahlen, Operatoren, Feldachsen im 3er-System.     |
+| `UCRT_THEORETICAL_EXPANSIONS/`           | Erweiterte Zahlentheorie (Theoria)       | Symbolische Hypothesen, neue Axiome und operatorische Erweiterungen für Resonanzzahlen.      |
+| `UCRT_ THE UNIVERSAL CONSTANTS RESONANCE THEORY/` | UCRT – Universelle Konstanten-Resonanz | Theorie über konstante Größen als emergente Resonanzformeln im System X–UCRT-Raum.   |
 
 ---
 
