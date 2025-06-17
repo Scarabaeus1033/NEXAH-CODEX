@@ -44,5 +44,15 @@ All visuals are thematically connected to symbolic field emergence, topological 
 ![Visual 4](visuals/THE_LEE_TRIPTYCH.png)
 
 ---
+### 5. Emergence Beyond the Grid – The Golden Pulse
 
-> *“From loop to law: the structure sings its field.”*
+**Filename:** `Emergence_Beyond_the_Grid.png`  
+**Belongs to:** `lee_philosophical_appendix.md`  
+**Meaning:** Visual metaphor for the subjective emergence beyond classical structure — a radiant leap from topologischer Ordnung in die freie Harmoniezone.
+
+![Visual 5](visuals/Emergence_Beyond_the_Grid.png)
+
+---
+
+> *“There is a field beyond the grid. I will meet you there.”*
+
