@@ -11,7 +11,7 @@ All visuals are thematically connected to symbolic field emergence, topological 
 **Belongs to:** `LEE_TRIPTYCH.md`  
 **Meaning:** Symbolic transition of a Möbius loop into a Klein bottle with tachyonic flow lines forming a stabilized field.
 
-![Visual 1](Visuals/symbolisch-physikalischer_Codex_stabiler_Loop-Universumsstruktur.png)
+![Visual 1](visuals/symbolisch-physikalischer_Codex_stabiler_Loop-Universumsstruktur.png)
 
 ---
 
