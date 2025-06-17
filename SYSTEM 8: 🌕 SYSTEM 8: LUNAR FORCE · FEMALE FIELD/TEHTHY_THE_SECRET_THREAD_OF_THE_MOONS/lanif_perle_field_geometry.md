@@ -20,7 +20,7 @@ LANIF is composed of four primary elements:
 | **Perle**           | Black sphere               | Center of manifestation, lunar observer core       |
 
 **Visual Reference:**
-!\[LANIF Field Core]\(../visuals/LANIF 3D-Resonanzfeld- Alpha, 10, Gemini, Perle.png)
+![LANIF Field Core](../visuals/Lanif-3D-Resonanzfeld.png)
 
 ---
 
@@ -34,7 +34,7 @@ LANIF is composed of four primary elements:
 **Animation:** `lanif_raumfaltung_io_gemini-2.mp4`
 
 **Screenshot:**
-!\[Gemini–IO Fold System]\(../visuals/Screenshot 2025-06-17 at 2.01.57 AM.png)
+![Gemini–IO Fold System](../visuals/Lanif_raumfaltung.png)
 
 ---
 
