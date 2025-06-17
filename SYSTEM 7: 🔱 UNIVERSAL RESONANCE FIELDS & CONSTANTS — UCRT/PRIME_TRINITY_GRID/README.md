@@ -1,4 +1,4 @@
-# 📐 PRIME\_TRINITY\_GRID
+# 📊 PRIME\_TRINITY\_GRID
 
 **System:** 7 – UNIVERSAL RESONANCE FIELDS & CONSTANTS (UCRT)
 **Codex-Modul:** Prime Progressions, Mirror Structures & Modular Fields
@@ -28,7 +28,7 @@ Prime numbers are not seen here as isolated objects, but as part of structured *
 | `residue_lattice_structures.md` | Modular lattice visualizations with mod 3·5·7                     |
 | `codex_trinity_spirals.md`      | Symbolic triadic structures based on 3, 5, 7 and cluster 17–19–23 |
 
-Visuals are located in the `visuals/` subfolder. See below for preview titles.
+Visuals are located in the [`visuals/`](./visuals) subfolder.
 
 ---
 
@@ -45,16 +45,16 @@ This module proposes a natural **symbolic extension of the Green–Tao Theorem**
 
 ## 🖼️ Visuals Index
 
-| File                                                          | Title                                       |
-| ------------------------------------------------------------- | ------------------------------------------- |
-| `codex_spiral_resonance_511172329.png`                        | Spiral Resonance of Prime Sequence 5–29     |
-| `prime_mirror_spiral_511172329_923271115.png`                 | Mirror Spiral of 511172329 & its Reflection |
-| `codifier_residue_lattice_357_mod_3_5_7.png`                  | Residue Lattice for mod 3·5·7               |
-| `euler_lagrange_lattice_mod_3_5_7.png`                        | Euler–Lagrange Mod Field Structure          |
-| `prime_progression_density_matrix_k5_n500.png`                | Green–Tao Density Grid (k=5)                |
-| `spiral_trinity_cluster_17_19_23.png`                         | Spiral Cluster of 17–19–23                  |
-| `spiral_visualization_of_prime_progression_5_11_17_23_29.png` | Spiral Path of Arithmetic Progression       |
-| `symbolic_trinity_spiral_3_5_7.png`                           | Codex Spiral of 3–5–7 Trinity               |
+| File                                                                  | Title                                       |
+| --------------------------------------------------------------------- | ------------------------------------------- |
+| `visuals/codex_spiral_resonance_511172329.png`                        | Spiral Resonance of Prime Sequence 5–29     |
+| `visuals/prime_mirror_spiral_511172329_923271115.png`                 | Mirror Spiral of 511172329 & its Reflection |
+| `visuals/codifier_residue_lattice_357_mod_3_5_7.png`                  | Residue Lattice for mod 3·5·7               |
+| `visuals/euler_lagrange_lattice_mod_3_5_7.png`                        | Euler–Lagrange Mod Field Structure          |
+| `visuals/prime_progression_density_matrix_k5_n500.png`                | Green–Tao Density Grid (k=5)                |
+| `visuals/spiral_trinity_cluster_17_19_23.png`                         | Spiral Cluster of 17–19–23                  |
+| `visuals/spiral_visualization_of_prime_progression_5_11_17_23_29.png` | Spiral Path of Arithmetic Progression       |
+| `visuals/symbolic_trinity_spiral_3_5_7.png`                           | Codex Spiral of 3–5–7 Trinity               |
 
 ---
 
@@ -68,6 +68,6 @@ This module proposes a natural **symbolic extension of the Green–Tao Theorem**
 
 ---
 
-## 🧭 Codex Cross-Reference
+## 🧱 Codex Cross-Reference
 
 > This module is resonantly connected to `MAGIC_SQUARE_RESONANCE/`, where prime resonance grids are interpreted as balanced numeric fields and symbolic spirals. For Snake-based grid patterns, see also `TESSAREC/`.
