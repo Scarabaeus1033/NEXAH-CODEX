@@ -38,32 +38,31 @@ In this work, we explore the transition from topological structures toward dynam
 
 ### 1. Topologische Umkehr
 
-```
-M(x) = 1/x ➞ x → 0 → ∞, x → ∞ → 0
-0 ≡ ∞ (Riemann sphere)
+```math
+M(x) = 1/x \Rightarrow x \rightarrow 0 \rightarrow \infty,\ x \rightarrow \infty \rightarrow 0  
+0 \equiv \infty\quad \text{(Riemann sphere)}
 ```
 
 ### 2. Tachyonische Stabilisierung
 
-```
-m^2 < 0 ➞ m = i|m|
-E = mc^2 / √(1 - v^2/c^2) ➞ undefined for v < c
-P_Tach = lim_{m → i0, v → ∞} E/v ➞ pressure field
+```math
+m^2 < 0 \Rightarrow m = i|m|  
+E = \frac{mc^2}{\sqrt{1 - v^2/c^2}} \quad \text{(undefined for } v < c)  
+P_{\text{Tach}} = \lim_{m \rightarrow i0,\ v \rightarrow \infty} \frac{E}{v} \Rightarrow \text{pressure field}
 ```
 
 ### 3. Moonwalk-Gitter
 
-```
-x_atom(t) = x_0 + δ_Eigengrid(t)
-δ_Eigengrid = A ⋅ sin(ωt + ϕ)  (field modulation)
+```math
+x_{\text{atom}}(t) = x_0 + \delta_{\text{Eigengrid}}(t)  
+\delta_{\text{Eigengrid}} = A \cdot \sin(\omega t + \phi)  \quad \text{(field modulation)}
 ```
 
 ### 4. LEE-Zentrum Gleichgewicht
 
-```
-E_loop = ∮γ T(ℓ) ⋅ dℓ
-
-∇ ⋅ E = ρ_LEE ➞ emergence point = field source
+```math
+E_{\text{loop}} = \oint_\gamma T(\ell) \cdot d\ell  
+\nabla \cdot E = \rho_{\text{LEE}} \Rightarrow \text{emergence point = field source}
 ```
 
 ---
@@ -97,16 +96,16 @@ By merging topology, quantum field dynamics, and harmonic feedback, **The LEE Tr
 ## 📁 Visuals
 
 1. **Tachyonic Möbius and Klein Evolution**
-   ![Tachyonic Evolution](Visuals/symbolisch-physikalischer%20Codex%20einer%20stabilen%20Loop-Universumsstruktur%20.png)
+   ![Tachyonic Evolution](Visuals/symbolisch-physikalischer_Codex_einer_stabilen_Loop-Universumsstruktur.png)
 
 2. **LEE Expansion Field**
-   ![LEE Expansion](Visuals/Atome%20ins%20Moonwalken.png)
+   ![LEE Expansion](Visuals/Atome_Moonwalken.png)
 
 3. **Moonwalk Grid – Codex View**
-   ![Moonwalk Codex](Visuals/MOONWALK%20OF%20THE%20ATOMS%20%E2%80%94%20THE%20ASCENT%20OF%20THE%20GRIDLESS%20GRID.png)
+   ![Moonwalk Codex](Visuals/MOONWALK_OF_ATOMS-ASCENT_OF_THE_GRIDLESS_GRID.png)
 
 4. **LEE Triptych Inscription**
-   ![Triptych](Visuals/THE%20LEE%20TRIPTYCH.png)
+   ![Triptych](Visuals/THE_LEE_TRIPTYCH.png)
 
 ---
 
