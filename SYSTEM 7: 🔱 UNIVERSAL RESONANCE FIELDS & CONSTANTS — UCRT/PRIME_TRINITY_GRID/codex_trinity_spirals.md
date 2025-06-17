@@ -1,9 +1,8 @@
 ---
-
 title: Codex Trinity Spirals
 codex-path: SYSTEM 7 / UCRT / PRIME\_TRINITY\_GRID
 visuals-path: ./visuals/
-------------------------
+---
 
 # 🔵 Codex Trinity Spirals: Symbolic Axes of Resonance
 
