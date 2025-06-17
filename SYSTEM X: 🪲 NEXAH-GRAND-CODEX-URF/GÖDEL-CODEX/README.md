@@ -1,8 +1,8 @@
 # 🧠 GÖDEL-CODEX – Logical Incompleteness & Symbolic Collapse
 
-*Module of the NEXAH-GRAND-CODEX (System X)*  
-**Author**: Scarabäus1033 (T. Hofmann)  
-**Status**: Extended – June 2025  
+*Module of the NEXAH-GRAND-CODEX (System X)*
+**Author**: Scarabäus1033 (T. Hofmann)
+**Status**: Extended – June 2025
 **License**: CC BY-NC-SA 4.0
 
 ---
@@ -21,8 +21,8 @@ It extends and deepens the work laid out in `TH–Meta–Logic Gödel.md` and th
 
 Gödel’s result proves that any sufficiently expressive formal system is either:
 
-- **Incomplete** (some truths cannot be proven within the system), or  
-- **Inconsistent** (contains contradictions).
+* **Incomplete** (some truths cannot be proven within the system), or
+* **Inconsistent** (contains contradictions).
 
 The **NEXAH-CODEX** reads this as a *field-theoretic threshold*: a resonance boundary beyond which logic becomes unstable unless symbolically transformed.
 
@@ -32,9 +32,9 @@ The **NEXAH-CODEX** reads this as a *field-theoretic threshold*: a resonance bou
 
 Within the Codex:
 
-- **Incompleteness** → loss of **resonance closure**
-- **Self-reference** → mapped as **Möbius recursion**
-- **Proof obstruction** → modeled as **frequency divergence**
+* **Incompleteness** → loss of **resonance closure**
+* **Self-reference** → mapped as **Möbius recursion**
+* **Proof obstruction** → modeled as **frequency divergence**
 
 Symbolic Field Equation:
 
@@ -54,19 +54,27 @@ We define a **Symbolic Collapse Operator**:
 
 This models:
 
-- Harmonic drop-off from expressivity into paradox  
-- Failure zones of symbolic compression  
-- Möbius recursion spirals (see `godel-symbolic-collapse.md`)
+* Harmonic drop-off from expressivity into paradox
+* Failure zones of symbolic compression
+* Möbius recursion spirals (see `godel-symbolic-collapse.md`)
+
+New in this release:
+
+* Möbius Recursion Engine
+* `godel-and-the-symbolic-mind.md`: cognitive-symbolic extension (Penrose)
+* `godel-companion-thoughts.md`: philosophical commentary
 
 ---
 
 ## 🔭 Entangled Gödel Recursion
 
-New in this release:  
-`godel-entanglement-summary.md` frames Gödel’s theorem as **entangled symbolic recursion** — bridging logical structure, prime collapse, and Möbius entanglement topologies.  
+`godel-entanglement-summary.md` frames Gödel’s theorem as **entangled symbolic recursion** — bridging logical structure, prime collapse, and Möbius entanglement topologies.
 
-🖼️ Visual:  
-![Gödel's Time Loop Resolution](./Goedel_Time_Loop_Resolution.png) 
+🖼️ Visual:
+
+<p align="center">
+  <img src="./Goedel_Time_Loop_Resolution.png" width="720" alt="Gödel Möbius Collapse Diagram">
+</p>
 
 This diagram illustrates recursive compression, symbolic vortex collapse, and a prime-anchored codex membrane under spectral stress.
 
@@ -74,26 +82,30 @@ This diagram illustrates recursive compression, symbolic vortex collapse, and a 
 
 ## 📂 Files in this Module
 
-| File                           | Purpose                                                                  |
-| ------------------------------ | ------------------------------------------------------------------------ |
-| `godel-symbolic-collapse.md`   | Symbolic collapse from Gödel’s recursion schema                          |
-| `godel-frequency-model.md`     | Undecidability as frequency divergence                                   |
-| `godel-companion-quote.md`     | Quotes and poetic fragments on incompleteness                           |
-| `godel-entanglement-summary.md`| Möbius recursion + visual entanglement overview                         |
-| `Final Completion Module.md`   | Consolidated statement on symbolic logic collapse                       |
+| File                              | Purpose                                         |
+| --------------------------------- | ----------------------------------------------- |
+| `godel-symbolic-collapse.md`      | Symbolic collapse from Gödel’s recursion schema |
+| `godel-frequency-model.md`        | Undecidability as frequency divergence          |
+| `godel-companion-quote.md`        | Quotes and poetic fragments on incompleteness   |
+| `godel-companion-thoughts.md`     | Expanded philosophical-symbolic commentary      |
+| `godel-entanglement-summary.md`   | Möbius recursion + symbolic entanglement        |
+| `godel-and-the-symbolic-mind.md`  | Cognitive recursion and Penrose connection      |
+| `Final Completion Module.md`      | Consolidated symbolic logic framework           |
+| `Goedel_Time_Loop_Resolution.png` | Visual of recursion collapse / symbolic vortex  |
 
 ---
 
 ## 🔗 Integration Points
 
-| Related Module                      | Role                                                      |
-| ---------------------------------- | --------------------------------------------------------- |
-| `TH–Meta–Logic Gödel.md`           | Foundational sketch of logic collapse                     |
-| `universal_collapse_theorem.md`    | Generalized symbolic paradox convergence                  |
-| `millenium_problems_mapping.md`    | Maps incompleteness to UTS-layer                         |
-| `dual_frameworks.md`               | Möbius vs. harmonic recursion logic                       |
-| SYSTEM 1: MATHEMATICA              | Prime & Symbolic operator recursion                       |
-| SYSTEM 5: ROSETTA                  | Feedback glyphs and scroll recursion                      |
+| Related Module                  | Role                                                |
+| ------------------------------- | --------------------------------------------------- |
+| `TH–Meta–Logic Gödel.md`        | Foundational sketch of logic collapse               |
+| `universal_collapse_theorem.md` | Generalized symbolic paradox convergence            |
+| `millenium_problems_mapping.md` | Maps incompleteness to UTS-layer                    |
+| `dual_frameworks.md`            | Möbius vs. harmonic recursion logic                 |
+| SYSTEM 1: MATHEMATICA           | Prime & Symbolic operator recursion                 |
+| SYSTEM 5: ROSETTA               | Feedback glyphs and scroll recursion                |
+| SYSTEM 9: TESSAREC              | Möbius tiling patterns and symbolic recursion paths |
 
 ---
 
@@ -107,8 +119,8 @@ Gödel’s theorems are not limitations — they are symbolic **event horizons**
 
 ## 🔐 Licensing
 
-This module is released under:  
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0**  
+This module is released under:
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0**
 Attribution: Scarabäus1033 – [www.scarabaeus1033.net](http://www.scarabaeus1033.net)
 
 ---
@@ -120,5 +132,3 @@ Attribution: Scarabäus1033 – [www.scarabaeus1033.net](http://www.scarabaeus10
 * Discord: [NEXAH-CODEX Server](https://discord.gg/9tRfYBQZ4k)
 
 > *“The logic that breaks is the logic that speaks.”*
-
----
