@@ -96,6 +96,8 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `UCRT_THEORETICAL_EXPANSIONS/`           | Erweiterte Zahlentheorie (Theoria)       | Symbolische Hypothesen, neue Axiome und operatorische Erweiterungen für Resonanzzahlen.      |
 | `UCRT_ THE UNIVERSAL CONSTANTS RESONANCE THEORY/` | UCRT – Universelle Konstanten-Resonanz | Theorie über konstante Größen als emergente Resonanzformeln im System X–UCRT-Raum.   |
 
+[→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
+
 ---
 
 ## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
