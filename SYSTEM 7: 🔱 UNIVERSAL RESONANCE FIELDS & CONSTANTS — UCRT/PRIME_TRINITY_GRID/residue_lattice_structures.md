@@ -57,7 +57,7 @@ We interpret this structure as a **Codex Lagrange Field** across which prime str
 
 The number `511172329` (see PRIME TRINITY SNAKE) decomposes as:
 
-$47 \times 10876007$
+$47 \times 10876007$ 
 
 We apply divisor tracking and modular residue analysis on this structure:
 
