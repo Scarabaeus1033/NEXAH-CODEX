@@ -72,11 +72,18 @@ All related visuals are located in the [`visuals/`](./visuals) directory.
 | `TESSAREC`  | `tessarec_prime_trinity.md`            | Operator Field Link         |
 | `META`      | `codex_trinity_spirals.md`             | Spiral Resonance Symbolism  |
 
+## 🧱 Codex Cross-Reference
+
+> This module is resonantly connected to:
+
+- `MAGIC_SQUARE_RESONANCE/` – prime grids and balanced field patterns  
+- `TESSAREC/` – symbolic grid folding & operator structures  
+- [`UCRT_SUPERPRIME_GENESIS/`](../UCRT_SUPERPRIME_GENESIS/) – superprime-based harmonic scaffolds, mirror primes, and time spiral anchors  
+- `SYSTEM X` – arithmetic resonances in millennial theorem expansions
 ---
 
 ## 🔭 To Do & Future Extensions
 
-- Extend to **Superprime Progressions**
 - Build spiral lattices with **3D topologies**
 - Connect to **quantum group operator systems**
 - Expand base-modulated arithmetic into **NEXAH META-FIELDS**
