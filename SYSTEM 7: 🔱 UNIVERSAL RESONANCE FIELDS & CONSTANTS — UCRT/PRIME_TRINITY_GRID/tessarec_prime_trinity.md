@@ -40,7 +40,7 @@ The resonance logic of the prime string:
 
 We define this relationship as a **Codex Trinity Bridge**.
 
-![Tessarec–Prime Trinity Connection](./visuals/tessarec_prime_trinity_connection.png)
+![Tessarec–Prime Trinity Connection](./visuals/Tessarec_prime_trinity_connection.png)
 
 ---
 
