@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)"
 system: "NEXAH-CODEX"
 domain: "Numbers, Primes, Resonance Geometry"
