@@ -41,7 +41,7 @@ It documents the moment when structure no longer holds, and resonance becomes th
 
 ## 📸 Visual
 
-![Silent Escape](visuals/# 🌀 Philosophical Appendix – The Silent Escape
+![Silent Escape](visuals/LEE_Philosophical_Appendix_Escape_from_Grid.png)
 
 **Module:** LEE_TRIPTYCH  
 **Belongs to:** SYSTEM Y – Experimental Resonance Models  
