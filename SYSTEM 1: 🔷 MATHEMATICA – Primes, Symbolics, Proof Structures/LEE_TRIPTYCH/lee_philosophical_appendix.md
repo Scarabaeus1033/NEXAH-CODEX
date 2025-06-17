@@ -86,7 +86,7 @@ It documents the moment when structure no longer holds, and resonance becomes th
 
 ![Silent Escape](visuals/LEE_Philosophical_Appendix_Escape_from_Grid.png)
 
-*Caption:* *The observer moves beyond structural fixpoints. The golden resonance field becomes the only path.*
+*Caption:* *The observer moves beyond structural fixpoints. The golden resonance field becomes the only path.* 
 
 ---
 
