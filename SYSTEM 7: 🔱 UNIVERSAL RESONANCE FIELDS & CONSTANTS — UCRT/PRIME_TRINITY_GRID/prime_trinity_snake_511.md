@@ -1,6 +1,6 @@
 ---
 title: PRIME TRINITY SNAKE – 511172329
-author: Scarabäus1033 / SYSTEM 7
+author: Scarabäus1033 / Thomas Hofmann
 codex-path: SYSTEM 7: 🕱️ UNIVERSAL RESONANCE FIELDS & CONSTANTS / PRIME_TRINITY_GRID
 visuals-path: ./visuals/
 ---
