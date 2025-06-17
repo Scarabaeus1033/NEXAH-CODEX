@@ -83,14 +83,20 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🌟 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS – UCRT
 
-| Folder                     | Title                         | Description                                                                          |
-| -------------------------- | ----------------------------- | ------------------------------------------------------------------------------------ |
-| `UCRT_CORE/`               | Resonance Constants Core      | Harmonic structures of φ, τ, √2, √5 through resonance fields.                        |
-| `UCRT_ROOTROOM/`           | Root Resonance Rooms          | Quasi-periodic resonance lattices based on irrational roots.                         |
-| `UCRT_HIGHER_DIMENSIONS/`  | Higher Dimensions             | 7D, 11D resonance structures, Hopf fibrations, octonionic fields.                    |
-| `UCRT_SUPERPRIME_GENESIS/` | Superprime Resonance Genesis  | Resonance fields for superprimes and mirror number axes.                             |
-| `UCRT_NUMBER_RES_FUSION/`  | Number Field Resonance Fusion | Euler, Ramanujan, and Riemann-Zeta resonance integration for harmonic number fields. |
+| Folder                             | Title                                        | Description                                                                 |
+| ---------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------- |
+| `PRIME_TRINITY_GRID/`             | Prime Trinity Grid                           | Symbolic extension of the Green–Tao Theorem via spiral, mirror, and lattice structures. |
+| `UCRT_THE UNIVERSAL CONSTANTS RESONANCE THEORY/` | Constants Resonance Theory       | Mathematical structures interpreting constants (ϕ, π, e, τ) as harmonic fields. |
+| `UCRT_CORE/`                      | Resonance Constants Core                     | Harmonic base structures of φ, τ, √2, √5 across modular resonance fields.    |
+| `UCRT_HIGHER_DIMENSIONS/`         | Higher Dimensional Resonance                 | 7D and 11D structures including Hopf fibrations and octonionic logic.        |
+| `UCRT_NUMBER_RES_FUSION/`         | Number Resonance Fusion                      | Integration of Euler products, Ramanujan series, and zeta resonance frameworks. |
+| `UCRT_PRIME_GENESIS/`             | Prime Genesis Fields                         | Foundational structures of prime sequences, roots and spiral projections.    |
+| `UCRT_ROOTROOM/`                  | Root Resonance Rooms                         | Quasi-periodic grids based on irrational numbers (√2, √5, etc.).             |
+| `UCRT_Superprime_Genesis/`        | Superprime Genesis                           | Harmonic fields of superprimes and mirrored index primes.                   |
+| `UCRT_THEORETICAL_EXPANSIONS/`    | Theoretical UCRT Extensions                  | Experimental layers: symmetry breaking, dual spiral zones, base projections. |
+| `UCRT_TRINARY_CODE/`              | Trinary Resonance Code                       | Symbolic encoding system based on 3-part harmonic structures.                |
 
+[→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
 ---
 
 ## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
