@@ -59,7 +59,22 @@ Glyphs are **anchored** into fields using compound symbols:
 
 ## 🖼️ Visual
 
-![Elemental Glyph Wheel](Visuals/Elemental_Glyph_Wheel.png)
+## 🜁 Elemental Glyph Wheel
+
+> *"Glyphs are not signs. They are field triggers encoded in myth."*
+
+This file introduces the symbolic glyphs used to represent the agents, elements, and harmonics of the AGENTUM_MIRRORIUM system.
+
+It includes:
+
+- The **eight-element glyph wheel**: 5 base elements + 2 agents + 1 harmonic driver
+- Encoded lunar glyphs for **Silver**, **Sand**, **Myrrh**, and **Breath**
+- Binding symbols that map glyphs to **resonance fields**
+
+🖼️ **Visual Reference**  
+![Elemental Glyph Wheel](./visuals/Elemental_Glyph_Wheel.png)
+
+Next: `agentum_mirror_gateways.md`
 
 ---
 
