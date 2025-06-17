@@ -26,95 +26,45 @@ Here – the shell, the weave, the cycle that envelops all.
 
 ---
 
-## Module Overview
+## Confirmed Modules (Phase I)
 
 ### 1. TEHTHY – The Secret Thread of the Moons
 
 > Origins and evolution of lunar forces in the Codex – from Tethys to Eris
 
-* Hidden moon names, resonance threads, principles of water and ice
-* 13-cycle structures, feminine mythic nodes
-* Spiral orbits and symbolic path geometries
+* Paradigm shift: resonance-based moon genesis
+* Tethys, IO, Titan, Chiron, Arrokoth, Pluto as coded nodal fields
+* Crater symmetry, neutrino imprints, dual-eye geometry
 
----
-
-### 2. ERIS & THE APPLE – The Dissonance of Justice
-
-> The golden apple, Paris, and the judgement of the goddesses
-
-* Feminine rage, cosmic imbalances
-* The apple as a resonance trigger
-* Transition toward duality (SYSTEM MÖBIUS)
-
----
-
-### 3. THE WOMEN’S LOOM – Patterns of the World
-
-> The Moirae, Nornen and the thread of life
-
-* Karmic knots, fractal structures
-* Fabric = quantum field = topological encoding
-* Visual Matrix as tool
-
----
-
-### 4. MARY & THE OBSERVER – The Christ Field
-
-> Divine birth as manifestation through pure observation
-
-* LDV formula: Observer → Field → Manifestation
-* Christ as emergent field resonance
-* Reference to non-local physics
-
----
-
-### 5. MOON FORM & CYCLE BODY – The 8 and the Body
-
-> Cyclical geometries of feminine force
-
-* Uterus shape, lunar rhythm, crescent modulation
-* Venus flower, 8-body architecture
-* Embodiment as Codex geometry
-
----
-
-### 6. SCARAB SYMPHONY OF THE MOONS – Hearing the Unseen
-
-> Moon phases as sonic bodies and audio fields
-
-* WAV mantras, cyclic modulation
-* Linked to “ASCENSION GRID”, CMBY, SYSTEM X
-* Lunar Audio API: Frequency transformation
-
----
-
-### 7. THE LUNAR BREATH – Breath of the Earth Woman
-
-> Biophysics of breath, uterine rhythms, mycelial networks
-
-* Breath cycles = information flow
-* Resonance field of the feminine biosphere
-* Interface with URF- & Terra modules
-
----
-
-### 8. NEUTRINO CABLES AND FINGERFIELDS – Observer Mechanics of the Hand
+### 2. NEUTRINO CABLES AND FINGERFIELDS – Observer Mechanics of the Hand
 
 > Lunar signal routing via fingers, neutrino streams, and planetary node resonances
 
 * IO, Titan, Planet X = finger logic and modulation apertures
 * Richat, Odysseus, Moon Crater fields = eye geometry as shadow receivers
 * Blockflöte as modulation metaphor, DJ loop field = lunar rhythmic circuit
-* Includes `observer_eye_geometry.md`, `neutrino_finger_model.md`, `lunar_symmetry_and_blockflute.md`, visuals & resonance logic
+* Includes `observer_eye_geometry.md`, `neutrino_finger_model.md`, `lunar_symmetry_and_blockflute.md`
+
+### 3. SILVER MOON RESONANCE – Lunar Interface to the Silver Rain System
+
+> Breathfield logic and Silver phase tracking
+
+* Amaben flip mirror, Möbius inversion and lunar rhythm
+* Moon as Silver memory conductor – inhale logic & breath symmetry
+* Connection to SYSTEM X and `NEXA_SILVER_RAIN`
 
 ---
 
-## Expandable Themes
+## Expandable Research Areas (Phase II+)
 
-* **LUNAR CHAMBERS**: Architecture of introspection
-* **GODDESS FIELDS**: Archetypes as frequency landscapes
-* **THE RED MOON**: Shadow cycles, Mars resonance, blood
-* **MOTHER OF TIME**: Chrono-feminine structure beyond linearity
+* **ERIS & THE APPLE**: Feminine rage and field disruption logic
+* **THE WOMEN’S LOOM**: Threadcraft, fate cycles, karmic modulation
+* **MARY & THE OBSERVER**: Emergence through pure presence
+* **MOON FORM & CYCLE BODY**: Lunar geometry and anatomical fields
+* **SCARAB SYMPHONY OF THE MOONS**: Audio logic and WAV codification
+* **THE LUNAR BREATH**: Mycelial flow and breath signal topology
+
+These areas are structurally pre-mapped and conceptually active but await full visual or mathematical anchoring.
 
 ---
 
@@ -143,5 +93,20 @@ Observer → Field → Manifestation
 
 This formula describes the lunar resonance principle:
 Not through action, but through pure presence, reality emerges.
+
+---
+
+## 📢 Paradigm Shift
+
+The Codex now offers a **new lunar cosmology**:
+
+* Moons are not accidents – they are **resonant organs** within the solar system
+* Craters, valleys, eyes: **shadows of neutrino flow, not collisions**
+* The Moon is not a passive body – it is a **field switchboard**, a memory chamber, a breath modulator
+* IO, Titan, Tethys and Eris are **signal anchors**, not debris
+* Our **observer symmetry** is no coincidence – Earth is a lens
+
+> We do not orbit the Sun.
+> We resonate with it.
 
 ---
