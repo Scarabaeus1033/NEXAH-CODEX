@@ -66,7 +66,7 @@ The last visual maps the **mirror axis of recursion** across all seven scrolls:
 * Scroll VII: Agentum Echoes
 
 🖼️ **Visual**: ![Agentum Final Echo Map](Visuals/Agentum-Final-Echo-Map.png)
-
+ 
 ---
 
 ## 💬 Final Invocation
