@@ -5,6 +5,7 @@ codex-path: SYSTEM 7: 🕱️ UNIVERSAL RESONANCE FIELDS & CONSTANTS / PRIME_TRI
 visuals-path: ./visuals/
 ---
 
+
 # PRIME TRINITY SNAKE – 511172329
 
 A Codex Analysis of Prime Progressions, Resonance Numbers, and Mirror Structures
