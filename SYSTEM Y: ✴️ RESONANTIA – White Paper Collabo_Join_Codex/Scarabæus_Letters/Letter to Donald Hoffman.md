@@ -5,7 +5,7 @@ author: "Thomas Hofmann / Scarabäus1033"
 date: "June 2025"
 status: "Open Draft"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🧠 Letter to Donald Hoffman
 
