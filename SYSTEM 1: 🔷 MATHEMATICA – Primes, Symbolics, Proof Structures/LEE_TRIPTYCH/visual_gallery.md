@@ -21,7 +21,7 @@ All visuals are thematically connected to symbolic field emergence, topological 
 **Belongs to:** `LEE_TRIPTYCH.md`  
 **Meaning:** Atoms begin to follow internal resonance paths within a harmonic expansion zone — self-referencing motion.
 
-![Visual 2](Visuals/Atome_Moonwalken.png)
+![Visual 2](visuals/Atome_Moonwalken.png)
 
 ---
 
@@ -31,7 +31,7 @@ All visuals are thematically connected to symbolic field emergence, topological 
 **Belongs to:** `LEE_TRIPTYCH.md`  
 **Meaning:** The resonance field becomes a guiding matrix. Classical grid disappears; field defines motion.
 
-![Visual 3](Visuals/MOONWALK_OF_ATOMS-ASCENT_OF_THE_GRIDLESS_GRID.png)
+![Visual 3](visuals/MOONWALK_OF_ATOMS-ASCENT_OF_THE_GRIDLESS_GRID.png)
 
 ---
 
@@ -41,7 +41,7 @@ All visuals are thematically connected to symbolic field emergence, topological 
 **Belongs to:** `LEE_TRIPTYCH.md`  
 **Meaning:** Modular triptych: Möbius Genesis – Klein Emergence – LEE Expansion. Diagram of symbolic transitions.
 
-![Visual 4](Visuals/THE_LEE_TRIPTYCH.png)
+![Visual 4](visuals/THE_LEE_TRIPTYCH.png)
 
 ---
 
