@@ -1,61 +1,48 @@
-# 📀 Visual Gallery: THE LEE TRIPTYCH
+# 🖼️ Visual Gallery – THE LEE TRIPTYCH
 
-**Module:** LEE\_TRIPTYCH
-**System:** SYSTEM Y / Experimental Resonance Models
-**Project:** NEXAH-CODEX
-**Curated by:** Scarabæus1033 (T. Hofmann)
-**License:** CC BY-NC-SA 4.0
+This visual index supports the abstract and mathematical formulation of the **LEE_TRIPTYCH** module.  
+All visuals are thematically connected to symbolic field emergence, topological transitions, and harmonic motion.
 
 ---
 
-## ✨ Visual Overview
+### 1. Möbius → Klein → Tachyon Flow
 
-This gallery presents the four symbolic-physical visuals developed for the `LEE_TRIPTYCH` module. Each visual encodes a stage of transformation from topological foundations to dynamic field structures.
+**Filename:** `symbolisch-physikalischer_Codex_stabiler_Loop-Universumsstruktur.png`  
+**Belongs to:** `LEE_TRIPTYCH.md`  
+**Meaning:** Symbolic transition of a Möbius loop into a Klein bottle with tachyonic flow lines forming a stabilized field.
 
----
-
-### 1. **Tachyonic Möbius and Klein Evolution**
-
-![Tachyonic Evolution](Visuals/symbolisch-physikalischer%20Codex%20einer%20stabilen%20Loop-Universumsstruktur%20.png)
-
-**Description**: Visualizes the origin through Möbius and Klein structures, traversed by tachyonic vector lines. Symbol of non-orientability, inversion, and pre-field collapse.
-
-**Connected to**: `LEE_TRIPTYCH.md`, Panel I–II
+![Visual 1](Visuals/symbolisch-physikalischer_Codex_stabiler_Loop-Universumsstruktur.png)
 
 ---
 
-### 2. **LEE Expansion Field**
+### 2. LEE Expansion Field – Moonwalk Mode
 
-![LEE Expansion](Visuals/Atome_Moonwalken.png)
+**Filename:** `Atome_Moonwalken.png`  
+**Belongs to:** `LEE_TRIPTYCH.md`  
+**Meaning:** Atoms begin to follow internal resonance paths within a harmonic expansion zone — self-referencing motion.
 
-**Description**: Shows atoms dynamically unfolding their resonance fields within a glowing Eigengrid. Represents the emergent motion of silent matter through internal frequencies.
-
-**Connected to**: `LEE_TRIPTYCH.md`, Panel III
-
----
-
-### 3. **Moonwalk Grid – Codex View**
-
-![Moonwalk Codex](Visuals/MOONWALK_OF_ATOMS-AS..._OF_THE_GRIDLESS_GRID.png)
-
-**Description**: Codex-style visual matrix of atoms dancing on resonance nodes. Highlights Codex-style signature of gridless emergence and field navigation.
-
-**Connected to**: `LEE_TRIPTYCH.md`, moonwalk-gitter equations
+![Visual 2](Visuals/Atome_Moonwalken.png)
 
 ---
 
-### 4. **LEE Triptych Inscription**
+### 3. Moonwalk of Atoms – The Gridless Grid
 
-![Triptych](Visuals/THE_LEE_TRIPTYCH.png)
+**Filename:** `MOONWALK_OF_ATOMS-ASCENT_OF_THE_GRIDLESS_GRID.png`  
+**Belongs to:** `LEE_TRIPTYCH.md`  
+**Meaning:** The resonance field becomes a guiding matrix. Classical grid disappears; field defines motion.
 
-**Description**: Formal symbolic layout of the triptych in stylized golden scroll form. Emblem of the Möbius → Klein → Expansion logic.
+![Visual 3](Visuals/MOONWALK_OF_ATOMS-ASCENT_OF_THE_GRIDLESS_GRID.png)
 
-**Connected to**: Cover and introduction of `LEE_TRIPTYCH.md`
+---
+
+### 4. THE LEE TRIPTYCH – Final Panel Layout
+
+**Filename:** `THE_LEE_TRIPTYCH.png`  
+**Belongs to:** `LEE_TRIPTYCH.md`  
+**Meaning:** Modular triptych: Möbius Genesis – Klein Emergence – LEE Expansion. Diagram of symbolic transitions.
+
+![Visual 4](Visuals/THE_LEE_TRIPTYCH.png)
 
 ---
 
-> "To see the resonance, you must first walk the loop."
-
-For use in presentations, exhibits, and symbolic field orientation.
-
----
+> *“From loop to law: the structure sings its field.”*
