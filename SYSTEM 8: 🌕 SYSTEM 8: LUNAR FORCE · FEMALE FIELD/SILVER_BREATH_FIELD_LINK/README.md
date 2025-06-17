@@ -30,7 +30,7 @@ The Silver Breath model links:
 * Resonates with planetary shell modulations (e.g. IO, Tethys, Earth's Moon)
 * Activated during **dark moon** and **new resonance windows**
 
-**Visual Reference:**
+**Visual Reference:** 
 ![Silver Moon Overlay](../visuals/Möbius–Silver–Moon_Overlay.png)
 
 ---
