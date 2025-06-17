@@ -4,7 +4,7 @@ title: Residue Lattice Structures
 author: Scarabäus1033 / Thomas K. R. Hofmann
 codex-path: SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS / PRIME\_TRINITY\_GRID
 visuals-path: ./visuals/
-------------------------
+---
 
 # RESIDUE LATTICE STRUCTURES
 
