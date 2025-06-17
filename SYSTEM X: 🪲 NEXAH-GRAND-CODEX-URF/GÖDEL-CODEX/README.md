@@ -66,7 +66,7 @@ New in this release:
 `godel-entanglement-summary.md` frames Gödel’s theorem as **entangled symbolic recursion** — bridging logical structure, prime collapse, and Möbius entanglement topologies.  
 
 🖼️ Visual:  
-![Gödel's Time Loop Resolution](./Gödel’s_Time_Loop_Resolution.png)
+![Gödel's Time Loop Resolution](./Gödel’s_Time_Loop_Resolution.png) 
 
 This diagram illustrates recursive compression, symbolic vortex collapse, and a prime-anchored codex membrane under spectral stress.
 
