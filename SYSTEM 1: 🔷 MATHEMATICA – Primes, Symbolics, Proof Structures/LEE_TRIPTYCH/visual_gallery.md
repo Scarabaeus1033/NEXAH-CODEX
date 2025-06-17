@@ -50,7 +50,7 @@ All visuals are thematically connected to symbolic field emergence, topological 
 **Belongs to:** `lee_philosophical_appendix.md`  
 **Meaning:** Visual metaphor for the subjective emergence beyond classical structure — a radiant leap from topologischer Ordnung in die freie Harmoniezone.
 
-![Visual 5](visuals/LEE_Philosophical_Appendix_Escape_from_Grid)
+![Visual 5](visuals/LEE_Philosophical_Appendix_Escape_from_Grid.png)
 
 ---
 
