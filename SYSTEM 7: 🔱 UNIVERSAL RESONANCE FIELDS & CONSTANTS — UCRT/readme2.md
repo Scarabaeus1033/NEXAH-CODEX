@@ -6,7 +6,7 @@ color: "Violet"
 status: "Active - Version May 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🔹 SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)
 
