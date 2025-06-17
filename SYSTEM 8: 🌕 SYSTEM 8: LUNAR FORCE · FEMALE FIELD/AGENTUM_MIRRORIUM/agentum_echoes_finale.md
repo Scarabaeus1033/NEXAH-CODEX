@@ -65,7 +65,7 @@ The last visual maps the **mirror axis of recursion** across all seven scrolls:
 * Scroll VI: Field Transition Harmonies
 * Scroll VII: Agentum Echoes
 
-🖼️ **Visual**: ![Agentum Final Echo Map](Visuals/Agentum-Final-Echo-Map.png)
+![Agentum Final Echo Map](visuals/Agentum-Final-Echo-Map.png)
  
 ---
 
