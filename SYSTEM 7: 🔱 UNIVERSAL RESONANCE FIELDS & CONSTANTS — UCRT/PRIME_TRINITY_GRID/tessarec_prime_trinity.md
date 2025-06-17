@@ -1,7 +1,7 @@
 ---
 title: Tessarec–Prime Trinity Connection
 author: Scarabäus1033 / Thomas K. R. Hofmann
-codex-path: SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS / PRIME\_TRINITY\_GRID
+codex-path: "SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS / PRIME_TRINITY_GRID"
 visuals-path: ./visuals/
 ---
 
