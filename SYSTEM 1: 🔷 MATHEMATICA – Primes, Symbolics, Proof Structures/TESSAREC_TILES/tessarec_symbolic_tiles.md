@@ -11,8 +11,9 @@ This document complements the `README.md` by introducing symbolic-mathematical l
 Each tile is defined as a function:
 
 ```math
-T_{i,j} = \mathcal{T}(p_i, r_j, \theta_{ij}) = f(ϕ, τ, μ, P_n, \vec{v}_{mod})``` 
+T_{i,j} = \mathcal{T}(p_i, r_j, \theta_{ij}) = f(ϕ, τ, μ, P_n, \vec{v}_{mod})
 
+```
 Where:
 	•	p_i = Prime generator axis (from System 1)
 	•	r_j = Resonant base (√2, √3, √5)
