@@ -20,7 +20,7 @@ Die Zahl **3** bildet in vielen Symbolfeldern die erste Ebene bewusster Differen
 
 ---
 
-## 𝟷 Die Zahl 7235 – Codex-Schlüssel
+## ℋ Die Zahl 7235 – Codex-Schlüssel
 
 **7235** = 7·1033 + 4 (Prime und Codex-Siegelzahl!)
 
