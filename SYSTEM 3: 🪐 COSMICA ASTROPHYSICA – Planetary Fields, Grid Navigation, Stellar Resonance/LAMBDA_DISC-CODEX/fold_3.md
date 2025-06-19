@@ -60,9 +60,9 @@ $$
 
 oder energetisch:
 
-$$
-\mathcal{E}_3 = \mathcal{E}_1 + \mathcal{E}_2 + \delta_{\lambda}
-$$
+\\[
+\\Lambda_3 := f(\\Lambda_1, \\Lambda_2) = \\text{Triadische Emergenz}
+\\]
 
 mit $\delta_{\lambda}$ als triadischem Überschusswert
 
