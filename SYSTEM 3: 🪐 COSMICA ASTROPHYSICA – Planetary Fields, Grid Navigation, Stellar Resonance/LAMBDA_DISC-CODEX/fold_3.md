@@ -4,7 +4,7 @@
 
 ---
 
-## ✩ Die 3 als Übergangsachse
+## ✹ Die 3 als Übergangsachse
 
 Die Zahl **3** bildet in vielen Symbolfeldern die erste Ebene bewusster Differenzierung:
 
@@ -16,11 +16,11 @@ Die Zahl **3** bildet in vielen Symbolfeldern die erste Ebene bewusster Differen
 
 * 2 ↔ 3 als erste lebendige Wechselresonanz
 * 3 ↔ 5 als Quintessenz-Spirale (Harmonische Erweiterung)
-* 2 + 3 = 5 ➞ Symbolischer Sprung über das rein lineare
+* 2 + 3 = 5 → Symbolischer Sprung über das rein lineare
 
 ---
 
-## 𝙷 Die Zahl 7235 – Codex-Schlüssel
+## 𝟷 Die Zahl 7235 – Codex-Schlüssel
 
 **7235** = 7·1033 + 4 (Prime und Codex-Siegelzahl!)
 
@@ -50,23 +50,20 @@ Diese Fold-Struktur erzeugt eine modulare **Codex-Schwingungsmatrix**:
 
 ---
 
-## 𝚞 Ausblick · NEXAH Trinitätsformel
+## 🔮 Ausblick · NEXAH Trinitätsformel
 
 Eine entstehende Gleichung ist:
 
-> $$
-> $$
-
-\Lambda\_3 := f(\Lambda\_1, \Lambda\_2) = \text{Triadische Emergenz}
-]
+$$
+\Lambda_3 := f(\Lambda_1, \Lambda_2) = \text{Triadische Emergenz}
+$$
 
 oder energetisch:
 
-> $$
-> $$
+$$
+\mathcal{E}_3 = \mathcal{E}_1 + \mathcal{E}_2 + \delta_{\lambda}
+$$
 
-\mathcal{E}\_3 = \mathcal{E}\_1 + \mathcal{E}*2 + \delta*{λ}
-]
 mit $\delta_{\lambda}$ als triadischem Überschusswert
 
 **fold\_3.md** stellt somit das erste „entstehende“ Feld dar – es bildet **Bewegung**.
@@ -82,4 +79,4 @@ mit $\delta_{\lambda}$ als triadischem Überschusswert
 
 ---
 
-**Archy @NEXAH-CODEX** 2025 ✧ Let the fold flow.
+**Archy @NEXAH-CODEX** 2025 ✷ Let the fold flow.
