@@ -1,14 +1,12 @@
----
+# Fold 29 – Lunar Whobble Spiral
 
-# 🌀 Fold 29 – Lunar Whobble Spiral
-
-**Faltungswert Λ₂₉:**
+**Faltungswert $\Lambda_{29}$:**
 
 $$
-\Lambda_{29} := \frac{\Phi^3}{\pi^2} = \theta \epsilon \approx 0.429
+\Lambda_{29} := \frac{\Phi^3}{\pi^2} = \theta \cdot \varepsilon \approx 0.429
 $$
 
-Dieser Faltungswert definiert das sogenannte **Z6-Mirror-Feld** – einen Punkt der Resonanzumkehr und Übergangszone von solaren zu lunaren Systemen. Die Spiralstruktur in Fold\_29 markiert den Übergang von Linearität zu Nichtlinearität, von Kalenderzeit zu Resonanzzeit.
+Dieser Faltungswert definiert das sogenannte **Z6-Mirror-Feld** – einen Punkt der Resonanzumkehr und Übergangszone zwischen solarer Ordnung und lunarem Drift.
 
 ---
 
@@ -17,46 +15,45 @@ Dieser Faltungswert definiert das sogenannte **Z6-Mirror-Feld** – einen Punkt 
 | Ausdruck                                  | Bedeutung                                    |
 | ----------------------------------------- | -------------------------------------------- |
 | $\frac{\Phi^3}{\pi^2} = \frac{429}{1000}$ | *Golden Verses* – harmonische Normalisierung |
-| $\frac{\Phi^3}{\pi^2} = \frac{29.4}{69}$  | *Solar-Lunar Ratio* – Basis der Mondzyklen   |
-| $\frac{294}{29.5} = \theta$               | *Herzfrequenz / Lunare Zeitmatrix*           |
-| $Z_6 := 29.2 + \frac{1}{1336}$            | *Leap-Year-Faltung – Kalender-Versatz*       |
+| $\frac{\Phi^3}{\pi^2} = \frac{29.4}{69}$  | *Solar–Lunar Ratio* – Basis der Mondzyklen   |
+| $\frac{294}{29.5} = \theta$               | Zellularer Monatsimpuls im Resonanzfeld      |
 
 ---
 
-## Visuale & Referenzdaten
+## Z6-Spiegelpunkt: Zeit–Resonanz–Feld
 
-* 📐 *Metallische Spiralzahlen*: 59, 115312, 2930, 429 → siehe **Metal Vein Spiral**
-* 🌑 *Lilith-Knoten* & Z6-Butterflystruktur
-* 🌀 *Faltung 29 aktiviert* Übergänge in System 8 (LUNAR FORCE)
-* 🧲 *Spiegelachsen*: 2/29, 3/23, 5/59 → **Fold\_Reflection\_Gate**
+Die Z6-Spiegelfrequenz $\theta \cdot \varepsilon \approx 0.429$ markiert:
+
+* den **Leap-Year-Shift** in lunaren Rhythmen
+* eine **Übergangszone** zwischen Gleichlauf und Wobble
+* die **Interferenz von Herzstruktur (Zither)** und Kalendersystem
+
+**Geometrische Komponenten:**
+
+| Zahl   | Bedeutung                            |
+| ------ | ------------------------------------ |
+| 36912  | Tesla-Quadratur                      |
+| 429    | Katalanischer Übergang               |
+| 2930   | Zeitbalken des Lunarkörpers          |
+| 115312 | metallischer Basiswert               |
+| 59     | Schattenzahl – Unterwelle des Mondes |
 
 ---
 
-## Codex-Anbindung
+## Verbindung zu Fold 19
+
+Fold 29 steht in direkter Resonanz zu **Fold 19 – Mirror Nullpoint**:
+
+* $1929$: Börsencrash als Symbol der Feldkollapslinie
+* $19 + 10 = 29$: Übergang zwischen **statischer Ordnung** (19) und **zyklischer Instabilität** (29)
+* Fold 29 aktiviert die Spiralachse zur 59 – siehe `metal vein`
+
+---
+
+## Verweise
 
 * Modul: `LAMBDA_DISC-CODEX`
 * System: `SYSTEM 3: COSMICA ASTROPHYSICA`
-* Verknüpfung zu: `SYSTEM 8: LUNAR FORCE`, `SYSTEM 9: TESSAREC`, `SYSTEM X`
-* Siegelformel:
+* Verlinkt: `fold_19.md`, `resonance_folding_equation.md`, `lambda_disc_core.md`
 
-$$
-\Theta \epsilon = \frac{\Phi^3}{\pi^2} \approx 0.429
-$$
-
-Diese Gleichung ist mehr als Zahl: Sie ist die **Zitherlinie der Zeitverschiebung**, die harmonisch durch Lilith, Leap-Year, Actinium-Thorium-Spiralen und das 3:2 Solarlunarverhältnis oszilliert.
-
-> ✴︎ *“Fold 29 bends the calendars around lunar echoes. The Codex pulses at 0.429.”*
-
----
-
-## Nächste Schritte
-
-* [ ] Visual-Verlinkung in `visual_gallery.md`
-* [ ] CSV-Integration für `metal_vein_data.csv`
-* [ ] Crossref zu `fold_2.md`, `fold_23.md`, `lilith_field_codex.md`
-
----
-
-**Archy @NEXAH-CODEX 2025** 𓂀 *Let the moonfold flow.*
-
----
+> ✴︎ *"Die Fold 29 Resonanz beschreibt das Schlingern der Zeit um die verborgene Mitte der Ordnung."*
