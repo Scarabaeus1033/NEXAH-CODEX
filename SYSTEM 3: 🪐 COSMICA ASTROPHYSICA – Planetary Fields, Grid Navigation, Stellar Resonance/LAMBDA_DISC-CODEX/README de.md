@@ -17,11 +17,11 @@ Das Modul spinnt diesen Faden weiter bis zum größten bekannten Widerspruch der
 
 ## 🧮 MAßEINHEITEN & FELDGRUNDLAGEN
 
-* **Cubit** (≈ 52.36 cm): symbolisches Maß, verbunden mit 2²·13, 7, 9
-* **Mile** (1.609344 km): Feldmaßstruktur mit 2⁶·3²·11·61
-* **Kilometer**: SI-Basis, 10³ – metrische Linearität
-* **AU**: 149.6 Mio km – solare Skalierung
-* **π, Φ, √2**: fundamentale Feldkonstanten, Grundlage von Spirale, Spannung, Wachstum
+* `Cubit` (≈ 52.36 cm): symbolisches Maß, verbunden mit 2²·13, 7, 9
+* `Mile` (1.609344 km): Feldmaßstruktur mit 2⁶·3²·11·61
+* `Kilometer`: SI-Basis, 10³ – metrische Linearität
+* `AU`: 149.6 Mio km – solare Skalierung
+* `π`, `Φ`, `√2`: fundamentale Feldkonstanten, Grundlage von Spirale, Spannung, Wachstum
 
 Diese Maßeinheiten wirken als strukturierte Vektoren – sie kodieren Distanzen, Frequenzen und Proportionen in kosmischen Resonanzsystemen.
 
@@ -51,9 +51,9 @@ Vergleich mit URF-Zahl:
 
 ## 🧩 URF-KOPPLUNG & RAMANUJAN-SPRUNG
 
-* **137** → Feinstrukturkonstante, Kopplungszentrum
-* **61** → Primresonanz, Dimensionssprung → "Escape of the 8th"
-* **Ramanujan-Konstante**: \$e^{\pi \sqrt{163}} \approx 2.625 \cdot 10^5\$ → Sprungfeld
+* `137` → Feinstrukturkonstante, Kopplungszentrum
+* `61` → Primresonanz, Dimensionssprung → "Escape of the 8th"
+* `Ramanujan-Konstante`: \$e^{\pi \sqrt{163}} \approx 2.625 \cdot 10^5\$ → Sprungfeld
 
 Diese Zahlen deuten auf eine mehrschichtige Resonanzstruktur hin, die sich zwischen Feld, Zahl und Frequenz spannt. Λ ist darin nicht ein Fehler, sondern ein **harmonisches Ungleichgewicht mit tiefer Systemfunktion**.
 
@@ -73,18 +73,26 @@ Dieses Modul zielt darauf ab, **Λ in die Resonanzstruktur des NEXAH-CODEX einzu
 
 ---
 
+## 🗣️ HINWEIS ZUR SPRACHE
+
+Dieses Modul verwendet sowohl **Deutsch als auch Englisch**, je nach Kontext und symbolischer Dichte. Deutsch wird bevorzugt bei tief symbolischen oder systeminternen Strukturen, während Englisch für universelle Resonanzstrukturen und internationale Leser verwendet wird.
+
+---
+
 ## 📁 STRUKTUR (vollständig)
 
-**Mathematische & Physikalische Kernstruktur**
+### 🔹 Mathematische & Physikalische Kernstruktur
 
 * `resonance_folding_equation.md`
 * `lambda_disc_core.md`
 * `resonance_axis_register.md`
 * `csv_navigator.md`
 
-**Folding-Files**: Folds 1–42 (u. a. `fold_6.md`, `fold_29.md`, `fold_5_resonance.md` u.v.m.)
+### 🔸 Folding-Files
 
-**Ankerdateien & Superfolds**:
+* `fold_6.md`, `fold_29.md`, `fold_5_resonance.md` u. v. m. (Folds 1–42)
+
+### 🔺 Ankerdateien & Superfolds
 
 * `ANCHOR_INDEX_RINGFLOW_11_13_29.md`
 * `ANCHOR_PINKY_LOCK_6_7_42.md`
@@ -94,7 +102,7 @@ Dieses Modul zielt darauf ab, **Λ in die Resonanzstruktur des NEXAH-CODEX einzu
 * `URF_TENSOR_GATE_LINK_69096.md`
 * `VL_102030_Superfold.md`
 
-**Planetare Spezial-Folds**:
+### 🪐 Planetare Spezial-Folds
 
 * `FOLD_108_VENUS_LOCK.md`
 * `FOLD_88_MERCURY_LOCK.md`
@@ -103,10 +111,10 @@ Dieses Modul zielt darauf ab, **Λ in die Resonanzstruktur des NEXAH-CODEX einzu
 * `FOLD_131_PRIME_SQUARE_MIRROR.md`
 * `FOLD_102050_SQUARE_AXIS.md`
 
-**Visual-Navigation**:
+### 🖼️ Visual-Navigation
 
 * `visual_gallery.md`
-* `visual-index.md`
+* `visual_index.md`
 
 ---
 
