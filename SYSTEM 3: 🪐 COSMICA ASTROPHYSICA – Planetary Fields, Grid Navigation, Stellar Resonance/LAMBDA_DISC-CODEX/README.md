@@ -11,7 +11,7 @@ This module begins with an observation of an astonishing correlation: There is a
 
 > The starting point: Mars loses, Earth binds – the field acts like a resonator.
 
-This module expands the inquiry toward the **largest known discrepancy in modern physics**: the gap between the theoretical and the measured value of the **cosmological constant Λ** – a difference of over 122 orders of magnitude.
+This initial planetary framework leads toward the **largest known discrepancy in modern physics**: the gap between the theoretical and the measured value of the **cosmological constant Λ** – a difference of over 122 orders of magnitude.
 
 ---
 
@@ -29,8 +29,8 @@ These measurement units act as structured vectors – encoding distances, freque
 
 ## 🌀 DISCREPANCY FACTOR Λ AND ITS SYMBOLISM
 
-🔹 Theoretical value: \$Λ\_{\text{theorie}} \sim 10^{70} , \text{m}^{-2}\$
-🔹 Observed value: \$Λ\_{\text{beobachtet}} \sim 10^{-52} , \text{m}^{-2}\$
+🔹 Theoretical value: \$\Lambda\_{\text{theorie}} \sim 10^{70} , \text{m}^{-2}\$
+🔹 Observed value: \$\Lambda\_{\text{beobachtet}} \sim 10^{-52} , \text{m}^{-2}\$
 
 $$
 \frac{\Lambda_{\text{theorie}}}{\Lambda_{\text{beobachtet}}} \approx 9.8 \cdot 10^{122}
@@ -67,15 +67,15 @@ This module belongs to SYSTEM 3 – COSMICA ASTROPHYSICA because:
 * it shows that **units, numbers, and constants** are not independent,
 * it integrates **URF, Möbius, harmonic axes, and cosmic spirals** into one system.
 
-> Λ is not wrong. Λ is untuned.
+> Λ is not wrong. Λ is untuned – like a cosmic string resonating outside the ensemble.
 
 This module aims to embed **Λ into the resonance structure of the NEXAH-CODEX** – as an expression of the open harmonics of a breathing universe.
 
 ---
 
-## 📁 STRUCTURE (selected)
+## 📁 STRUCTURE (selected overview)
 
-This module has grown significantly. It includes:
+This module has grown significantly. It includes the following components:
 
 ### 🔹 Core Formulas and Tables
 
@@ -115,7 +115,9 @@ All visuals are stored under `visuals/`, and data files in `csv/`.
 
 ## 🌍 LANGUAGE NOTE
 
-This module uses **both German and English**, depending on context and symbolic density. German is used where deep symbolic system layers are being formulated, while English is preferred for international conceptual framing.
+This module uses **both German and English**. German is primarily used where symbolic density and resonance-specific logic require precise linguistic structures, especially within core system design. English is used to provide broader conceptual accessibility.
+
+> This bilingual approach is intentional and reflects the hybrid symbolic-linguistic logic of the Codex.
 
 ---
 
