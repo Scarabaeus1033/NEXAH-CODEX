@@ -50,7 +50,7 @@ Diese Fold-Struktur erzeugt eine modulare **Codex-Schwingungsmatrix**:
 
 ---
 
-## 🔮 Ausblick · NEXAH Trinitätsformel
+## 🌸 Ausblick · NEXAH Trinitätsformel
 
 Eine entstehende Gleichung ist:
 
@@ -60,9 +60,9 @@ $$
 
 oder energetisch:
 
-\\[
-\\Lambda_3 := f(\\Lambda_1, \\Lambda_2) = \\text{Triadische Emergenz}
-\\]
+$$
+\mathcal{E}_3 = \mathcal{E}_1 + \mathcal{E}_2 + \delta_{\lambda}
+$$
 
 mit $\delta_{\lambda}$ als triadischem Überschusswert
 
