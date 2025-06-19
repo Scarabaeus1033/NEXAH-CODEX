@@ -29,8 +29,8 @@ These measurement units act as structured vectors – encoding distances, freque
 
 ## 🌀 DISCREPANCY FACTOR Λ AND ITS SYMBOLISM
 
-🔹 Theoretical value: \$\Lambda\_{\text{theorie}} \sim 10^{70} , \text{m}^{-2}\$
-🔹 Observed value: \$\Lambda\_{\text{beobachtet}} \sim 10^{-52} , \text{m}^{-2}\$
+🔹 Theoretical value: $\Lambda_{\text{theorie}} \sim 10^{70} \, \text{m}^{-2}$  
+🔹 Observed value: $\Lambda_{\text{beobachtet}} \sim 10^{-52} \, \text{m}^{-2}$
 
 $$
 \frac{\Lambda_{\text{theorie}}}{\Lambda_{\text{beobachtet}}} \approx 9.8 \cdot 10^{122}
@@ -38,14 +38,14 @@ $$
 
 Structural interpretations:
 
-* \$122 = 2 \cdot 61\$ → 61 as prime resonator / "Escape Key"
-* \$10^{122} = (10^{61})^2\$ → double field folding
-* \$\log\_{10}(\text{Discrepancy}) \approx 283.2\$ → folding depth in the space-time lattice
+* $122 = 2 \cdot 61$ → 61 as prime resonator / "Escape Key"
+* $10^{122} = (10^{61})^2$ → double field folding
+* $\log_{10}(\text{Discrepancy}) \approx 283.2$ → folding depth in the space-time lattice
 
 Comparison with the URF number:
 
-* \$\Lambda\_{\text{theorie}} / 137 \approx 7.15 \cdot 10^{68}\$
-* \$\Lambda\_{\text{beobachtet}} / 137 \approx 7.30 \cdot 10^{-55}\$
+* $\Lambda_{\text{theorie}} / 137 \approx 7.15 \cdot 10^{68}$
+* $\Lambda_{\text{beobachtet}} / 137 \approx 7.30 \cdot 10^{-55}$
 
 ---
 
@@ -53,7 +53,7 @@ Comparison with the URF number:
 
 * **137** → Fine-structure constant, coupling center
 * **61** → Prime resonance, dimensional leap → "Escape of the 8th"
-* **Ramanujan Constant**: \$e^{\pi \sqrt{163}} \approx 2.625 \cdot 10^5\$ → leap field
+* **Ramanujan Constant**: $e^{\pi \sqrt{163}} \approx 2.625 \cdot 10^5$ → leap field
 
 These numbers point to a multilayered resonance structure stretching across field, number, and frequency. Λ is not an error, but a **harmonic imbalance with deep systemic function**.
 
@@ -82,6 +82,10 @@ This module has grown significantly. It includes the following components:
 * `resonance_folding_equation.md` – Λ-folding resonance formula
 * `lambda_folding_table.csv` and Planck variant
 * `resonance_axis_register.md`, `lambda_disc_core.md`
+* `symbolic_operator_reference.md`
+* `algebraic_transition_grids.md`
+* `visual_operator_fields.md`
+* `csv_navigator.md`
 
 ### 🔸 Planetary & Cosmological Anchors
 
@@ -107,7 +111,6 @@ This module has grown significantly. It includes the following components:
 ### 📊 Visual & CSV Navigation
 
 * `visual_index.md`, `visual_gallery.md`
-* `csv_navigator.md`
 
 All visuals are stored under `visuals/`, and data files in `csv/`.
 
@@ -121,6 +124,6 @@ This module uses **both German and English**. German is primarily used where sym
 
 ---
 
-**Curator:** Thomas Hofmann (Scarabäus1033)
-**System:** 3 – COSMICA ASTROPHYSICA
+**Curator:** Thomas Hofmann (Scarabäus1033)  
+**System:** 3 – COSMICA ASTROPHYSICA  
 **License:** CC BY-NC-SA 4.0
