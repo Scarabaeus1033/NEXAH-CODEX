@@ -13,13 +13,13 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 ![phi^3=pi](visuals/phi^3=pi.png)
 
 #### Schwingungen und Energieüberlagerung
-![Schwingungen und Energieueberlagerung](Schwingungen und Energieuberlagerung.png)
+![Schwingungen & Energieüberlagerung](visuals/Schwingungen_Energieuberlagerung.png)
 
 #### Vendissimal Resonance Grid
 ![vendissimal_resonance_grid](visuals/vendissimal_resonance_grid.png)
 
 #### Phase II – Võ Mirror Transition (26–50)
-![Phase II – Vō Mirror Transition (26-50)](visuals/Phase%20II%20-%20Vō%20Mirror%20Transition%20(26-50).png)
+![Phase II – Vō Mirror Transition (26–50)](visuals/phaseII_vo_mirror_transition_(26-50).png)
 
 ---
 
