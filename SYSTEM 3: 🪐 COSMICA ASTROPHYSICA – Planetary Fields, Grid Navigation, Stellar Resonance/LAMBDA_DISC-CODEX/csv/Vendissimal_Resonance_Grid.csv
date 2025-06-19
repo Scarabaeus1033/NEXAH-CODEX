@@ -1,0 +1,6 @@
+State,Label,Symbol
+-2,Void,⌀
+-1,Fall,↓
+0,Neutral,·
+1,Rise,↑
+2,Peak,✴︎

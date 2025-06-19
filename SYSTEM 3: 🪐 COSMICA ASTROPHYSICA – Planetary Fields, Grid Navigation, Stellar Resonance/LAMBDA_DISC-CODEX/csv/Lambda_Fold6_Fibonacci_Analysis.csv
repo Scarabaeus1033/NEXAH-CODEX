@@ -1,0 +1,14 @@
+Property,Value
+Lambda_6 Value,12586269025
+Fibonacci Index,F(50)
+Prime Factors,"[25, 11, 101, 151, 3001]"
+Square Root,112188.54230713581
+Natural Log,23.255872296763123
+Decimal Log,10.099897010330928
+Binary,0b1011101110001100110011100101100001
+Octal,0o135614634541
+Duodecimal,2533148601
+Hexadecimal,0x2ee333961
+Deficient?,Yes
+Is Fibonacci?,Yes
+Is Perfect Number?,No

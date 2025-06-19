@@ -1,0 +1,4 @@
+Layer,Value,Factor Breakdown
+Lunar Entry,1019,101 * 10
+Cavity Core,223429,223 * 1001
+Elevator Peak,1019508256,2^8 * 508 * 1001
