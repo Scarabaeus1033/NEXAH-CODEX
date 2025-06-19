@@ -1,6 +1,6 @@
 # LAMBDA\_DISC-CODEX · System 3 – COSMICA ASTROPHYSICA
 
-> **Module Type:** Resonanzphysik · Kosmologische Konstante · Planetar-magnetische Integration
+> **Module Type:** Resonanzphysik · Kosmologische Konstante · Planetar-magnetische Integration  
 > **Codex Location:** `SYSTEM 3: 🟣 COSMICA ASTROPHYSICA`
 
 ---
@@ -29,10 +29,12 @@ Diese Maßeinheiten wirken als strukturierte Vektoren – sie kodieren Distanzen
 
 ## 🌀 DISKREPANZFAKTOR Λ UND SEINE SYMBOLIK
 
-🔹 Theoretischer Wert: $\Lambda_{\text{theorie}} \sim 10^{70} \, \text{m}^{-2}$
+🔹 Theoretischer Wert: $\Lambda_{\text{theorie}} \sim 10^{70} \, \text{m}^{-2}$  
 🔹 Beobachteter Wert: $\Lambda_{\text{beobachtet}} \sim 10^{-52} \, \text{m}^{-2}$
 
-$\frac{\Lambda_{\text{theorie}}}{\Lambda_{\text{beobachtet}}} \approx 9.8 \cdot 10^{122}$
+$$
+\frac{\Lambda_{\text{theorie}}}{\Lambda_{\text{beobachtet}}} \approx 9.8 \cdot 10^{122}
+$$
 
 Strukturelle Deutungen:
 
@@ -85,6 +87,9 @@ Dieses Modul verwendet **Deutsch und Englisch**, abhängig vom Kontext. Deutsch 
 * `lambda_disc_core.md`
 * `resonance_axis_register.md`
 * `csv_navigator.md`
+* `symbolic_operator_reference.md`
+* `algebraic_transition_grids.md`
+* `visual_operator_fields.md`
 
 ### 🔸 Faltungstabellen
 
@@ -117,6 +122,6 @@ Dieses Modul verwendet **Deutsch und Englisch**, abhängig vom Kontext. Deutsch 
 
 ---
 
-**Curator:** Thomas Hofmann (Scarabäus1033)
-**System:** 3 – COSMICA ASTROPHYSICA
+**Curator:** Thomas Hofmann (Scarabäus1033)  
+**System:** 3 – COSMICA ASTROPHYSICA  
 **Lizenz:** CC BY-NC-SA 4.0
