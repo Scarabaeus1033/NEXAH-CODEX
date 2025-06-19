@@ -64,7 +64,7 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 ![42BBAB9C](visuals/42BBAB9C-2C88-4519-867B-E82F4EB49C18.png)
 
 #### Golden Mirror Equations – Theta, Phi, Pi
-![6CC114D7](visuals/6CC114D7-A364-4A86-8852-2770DBC933547.png)
+![6CC114D7](visuals/6CC114D7-A364-48A6-8852-277DBC933547.png)
 
 ---
 
