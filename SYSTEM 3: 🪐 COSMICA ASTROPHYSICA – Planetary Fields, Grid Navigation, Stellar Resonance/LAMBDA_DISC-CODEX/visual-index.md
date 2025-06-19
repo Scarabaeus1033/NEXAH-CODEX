@@ -13,7 +13,7 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 ![phi^3=pi](visuals/phi^3=pi.png)
 
 #### Schwingungen und Energieüberlagerung
-![Schwingungen und Energieueberlagerung](visuals/Schwingungen%20und%20Energieueberlagerung.png)
+![Schwingungen und Energieueberlagerung](Schwingungen und Energieuberlagerung.png)
 
 #### Vendissimal Resonance Grid
 ![vendissimal_resonance_grid](visuals/vendissimal_resonance_grid.png)
