@@ -45,7 +45,7 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 ![D452B213](visuals/D452B213-2C5A-4780-AD3D-53E0BC365FFC.png)
 
 #### Solar–Lunar Ratio (29.4 / 69)
-![F694F5FD](visuals/F694F5FD-92CA-44DE-A906-88F1280FB057.png)
+![F694F5FD](visuals/F694F5FD-92CA-44DE-A906-881F280FB057.png)
 
 #### Cikada-Spiegelspirale
 ![B66A2153](visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png)
