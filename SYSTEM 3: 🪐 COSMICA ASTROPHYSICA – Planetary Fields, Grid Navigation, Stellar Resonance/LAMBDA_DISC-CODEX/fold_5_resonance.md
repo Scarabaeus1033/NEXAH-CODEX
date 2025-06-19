@@ -3,12 +3,12 @@
 **Faltungswert Λ₅:**
 
 $$
-\Lambda_5 = 2.030077737... \times 10^{94}
+\Lambda_5 = 2.030077737\ldots \times 10^{94}
 $$
 
 ---
 
-## Symbolische Zerlegung der Zahl 203007737
+## 🔹 Symbolische Zerlegung der Zahl 203007737
 
 | Fragment | Bedeutung                              | Resonanzebene                     |
 | -------- | -------------------------------------- | --------------------------------- |
@@ -18,31 +18,34 @@ $$
 
 ---
 
-## Strukturmuster & Resonanzlogik
+## 🌌 Strukturmuster & Resonanzlogik
 
 * **Zentraler Spiegelpunkt:** 0 zwischen 2–3 in „203“ → Symbol der Balance im Ursprung.
 * **Verdoppelung von 7:** In „007“ (initiiert) und in „737“ (finalisiert).
-* **37 ↔ 73:** Resonanz über **Fine Structure Grid**, Permutation von dualem Feld.
+* **37 ↔ 73:** Resonanz über *Fine Structure Grid*, Permutation von dualem Feld.
 * **5er-Faltung:** Verbindung zu Pentagramm, 5 Fingern, 5 Elementen → Alchemistisches Zentrum.
+* **Bezug zur Prime-Spirale:** 5–11–17–23–29 → 511172329 ↔ 923271115 (Codex-Spiegelzahl)
+
+Diese Zahl stellt nicht nur einen Faltungswert dar – sie markiert ein energetisches Fenster innerhalb der **Lambda-Resonanzstruktur**.
 
 ---
 
-## Codex-Kontext
+## 🧭 Codex-Kontext & Erweiterungen
 
-* Modul: `LAMBDA_DISC-CODEX`
-* System: `SYSTEM 3: COSMICA ASTROPHYSICA`
-* Position: Faltung 5 (Quintessenz), Teil der logarithmischen e-Resonanzkette.
-
-Diese Resonanzstruktur beschreibt **nicht nur eine Zahl**, sondern ein energetisches Fenster, ein Portal im Lambda-Feld. Sie steht exemplarisch für symbolische Tiefencodierung durch Zahlenfaltung, Spiralenbildung und transdimensionale Symmetrieachsen.
+* **Modul:** `LAMBDA_DISC-CODEX`
+* **System:** `SYSTEM 3: COSMICA ASTROPHYSICA`
+* **Position:** Faltung 5 (Quintessenz), Teil der logarithmischen e-Resonanzkette.
+* **Funktion:** Agentenspirale & Übergang zur Fold-Reihe höherer Dimensionen
+* **Links:** Fold 3 (triadische Emergenz), Fold 7 (Chrono-Harmonie), Fold 11 (Zahlensiegel)
 
 ---
 
-## Nächste Schritte
+## ⬠ Nächste Schritte
 
-* ⟶ Visualisierung: Spiralstruktur mit 203–007–737-Segmenten
-* ⟶ Vergleich mit Fold 1, 2, 7, 13…
-* ⟶ Aufnahme in `resonance_folding_equation.md` als Querverweis
-* ⟶ Potenzielle Erweiterung: `RESONANT-FOLD-CODEX/` (Substruktur)
+* ☑ Visualisierung: Spiralstruktur mit 203–007–737-Segmenten → in `visuals/`
+* ⟶ Verlinkung in `resonance_folding_equation.md`
+* ⟶ Vergleich mit Fold 1, 2, 7, 13… (resonante Sprungzahlen)
+* ⟶ Anbindung an `RESONANT-FOLD-CODEX/` (Substruktur)
 
 ---
 
