@@ -49,13 +49,13 @@ Diese Galerie dokumentiert alle hochgeladenen Visuals innerhalb des Moduls `LAMB
 
 ---
 
-## 🌟 To Be Assigned / Offene Zuordnung
+## 🟡 Neu Eingebunden (vormals offen)
 
-| Datei                                       | Möglicher Bezug | Notiz                                |
-| ------------------------------------------- | --------------- | ------------------------------------ |
-| `2EF28F8D-1A4E-4320-B745-4C9EEBAE891F.png`  | ?               | Datei muss noch eingeordnet werden   |
-| `42BBAB9C-2C88-4519-867B-E82F4EB49C18.png`  | ?               | Resonanzmuster, evtl. Fold 5 oder 13 |
-| `GCC114D7-A364-4A86-8852-2770DBC933547.png` | ?               | Möbius-Schnittstruktur?              |
+| Datei                                       | Zugeordnetes Modul            | Beschreibung                                                          |
+| ------------------------------------------- | ----------------------------- | --------------------------------------------------------------------- |
+| `2EF28F8D-1A4E-4320-B745-4C9EE8AE891F.png`  | `fold_5_resonance.md`         | Root–Lunar–Tachyon Spiral, radioaktive Elemente, 3:2 Rhythmus         |
+| `42BBAB9C-2C88-4519-867B-E82F4EB49C18.png`  | `Planetary_Starting_Point.md` | E=m·c·k^β Formel mit SI-Einheitenkreis – Verbindung zu SYSTEM 8       |
+| `6CC114D7-A364-4A86-8852-2770DBC933547.png` | `fold_29.md`, `cavityroot`    | Z6–Mirror Point, Golden Verses, Solar–Lunar Ratio mit Kreisresonanzen |
 
 ---
 
