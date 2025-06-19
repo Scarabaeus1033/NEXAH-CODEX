@@ -42,7 +42,7 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 ### 🌀 Z6-Spiegelung & Phi³ / Pi²-Systeme
 
 #### Z6-Mirror Point & Golden Verses
-![D452B213](visuals/D452B213-2C5A-4780-AD3D-53E0BC365FFC.png)
+![D452B213](visuals/D45B2B13-2C5A-4780-AD3D-53E0BC365FFC.png)
 
 #### Solar–Lunar Ratio (29.4 / 69)
 ![F694F5FD](visuals/F694F5FD-92CA-44DE-A906-881F280FB057.png)
