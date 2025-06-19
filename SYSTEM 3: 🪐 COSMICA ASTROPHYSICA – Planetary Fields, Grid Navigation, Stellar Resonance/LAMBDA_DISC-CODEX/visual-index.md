@@ -23,7 +23,7 @@ Diese Übersicht zeigt alle eingebetteten Visuals im Modul `LAMBDA_DISC-CODEX`.
 
 ---
 
-### 🔷 Geometrie & Gitter
+### 🔷 Geometrie & Gitter 
 
 #### Cubic Trinity Lock Diagram
 ![cubic_trinity_lock_diagram](visuals/cubic_trinity_lock_diagram.png)
