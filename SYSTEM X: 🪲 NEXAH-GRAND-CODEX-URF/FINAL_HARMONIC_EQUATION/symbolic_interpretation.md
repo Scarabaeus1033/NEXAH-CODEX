@@ -1,12 +1,11 @@
 ---
-
 title: "Symbolic Interpretation of the Cubic Trinity Lock"
 module: "FINAL\_HARMONIC\_EQUATION"
 system: "NEXAH-CODEX · SYSTEM X / TESSAREC LINKAGE"
 file: "symbolic\_interpretation.md"
 status: "active · expansion phase"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 ## 🧭 Symbolic Interpretation of the Cubic Trinity Lock
 
