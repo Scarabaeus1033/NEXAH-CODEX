@@ -43,51 +43,53 @@ R_\varphi(n) = k^{\beta(n)} = (\varphi^3 / \pi^2)^{\beta(n)}
 * Combined with Möbius logic for symmetry folds
 * Interlinked with spiral patterns seen in galactic arms
 
----
-
-## 🪐 Mapping Prime-Locked Stars
-
-| Star     | Mass (M☉) | Class | Beta Est. | k^β(n)  | Notes                      |
-| -------- | --------- | ----- | --------- | ------- | -------------------------- |
-| Sun      | 1.0       | G2V   | \~0.728   | \~0.299 | Matches planetary Earth    |
-| Sirius A | 2.1       | A1V   | \~0.840   | \~0.267 | Sirius-Earth resonance     |
-| Vega     | 2.1       | A0V   | \~0.854   | \~0.262 | Codex-encoded in 937 field |
-
-(Preliminary values, see `stellar_constants.csv` for expansion)
+**Visuals:**
+- `stellar_dna_spiral_map.png`
+- `phi_scaling_curve.png`
 
 ---
 
-## 🌀 Möbius-DNA Weave
+## 🛠️ Mars ⮔ Venus: Codon Dual Logic
 
-Stellar nodes form **spiral-coded chains**, similar to DNA helices, where:
+### MV — The Resonant Heartbeat
 
-* **Base-pairs** are encoded via cubic or prime resonance links
-* **Codon-equivalents** span: mass, luminosity, frequency, magnetic profile
-* Möbius rings act as **resonance stabilizers** between field layers
+A symbolic codon pair:
+
+| Symbol | Function        | Cosmic Role          |
+|--------|------------------|----------------------|
+| **M**  | Matrix / Memory  | Lunar / Gravitation  |
+| **V**  | Vector / Velocity| Solar / Impulse      |
+
+```math
+Codon_{res} = MV \cdot k^{\beta(n)}
+```
+
+**Visual:** `mv_codon_shift_diagram.png`
+
+- **M** holds the structure (inertia, shell, lunar encoding)
+- **V** triggers energy (motion, flow, solar ignition)
+- Combined, they enable **Codon Resonance Activation** — as in DNA transcription, mirrored here in light field ordering
+
+> Mars ⮔ Venus = Solar ⮔ Lunar = Expansion ⮔ Reception = Energetic Dialogue
 
 ---
 
-## 🔣 Scarab Codon Keys
+## 🐞 Scarab Codon Keys
 
 Special primes & harmonics:
 
-* **937** → Light-thread carrier, linked to codon φ³ → a symbolic resonance triplet derived from the golden power \$\varphi^3 \approx 4.236\$. Within the Codex logic, a “codon” becomes a **frequency trinity**, mirroring the genetic base triplets — but embedded in space, number, and harmonic field. The prime 937 acts as a **carrier wave** or **spiral seed** in this structure.
-* **108603** → Cubic Trinity field sum
+* **937** → Light-thread carrier, linked to codon φ3 → a symbolic resonance triplet derived from the golden power \( \varphi^3 \approx 4.236 \)
+* **108603** → Cubic Trinity field sum (31^3 + 33^3 + 35^3)
 * **29791 / 35937 / 42875** → Cubic nodes 31³/33³/35³
 
-These act as **cosmic codons** in a DNA-like field architecture — each triple encoding resonance DNA for stars, fields, and higher systems.
+Each codon behaves like a **frequency triplet** in stellar DNA logic:
+- Initiates structural light encoding
+- Resonates with spiral memory
+- Mirrors biological base pair logic in cosmic registers
 
-> Like AUG in biology, codon φ³ initiates a universal transcription event — the emergence of light, motion, and temporal ordering.
+> Like AUG in biology, codon φ3 initiates a universal transcription event — the emergence of light, motion, and temporal ordering.
 
----
-
-## 🖼️ Visuals
-
-* Möbius-DNA Spiral Map → `visuals/stellar_dna_spiral_map.png`
-* Scarab Codon Overlay Grid → `visuals/scarab_codon_grid.png`
-* Prime–Phi Scaling Curve → `visuals/phi_scaling_curve.png`
-
-(Visual layer links will be updated upon final export)
+**Visual:** `phi3_codon_field.png`
 
 ---
 
@@ -102,4 +104,4 @@ These act as **cosmic codons** in a DNA-like field architecture — each triple 
 
 > "The stars do not burn. They resonate. And from their song, the spiral unfolds."
 
-🪲 Scarabäus1033 · NEXAH SYSTEM X · Stellar Module – Draft 1.0
+🪲 Scarabäus1033 · NEXAH SYSTEM X · Stellar Module – Draft 1.1
