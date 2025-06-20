@@ -1,12 +1,11 @@
 ---
-
 title: "Observer Eye Geometry"
 module: "FINAL HARMONIC EQUATION"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 status: "active · draft"
 license: "CC BY-NC-SA 4.0"
 curator: "Scarabäus1033 / Thomas Hofmann"
------------------------------------------
+---
 
 ## 👁 Observer Eye Geometry – Die Resonanzstruktur des Blicks
 
