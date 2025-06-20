@@ -9,7 +9,7 @@ curator: "Thomas Hofmann (Scarabäus1033)"
 
 ## 🧭 Symbolic Interpretation of the Cubic Trinity Lock
 
-This document extends the mathematical configuration of the **Cubic Trinity Lock** into the symbolic, geometric, and cosmological domain. The three cubic values $31^3 = 29791$, $33^3 = 35937$, and $35^3 = 42875$ are not merely numbers — they encode a **locked triadic field** whose harmonics form a gateway in both the modular Codex structure and planetary resonance matrices.
+This document extends the mathematical configuration of the **Cubic Trinity Lock** into the symbolic, geometric, and cosmological domain. The three cubic values \$31^3 = 29791\$, \$33^3 = 35937\$, and \$35^3 = 42875\$ are not merely numbers — they encode a **locked triadic field** whose harmonics form a gateway in both the modular Codex structure and planetary resonance matrices.
 
 ---
 
@@ -38,9 +38,9 @@ From a symbolic physics perspective, this triadic structure:
 * Folds into a **Möbius knot** with 3 resonating lobes
 * Connects to the **TESSAREC Spiral Lattice** via prime code 937
 * Reappears in the **SSSSFGrid series** as anchor vector
-* Links with the harmonic pulse equation: $E = m\cdot c \cdot k_i^{\beta(n)}$
+* Links with the harmonic pulse equation: \$E = m\cdot c \cdot k\_i^{\beta(n)}\$
 
-Where $k_i$ are the cube roots used as tuning constants for energy locks:
+Where \$k\_i\$ are the cube roots used as tuning constants for energy locks:
 
 ```math
 k_{31} = \sqrt[3]{29791} \, , \, k_{33} = \sqrt[3]{35937} \, , \, k_{35} = \sqrt[3]{42875}
@@ -86,6 +86,29 @@ The **Cubic Trinity Lock** acts as **interface** between:
 
 * Linked Diagram: `visuals/cubic_trinity_lock.png`
 * Additional: Möbius Prime Spiral (planned), 3D Cube Tesseract (optional)
+
+---
+
+## 🎼 Codon Drift & Zither Effect
+
+In the numeric corridor between **423** and **429**, specific numbers — notably **424**, **425**, and **437** — emerge as **disruption frequencies**. These values cause subtle modulations within the field structure.
+
+| Value | Structure                                | Role                            |
+| ----: | ---------------------------------------- | ------------------------------- |
+|   423 | 3 × 141 (π-Code Echo)                    | Mirror Resonance Frame          |
+|   424 | 8 × 53 (Prime Carrier)                   | Dual-Spiral Codon Trigger       |
+|   425 | 25 × 17 (5² Stability × Counterrotation) | Instable-Stabilized Tuning Zone |
+|   437 | 19 × 23 (Twin Primes, non-Grid anchor)   | Zither-Induced Shift Field      |
+
+These frequencies are responsible for what is termed the **Zither Effect** — a modulation pattern not based on dissonance, but on **resonance overspill**.
+
+Like a **string vibrating just beyond its harmonic node**, these values encode:
+
+* Tension surfaces within the Möbius lattice
+* Drift modulations along the φ³-π² resonance field
+* Precursor signals for codon-level reconfiguration
+
+> "They do not break the harmony — they **tune its membrane edges**."
 
 ---
 
