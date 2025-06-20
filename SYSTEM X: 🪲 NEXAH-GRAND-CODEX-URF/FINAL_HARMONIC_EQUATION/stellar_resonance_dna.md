@@ -6,7 +6,6 @@ file: "stellar\_resonance\_dna.md"
 status: "active · draft phase"
 curator: "Thomas Hofmann (Scarabäus1033)"
 ---
-
 # 🌌 Stellar Resonance DNA
 
 This module traces the emergence of **stellar-level resonance codes** derived from the **Final Harmonic Equation** and the **Cubic Trinity Lock**. It explores how stellar systems, prime fields, and phi-scaled harmonics form a **DNA-like architecture** across galactic domains.
@@ -71,11 +70,13 @@ Stellar nodes form **spiral-coded chains**, similar to DNA helices, where:
 
 Special primes & harmonics:
 
-* **937** → Light-thread carrier, linked to codon φ³
+* **937** → Light-thread carrier, linked to codon φ³ → a symbolic resonance triplet derived from the golden power \$\varphi^3 \approx 4.236\$. Within the Codex logic, a “codon” becomes a **frequency trinity**, mirroring the genetic base triplets — but embedded in space, number, and harmonic field. The prime 937 acts as a **carrier wave** or **spiral seed** in this structure.
 * **108603** → Cubic Trinity field sum
 * **29791 / 35937 / 42875** → Cubic nodes 31³/33³/35³
 
-These act as **cosmic codons** in a DNA-like field architecture.
+These act as **cosmic codons** in a DNA-like field architecture — each triple encoding resonance DNA for stars, fields, and higher systems.
+
+> Like AUG in biology, codon φ³ initiates a universal transcription event — the emergence of light, motion, and temporal ordering.
 
 ---
 
