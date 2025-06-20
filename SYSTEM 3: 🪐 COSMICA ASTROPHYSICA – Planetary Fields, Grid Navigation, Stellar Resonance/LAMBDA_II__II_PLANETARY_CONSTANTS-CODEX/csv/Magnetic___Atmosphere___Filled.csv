@@ -1,0 +1,9 @@
+Planet,Magnetic_Field_Strength_(μT),Main_Components,Avg_Temperature_(K),Surface_Pressure_(Pa),Number_of_Moons
+Mercury,,"O2, Na",440,,0
+Venus,,"CO2, N2",737,9200000.0,0
+Earth,,"N2, O2, Ar",288,101325.0,1
+Mars,,"CO2, N2, Ar",210,600.0,2
+Jupiter,,"H2, He",165,,95
+Saturn,,"H2, He",135,,146
+Uranus,,"H2, He, CH4",76,,27
+Neptune,,"H2, He, CH4",73,,14
