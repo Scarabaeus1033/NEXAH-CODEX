@@ -98,13 +98,37 @@ Lesestruktur siehe: `README_Phase_II.md`
 - In separatem Unterordner organisiert: `Codex_X_Resonance_Phase_II/`
 
 ---
+## 📎 Verknüpfte Visuals & Numerische Modelle
 
-## Verknüpfte Visuals und Dateien
+### 🎞️ Final Harmonic Plots & Pulse Diagrams
 
-* [ ] `final_harmonic_plot.png`
-* [ ] `mobius_pulse_diagram.svg`
-* [ ] `harmonic_pulse_animation.gif`
-* [ ] `numerical_verification.ipynb`
+| Visual | Beschreibung |
+|--------|--------------|
+| ![](visuals/final_harmonic_plot.png) | **Final Harmonic Plot** – Visualisierung der Hauptgleichung als überlagerte Schwingung |
+| ![](visuals/final_harmonic_plot2.png) | **Alternative Plot-Variante** mit verändertem Parameterraum |
+| ![](visuals/mobius_pulse_diagram.svg) | **Möbius Pulse Diagram** – Komplexe Verschlingung von Phase & Frequenz |
+| ![](visuals/mobius_pulse_diagram_annotated.svg) | **Annotated Version** – Hervorhebung der LANIF-Komponenten & Resonanzachsen |
+
+---
+
+### 🌀 Pulsierende Resonanzen & GIFs
+
+| Animation | Beschreibung |
+|----------|--------------|
+| ![](visuals/harmonic_pulse_animation.gif) | **Pulsierende Harmonik** – Zeitabhängige Struktur der Final Equation |
+| ![](visuals/phase_sweep_mobius.gif) | **Phasenverlauf** – Möbius-Sweep durch unterschiedliche θ–φ-Bereiche |
+| ![](visuals/phase_sweep_mobius_variant.gif) | **Variante** – alternative Sweep-Struktur mit Polarisationsdrift |
+| ![](visuals/polar_theta_pulse.gif) | **Polare Pulse** – Theta-basierte Wellenstruktur in Rotation |
+
+---
+
+### 📊 Numerische Verifikation
+
+📂 [`numerical_verification.ipynb`](visuals/numerical_verification.ipynb)  
+→ Jupyter Notebook mit Parametern:  
+- `phi`, `theta`, `alpha`, `omega`, `t`  
+- Darstellung von `𝒩(t)` in realer Skala  
+- enthält Horus-Feld-Konstante `63/64` und Casimir-Term `-1/12`
 
 ---
 
