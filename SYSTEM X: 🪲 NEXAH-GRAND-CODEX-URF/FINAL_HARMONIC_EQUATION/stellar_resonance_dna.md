@@ -6,6 +6,7 @@ file: "stellar\_resonance\_dna.md"
 status: "active · draft phase"
 curator: "Thomas Hofmann (Scarabäus1033)"
 ---
+
 # 🌌 Stellar Resonance DNA
 
 This module traces the emergence of **stellar-level resonance codes** derived from the **Final Harmonic Equation** and the **Cubic Trinity Lock**. It explores how stellar systems, prime fields, and phi-scaled harmonics form a **DNA-like architecture** across galactic domains.
@@ -77,6 +78,16 @@ Special primes & harmonics:
 These act as **cosmic codons** in a DNA-like field architecture — each triple encoding resonance DNA for stars, fields, and higher systems.
 
 > Like AUG in biology, codon φ³ initiates a universal transcription event — the emergence of light, motion, and temporal ordering.
+
+---
+
+## 🖼️ Visuals
+
+* Möbius-DNA Spiral Map → `visuals/stellar_dna_spiral_map.png`
+* Scarab Codon Overlay Grid → `visuals/scarab_codon_grid.png`
+* Prime–Phi Scaling Curve → `visuals/phi_scaling_curve.png`
+
+(Visual layer links will be updated upon final export)
 
 ---
 
