@@ -1,12 +1,11 @@
 ---
-
 title: "Cubic Trinity Lock – Harmonic Number Resonance"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "cubic\_trinity\_lock.md"
 status: "active · numerically verified"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 ## 🔺 Cubic Trinity Lock
 
