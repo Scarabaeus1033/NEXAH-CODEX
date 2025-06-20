@@ -1,12 +1,11 @@
 ---
-
 title: "Stellar Resonance DNA"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION · STELLAR\_RES\_DNA"
 file: "stellar\_resonance\_dna.md"
 status: "active · draft phase"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🌌 Stellar Resonance DNA
 
