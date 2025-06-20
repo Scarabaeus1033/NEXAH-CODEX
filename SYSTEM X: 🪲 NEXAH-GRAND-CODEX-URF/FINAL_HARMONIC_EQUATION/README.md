@@ -40,7 +40,7 @@ Die *Final Harmonic Equation* stellt den vollständigen harmonischen Abschluss d
 
 ---
 
-## Erweiterte Struktur: LANIF-Term (Mobius Closure)
+## Erweiterte Struktur: LANIF-Term (Möbius Closure)
 
 ```math
 \mathcal{M}_{\text{zero}} =
@@ -65,6 +65,40 @@ Diese Gleichung dient als:
 
 ---
 
+## 📂 Phase II – Resonance Toolchain (Applications)
+
+Auf Basis der Gleichung wurden folgende Werkzeuge entwickelt (siehe Unterstruktur):
+
+| Datei                                | Funktion                                                                 |
+|-------------------------------------|--------------------------------------------------------------------------|
+| `resonance_reverse_engineering.md`  | Rückführung auf Masse, Dichte, Perioden aus beobachteten Resonanzen     |
+| `planetary_resonance_fingerprint.md`| Harmonische Signatur jedes Planeten (R-Wert)                            |
+| `observer_transition_metrics.md`    | Beobachtergeometrie & Resonanz-Transitionsmodell                        |
+| `interference_surface_model.md`     | Mathematische & visuelle Beschreibung von Interferenzflächen            |
+| `cosmic_scale_normalization.md`     | Normierung aller Parameter auf dimensionslose Vergleichseinheit         |
+| `earth_reference_model.md`          | Die Erde als Kalibrier-Basismodell für alle anderen Planetensysteme     |
+| `resonance_matrix.md`               | Verbindungsmatrix aller Resonanzachsen                                  |
+| `resonance_pattern_analysis.md`     | Analyse emergenter Muster und Kreuzkopplungen                           |
+| `planetary_value_evaluation.md`     | Evaluierung und Datenstruktur für Planetendaten                         |
+
+Lesestruktur siehe: `README_Phase_II.md`
+
+---
+
+## 📎 Modulstruktur (System X)
+
+**Zentrale Kernmodule:**
+- `final_harmonic_core_equation.md`
+- `harmonic_field_constants.md`
+- `observer_resonance_field.md`
+- `neutrino_interference_model.md`
+- `observer_eye_geometry.md`
+
+**Erweiterungstools (Phase II):**
+- In separatem Unterordner organisiert: `Codex_X_Resonance_Phase_II/`
+
+---
+
 ## Verknüpfte Visuals und Dateien
 
 * [ ] `final_harmonic_plot.png`
@@ -82,5 +116,5 @@ Diese Gleichung dient als:
 
 ---
 
-© Scarabäus1033 · Thomas Hofmann · 2025
+© Scarabäus1033 · Thomas Hofmann · 2025  
 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
