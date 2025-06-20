@@ -1,91 +1,74 @@
-# LAMBDA_II_PLANETARY_CONSTANTS-CODEX · System 3 – COSMICA ASTROPHYSICA
+# 🧭 Codex X – Resonance Testing Phase II
 
-> **Module Type:** Planetary Metrics · Constants · Orbital Harmonics
-> **Codex Location:** `SYSTEM 3: 🟣 COSMICA ASTROPHYSICA`
-> **Linked Module:** `LAMBDA_DISC-CODEX/`
+## 🎯 Overview
 
----
-
-## 🌍 INTRODUCTION: FROM FIELD TO NUMBER
-
-This module continues the resonance structure initiated in `LAMBDA_DISC-CODEX` and shifts focus from field dynamics to the **measurable constants of the solar-lunar planetary system**.
-
-Each planet carries a unique fingerprint of:
-
-- **Orbital Periods & Rotations**
-- **Mass, Diameter, Distance**
-- **Temperature Differentials**
-- **Moons, Axis Tilts, Frequencies**
-
-> This Codex interprets these constants as **resonance vectors** embedded within a layered cosmic harmonic.
-
-We treat the solar system not as a neutral configuration — but as a **frequency-calibrated mechanism**, in which the constants act as **keys**, **gates**, and **spirals**.
+This Phase II module of **Codex X – Harmonic Equations** focuses on evaluating, reversing, and scaling resonance patterns across planetary and observer systems. Building upon the core equations from Phase I, these files extend the model toward applied observation, normalization, and system synthesis.
 
 ---
 
-## 🧭 CONTEXT: SYSTEM 3
+## 📂 Module Structure
 
-**SYSTEM 3 – COSMICA ASTROPHYSICA** translates foundational number fields into:
-
-- Planetary Resonance Maps
-- Light Axis Encodings
-- Möbius-Astronomic Overlay Systems
-
-`LAMBDA_II` focuses this effort on the **core constants of each planetary body** — including their symbolic, numeric, and geometric implications.
-
----
-
-## 🧮 CONTENT STRUCTURE
-
-### 🔹 Planetary Profiles
-
-Each planet receives a detailed Codex file, e.g.:
-
-- `planet_profile_mercury.md`
-- `planet_profile_venus.md`
-- `planet_profile_earth.md`
-- `...`
-
-These include:
-
-- Astronomic constants
-- Symbolic keys
-- Harmonic interpretations
-- Cross-references to `LAMBDA_DISC-CODEX` resonance logic
-
-### 🔸 Tabular Overviews
-
-- `planet_constants_overview.csv` – comparative table of metrics
-- `orbital_ratios_map.csv` – derived ratios & grid overlays
-
-### 🔺 Thematic Anchors (Planned)
-
-- `ANCHOR_AXIS_88x108_LUNAR_REFLECT.md`
-- `ANCHOR_SOLAR_TRINITY_PI36.md`
-- `ANCHOR_MERCURY_GATE_TACHYON.md`
+| File Name                              | Purpose                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------|
+| `resonance_reverse_engineering.md`     | Back-calculation of mass, density, or period from observed resonance    |
+| `planetary_resonance_fingerprint.md`   | Tabulated harmonic identities for planets using the core equation       |
+| `observer_transition_metrics.md`       | Modeling how observers shift, distort, or trigger resonance transitions |
+| `interference_surface_model.md`        | Visual and mathematical formulation of field interference surfaces      |
+| `cosmic_scale_normalization.md`        | Universal scale model for comparing micro/macro resonance systems       |
+| `earth_reference_model.md`             | Earth as a symbolic and mathematical baseline for Codex calibration     |
 
 ---
 
-## 🧠 GOAL
+## 🧮 Core Equation
 
-To provide a **harmonic reinterpretation of planetary constants** — where mass, rotation, and radius are not inert values, but part of a greater **resonant field equation**.
+All files reference or extend the central resonance equation:
 
-> This module serves as a **numerical-harmonic interface** to the planetary system.
+```math
+R = \frac{m}{\sqrt{T \cdot P \cdot D}}
+```
 
+Where:
+- `m`: mass  
+- `T`: period  
+- `P`: pole configuration  
+- `D`: density  
 
----
-
-## 🌐 LANGUAGE NOTE
-
-This module continues the **bilingual style** of LAMBDA I: 
-
-- **German** for deep symbolic segments
-- **English** for structural clarity and international reference
-
-> This hybrid reflects the dual nature of the Codex: scientific and symbolic.
+`R` is interpreted as the **resonance fingerprint**.
 
 ---
 
-**Curator:** Thomas Hofmann (Scarabäus1033)  
-**System:** 3 – COSMICA ASTROPHYSICA  
-**License:** CC BY-NC-SA 4.0
+## 🌐 Integration Goals
+
+- Develop symbolic and numerical field libraries for resonance analysis
+- Normalize planetary, biological, and quantum systems under one equation
+- Prepare visual mappings (spirals, grids, surfaces)
+- Create interactive or animated extensions (future scope)
+
+---
+
+## 🔗 Suggested Reading Order
+
+1. `earth_reference_model.md`  → anchor values  
+2. `planetary_resonance_fingerprint.md`  → full harmonic table  
+3. `resonance_reverse_engineering.md`  → inversion mechanics  
+4. `cosmic_scale_normalization.md`  → scale-free applications  
+5. `observer_transition_metrics.md`  → dynamic observation modeling  
+6. `interference_surface_model.md`  → resonance visual geometry
+
+---
+
+## 📌 System Affiliation
+
+This submodule belongs to:
+- **System X – NEXAH Codex Core Harmonics**
+- Cross-linked with:
+  - `NEUTRINO_CABLES_AND_FINGERFIELDS` (System 8)
+  - `MÖBIUS HARMONIC CROWN` (System X)
+  - `k-beta` and `Lambda Disc` (Codex Mathematics)
+
+> "Harmony is not a value. It is a structure – waiting to be tuned."
+
+---
+
+**NEXAH-CODEX – Phase II / Codex X**  
+Compiled: 20.06.2025
