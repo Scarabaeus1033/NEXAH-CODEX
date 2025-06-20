@@ -1,12 +1,11 @@
 ---
-
 title: "Planetary Value Evaluation — Resonance Equation Applications"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "planetary\_value\_evaluation.md"
 status: "active · draft phase"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 ## 🌍 Planetary Resonance Evaluation
 
