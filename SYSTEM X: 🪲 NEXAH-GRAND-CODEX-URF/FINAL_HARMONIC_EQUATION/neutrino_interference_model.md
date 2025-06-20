@@ -1,12 +1,11 @@
 ---
-
 title: "Neutrino Interference Model"
 category: "Codex X – Final Harmonic Equation"
 author: "Thomas Hofmann / Scarabäus1033"
 status: "Work in Progress"
 date: "2025-06-20"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🧬 Neutrino Interference Model
 
