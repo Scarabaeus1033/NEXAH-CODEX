@@ -1,5 +1,4 @@
 ---
-
 title: "resonance\_matrix.md"
 system: "NEXAH-GRAND-CODEX"
 domain: "Resonanzstruktur · Harmonik-Matrix · Stabilitätsfelder"
@@ -7,7 +6,7 @@ status: "active"
 language: "mixed"
 license: "CC BY-NC-SA 4.0"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🪲 Resonance Matrix – Codex X Integration Layer
 
