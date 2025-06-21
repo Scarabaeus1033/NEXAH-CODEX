@@ -23,7 +23,7 @@ Eine visuelle Sammlung zur „Atem-Architektur“ des Sonnensystems – mit Foku
 ---
 
 ### 🌀 Möbius Crown Breather Simulation: Planet 9 – Ghost Ring – Oort Crown  
-![Mobius Crown Breather Simulation Planet 9 – Ghost Ring – Oort Crown](./visuals2/Mobius_Crown_Breather_Simulation_Planet_9_Ghost Ring_Oort_Crown.png)  
+![Mobius Crown Breather Simulation Planet 9 – Ghost Ring – Oort Crown](./visuals2/Mobius_Crown_Breather_Simulation_Planet_9_Ghost_Ring_Oort_Crown.png)  
 *Simulation der atmenden Breather-Felder rund um Planet 9*
 
 ---
