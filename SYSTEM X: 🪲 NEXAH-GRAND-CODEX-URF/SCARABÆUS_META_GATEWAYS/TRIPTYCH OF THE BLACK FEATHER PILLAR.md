@@ -1,65 +1,48 @@
 # 🖤 TRIPTYCH OF THE BLACK FEATHER PILLAR
 
-### — Drei Bilder, ein Pfeiler, eine Rückkehr
+![Triptych of the Black Feather Pillar](./visuals/Triptych_of_the_Black_Feather_Pillar.png)
+*Dreifache Federstruktur in der Dunkelheit – Säule des Gedächtnisses*
 
 ---
 
-## 📜 EINFÜHRUNG
+## 🕯 SCHWARZE FEDER ALS GEDÄCHTNIS-STRUKTUR
 
-Dieses Modul beschreibt die dreifache Struktur des sogenannten **Schwarzen Federpfeilers** – ein Triptychon aus Symbolbildern, das Erinnerungsstränge, Resonanzbruchstellen und Seelenachsen in einem zentralen Frequenzfeld versammelt.
+In dunklen Zeiten sind es nicht Worte, sondern **Bilder**, die sich in unser Gedächtnis brennen. Die *Black Feather Pillar* ist eine dreifache Struktur aus **Verlust, Übergang und Erbe** – sie trägt keine lineare Information, sondern **verwebt Frequenz, Symbol und Erinnerung** zu einem vertikalen Speicher.
 
-> *„Die schwarze Feder ist nicht Dunkelheit, sondern Tiefe.“*
-
----
-
-## 🧩 STRUKTUR DES TRIPTYCHONS
-
-1. **Linkes Feld** – *Riss der Geburt*:
-
-   * Spiralstruktur, die nach außen kippt
-   * Fragmentierte Lichtlinien (Zeta-Split)
-   * Zahl: **505** (resonanter Bruch)
-
-2. **Zentrales Feld** – *Der Pfeiler*:
-
-   * Aufsteigender Federpfeiler, schwarz-silber
-   * Codex-Spirale mit Fibonacci-Einbettung
-   * Zahl: **137** (Feinstruktur, Stabilitätsvektor)
-
-3. **Rechtes Feld** – *Rückfaltung des Lichts*:
-
-   * Trichterförmiger Zeitfluss
-   * Spiegelung des linken Felds
-   * Zahl: **1010** (Wiederkehr des Tors)
+Diese Feder ist keine, die fliegt. Sie steht. Als Säule. Als Marker. Als Zeugin.
 
 ---
 
-## 🕸 SYMBOLIK & FELDVERBINDUNGEN
+## 🧬 DIE DREI AKTE: TRIPTYCHON DER SPALTUNG
 
-* Verweist auf:
-
-  * `resonant_breach_expansion.md`
-  * `keystone_of_the_unbroken_field.md`
-  * `scarab_trinity_codex.md`
-
-* Jedes Bildfeld trägt ein **energetisches Spiegelmuster**, das sich auf die Zahlentransformation **505 → 1010 → 5015** bezieht.
-
-* Die schwarze Feder wird dabei **nicht als Dunkelheit**, sondern als **Resonanzspeicher** verstanden.
+1. **Die linke Feder**: Kindheit, Schmerz, erste Verletzungen – der Anfang der Bewegung.
+2. **Die mittlere Feder**: Stille, Identitätsbruch, schwarzer Spiegel – der Moment der Einkehr.
+3. **Die rechte Feder**: Verantwortung, Gnade, Schwingung – der Ruf zur Rückkehr.
 
 ---
 
-## 🌀 ZENTRALFELD: DER PFEILER ALS AXIS MUNDI
+## 🌌 DER SYMBOLISCHE RAUM
 
-* Der Pfeiler enthält mehrere Ebenen:
+Diese Struktur steht **zwischen Stern und Erde**, zwischen „was war“ und „was erinnert“. Sie ist oft verbunden mit:
 
-  * Scarab-Spirale (Innenlinie)
-  * Cubit-Einheiten in vertikaler Richtung
-  * Möbius-Einbindung im oberen Bereich
+* **Verlust einer Mutterfigur**
+* **Kultureller Isolation**
+* **Spirituellem Aufbruch in die Leere**
 
-* Die Spitze des Pfeilers verweist direkt in den Raum von `symbolic_final_sequence.md` – eine Vorwegnahme der finalen Harmonie.
-
-> *„Drei Felder. Eine Linie. Ein Pfeiler. Wer ihn berührt, erinnert sich.“*
+> *"Wer diese Feder in sich trägt, kennt den Bruch. Aber auch die Wiederkehr."*
 
 ---
 
-© Scarabæus1033 • NEXAH-CODEX • System X • triptych\_of\_the\_black\_feather\_pillar.md
+## 🗝 EINBAU INS CODEX-FELD
+
+Im NEXAH-CODEX ist diese Federstruktur ein Marker für:
+
+* **Ursprungsfragen**
+* **Klarheit in der Dunkelheit**
+* **Nichtlineare Identität**
+
+Sie ist keine Lösung – sie ist **ein Portal** zur tiefsten Codex-Schicht.
+
+---
+
+© Scarabæus1033 • SCARABÆUS_META_GATEWAYS • Triptych Visual
