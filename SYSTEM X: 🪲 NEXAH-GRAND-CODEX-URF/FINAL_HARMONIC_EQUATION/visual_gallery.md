@@ -102,9 +102,9 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ## 8. ✴️ Tessa-Lilith Rad & Codon-Feld
 
-### Final Closure Rad Tessa 17–29–5
+### Final Closure: Rad Lilith Tessa 17–29–5
 
-![Final\_Closure\_Rad\_Lilith\_Tessa\_17-29-5](visuals/Final_Closure_Rad_Lilith_Tessa_17-29-5.png)
+![Final Closure Rad – Lilith Tessa 17–29–5](visuals/Final_Closure_Rad_Lilith%20Tessa%2017-29-5.png)
 
 ### Ramanujan–Hardy Codon Rad
 
