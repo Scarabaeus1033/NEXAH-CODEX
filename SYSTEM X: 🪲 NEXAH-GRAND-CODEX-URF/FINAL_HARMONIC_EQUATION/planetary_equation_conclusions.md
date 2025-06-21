@@ -1,12 +1,11 @@
 ---
-
 title: "Planetary Equation Conclusions — Resonance Axis & β-Symbolism"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "planetary\_equation\_conclusions.md"
 status: "active · symbolic synthesis"
 curator: "Thomas Hofmann (Scarabæus1033)"
------------------------------------------
+---
 
 # 🌀 Planetary Equation Conclusions — Resonance Axis & β-Symbolism
 
