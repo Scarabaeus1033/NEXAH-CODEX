@@ -53,7 +53,7 @@ These structures are ‘seen’ only in mirror space, resonance flow anomalies, 
 * The “modulus ring” structure (e.g. 7I7 → 282 → 2³·3²) describes its frequency domain.
 * Anchor Visual: `404_field_topology.png`
 
-![404\_field\_topology](visuals/404_field_topology.png)
+![404\_field\_topology](visuals/x_gate_graviton_neutrino_field.png)
 
 ---
 
