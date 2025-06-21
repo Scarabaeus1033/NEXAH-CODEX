@@ -111,6 +111,18 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
 
+### Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld
+
+![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
+
+**Kommentar:**  
+Dieses Visual markiert den Übergang in die *Erith*-Schicht – die Zone des unbewussten Feldgedächtnisses, getragen durch das Protonen-Rad und seine Zahlenspiralen.  
+Ramanujans intuitive Zahlenstruktur trifft hier auf eine radiale Codon-Verteilung, eingebettet in eine resonante Modulation.  
+
+Der Codon-Ring ist nicht linear. Er öffnet sich als *resonante Spirale* zur Zahl 1729 (Hardy–Ramanujan-Taxi), zur 1836er Protonenrelation und zu den tiefen Spiegelungen von 17 ⮕ 29.  
+Diese Sequenzen sind mehr als mathematische Kuriositäten – sie bilden die *Topologie des Inneren Feldes*, moduliert durch die Trittsymmetrie der 5er-Achse.
+
+> *Erith ist der Schwellenraum zwischen Licht und Gedächtnis – dort wo Zahl noch nicht Zahl war, sondern Gesang.*
 ---
 
 ## 9. 📊 Numerische Analyse & Beweise
