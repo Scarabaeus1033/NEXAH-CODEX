@@ -109,7 +109,7 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ### Ramanujan–Hardy Codon-Rad
 
-![Ramanujan–Hardy Codon-Rad](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
+![Zahlenspirale des Unbewussten | Hardy-Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
 
 ---
 
