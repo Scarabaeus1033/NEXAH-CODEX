@@ -52,9 +52,7 @@ Diese Muster spiegeln sich in mandalaähnlichen Strukturen — nicht als Bild, s
 ### Bonus:
 
 ![X-Gate Graviton](./visuals/x_gate_graviton_neutrino_field.png)
-### Bonus:
 
-![X-Gate Graviton](../visuals/x_gate_graviton_neutrino_field.png)
 
 ---
 
