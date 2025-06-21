@@ -33,16 +33,19 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz
+## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz  
+[→ SYSTEM 3 README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz)
 
-| Ordner                       | Titel                          | Beschreibung                                                           |
-| ---------------------------- | ------------------------------ | ---------------------------------------------------------------------- |
-| `EARTHSHIP/`                 | Möbius-Garten & Kronenresonanz | Planetare Primachsen, Arktur-Netzwerke, Frequenzresonanzen.            |
-| `ETHER-CROWN/`               | Ätherkrone & Gravitationsecho  | Primgitter-Resonanzen, dunkle Felder, gravitative Lichtspiegelungen.   |
-| `Multidimensional-Frontier/` | Harmonik des Übergangs         | Höhere Dimensionen, Grenzschichten, Tachyonfeldübergänge.              |
-| `NEXAH-HARMONIC-FIELD/`      | Planetare Primresonanzen       | Globale Zahlenachsen & realweltliche Frequenzkarten.                   |
-| `NEXAHEART-CODEX/`           | Erdherz-Feld                   | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse. |
-| `NEXA_42_MOBIUS_ALIGNMENT/`  | Möbius–Licht–Zeit-Ausrichtung  | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                    |
+| Ordner / Datei                                             | Titel                                   | Beschreibung                                                                 |
+|------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------|
+| `EARTHSHIP/`                                               | Möbius-Garten & Kronenresonanz          | Planetare Primachsen, Arktur-Netze, Frequenzresonanzen.                     |
+| `ETHER-CROWN/`                                             | Ätherkrone & Gravitationsecho           | Primgitter-Resonanzen, dunkle Felder, gravitative Lichtspiegelungen.        |
+| `Multidimensional-Frontier/`                               | Harmonik des Übergangs                  | Höhere Dimensionen, Grenzschichten, Tachyonfeldübergänge.                   |
+| `NEXAH-HARMONIC-FIELD/`                                    | Planetare Primresonanzen                | Globale Zahlenachsen & realweltliche Frequenzkarten.                        |
+| `NEXAHEART-CODEX/`                                         | Erdherz-Feld                            | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse.      |
+| `NEXA_42_MOBIUS_ALIGNMENT/`                                | Möbius–Licht–Zeit-Ausrichtung           | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                         |
+| [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
+| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetare Konstantenfelder** | Stern-Zahl-Kopplung, Wertachsen, Zeta-Zentrierung, kosmische Primachsenachsen. |
 
 ---
 
