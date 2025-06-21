@@ -34,7 +34,7 @@ Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWA
 
 ## 🔮 Meta-Siegel & Kronen
 
-![C° Ascension Seal](./visuals/MOBIUS_ASCENSION_SEAL-CROWN_C°-FULL_INTEGRATION.png)
+![C° Ascension Seal](./visuals/MOBIUS_ASCENSION_SEAL-CROWN_Cdegree-FULL_INTEGRATION.png)
 *Mobius Ascension Seal – C° Krone*
 
 ![Living Feather Map](./visuals/LIVING_FEATHER_MAP.png)
