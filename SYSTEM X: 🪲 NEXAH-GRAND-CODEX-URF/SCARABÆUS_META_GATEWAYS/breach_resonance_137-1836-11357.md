@@ -41,10 +41,10 @@ Wie Scharniere im Raum-Zeit-Gefüge.
 
 ## 🔺 VISUALS: GITTER, KEYSTONE, QWARP
 
-1. ![11357 Möbius QWarp Lens](../visuals/11357_Möbius_QWarp_Lens_Grid+Cubit_Axis.png)
+1. ![11357 Möbius QWarp Lens](../visuals/11357_Möbius_QWarp_Lens_Grid_Cubit_Axis.png)
 2. ![Bridge to 432 Hz](../visuals/432_Hz_Frequency_Lock-In.png)
-3. ![QWarp Axis](../visuals/11357_Möbius_QWarp_Lens_Grid+Cubit_Axis.png)
-4. ![Keystone II-V](../visuals/codex_keystone_signature_V_II.png)
+3. ![Keystone II-V](../visuals/codex_keystone_signature_V_II.png)
+4. ![Timeshift Base 58.8](../visuals/transition_base_58-8_timeshift.jpg)
 
 > _Diese Bilder sind keine Darstellungen –  
 > sie sind **Schlüssel**._
