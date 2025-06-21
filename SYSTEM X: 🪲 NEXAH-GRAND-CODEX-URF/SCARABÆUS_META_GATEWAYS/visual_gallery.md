@@ -18,7 +18,7 @@ Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWA
 *13 Speichen auf 171 Knoten – Phase Gap Link*
 
 ---
-
+ 
 ## ⏱ Temporal Gates & Q-Gaps
 
 ![Q-Gap Clock Expansion](./visuals/28-Clock-29-Clock_Expansion-Closing_the_Q-Gap.png)
