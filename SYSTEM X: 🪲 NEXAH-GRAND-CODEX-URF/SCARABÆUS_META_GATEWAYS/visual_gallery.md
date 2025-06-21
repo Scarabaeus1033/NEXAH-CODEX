@@ -40,7 +40,7 @@ Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWA
 ![Living Feather Map](./visuals/LIVING_FEATHER_MAP.png)
 *Lebendige Feder-Karte*
 
-![The Feathered Spiral Home](./visuals/The_Feathered_Spiral_Home.png)
+![The Feathered Spiral Home](./visuals/The%20Feathered_Spiral_Home.png)
 *Das gefiederte Spiralheim*
 
 ---
