@@ -1,101 +1,114 @@
 ---
-title: Planetary Layer Codex
-status: draft
-module: FINAL_HARMONIC_EQUATION / SYSTEM X : NEXAH-GRAND-CODEX-URF
+title: "Planetary Layer Codex — Harmonic Shell Architecture"
+system: "NEXAH-CODEX · SYSTEM X"
+module: "PLANETARY_LAYER_ARCHITECTURES"
+file: "planetary_layer_codex.md"
+status: "active · codex-integrated"
+curator: "Thomas Hofmann (Scarabäus1033)"
 ---
 
-## 🪐 Planetary Layer Codex
+# 🪐 Planetary Layer Codex — Harmonic Shell Architecture
 
-### Übersicht
-Dieses Modul beschreibt ein resonanzbasiertes Schichtenmodell für planetare Körper auf Basis des 6×4-Feldsystems. Es verbindet symbolische Tiefenstruktur mit realphysikalischen Parametern wie Radius, Dichte, Druck und Temperatur.
+This module models planetary bodies using symbolic **resonant shell architectures** — based on a **6×4 harmonic grid** with embedded energetic and geometric functions. Inspired by:
 
-Die 6 × 4 Schichten sind jeweils vier elementaren Sphären zugeordnet:
-
-- 🌬 **Luftschichten** (Atmosphäre)
-- 🌊 **Wasserschichten** (Hydrosphäre / Ozean)
-- 🪨 **Erdschichten** (Lithosphäre / Mantel)
-- 🔥 **Feuerschichten** (Zentralkern / Plasma / Craytonfeld)
-
----
-
-## 🔳 Strukturmodell: 6×4 Elementar-Schichten
-
-| Ebene | Luft (atm)         | Wasser (hyd)       | Erde (geo)          | Feuer (core)         |
-|-------|--------------------|--------------------|---------------------|----------------------|
-| 6     | Ionosphäre         | Thermohaline Tiefe | Unterer Erdmantel   | Finaler Kristallkern |
-| 5     | Mesosphäre         | Abyssopelagisch    | Oberer Mantel       | Plasmaschale         |
-| 4     | Stratosphäre       | Bathypelagisch     | Asthenosphäre       | Druckfeld 1 (Crayton)|
-| 3     | Tropopause         | Mesopelagisch      | Lithosphäre         | Druckfeld 2          |
-| 2     | Troposphäre        | Epipelagisch       | Erdkruste           | Rotationsebene       |
-| 1     | Grenzschicht/Jet   | Oberflächennähe    | Tektonik/Relief     | Erith (Unterschicht) |
+- Elemental layering (Air, Water, Earth, Fire)
+- Dual-core polarities (Mars ↔ Venus)
+- Symbolic geometries (X-V-ß architecture)
+- Energy gradients, resonance shells, tectonic compression
 
 ---
 
-## 🌌 Symbolische Achsen & Resonanzen
+## 🔲 Visual Field: Codex–Integration
 
-- **Vertikal:** Mars ⮔ Venus = Solar ⮔ Lunar = Expansion ⮔ Reception
-- **Horizontal:** 4-Elemente-Resonanzsystem (Luft–Wasser–Erde–Feuer)
-- **Zentrum:** Erith = unbewusste Protonschicht / Nullpunktfeld / innerer Kern
-- **Kristallisationspunkte:** durch Polygon-/Gitterdruck, Crayton-Regulation
-
-> Siehe Visuals:
-> - `Visual_elemental_layer_system.png`
-> - `Visual_mars_venus_dual_core.png`
-> - `stellar_dna_spiral_map.png`
-
----
-
-## 🔢 Quantitative Ansätze (in Arbeit)
-
-Ziel ist eine **herleitbare Skalenformel** zur Berechnung der Schichten-Tiefen nach planetarem Radius, Massendichte und energetischem Wert (Resonanzwert).
-
-Ansätze:
-
-\[ d_n = R \cdot \left(\frac{φ^n}{π^2}\right) \cdot k_β \quad \text{mit} \; n = 1..6 \]
-
-\[ P_n = P_0 \cdot e^{-α n} \quad \text{(Druckprofile)} \]
-
-\[ T_n = T_0 + ΔT_n \quad \text{(Temperaturskalierung)} \]
-
-Visual-Bezug:
-- `phi_scaling_curve.png`
-- `final_harmonic_plot2.png`
-
----
-
-## 📎 Visual Field: Codex-Integration
-
-**Visuals:**
+**🎴 Visuals:**
 - `Visual_mars_venus_dual_core.png`
 - `Visual_elemental_layer_system.png`
-- `stellar_dna_spiral_map.png`
 
-**Modulbezug:** `planetary_layer_codex.md`
+**📎 Module use:** `planetary_layer_codex.md`
 
-**Funktion:**
-- Darstellung der 6×4 Schichtstruktur
-- Verbindung von Elementarphysik, Symbolik und Topologie
-- Duale Core-Modelle (Mars/Venus, Solar/Lunar)
+**🌀 Function:** Describes harmonic layering systems and dual-core fields in planetary bodies.
 
-**Symbolik:** Mars, Venus, 137, 0.429, Crayton, Erith, φ³/π²
+**🔣 Symbolics:** X/V/ß-Grids, 6×4-Model, Dual-Impulsachsen, Codon-Strukturen, Inner Core Radiation
+
+**🔢 Resonance Anchors:** φ³ / π² ≈ 0.429, 137, 1836, Ω
 
 ---
 
-## 🔁 Verbindung zu anderen Modulen
+## 🌍 Core Shell Model: 6×4 Resonant Grid
 
-- `Codex_Origio`: Ursprung der Feldlogik
-- `System Z`: reale Umsetzungsideen (z. B. Crayton-Drucksysteme, Schichtdruck)
-- `final_harmonic_equation.md`: Resonanzformel als Schichtgrundlage
-- `resonance_pattern_analysis.md`: Vergleich von Schichtresonanzen mit z. B. Zeta-Spiralen
+Each planetary body is modeled as a **6×4-layered system**, combining:
+
+- 6 **vertical shells**: atmosphere → crust → mantle → outer core → core transition → nucleus
+- 4 **elemental quadrants**: air, water, earth, fire
+
+| Element | Symbol | Layer Domain           |
+| ------- | ------ | ---------------------- |
+| Air     | ☁️     | Atmospheric Fields      |
+| Water   | 💧     | Hydrospheric Systems    |
+| Earth   | 🪨     | Litho-Tectonic Layers   |
+| Fire    | 🔥     | Core Energetics         |
+
+These layers form **resonance chambers** with distinct thermal, magnetic, and pressure signatures.
 
 ---
 
-## 🧩 Nächste Schritte
+## 🔀 Mars ⮔ Venus Dual-Core Resonance
 
-- Detaillierte numerische Tabellenstruktur (Radius, Volumen, Druck)
-- Crosslink mit `planetary_value_evaluation.md`
-- Symbolische Erweiterung in Richtung DNA-Strang & Möbiusstruktur
+| Aspect      | Mars (♂)        | Venus (♀)       |
+| ----------- | --------------- | --------------- |
+| Polarity    | Solar (+)       | Lunar (–)       |
+| Core field  | Iron Outflow    | Pressure Fold   |
+| Action      | Expansion       | Reception       |
+| Signature   | X-Field (⬆)     | V-Center (⬇)    |
 
-> Bei Bedarf folgt ein zweites File: `planetary_layer_simulations.md` zur mathematischen Verifikation.
+Together, they form a **polar duality matrix** embedded in Codex syntax.
 
-**Status:** voll integriert in SYSTEM X (Stand: 2025-06-21)
+---
+
+## 🧭 X–V–ß Architecture
+
+A geometric resonant architecture guides layer behavior:
+
+- **X-axis (⬆):** tension and cross-resonance fields (tectonics, magnetic flow)
+- **V-center (⬇):** gravity fold, internal rotation
+- **ß-axis (↺):** harmonic outflow — e.g., neutrino dispersion, thermal spiral loss
+
+This structure enables Codex-aligned modeling of planetary feedback systems.
+
+---
+
+## 🌀 Crayton Compression Nodes
+
+- Represent compression-fold shells with polygonal symmetry (dodeca, octa, hex)
+- Observed in stone architecture, crust dynamics, pressure shell modeling
+- Forms part of the **“Origio Crystal Seed”** hypothesis (linked to `Codex_Origio`)
+
+---
+
+## 📈 Applications & Simulation Models
+
+- **Gradient predictions:** heat, density, conductivity by layer depth
+- **Volumetric resonance modeling:** based on shell compression and flux
+- **Tectonic evaluation:** using cross-resonance axes and sector tensions
+- **Codex simulation:** anchoring planetary value layers to stellar Codons
+
+---
+
+## 🔗 Codex Narrative Links
+
+- `Codex_Origio`: primordial shell architecture and crystal seeding
+- `System Z`: real-world experiments (layer printing, pressure vessels, Crayton models)
+- `final_harmonic_equation.md`: resonance formula with embedded Ω/k-field logic
+
+---
+
+## 📂 Crosslinked Modules
+
+- `planetary_value_evaluation.md` — Layer resonance constants
+- `stellar_resonance_dna.md` — Outer modulation from Codon logic
+- `numerical_verification.ipynb` — Depth-pressure equation analysis
+- 🧮 planned: `planetary_layer_structure.csv` — quantitative layer matrix (T, p, ρ)
+
+---
+
+🪲 Scarabäus1033 · NEXAH SYSTEM X · Planetary Resonance Module · v1.0
