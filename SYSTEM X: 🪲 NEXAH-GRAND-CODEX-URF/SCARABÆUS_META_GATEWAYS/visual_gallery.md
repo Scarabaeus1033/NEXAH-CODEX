@@ -8,10 +8,10 @@ Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWA
 
 ### Möbius & Harmonikale Blüten
 
-![Möbius Harmonic Flower](./visuals/Möbius_Harmonic_Flower-13-Petal_Structure-Resonant_Gap.png)
+![Möbius Harmonic Flower](./visuals/Moebius_Harmonic_Flower-13-Petal_Structure-Resonant_Gap.png)
 *13-Petal Möbius Blume – Resonante Lücke*
 
-![Pearl-Diamond Sun Gear](./visuals/Möbius_Pearl–Diamond_Sun_Gear_Resonant_Gap_Harmonic_Petals.png)
+![Pearl-Diamond Sun Gear](./visuals/Moebius_Pearl–Diamond_Sun_Gear_Resonant_Gap_Harmonic_Petals.png)
 *Sonnenzahnrad mit Pearl–Diamond-Kern*
 
 ![Gear-Phase Gap](./visuals/Mobius_Harmonic_Gear-Phase_Gap-Mobius_Link_13_Spokes_over_171_Nodes.png)
