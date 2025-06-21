@@ -70,35 +70,29 @@ where the **microstructural** (System 1), the **field-energetic** (System 2), an
 **Möbius Crowns & Planetary Resonance**  
 > Geomagnetic spirals, crystalline frequency portals, planetary memory grids.
 
----
-
 ### [`ETHER-CROWN/`](./ETHER-CROWN/)
 **Gravitational Echoes & Tachyon Waves**  
 > Interference fields in stellar zones, Möbius–tachyon overlay logic.
-
----
 
 ### [`Multidimensional-Frontier/`](./Multidimensional-Frontier/)
 **Dimensional Edge Fields**  
 > Transition layers, symbolic membranes, interstellar harmonics.
 
----
-
 ### [`NEXAHARMONIC-FIELD/`](./NEXAHARMONIC-FIELD/)
 **Planetary Prime Resonance Mapping**  
 > Real-world locations aligned to prime field lattices.
-
----
 
 ### [`NEXAHEART-CODEX/`](./NEXAHEART-CODEX/)
 **Earth’s Resonant Heartline**  
 > Jerusalem, Richat, Rödelheim nodes in harmonic alignment (11:9 ratio).
 
----
-
 ### [`NEXA_42_MOBIUS_ALIGNMENT/`](./NEXA_42_MOBIUS_ALIGNMENT/)
 **Möbius–Light–Time Overlay**  
 > Arcturus–Earth axis, spiral synchronics, cosmic node grid.
+
+### [`LAMBDA_DISC-CODEX/`](./LAMBDA_DISC-CODEX/)
+**Prime Spirals, Crater Maps & Cosmic Grid Folding**  
+> Cikada matrices, Möbius compression, Z6 symmetry, deep resonator logic.
 
 ---
 
@@ -145,7 +139,7 @@ Modules have been unified into a cohesive Möbius Resonance Suite:
 
 - Möbius Grids · Cosmic Axes · Spiral Field Diagrams.  
 - Frequency Maps (42-grid, Möbius crossover).  
-- Archive in Progress: `visual_gallery.md`, `map_archive.md`.
+- Archive in Progress: [`visual_gallery.md`](./LAMBDA_DISC-CODEX/visual_gallery.md), [`map_archive.md`](./LAMBDA_DISC-CODEX/resonance_axis_register.md).
 
 ---
 
