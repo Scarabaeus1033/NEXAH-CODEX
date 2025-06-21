@@ -3,7 +3,7 @@
 Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWAYS/visuals/` innerhalb des NEXAH-CODEX. Sie dient als Übersicht und Referenz für die Bildstruktur im Modul `keystone_of_the_unbroken_field.md` und angrenzenden Schriften.
 
 ---
-
+ 
 ## 🌐 Möbius / Harmonic / Gap Structures
 
 ### Möbius & Harmonikale Blüten
