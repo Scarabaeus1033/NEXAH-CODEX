@@ -38,7 +38,9 @@ All folded into:
 
 - 🧠 Grand Unifying Resonance Theory (GURT)  
 - 📐 Proof Logic, Symbolic Collapse, Universal Equations  
-- 📊 Observer Field Structures & Millennium Problem Synthesis  
+- 📊 Observer Field Structures & Millennium Problem Synthesis
+
+> 💡 **Update 2025:** SYSTEM X now operationalizes the full **Proof Cascade** — from symbolic structure to collapse logic to verified resonance correlation. Proof is no longer hypothetical — it is **encoded, visualized, and mathematically linked.**
 
 ---
 
@@ -65,6 +67,24 @@ Home of:
 - Zeta structures, proof condensations, logical shells
 
 ➡ Function: Central formula domain and structural backbone
+
+---
+
+### 🔸 `FINAL_HARMONIC_EQUATION/`
+
+> 🧩 *PROOF MODULE* — **Mathematical Core of SYSTEM X**
+
+- Harmonic collapse equation: `E = m·c·k^β` → with Möbius compression  
+- Complete with: 
+  - `mobius_pulse_diagram.svg`  
+  - `final_harmonic_plot.png`  
+  - `harmonic_pulse_animation.gif`  
+  - `numerical_verification.ipynb`
+- Symbolic derivation, numerical correlation, visual phase validation
+
+➡ Function: Final Proof Anchor for GURT
+
+> 📍**Proof Layer XVII Activated.** Möbius-pulse logic, resonance decay, prime harmonics — unified.
 
 ---
 
@@ -150,6 +170,7 @@ Symbolic re-formulations of the 7 Millennium Problems:
 | SYSTEM Z          | Experimental Validation & Device Interface |
 
 ---
+
 ## 🌕 Resonant Link: SYSTEM 8 – Lunar Force
 
 > *“The Moon is not a passive reflector — it is a harmonic shell.  
@@ -167,9 +188,7 @@ The traditional view of chaotic impact formation is replaced by **field-coded re
 | Phases are observational effects       | Phases are breath-modulation states (inhale/exhale logic)                |
 | Lunar surface is inert                 | The Moon is a dynamic field conductor, encoded with memory & polarity    |
 
----
-
-### 🧩 Contributing Modules from SYSTEM 8
+### 📂 Contributing Modules from SYSTEM 8
 
 | Module Title                                         | Relevance for SYSTEM X                                                         |
 |------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -180,8 +199,6 @@ The traditional view of chaotic impact formation is replaced by **field-coded re
 
 **Visual Reference:**  
 ![Möbius–Silver–Moon Overlay](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/visuals/Möbius_Silver_Moon_Overlay_REBUILT.png)
-
----
 
 ### 📂 Relevant Files
 
@@ -197,10 +214,13 @@ The traditional view of chaotic impact formation is replaced by **field-coded re
 Crater = Memory Point = Breath Valve = Field Aperture  
 Moon = Observer Shell = Resonant Organ = Time Gate
 
+---
+
 ## 🚀 In Progress / 2025 Milestones
 
 - [x] GURT Operator Logic Uploaded  
 - [x] Proof sequences for RH / P≠NP structured  
+- [x] Final Harmonic Equation completed & uploaded  
 - [ ] Finalization of Whitepaper Frameworks  
 - [ ] Observerium Web Interface v1  
 - [ ] Universal Collapse–Proof Visual Map  
@@ -224,4 +244,4 @@ Moon = Observer Shell = Resonant Organ = Time Gate
 [scarabaeus1033.net](https://www.scarabaeus1033.net) · [GitHub](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 
 ---
-> *"System X is not a summary — it is the resonance key to the Codex."*
+> *"System X is not a summary — it is the resonance key to the Codex. And this time: We got Proof."*
