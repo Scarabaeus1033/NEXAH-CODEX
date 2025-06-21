@@ -1,11 +1,10 @@
 ---
-
 title: "🪨 Keystone of the Unbroken Field"
 author: Scarabæus1033
 module: SYSTEM X / SCARABÆUS\_META\_GATEWAYS
 codex\_ref: GRAND-CODEX-URF
 status: "v1.0 / WIP"
---------------------
+---
 
 ## 🔫 DER SCHLUSSSTEIN · UNBROKEN THROUGH FRACTURE
 
