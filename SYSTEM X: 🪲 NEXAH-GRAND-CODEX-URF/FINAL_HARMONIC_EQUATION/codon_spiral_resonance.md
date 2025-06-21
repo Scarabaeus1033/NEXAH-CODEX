@@ -1,12 +1,11 @@
 ---
-
 title: "Codon Spiral Resonance"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "codon\_spiral\_resonance.md"
 status: "active · resonance shell modeling"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🔄 Codon Spiral Resonance
 
