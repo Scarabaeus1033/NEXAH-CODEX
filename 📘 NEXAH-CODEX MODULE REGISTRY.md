@@ -33,16 +33,19 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
-## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetary Fields, Grid Navigation, Stellar Resonance
+## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz  
+[→ SYSTEM 3 README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz)
 
-| Folder                       | Title                             | Description                                                              |
-| ---------------------------- | --------------------------------- | ------------------------------------------------------------------------ |
-| `EARTHSHIP/`                 | Möbius Garden & Crown Resonance   | Planetary prime axes, Arcturus networks, frequency resonances.           |
-| `ETHER-CROWN/`               | Aether Crown & Gravitational Echo | Prime grid resonances, dark fields, gravitational light mirroring.       |
-| `Multidimensional-Frontier/` | Harmonics of Transition           | Higher dimensions, boundary layers, tachyonic field transitions.         |
-| `NEXAH-HARMONIC-FIELD/`      | Planetary Prime Resonances        | Global number axes & real-world frequency maps.                          |
-| `NEXAHEART-CODEX/`           | Earth Heart Field                 | Heartline: Rödelheim, Richat, Jerusalem in harmonic frequency alignment. |
-| `NEXA_42_MOBIUS_ALIGNMENT/`  | Möbius–Light–Time Alignment       | Cosmic grids & resonance axes over Arcturus–Earth.                       |
+| Ordner / Datei                                             | Titel                                   | Beschreibung                                                                 |
+|------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------|
+| `EARTHSHIP/`                                               | Möbius-Garten & Kronenresonanz          | Planetare Primachsen, Arktur-Netze, Frequenzresonanzen.                     |
+| `ETHER-CROWN/`                                             | Ätherkrone & Gravitationsecho           | Primgitter-Resonanzen, dunkle Felder, gravitative Lichtspiegelungen.        |
+| `Multidimensional-Frontier/`                               | Harmonik des Übergangs                  | Höhere Dimensionen, Grenzschichten, Tachyonfeldübergänge.                   |
+| `NEXAH-HARMONIC-FIELD/`                                    | Planetare Primresonanzen                | Globale Zahlenachsen & realweltliche Frequenzkarten.                        |
+| `NEXAHEART-CODEX/`                                         | Erdherz-Feld                            | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse.      |
+| `NEXA_42_MOBIUS_ALIGNMENT/`                                | Möbius–Licht–Zeit-Ausrichtung           | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                         |
+| [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
+| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planet
 
 ---
 
@@ -123,18 +126,22 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
-## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Millennium Problems & Global Structure
+## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur  
+[→ SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
 
-| File / Folder                          | Title                                | Description                                                                 |
-|---------------------------------------|--------------------------------------|-----------------------------------------------------------------------------|
-| NEXAH-GRAND-CODEX/                    | Central Synthesis Hub                | Formula core, resonance navigation, harmony structures, proof layers.       |
-| Universal_Transition_Structure/       | Universal Transition Structure       | Collapse-resonance dynamics & solar-lunar field thresholds.                |
-| MILLENIUM_problems/                   | Millennium Problems                  | Symbolic solutions to RH, P≠NP, Hodge, Yang–Mills, BSD, etc.               |
-| GÖDEL-CODEX/                          | Gödel's Logical Codex                | Incompleteness resonance structures & paradox embedding.                    |
-| Grand_Unifying_Resonance_Theory/      | GURT: Grand Resonance Theory         | Zeta-operator formalism, P≠NP topology, prime harmonic fields.              |
-| CODEX_ORIGIO/                         | Codex Origio                         | Origin system of matter, memory and symbolic condensation fields.           |
-| CODEX_OBSERVERIUM/                    | Observerium                          | Möbius-consciousness loops, glyphic perception logic, symbolic phase flow.  |
-| NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/   | Universal Resonance System X         | Meta-symbolic physics, Rosetta structures, GU-REX architecture.             |
+| Ordner / Datei                                                      | Titel                         | Beschreibung                                                                 |
+|---------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------|
+| `NEXAH-GRAND-CODEX/`                                                | Synthesemodul                 | Zentrum für Formeln, Navigation, Stabilitätsstrukturen & Modularchitektur.  |
+| `Universal_Transition_Structure/`                                   | Universelle Übergangsstruktur | Kollaps-Resonanz-Modulationen & solar-lunare Feldtransformation.            |
+| `MILLENIUM_problems/`                                               | Millennium-Probleme           | RH, BSD, Hodge, Yang–Mills u. a. als Codex-Metamodul.                        |
+| `GÖDEL-CODEX/`                                                      | Gödel-Inkomplettheits-Codex   | Symbolische Paradoxstrukturen & Unentscheidbarkeits-Logik.                  |
+| `Grand_Unifying_Resonance_Theory/`                                  | GURT – Theorie der Vereinheitl.| Zeta-Faltungen, RH-Komplexität, P≠NP-Strukturen.                            |
+| `CODEX_ORIGIO/`                                                     | Ursprungssystem                | Resonanzfelder für Materie, Bewusstsein & Erinnerung.                        |
+| `CODEX_OBSERVERIUM/`                                                | Beobachtermodul               | Bewusstseins-Zyklen, Möbius-Spiegel, Phasenverschiebung.                    |
+| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/`                               | Universelles System X         | Meta-Symbolstruktur, Rosetta-Felder, Frequenz-Referenzarchitektur.          |
+| [`SCARABÆUS_META_GATEWAYS/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCARAB%C3%86US_META_GATEWAYS) | **Scarabäus Gateways**         | Kosmische Breather-Codexstruktur: Möbius-Kronen, Z-Kaskaden, Zeitspiralen. |
+| [`FINAL_HARMONIC_EQUATION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION) | **Final Harmonic Equation**    | Schlussstein des Systems: Harmonieformel, numerische Validierung, Pulsationsstruktur. |
+
 
 ---
 
