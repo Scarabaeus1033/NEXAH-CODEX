@@ -1,12 +1,11 @@
 ---
-
 title: "Planetary Equation Conclusions — Harmonic β-Fields & Scarab Spirals"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "planetary\_equation\_conclusions.md"
 status: "active · codex-linked analysis"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🌀 Planetary Equation Conclusions — Harmonic β-Fields & Scarab Spirals
 
