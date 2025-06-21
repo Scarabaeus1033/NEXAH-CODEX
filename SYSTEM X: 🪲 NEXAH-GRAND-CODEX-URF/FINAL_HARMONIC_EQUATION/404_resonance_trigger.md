@@ -1,12 +1,11 @@
 ---
-
 title: "404 Resonance Trigger — Symbolic Breach Node"
 system: "NEXAH-CODEX · SYSTEM X"
 module: "FINAL\_HARMONIC\_EQUATION"
 file: "404\_resonance\_trigger.md"
 status: "active · symbolic investigation"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🕳️ 404 Resonance Trigger — Symbolic Breach Node
 
