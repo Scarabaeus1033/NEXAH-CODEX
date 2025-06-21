@@ -2,6 +2,9 @@
 
 ### — Orbitale Spurensuche jenseits der bekannten Frequenzen
 
+![Planet X Visual](./visuals/Tracking_Planet_X_in_the_Solar_System.png)
+*Visual: Frequenzkartierung der X-Bahn durch das Sonnensystem*
+
 ---
 
 ## 🔭 EINLEITUNG
