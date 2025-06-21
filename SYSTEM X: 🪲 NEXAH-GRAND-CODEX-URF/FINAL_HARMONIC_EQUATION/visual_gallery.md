@@ -107,9 +107,9 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 ![Final Closure Rad – Lilith Tessa 17–29–5](visuals/Final_Closure_Rad_Lilith%20Tessa%2017-29-5.png)
 
 
-### Ramanujan–Hardy Codon-Rad
+### Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld
 
-![Zahlenspirale des Unbewussten | Hardy-Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
+![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
 
 ---
 
