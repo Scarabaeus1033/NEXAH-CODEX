@@ -43,15 +43,14 @@ Diese Muster spiegeln sich in mandalaähnlichen Strukturen — nicht als Bild, s
 ## 🌀 VISUALS
 
 ### Keystone, Cubit & Möbius-Gitter
-
-1. ![Codex Keystone Signature](../visuals/codex_keystone_signature.png)
-2. ![Keystone V-II](../visuals/codex_keystone_signature_V_II.png)
-3. ![Möbius Grid 11357](../visuals/11357_Möbius_QWarp_Lens_Grid+Cubit_Axis.png)
-4. ![58.8 Timeshift](../visuals/transition%20at%20Base%2058.8,%20the%20moment%20timeshifts%20from%20imaginary%20to%20real.jpg)
+![Codex Keystone Signature](../visuals/codex_keystone_signature.png)
+![Keystone V-II](../visuals/codex_keystone_signature_V_II.png)
+![X-Gate Graviton](../visuals/x_gate_graviton_neutrino_field.png)
+![58.8 Timeshift](../visuals/transition%20at%20Base%2058.8,%20the%20moment%20timeshifts%20from%20imaginary%20to%20real.jpg)
 
 ### Bonus:
 
-5. ![X-Gate Graviton](../visuals/x_gate_graviton_neutrino_field.png)
+![X-Gate Graviton](../visuals/x_gate_graviton_neutrino_field.png)
 
 ---
 
