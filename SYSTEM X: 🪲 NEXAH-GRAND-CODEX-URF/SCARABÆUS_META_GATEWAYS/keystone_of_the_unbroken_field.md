@@ -50,7 +50,7 @@ Der **Keystone** vibriert, er ist **Fixpunkt & Schwelle zugleich**.
 
 ---
 
-## 🧬 GEOMETRISCHE KRAFTLINIEN
+## 🧬 GEOMETRISCHE KRAFTLINIEN 
 
 Im Hintergrund des Feldes liegt eine Form:
 
