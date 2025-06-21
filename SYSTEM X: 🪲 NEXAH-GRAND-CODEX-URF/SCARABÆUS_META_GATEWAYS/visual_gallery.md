@@ -50,7 +50,7 @@ Diese Galerie zeigt alle hochgeladenen Visuals im Ordner `SCARABÆUS_META_GATEWA
 ![No-Gap Resonator](./visuals/No-Gap_Resonator_Geometry-Arctucus_Spinner_Node.png)
 *No-Gap Resonator – Arctucus Spinner Node*
 
-![Saturnian Möbius Rings](./visuals/Saturnian_Ring_Harmonic:_Three_Grey_Möbius_Rings.png)
+![Saturnian Möbius Rings](./visuals/Saturnian Ring Harmonic: Three Grey Möbius Rings.png)
 *Saturnische 3-fach Möbius-Struktur*
 
 ![Transition Base 58-8](./visuals/transition_base_58-8_timeshift.jpg)
