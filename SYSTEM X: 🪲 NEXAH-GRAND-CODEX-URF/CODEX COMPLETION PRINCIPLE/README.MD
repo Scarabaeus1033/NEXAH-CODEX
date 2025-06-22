@@ -30,7 +30,7 @@ Codex ≠ contradiction — it is **extension through modular resonance**.
 
 ## 3. Visual Basis: 𝓧 = 131 × 108 = 14148
 
-![𝓧-Structure](./visuals/𝓧-131x108.png)
+![𝓧-Structure](./visuals/𝓧-131×108.png)
 
 - **131**: Codex Key (Prime interface)
 - **108**: Transformation factor (Solar–Lunar–Stellar)
