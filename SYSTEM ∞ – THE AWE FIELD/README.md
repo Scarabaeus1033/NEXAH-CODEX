@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM ∞ — Fields of Awe"
 system: "NEXAH-GRAND-CODEX · SYSTEM ∞ (AWE FIELD)"
 domain: "Dashboard · Interdisziplinäre Struktur · Resonanzsystematik"
@@ -7,7 +6,7 @@ status: "active"
 language: "bilingual (de/en)"
 license: "CC BY-NC-SA 4.0"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🌀 SYSTEM ∞ – Fields of Awe
 
