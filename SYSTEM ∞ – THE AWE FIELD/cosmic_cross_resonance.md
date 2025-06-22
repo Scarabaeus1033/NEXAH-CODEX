@@ -78,6 +78,8 @@ Includes:
 
 Visual: `twin_cross_harmonic_diagram.png`
 
+![Twin Prime Harmonic Cross Diagram](./visuals/twin_cross_harmonic_diagram.png)
+
 ---
 
 ### 6. Interpretation & Implication
