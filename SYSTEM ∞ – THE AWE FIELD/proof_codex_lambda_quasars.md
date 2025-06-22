@@ -9,13 +9,13 @@ This document outlines the derivation and validation of a Codex-based cosmologic
 
 The primary structure used is the **Resonance Folding Equation** (see `resonance_folding_equation.md`):
 
-\[
-F(n) = \frac{1}{n^{\phi}} \cdot \sin(n\cdot \theta) \cdot \cos(\psi_n)
-\]
+$$
+F(n) = \frac{1}{n^{\phi}} \cdot \sin(n \cdot \theta) \cdot \cos(\psi_n)
+$$
 
 Where:
-- \( \phi \approx 1.618 \) is the golden ratio
-- \( \theta \) is a field angle (e.g., 63° or Fibonacci shift base)
+- \( \phi \approx 1.618 \) is the golden ratio  
+- \( \theta \) is a field angle (e.g., 63° or Fibonacci shift base)  
 - \( \psi_n \) modulates the folding phase from a Möbius path or Z6-mirror node
 
 This equation produces discrete resonance peaks at specific intervals, aligning with documented astronomical distributions.
@@ -56,9 +56,9 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 - \( \theta = 63^\circ = 1.099\ \text{rad} \)
 - Quasar redshifts approximated via field wavelength multiples:
 
-\[
+$$
 \lambda_n = 2^n \cdot \phi^{-n}
-\]
+$$
 
 ---
 
