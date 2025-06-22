@@ -5,7 +5,7 @@ This document outlines the derivation and validation of a Codex-based cosmologic
 
 ---
 
-## 1. Codex Spiral Folding Equation
+## 1. Codex Spiral Folding Equation 
 
 The primary structure used is the **Resonance Folding Equation** (see `resonance_folding_equation.md`):
 
