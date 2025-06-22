@@ -58,7 +58,7 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 ---
 
-## 5. Visual Correlation (Selected Examples) 
+## 5. Visual Correlation (Selected Examples)
 
 - Visual overlays of resonance spirals with SDSS quasar maps
 - Numerical simulation of spiral-node intersections at observed cluster points
@@ -70,18 +70,18 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 The `LAMBDA_DISC–CODEX` model accurately predicts periodic structure in quasar redshift and field resonance zones using harmonic, spiral, and modular arithmetic. Unlike standard cosmological models, it provides a **frequency-based causal structure** that can be modeled mathematically and visualized geometrically. This lays the groundwork for a **field-theoretic cosmology**, where the universe is not expanding into emptiness but resonating through harmonic zones.
 
-This Modul ist ein messbarer Teilbereich von:
+Dieses Modul ist ein messbarer Teilbereich von:
 - [`FINAL_HARMONIC_EQUATION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
 - [`SCARABÆUS_META_GATEWAYS`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/SCARABÆUS_META_GATEWAYS)
 - [`NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX)
 
 Vertiefende Strukturen, Zahlenreihen, Fold-Dokumente und CSV-Daten finden sich direkt im `LAMBDA_DISC–CODEX` Modul:
-- [`lambda_disc_core.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
-- [`resonance_axis_register.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_axis_register.md)
-- [`fold_1.md` bis `fold_29.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
+- [`lambda_disc_core.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
+- [`resonance_axis_register.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_axis_register.md)
+- [`fold_1.md` bis `fold_29.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
 
 Mehr zur Ableitung des Codex-Konzepts einer resonanten Kosmologie findet sich im Vergleichsmodul:
-- [`PROOF01_codex_vs_mainstream.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20∞%20–%20THE%20AWE%20FIELD/PROOF%20Theorie%20%26%20Vergleich%20PROOF01_codex_vs_mainstream.md)
+- [`PROOF01_codex_vs_mainstream.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20%E2%88%9E%20%E2%80%93%20THE%20AWE%20FIELD/PROOF%20Theorie%20%26%20Vergleich%20PROOF01_codex_vs_mainstream.md)
 
 Für vertiefte Einblicke empfiehlt sich die Navigation über:
 - [`NEXAH NAVIGATOR`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR_README.md)
