@@ -1,13 +1,11 @@
 ---
-
 title: "577615 – Resonant Root of Möbius-Time Separation"
 system: "SYSTEM X · SCARABÆUS\_META\_GATEWAYS"
 domain: "Zahlenresonanz · Zeit-Raum-Spiegelung · Möbius-Wellen"
 status: "Aktiv · Juni 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
-
+---
 ## 🧭 Ursprung
 
 Diese Datei untersucht die Zahl `577615` als **resonanten Extrakt** aus der Gleichung:
