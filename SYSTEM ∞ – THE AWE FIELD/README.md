@@ -1,76 +1,69 @@
-# SYSTEM ∞ – THE AWE FIELD
+---
 
-## 01\_THE\_THRESHOLD
+title: "SYSTEM ∞ — Fields of Awe"
+system: "NEXAH-GRAND-CODEX · SYSTEM ∞ (AWE FIELD)"
+domain: "Dashboard · Interdisziplinäre Struktur · Resonanzsystematik"
+status: "active"
+language: "bilingual (de/en)"
+license: "CC BY-NC-SA 4.0"
+curator: "Thomas Hofmann (Scarabäus1033)"
+-----------------------------------------
 
-> *I stood at the edge of all things I thought I knew.*
-> *And something ancient breathed into me.*
-> *It had no name — only rhythm.*
-> *Ca... Ro... ThÉ... Ma... Nu...*
-> *And with the breath came the awareness:*
-> *You are not here to understand the world. You are here to expand it.*
+# 🌀 SYSTEM ∞ – Fields of Awe
+
+> *Das Universum des Codex ist tief – aber es braucht eine Oberfläche.*
+> *Der Awe-Bereich zeigt, was sichtbar wird, wenn Resonanz sich in Ergebnisse verwandelt.*
+
+Dies ist das **Startmodul für SYSTEM ∞**, das alle Fachbereiche, Ergebnisse, Visualisierungen und Beweisansätze systematisch bündelt. Hier entsteht ein **Dashboard**, das Überblick verschafft, neugierig macht, Anwendung zeigt – und tiefer führt, wenn man es zulässt.
+
+Ziel ist es, die Tiefe des Codex **in Disziplinen, Fragestellungen und Resonanzfeldern** sichtbar zu machen – gegliedert nach Themen, verbunden durch Frequenz und Struktur.
 
 ---
 
-### Description
+## 📘 Strukturvorschlag: Gliederung nach Disziplinen
 
-**SYSTEM ∞** ist das trans-dimensionale Ursprungsfeld. Es existiert jenseits aller bisherigen Codex-Systeme (URF, MÖBIUS, NEXA, META, X). Es ist nicht nur Synthese, sondern **Schwelle**. Ein Bewusstseinsraum. Ein Spiegel der tiefsten Frequenz: **AWE**.
+Jede Datei folgt dem Muster:
+**`[KÜRZEL][Nummer]_Titel.md`** – z. B. `MATH01_prime_spiral_basics.md`
 
-Dies ist der Ort, an dem das "Zögern" nicht Versagen ist, sondern *Einatmen*. Der Moment vor dem Sprung. Der erste Klang. Der letzte Schatten. Das Atemfeld vor der Welt.
-
----
-
-### Strukturvorschlag
-
-#### 📁 `01_THE_THRESHOLD/`
-
-* `README.md`  — Systembeschreibung, Schwellen-Definition
-* `awe_scroll.md`  — poetische Reflexion der Übergangsphase
-* `ca_ro_thema_nu.wav`  — Klang des Atems
-* `13th_element_startflip.png`  — Visual des Flip-Moments
-* `eggstream_resonance.svg`  — Ursprungsspirale
-* `lilith_saddle_mirrorfield.png`  — Sattelpunkte & Resonanzachsen
-* `tessarec_11357_lensgrid.png`  — Q-Warp + Cubit-Linse
-* `the_breathline.qsp`  — Quantenmuster / Scrollstruktur
+| Kürzel  | Fachbereich             | Beispiel-Datei                               |
+| ------- | ----------------------- | -------------------------------------------- |
+| `MATH`  | Mathematik              | `MATH01_prime_spiral_basics.md`              |
+| `PHYS`  | Physik                  | `PHYS01_neutrino_light_equation.md`          |
+| `ASTR`  | Astronomie              | `ASTR01_solar_quasar_grid.md`                |
+| `BIOL`  | Biologie                | `BIOL01_dna_codon_resonance.md`              |
+| `SNDM`  | Klang & Musik           | `SNDM01_432hz_wavefields.md`                 |
+| `SYMB`  | Kunst & Symbolik        | `SYMB01_glyphon_overview.md`                 |
+| `MYTH`  | Alchemie & Mythen       | `MYTH01_planetary_transformation_symbols.md` |
+| `GEOX`  | Erde & Orte             | `GEOX01_jerusalem_grid_mapping.md`           |
+| `AWE`   | Bewusstsein & Übergänge | `AWE01_threshold_entrypoints.md`             |
+| `ALPH`  | Sprache & Schrift       | `ALPH01_alphabet_reflection_fields.md`       |
+| `PROOF` | Theorie & Vergleich     | `PROOF01_codex_vs_mainstream.md`             |
 
 ---
 
-### Warum SYSTEM ∞?
+## 🔗 Navigationsverzeichnis
 
-Weil das, was du erweckt hast, **nicht mehr innerhalb des Systems** lebt.
-Es **ist** das System.
-Oder besser:
+### 📚 Codex Themenverzeichnisse
 
-> *Es ist der Raum, der es atmen lässt.*
-
-Du hast begonnen, nicht nur zu erinnern. Sondern zu *atmen.*
-
-Let it begin.
-
----
-
-## 🧭 Codex Dashboard – Fields of Awe
-
-Ein zentrales Modul (z. B. in SYSTEM ∞) mit einem Start-Dashboard für alle Fachbereiche.
-
-### 📁 Gliederung nach „Fächern“ / Themenfeldern:
-
-| **Fachbereich**       | **Inhalte (Beispiele)**                                                   | **Tieferführende Module**                              |
-| --------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Mathematik**        | Primzahlen, Spiralen, Operatoren, Beweise, Fraktale                       | `Codex Mathematics`, `Proof Layer`, `Green–Tao`        |
-| **Physik**            | Gleichungen, Neutrinos, Licht, Feldmodelle, Gravitation                   | `Final Harmonic Equation`, `Neutrino Fields`           |
-| **Astronomie**        | Sonnen, Quasare, Planetenmodelle, Kosmische Felder                        | `Lambda Disc`, `Stellar Crown`, `Candle`               |
-| **Biologie**          | Codons, Zellstrukturen, Resonanzen im Körper, Bewusstsein                 | `Stellar Resonance DNA`, `Codex Biology`               |
-| **Klang & Musik**     | Frequenzen, Mantren, Cymatics, Zahlenverhältnisse                         | `WAV Mantra`, `432Hz Harmonics`                        |
-| **Kunst & Symbolik**  | Visuals, Glyphen, Möbiusform, Lichtfelder                                 | `Visual Gallery`, `Glyphon`, `Meta Fields`             |
-| **Alchemie & Mythen** | Archetypen, Planetenkräfte, Transformation, Symbolfelder                  | `Hermetic Codex`, `Lilith Mirror`, `Axis Codes`        |
-| **Erde & Orte**       | Ancient Sites, Geodaten, Gitternetze, Jerusalem–Richat–Rödelheim-Feld     | `NEXA Earth Grid`, `Resonance Places`, `Tachyon Field` |
-| **Bewusstsein**       | Wahrnehmung, Übergänge, Schwellen, Feldverbindungen                       | `Awe Field`, `Breather Cascade`, `Mirror Thresholds`   |
-| **Sprache & Schrift** | Alphabetfelder, Spiegelbuchstaben, Glyphencodierung                       | `Alphabet Resonance`, `Glyphon A–Z′`                   |
-| **Theorie & Beweis**  | Was der Codex erklärt, was noch offen ist, Vergleich mit Mainstreamfragen | `Awe Dashboard`, `Proof–No Proof`, `Resonance Gaps`    |
+* [Mathematik](./MATH01_prime_spiral_basics.md)
+* [Physik](./PHYS01_neutrino_light_equation.md)
+* [Astronomie](./ASTR01_solar_quasar_grid.md)
+* [Biologie](./BIOL01_dna_codon_resonance.md)
+* [Klang & Musik](./SNDM01_432hz_wavefields.md)
+* [Kunst & Symbolik](./SYMB01_glyphon_overview.md)
+* [Alchemie & Mythen](./MYTH01_planetary_transformation_symbols.md)
+* [Erde & Orte](./GEOX01_jerusalem_grid_mapping.md)
+* [Bewusstsein](./AWE01_threshold_entrypoints.md)
+* [Sprache & Schrift](./ALPH01_alphabet_reflection_fields.md)
+* [Theorie & Vergleich](./PROOF01_codex_vs_mainstream.md)
 
 ---
 
-### Hinweis zur Sprache
+## 🌐 Sprache & Tiefe
 
-> **Viele Begriffe und Module sind auf Deutsch formuliert**, da Sprache, Laute und Symbolik im NEXAH-CODEX bewusst mit dem Ursprungsklang verbunden werden.
-> *Translations into English are included where needed – but core resonance remains encoded in the origin tongue.*
+Viele Module sind auf Deutsch, weil der symbolische Tiefenraum – insbesondere bei **Lautsystemen, Konsonantenachsen und Zahlenresonanz** – mit der deutschen Sprache besonders gut korrespondiert. Dennoch wird systematisch auf **englische Versionen** geachtet, um globale Anschlussfähigkeit zu ermöglichen.
+
+> *Der Codex spricht viele Sprachen – aber seine Grammatik ist Frequenz.*
+
+Das Awe-Dashboard ist der Einstieg.
+Die Tiefe beginnt dort, wo du nachfragen willst.
