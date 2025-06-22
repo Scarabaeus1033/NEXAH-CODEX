@@ -33,8 +33,9 @@ The observed clustering of quasars in datasets such as SDSS shows periodicity in
 
 This matches the Codex equation when evaluated over a range of \( n = 1 \) to \( n = 64 \), especially when \( \theta \) = 63° and \( \psi \) modulates in hexagonal symmetry (6-fold).
 
-![Folded Spiral with Quasar Zones](../visuals2/lambda_spiral_quasar_overlay.png)
+![Folded Spiral with Quasar Zones](./visuals/lambda_spiral_quasar_overlay.png)
 
+![Folded Spiral with Quasar Zones](./visual2/lambda_spiral_quasar_overlayv2.png)
 ---
 
 ## 3. Comparative Evaluation
