@@ -78,7 +78,7 @@ Sequence: 2 → 3 → 5 → 7 → 13 → 17 → 19 → 23 → 29 → 231 → 231
 **Earth\_Mobius\_Crown\_Breathing\_Compression\_2025–2200.png**
 → *Longwave Möbius phase for Earth’s resonance compression.*
 
-![Earth\_Compression](./visuals/Earth_Mobius_Crown_Breathing_Compression_2025–2200.png)
+![Earth\_Compression](./visuals/Earth_Mobius_Crown_Breathing_Compression_2025-2200.png)
 
 ### C. Earth Möbius Simulation Detail
 
