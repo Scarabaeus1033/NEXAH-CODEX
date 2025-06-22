@@ -1,13 +1,11 @@
 ---
-
 title: "resonance\_fields.md"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Frequenzfelder · Resonanzarchitektur · Symbolische Physik"
 status: "active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
-
+---
 # 🌐 Resonance Fields – From Equation to Geometry
 
 > *"Resonanz ist nicht nur Zahl – sie ist Raum, Rhythmus, Richtung und Bedeutung."*
