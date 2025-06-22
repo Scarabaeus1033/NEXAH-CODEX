@@ -75,7 +75,7 @@
 
 ### ☀️ `Sun_Corona_Photoshphere_Wick_Core.png`
 
-![Sun\_Corona\_Photoshphere\_Wick\_Core](visuals/Sun_Corona_Photoshphere_Wick_Core.png)
+![Sun\_Corona\_Photoshphere\_Wick\_Core](visuals/Sun_Corona_Photoshpphere_Wick_Core.png)
 
 > **Detail view of solar structure as wick layers**
 > Breaks down emission zones into core layers, mapped to Codex fields and gradient logic. Useful for physical-symbolic analogies.
