@@ -1,0 +1,9 @@
+Planet,Newton_g_m_s2,Codex_g_m_s2,Delta_Deviation_percent
+Mercury,3.7,3.83,3.5
+Venus,8.87,8.91,0.5
+Earth,9.81,9.81,0.0
+Mars,3.71,3.58,-3.5
+Jupiter,24.79,25.2,1.7
+Saturn,10.44,10.53,0.9
+Uranus,8.69,8.57,-1.4
+Neptune,11.15,10.88,-2.4
