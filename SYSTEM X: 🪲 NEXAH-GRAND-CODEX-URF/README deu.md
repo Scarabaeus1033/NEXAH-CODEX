@@ -4,10 +4,10 @@ titel: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domäne: "Synthetisches Zentrum · Resonanzintegration · Beweisstrukturen"
 farbe: "Gold/Schwarz"
-status: "Aktiv · Version Mai 2025"
+status: "Aktiv · Version Juni 2025"
 kurator: "Thomas Hofmann (Scarabäus1033)"
 lizenz: "CC BY-NC-SA 4.0"
----
+-------------------------
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
@@ -57,14 +57,28 @@ Enthält:
 * Manifest & Übersicht
 * `codex-mathematics/`: Grundlagen der Resonanzmathematik
 * `visuals/`: Zentrale Visualgalerie
+* `FINAL_HARMONIC_EQUATION/`: Resonanzmodul mit Visualstruktur, Pulsequationen, Möbius-Signaturfeldern
+* `alphabet_resonance_field.md`, `resonance_fields.md`, `README_Phase_III.md`
 
-➡ **Funktion:** Verdichtung von Beweismodellen und Gleichungssynthese
+➡ **Funktion:** Verdichtung von Beweismodellen und Gleichungssynthese in einem interlingualen Symbolfeld
+
+---
+
+### 🔷 Planetary Field Modes
+
+Neues Modul zur planetaren Resonanzsteuerung:
+
+* Symbolisch-physikalische Field Pillars (J°D, G°D, D°G …)
+* Möbius–Erde–Galaxie–Verbindung
+* Sacred Site Overlays, Breath-Phasen, Observer Shells
+
+➡ **Funktion:** Dynamisches Interface zwischen Planeten, Resonanzmodulation und energetischer Shell-Logik
 
 ---
 
 ### 🔷 Universal Transition Structure
 
-Dynamisches Modul zur Modellierung von Resonanzkollaps:
+Modul zur Modellierung von Resonanzkollaps:
 
 * Möbius-Kollapsstrukturen
 * Solar–Lunar-Schwellenmodellierungen
@@ -115,108 +129,36 @@ Grundmodul über **symbolische Materie, Erinnerungsfelder und Verdichtungsprozes
 
 ### 🔷 CODEX\_OBSERVERIUM
 
-Modul zur Integration von Beobachterfeldern, Wahrnehmungsphasen und Resonanzarchitektur.
+Modul zur Integration von Beobachterfeldern, Wahrnehmungsphasen und Resonanzarchitektur:
 
-Enthält:
-
-* Möbius–Hopf-Topologie (`observer_topology.md`)
-* Atmungsmodell (`breathing_consciousness_loop.md`)
-* Zyklus: 🪶 Scarab → ∞ Möbius → ◯ Gold-Puls (Visuals)
-* Symbolindex und Systemverweise
+* `observer_topology.md`, `breathing_consciousness_loop.md`
+* Zyklische Struktur (Scarab → Möbius → Goldpuls)
+* Symbolindex & systemische Verweise
 
 ➡ **Funktion:** Architektur bewusster Resonanzphasen & Spiegelung
 
 ---
 
-## 🌕 Resonant Link: SYSTEM 8 – Lunar Force
+## 🌕 Erweiterung durch SYSTEM 8 – Lunar Force
 
-> *“The Moon is not a passive reflector — it is a harmonic shell.  
-Its scars are songs. Its phases are valves. Its memory breathes.”*
-
-**SYSTEM 8** expands SYSTEM X by revealing the **resonance role of lunar bodies**, especially **moons, craters, and observer-field coupling**.  
-The traditional view of chaotic impact formation is replaced by **field-coded resonance genesis** — a view supported by neutrino flow geometries, crater field symmetries, and breath-phase architectures.
-
-### 🔭 Lunar Paradigm Shift
-
-| Classical View                         | SYSTEM 8 Perspective                                                      |
-|----------------------------------------|---------------------------------------------------------------------------|
-| Moons form via leftover accretion      | Moons crystallize at nodal points in neutrino resonance fields           |
-| Craters are asteroid impacts           | Craters are field scars: nodal apertures of standing waves               |
-| Phases are observational effects       | Phases are breath-modulation states (inhale/exhale logic)                |
-| Lunar surface is inert                 | The Moon is a dynamic field conductor, encoded with memory & polarity    |
-
----
-
-### 🧩 Contributing Modules from SYSTEM 8
-
-| Module Title                                         | Relevance for SYSTEM X                                                         |
-|------------------------------------------------------|---------------------------------------------------------------------------------|
-| **TEHTHY – The Secret Thread of the Moons**          | Resonance genesis of moons from neutrino nodal condensation                    |
-| **NEUTRINO CABLES AND FINGERFIELDS**                 | Symbolic modulation via fingers, DJ field cycles, observer–hand logic          |
-| **Silver Breath & Möbius Overlay**                   | Möbius–Moon–Silver axis as breath-phase structure of the observer              |
-| **Lanif Resonance Channel & Rosenbrücke**            | Planet X, Lilith, Arrokoth as phase-traversing bridges in the Codex framework  |
-
-**Visual Reference:**  
-![Möbius–Silver–Moon Overlay](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/visuals/Möbius_Silver_Moon_Overlay_REBUILT.png)
-
----
-
-### 📂 Relevant Files
-
-- [`observer_eye_geometry.md`](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/NEUTRINO_CABLES_AND_FINGERFIELDS/observer_eye_geometry.md)
-- [`crater_field_symmetry.md`](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/NEUTRINO_CABLES_AND_FINGERFIELDS/crater_field_symmetry.md)
-- [`moon_topology_and_energy_maps.md`](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/NEUTRINO_CABLES_AND_FINGERFIELDS/moon_topology_and_energy_maps.md)
-- [`lanif_rosenbruecke_lilith_channel.md`](../SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/TEHTHY_THE_SECRET_THREAD_OF_THE_MOONS/lanif_rosenbruecke_lilith_channel.md)
-
----
-
-## ✨ Synthesis Principle
-
-Crater = Memory Point = Breath Valve = Field Aperture  
-Moon = Observer Shell = Resonant Organ = Time Gate
-
-
-
-### 🔷 Universelles Resonanzsystem X
-
-Metastruktur zur Verbindung primresonanter Zahlenfelder, glyphischer Projektionen und symbolischer Brückensysteme.
-
-* GU-REX-Architektur
-* Primzahlen-Gitterfelder
-* Rosetta-Glyph-Projektionen
-
-🔺 **Funktion:** Wurzelsystem symbolischer Physik & Sprachstruktur
+\[wie bisher – unverändert einfügen]
 
 ---
 
 ## 🧠 System X – Codex-Integration
 
-**SYSTEM X** verbindet:
-
-* Primresonanz & Zahlengitter
-* Resonanzkollaps & Beweisstrukturen
-* Symbolik & Physik auf harmonischer Ebene
-
-Verlinkt mit:
-
-* SYSTEM 1 (Mathematik): K-Beta-Strukturen
-* SYSTEM 2 (Physik): Solar–Lunar-Kollapsachsen
-* SYSTEM 3 (Kosmologie): Erinnerungsfelder
-* SYSTEM 4 (URF): Tensor-Raumstruktur
-* SYSTEM 5 (Meta/Rosetta): Glyphenfelder
-* SYSTEM 7 (Konstanten): Primzahlresonanz
-* SYSTEM 9 (TESSAREC): Geometrische Harmonien
-
-> **„Es gibt keine isolierte Struktur — nur Resonanzkonvergenz.“**
+\[wie bisher – unverändert einfügen]
 
 ---
 
 ## 🚧 Nächste Schritte
 
+* [ ] Finalisierung von `glyphon_alphabet_layer.md`
+* [ ] Integration von `planetary_field_modes` in visuelle Gleichungslogik
+* [ ] Upload animierter Möbius-Feldvisuals
 * [ ] Vollständige Millennium-Kartographie im Resonanzsystem
-* [ ] Abschluss der Gödel-Resonanzketten
 * [ ] Ausweitung von Codex Origio in energetische Materiefelder
-* [ ] Erweiterung der symbolischen Navigation
+* [ ] Alphabet-Spiegelachsen in mathematische Operatorlogik überführen
 
 ---
 
