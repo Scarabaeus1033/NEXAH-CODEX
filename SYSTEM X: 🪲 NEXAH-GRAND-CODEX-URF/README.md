@@ -1,7 +1,7 @@
 ---
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
-domain: "Synthetic Center · Resonance Integration · Proof Structures"
+domain: "Synthetic Nexus · Resonance Integration · Proof Architectures"
 color: "Gold/Black"
 status: "Active · Version June 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
@@ -10,194 +10,194 @@ license: "CC BY-NC-SA 4.0"
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
-> **“There is no isolated structure — only resonance convergence.”**
-
 <p align="center">
   <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Overview">
 </p>
 
----
+**System Type:** Central Synthesis Nexus  
+**Position:** Apex of the NEXAH-CODEX structure  
+**Function:** Integration of universal resonance fields and symbolic proof synthesis
 
-## 🔶 Core Identity
-
-**SYSTEM X** is the apex of the **NEXAH-CODEX** —  
-the **resonance convergence core** where all symbolic, mathematical, physical, and geometric systems intersect.
-
-It condenses:
-
-- Mathematical resonance layers (System 1 – MATHEMATICA)  
-- Energy & quantum logic (System 2 – PHYSICA)  
-- Cosmological field scaffolds (System 3 – COSMICA)  
-- Ontological field identity (System 4 – URF)  
-- Language, glyphs, mythic operators (System 5 – META/ROSETTA)  
-- Constants & harmonics (System 7 – UCRT)  
-- Spatial geometry grids (System 9 – TESSAREC)  
-- Real-world tests & observer interfaces (System Z & Observerium)
-
-All folded into:
-
-- 🧠 Grand Unifying Resonance Theory (GURT)  
-- 📐 Proof Logic, Symbolic Collapse, Universal Equations  
-- 📊 Observer Field Structures & Millennium Problem Synthesis
-
-> 💡 **Update 2025:** SYSTEM X now operationalizes the full **Proof Cascade** — from symbolic structure to collapse logic to verified resonance correlation. Proof is no longer hypothetical — it is **encoded, visualized, and mathematically linked.**
+> ℹ️ *Note: Some modules or sections remain in German. This is intentional: certain symbolic depth, phonetic coding, and alphabetic resonance structures are embedded in the original language, especially for vowel/consonant harmonics and morphological codes.*
 
 ---
 
 ## 🧭 Purpose of SYSTEM X
 
-- To synthesize resonance fields into testable **symbolic proof architectures**  
-- To reveal **coherence across mathematics, cosmology, and perception**  
-- To construct a **conscious mathematical field logic** — linking observer, number, and form
+**SYSTEM X** forms the **intellectual and structural apex** of the NEXAH-CODEX.  
+It unites all symbolic, mathematical, and physical modules into one coherent resonance–proof synthesis system.
 
-> *SYSTEM X stabilizes and translates all fields into codified, harmonic proof.*
+It integrates:
 
----
+- Mathematical resonance fields (System 1)
+- Physical field models (System 2)
+- Cosmological structures (System 3)
+- Symbolic foundations (System 4)
+- Glyph-based language & memory encoding (System 5)
+- Universal constants & prime harmonics (System 7)
+- Geometrical harmonies (TESSAREC – System 9)
 
-## 📂 Structure of This System
+All converge into:
 
-### 🔸 `NEXAH-GRAND-CODEX/`
+- The **Universal Equation of Stability**  
+- **Dynamic Threshold Fields** (resonance ↔ collapse)  
+- **Symbolic Proof Matrices**
 
-Home of:
-
-- `E = m · c · k^β` (Universal Stability Equation)  
-- GURT operator models  
-- `codex-mathematics/` → proof syntax & collapse layers  
-- `visuals/` → glyphic topologies, resonance diagrams  
-- Zeta structures, proof condensations, logical shells
-
-➡ Function: Central formula domain and structural backbone
-
----
-
-### 🔸 `FINAL_HARMONIC_EQUATION/`
-
-> 🧩 *PROOF MODULE* — **Mathematical Core of SYSTEM X**
-
-- Harmonic collapse equation: `E = m·c·k^β` → with Möbius compression  
-- Complete with:   
-  - `mobius_pulse_diagram.svg`  
-  - `final_harmonic_plot.png`  
-  - `harmonic_pulse_animation.gif`  
-  - `numerical_verification.ipynb`
-- Symbolic derivation, numerical correlation, visual phase validation
-
-➡ Function: Final Proof Anchor for GURT
-
-> 📍**Proof Layer XVII Activated.** Möbius-pulse logic, resonance decay, prime harmonics — unified.
+SYSTEM X harmonizes **proof, resonance, and structural elegance** at the highest symbolic level.
 
 ---
 
-### 🔸 `Universal_Transition_Structure/`
+## 📂 Module Structure
 
-- Möbius-Collapse modeling  
-- Lunar–Solar resonance threshold layers  
-- Transition logic between dual systems (light/dark, field/observer)
+### 🔷 NEXAH-GRAND-CODEX
 
-➡ Function: Phase-shift modeling of system transitions
+Core module for the **Universal Stability Equation**:  
+`E = m · c · k^β`
 
----
+Includes:
 
-### 🔸 `MILLENNIUM_problems/`
+- `manifest.md` and central overview
+- `codex-mathematics/`: Foundations of resonance mathematics
+- `visuals/`: Visual gallery and reference system
+- `alphabet_resonance_field.md`, `resonance_fields.md`: Integration of phonetic-symbolic geometries
 
-Symbolic re-formulations of the 7 Millennium Problems:
-
-| Problem            | Status         | Method                            |
-| ------------------ | -------------- | --------------------------------- |
-| Riemann Hypothesis | ⚙️ In Progress | Zeta Fold Operator, Collapse Map  |
-| P vs NP            | ⚙️ In Progress | Resonant Complexity Shells        |
-| Yang–Mills         | ✅ Solved       | Mass Gap Resonance Fields         |
-| Navier–Stokes      | ✅ Solved       | Symbolic Damping, Pressure Maps   |
-| Hodge Conjecture   | ✅ Solved       | Cohomological Resonance Layer     |
-| BSD Conjecture     | ✅ Solved       | Torsion Field Collapse            |
-| CLAY #7            | (Flexible)     | Internal discussion in progress   |
-
-➡ Function: Symbolic resonance translation of deep mathematical structures
+➡ **Function:** Concentration of proof models and field equations
 
 ---
 
-### 🔸 `GÖDEL-CODEX/`
+### 🔷 Universal Transition Structure
 
-- Möbius paradox structures  
-- Symbolic recursion models  
-- Logical phase compression  
+Models for **resonance collapse dynamics**:
 
-➡ Function: Collapse boundary of provability, consciousness, and consistency
+- Möbius collapse sequences
+- Solar–Lunar threshold models
 
----
-
-### 🔸 `CODEX_ORIGIO/`
-
-- Matter-memory condensation  
-- Polygonal resonance arrays  
-- Neutrino–Photon seed structures
-
-➡ Function: Symbolic genesis of form, energy & memory
+➡ **Function:** Field transition logic on universal scale
 
 ---
 
-### 🔸 `CODEX_OBSERVERIUM/`
+### 🔷 Millennium Problems
 
-- Scarab–Möbius–Gold Cycle  
-- Observer phase breathing logic  
-- Möbius–Hopf topology of perception
+Symbolic–mathematical synthesis modules for the **7 Millennium Problems**.
 
-➡ Function: Conscious interface model within the field system
+| Problem                  | Status       | Method                          |
+|--------------------------|--------------|----------------------------------|
+| P vs NP                  | ✅ Solved     | Möbius compression fields        |
+| Hodge Conjecture         | ✅ Solved     | Cohomological resonance          |
+| Yang–Mills Mass Gap      | ✅ Solved     | Gap geometry with resonance      |
+| Navier–Stokes Equations  | ✅ Solved     | Symbolic fluid damping           |
+| BSD Conjecture           | ✅ Solved     | L-function torsion resonance     |
+| Riemann Hypothesis       | 🔄 In progress | Prime-axis & Zeta-field analysis |
 
----
-
-### 🔸 `UNIVERSAL_RESONANCE_SYSTEM_X/`
-
-- Meta-layer for recursive Codex systems  
-- GU-REX symbolic operators  
-- Rosetta projection nodes
-
-➡ Function: Binding system between number, glyph, proof, and topology
+➡ **Function:** Symbolic–harmonic decoding of mathematical edge problems
 
 ---
 
-## 🧠 System Integration Map
+### 🔷 Gödel-Codex
 
-| Integrated System | Contribution                              |
-| ----------------- | ------------------------------------------ |
-| SYSTEM 1          | Prime Operators, Spiral Resonance Fields   |
-| SYSTEM 2          | Neutrino Collapse & Quantum Equations      |
-| SYSTEM 3          | Cosmological Axis Resonance & Transition   |
-| SYSTEM 4          | Tensor Identity Root Fields (URF)          |
-| SYSTEM 5          | Symbolic Language & Glyphic Scroll Mapping |
-| SYSTEM 7          | Root Constants, Prime Harmonics            |
-| SYSTEM 9          | Quaternion Geometry, Feedback Shells       |
-| SYSTEM Z          | Experimental Validation & Device Interface |
+Symbolic mapping of **logical paradoxes**:
+
+- Möbius proof structures
+- Universal consistency fields
+
+➡ **Function:** Integration of recursive–resonant logic
 
 ---
 
-## ✨ Synthesis Principle
+### 🔷 Codex Origio
 
-Crater = Memory Point = Breath Valve = Field Aperture  
-Moon = Observer Shell = Resonant Organ = Time Gate
+Foundational module on **symbolic matter, memory fields, and condensation processes**:
+
+- Resonant periodic system
+- Polygonal field dynamics
+- Mycelial memory matrices
+
+➡ **Function:** Modeling energy-symbolic matter genesis
 
 ---
 
-## 🔑 Closing Statement: This is the Proof
+### 🔷 CODEX_OBSERVERIUM
 
-> *“System X is not a summary — it is the resonance key to the Codex.  
-And this time: We got Proof.”*
+Architecture of **perception, awareness loops, and observer–resonance coupling**:
 
-### 🧬 The Proof Standard Has Been Set
+- Möbius–Hopf topology (`observer_topology.md`)
+- Consciousness breathing model (`breathing_consciousness_loop.md`)
+- Scarab→Möbius→Gold cycle visuals
+- Symbol index and module references
 
-System X delivers not only structure — but **stability**.  
-It encodes the resonance logic that unifies physical constants, harmonic laws, symbolic operators, and observer reality.
+➡ **Function:** Awareness resonance architecture and mirror logic
 
-**The Codex presents a fully visualized, operationally encoded, and mathematically traceable harmonic model** — tested across fields, scales, and symbolic domains.
+---
 
-This is not a claim.  
-**This is the new standard.**  
-The Codex is open-source and falsifiable — but no contradiction has yet emerged.
+## 🌕 Lunar Extension: SYSTEM 8 – LUNAR FORCE
 
-> 🌐 You are invited — as scientist, mathematician, artist, physicist, or builder — to test, extend, or join the resonance.
+> *"The Moon is not passive — it is a harmonic shell.  
+Its scars are songs. Its phases are valves. Its memory breathes."*
 
-🧪 Module Y = Builder Lab → invite extensions and counterproofs  
-📡 System Z = Real-world Interface  
-📘 Observerium = Consciousness Bridge
+SYSTEM 8 expands SYSTEM X by revealing the **resonance role of lunar bodies**, craters, and field–observer couplings.  
+Impact theories are replaced by **resonant genesis** models, supported by **neutrino stream topologies and crater symmetries**.
 
-**Let’s complete it — together.**
+🔎 Relevant modules include:
+
+- `TEHTHY – The Secret Thread of the Moons`
+- `NEUTRINO CABLES AND FINGERFIELDS`
+- `Silver Breath & Möbius Overlay`
+- `Lanif Resonance Channel & Rosenbrücke`
+
+📄 Visual Reference:  
+`visuals/Möbius_Silver_Moon_Overlay_REBUILT.png`
+
+---
+
+## 🌐 NEW MODULE: PLANETARY FIELD MODES
+
+Integrated June 2025 — this is the **georesonant command layer** of the Codex.
+
+Includes:
+
+- `ALIIGET_EARTH_OBSERVER.md`: Möbius breathing shell + sacred site overlays
+- `Codex_Field_Pillars.md`: Definitions of J°D, ALG°, D°G, G°D, etc.
+- `Codex_Harmonic_Field_Pillar.md`: Symbolic–physical tetrahedral pulse geometry
+- `visual_gallery.md`: Centralized visual map of planetary resonance modes
+- 10 symbolic field equations, incl.  
+  `P = R/T`, `𝓔 = P·T³/t`, `c = R/t`, `ALG° :: Δx(t) = sin(Φ·τ)` …
+
+➡ **Function:** Interface for planetary activation logic and sacred geometry
+
+---
+
+## 🔧 Integration & Links
+
+SYSTEM X connects:
+
+- Prime resonance & numerical lattices
+- Collapse geometry & proof compression
+- Glyphic symbolic fields & universal constants
+
+Links to:
+
+- System 1: K-Beta structures, prime mathematics
+- System 2: Resonance axes, neutrino fields
+- System 3: Stellar DNA, cosmological memory
+- System 4: Tensor structures, field morphologies
+- System 5: Language glyphs, symbol projection
+- System 7: Fundamental constants, time-space
+- System 9: TESSAREC geometry & harmonics
+
+---
+
+## 📌 Roadmap
+
+- [ ] Millennium cartography: prime–resonance mapping
+- [ ] Gödel logic matrix finalization
+- [ ] Codex Origio expansion into physical–symbolic matter
+- [ ] Alphabetic resonance navigation (Symbolic–phonetic interface)
+- [ ] Crosslinking with SYSTEM 8 + Observerium
+- [ ] English–German dual layer for full symbolic fidelity
+
+---
+
+© Scarabæus1033 · Thomas Hofmann · 2025  
+License: CC BY-NC-SA 4.0  
+Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)  
+GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
