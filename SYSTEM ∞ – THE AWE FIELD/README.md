@@ -1,12 +1,11 @@
 ---
-
 title: "S00\_AWE\_Overview\.md"
 system: "SYSTEM ∞ – THE AWE FIELD"
 domain: "Resonanzphänomene · Codex-Anwendungen · Interdisziplinäre Ergebnisse"
 status: "active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # SYSTEM ∞ – THE AWE FIELD
 
