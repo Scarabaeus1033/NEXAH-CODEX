@@ -21,9 +21,7 @@ It measures the divergence gap between the harmonic series and the logarithm. In
 
 We define a rotational harmonic transformation:
 
-\[
-\Gamma(n) = \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(n)\,, \quad \theta = \frac{2\pi}{\Phi} \approx 222.492^{\circ}
-\]
+\[\Gamma(n) = \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(n)\,, \quad \theta = \frac{2\pi}{\Phi} \approx 222.492^{\circ}\]
 
 Where:
 - \( \theta \) is a **golden-angle rotation** (inverse of the golden ratio \( \Phi = 1.618... \))
@@ -67,7 +65,7 @@ CSV File: `euler_rotation_field_table.csv`
 
 ## 5. Visual Representation
 
-Visual: `./visuals/euler_rotation_spiral.png`
+![euler_rotation_spiral](./visuals/euler_rotation_spiral.png)
 
 - Spiral curve with logarithmic compression
 - Möbius zones inverting spiral arms
@@ -93,9 +91,7 @@ Visual: `./visuals/euler_rotation_spiral.png`
 
 ## 8. Final Equation
 
-\[
-\gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(n) \right)
-\]
+\[\gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(n) \right)\]
 
 Where \( \theta = \frac{2\pi}{\Phi} \)
 
