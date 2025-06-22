@@ -126,5 +126,24 @@
 > Spiral representation of solar field, binary influence and lunar resonance impact; key for TimePearl dynamics.
 
 ---
+### 🧭 `earthshell_grid_overlay.png`
+
+![earthshell_grid_overlay](visuals/earthshell_grid_overlay.png)
+
+> **EarthShell Georesonance Overlay**  
+> Semi-transparent Earth model showing internal geometric fields, tectonic alignment zones and Codex node resonance overlays.  
+> Useful in conjunction with planetary field layer analysis.
+>
+---
+
+### 📍 `sacred_site_pulse_map.png`
+
+![sacred_site_pulse_map](visuals/sacred_site_pulse_map.png)
+
+> **Sacred Site Pulse Map**  
+> Global mapping of energetic pulse points across Earth’s surface—sacred sites, nodal hotzones, and Codex-aligned frequency spots.  
+> Interlinks with the EarthShell grid and harmonic field triangulations.
+---
+
 
 ⏳ *More visuals can be added as modules expand. This gallery serves as dynamic visual reference for `PLANETARY_FIELD_MODES`.*
