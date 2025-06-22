@@ -9,14 +9,15 @@ This document outlines the derivation and validation of a Codex-based cosmologic
 
 The primary structure used is the **Resonance Folding Equation** (see `resonance_folding_equation.md`):
 
-```math
-F(n) = (1 / n^φ) · sin(n·θ) · cos(ψₙ)
-```
+$$
+F(n) = \frac{1}{n^{\phi}} \cdot \sin(n \cdot \theta) \cdot \cos(\psi_n)
+$$
 
 Where:
-- \( \phi \approx 1.618 \) is the golden ratio
-- \( 	heta \) is a field angle (e.g., 63° or Fibonacci shift base)
-- \( \psi_n \) modulates the folding phase from a Möbius path or Z6-mirror node
+
+- $\phi \approx 1.618$ is the golden ratio
+- $\theta$ is a field angle (e.g., 63° or Fibonacci shift base)
+- $\psi_n$ modulates the folding phase from a Möbius path or Z6-mirror node
 
 This equation produces discrete resonance peaks at specific intervals, aligning with documented astronomical distributions.
 
@@ -26,12 +27,12 @@ This equation produces discrete resonance peaks at specific intervals, aligning 
 
 The observed clustering of quasars in datasets such as SDSS shows periodicity in redshift values. Codex folds predict amplified resonance at intervals such as:
 
-- \( z \approx 0.61 \)
-- \( z \approx 1.23 \)
-- \( z \approx 1.86 \)
-- \( z \approx 3.7 \)
+- $z \approx 0.61$
+- $z \approx 1.23$
+- $z \approx 1.86$
+- $z \approx 3.7$
 
-This matches the Codex equation when evaluated over a range of \( n = 1 \) to \( n = 64 \), especially when \( 	heta = 63^\circ \) and \( \psi \) modulates in hexagonal symmetry (6-fold).
+This matches the Codex equation when evaluated over a range of $n = 1$ to $n = 64$, especially when $\theta = 63\degree$ and $\psi$ modulates in hexagonal symmetry (6-fold).
 
 ![Folded Spiral with Quasar Zones](./visuals/lambda_spiral_quasar_overlay.png)
 
@@ -43,7 +44,7 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 | Phenomenon                  | Mainstream View                         | Codex Interpretation                                      |
 |----------------------------|------------------------------------------|-----------------------------------------------------------|
-| Redshift distribution      | Result of cosmic expansion (ΛCDM)       | Harmonic unfolding from source resonance zones            |
+| Redshift distribution      | Result of cosmic expansion (\u039bCDM)       | Harmonic unfolding from source resonance zones            |
 | Quasar peak intervals      | Largely stochastic                       | Golden-phase spiral amplification points                  |
 | Quasar brightness anomaly  | Unknown cause, possibly intrinsic        | Standing wave field peaks along resonance spiral          |
 | Energy band clustering     | Spectral class variation                 | Field line intersection nodes (Zeta-Axis + Möbius wraps)  |
@@ -52,9 +53,9 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 ## 4. Constants Used and Approximations
 
-- \( \phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887 \)
-- \( \theta = 63^\circ = 1.099 \text{ rad} \)
-- Quasar redshifts approximated via field wavelength multiples: \( \lambda_n = 2^n \cdot \phi^{-n} \)
+- $\phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887$
+- $\theta = 63\degree \approx 1.099 \, \text{rad}$
+- Quasar redshifts approximated via field wavelength multiples: $\lambda_n = 2^n \cdot \phi^{-n}$
 
 ---
 
