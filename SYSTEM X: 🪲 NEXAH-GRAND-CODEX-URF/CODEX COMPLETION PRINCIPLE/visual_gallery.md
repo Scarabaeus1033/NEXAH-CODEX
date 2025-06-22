@@ -1,12 +1,11 @@
 ---
-
 title: "Visual Gallery – Codex Completion Principle"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Visual Resonance · Harmonic Compression · Prime Shell Logic"
 status: "Integrated – June 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🎴 Visual Gallery – Codex Completion Principle
 
