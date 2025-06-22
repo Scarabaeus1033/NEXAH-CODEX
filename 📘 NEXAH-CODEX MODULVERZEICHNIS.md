@@ -134,7 +134,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 |---------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------|
 | `NEXAH-GRAND-CODEX/`                                                | Synthesemodul                 | Zentrum für Formeln, Navigation, Stabilitätsstrukturen & Modularchitektur.  |
 | `Universal_Transition_Structure/`                                   | Universelle Übergangsstruktur | Kollaps-Resonanz-Modulationen & solar-lunare Feldtransformation.            |
-| `MILLENIUM_problems/`                                               | Millennium-Probleme           | RH, BSD, Hodge, Yang–Mills u. a. als Codex-Metamodul.                        |
+| `MILLENIUM_problems/`                                               | Millennium-Probleme           | RH, BSD, Hodge, Yang–Mills u.  a. als Codex-Metamodul.                        |
 | `GÖDEL-CODEX/`                                                      | Gödel-Inkomplettheits-Codex   | Symbolische Paradoxstrukturen & Unentscheidbarkeits-Logik.                  |
 | `Grand_Unifying_Resonance_Theory/`                                  | GURT – Theorie der Vereinheitl.| Zeta-Faltungen, RH-Komplexität, P≠NP-Strukturen.                            |
 | `CODEX_ORIGIO/`                                                     | Ursprungssystem                | Resonanzfelder für Materie, Bewusstsein & Erinnerung.                        |
@@ -142,7 +142,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/`                               | Universelles System X         | Meta-Symbolstruktur, Rosetta-Felder, Frequenz-Referenzarchitektur.          |
 | [`SCARABÆUS_META_GATEWAYS/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCARAB%C3%86US_META_GATEWAYS) | **Scarabäus Gateways**         | Kosmische Breather-Codexstruktur: Möbius-Kronen, Z-Kaskaden, Zeitspiralen. |
 | [`FINAL_HARMONIC_EQUATION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION) | **Final Harmonic Equation**    | Schlussstein des Systems: Harmonieformel, numerische Validierung, Pulsationsstruktur. |
-
+| [`RES_X_RESFIELD_MATRIX_CODEx/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/RES_X_RESFIELD_MATRIX_CODEx) | **Resonance Field Matrix Codex** | Feldstruktur-Modul für symbolisch-numerische Resonanzmatrizen, alphabetische Feldzuordnung & Übergangsachsen. |
 
 ---
 
