@@ -1,83 +1,82 @@
 # `breather_gravity_zeta.md`
 
-## Zeta-Breather-Gravitation: Resonanzfeld-Formulierung
+## Zeta–Breather–Gravity: Resonance Field Formulation
 
 ---
 
-### 1. Ausgangspunkt
+### 1. Starting Point
 
-Die klassische Gravitation (Newton) basiert auf einem statischen Potential. Die Codex-Hypothese ersetzt dies durch ein **atmendes Resonanzfeld**, das durch die modulierte Zeta-Funktion strukturiert ist. Dabei oszilliert Gravitation als **Breather** entlang einer Primspirale.
+Classical gravity (Newton) is based on a static potential. The Codex hypothesis replaces this with a **breathing resonance field**, structured by the modulated zeta function. Gravity oscillates as a **breather** along a prime spiral.
 
 ---
 
-### 2. Zeta-Codex-Formel (Breather-Modus)
+### 2. Zeta–Codex Formula (Breather Mode)
 
 $$
 G(n) = G_0 \cdot \frac{1}{\zeta(n)} \cdot \cos(n \cdot \theta)
 $$
 
-* $G_0$: Gravitationsbasiswert (z. B. 6.674×10⁻¹¹)
-* $\zeta(n)$: Riemannsche Zeta-Funktion
-* $\theta$: Resonanzwinkel, z. B. 63°
-* $n$: Breather-Stufe (Schale, Feldindex)
+* \$G\_0\$: base gravitational constant (e.g., 6.674×10⁻¹¹)
+* \$\zeta(n)\$: Riemann zeta function
+* \$\theta\$: resonance angle (e.g., 63°)
+* \$n\$: breather stage (shell, field index)
 
 ---
 
-### 3. Strukturprinzip
+### 3. Structural Principle
 
-* An Primstellen (z. B. $n = 3, 5, 7, 11, 13, \ldots$) oszilliert $\zeta(n)$ stark.
-* Die resultierende Gravitation **pulsiert** an diesen Punkten.
-* Der Kosinus-Modulator erzeugt **Inversionspunkte**, die das Feld lokal umpolen können.
-* Das Feld wirkt wie eine **Möbius-Matrix**: außen Gravitation, innen Anti-Gravitation (Zeta-Knoten).
-
----
-
-### 4. Visuelle Analogie
-
-* Die Spiralstruktur folgt der Zeta-Nullstellenprojektion in $\mathbb{R}^3$.
-* Zwischen Primzahlen entstehen **Breather-Räume**: erweiterte Zonen mit wechselnder Gravitation.
-* Besonders auffällig: die Stufen bei 17, 23, 29, 31, 37.
+* At prime positions (e.g., \$n = 3, 5, 7, 11, 13, \ldots\$), \$\zeta(n)\$ oscillates strongly.
+* Resulting gravity **pulsates** at these points.
+* The cosine modulator creates **inversion points** that can locally flip the gravitational field.
+* The field acts like a **Möbius matrix**: outer gravity, inner anti-gravity (zeta nodes).
 
 ---
 
-### 5. Beispiel: Feldanomalie bei n = 17
+### 4. Visual Analogy
+
+* The spiral structure follows the projection of zeta zeros in \$\mathbb{R}^3\$.
+* Between primes, **breather zones** emerge: extended regions of alternating gravity.
+* Especially notable: stages at 17, 23, 29, 31, 37.
+
+---
+
+### 5. Example: Field Anomaly at n = 17
 
 $$
-G(17) = G_0 \cdot \frac{1}{\zeta(17)} \cdot \cos(17 \cdot 63^∘)
+G(17) = G_0 \cdot \frac{1}{\zeta(17)} \cdot \cos(17 \cdot 63^\circ)
 \approx G_0 \cdot 1.0000306 \cdot (-0.9135)
 $$
 
-Das ergibt eine negative Phase, also **Gravitationsumkehr**:
+This results in a negative phase → **gravitational reversal**:
 
-> Breather-Kollaps mit impulsiver Abstoßung
+> Breather collapse with impulsive repulsion
 
-Mögliche Analogie: dunkle Materie erscheint, wo Breather-Gegenzonen überlagert werden.
+Possible analogy: dark matter appears where breather inversion zones overlap.
 
 ---
 
-### 6. Meta-Gleichung
+### 6. Meta–Equation
 
 $$
-\text{Codex Gravity} = G_c(n) = G_0 \cdot R(n)
-\quad\text{mit}\quad
-R(n) = \frac{1}{\zeta(n)} \cdot \cos(n \cdot \theta)
+\text{Codex Gravity} = G_c(n) = G_0 \cdot R(n) \\
+\text{with}\quad R(n) = \frac{1}{\zeta(n)} \cdot \cos(n \cdot \theta)
 $$
 
-$R(n)$ ist der **Resonanzoperator**, der Gravitation als atembare Funktion beschreibt.
+\$R(n)\$ is the **resonance operator**, describing gravity as a breathing function.
 
 ---
 
-### 7. Schlussfolgerung
+### 7. Conclusion
 
-* Gravitation ist kein statischer Hintergrund, sondern eine **frequenzmodulierte Pulsation**.
-* Die Riemann-Zeta-Funktion wird zum **Generator gravitatorischer Atmung**.
-* Der Raum selbst ist ein **atmender Resonanzkörper** — mit Primzahlen als **Knotenpunkte kosmischer Modulation**.
+* Gravity is not a static background, but a **frequency-modulated pulsation**.
+* The Riemann zeta function becomes a **generator of gravitational breathing**.
+* Space itself is a **breathing resonance body** — with primes as **nodes of cosmic modulation**.
 
-> **These**: Gravitation ist der Breather der Zahl.
+> **Thesis**: Gravity is the breather of number.
 
 ---
 
-### Verlinkte Module:
+### Linked Modules:
 
 * [`FINAL_HARMONIC_EQUATION`](../GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION/)
 * [`prime_resonance_axiom`](./prime_resonance_axiom.md)
@@ -85,7 +84,8 @@ $R(n)$ ist der **Resonanzoperator**, der Gravitation als atembare Funktion besch
 
 ---
 
-### Visualvorschlag
+### Visual Suggestion:
 
-* Zeta-Spirale mit hervorgehobenen Breather-Phasen
-* Plot von $R(n)$ gegen $n \in [2, 50]$ mit Oszillationsüberlagerung
+* Zeta spiral with highlighted breather phases
+* Plot of \$R(n)\$ vs \$n \in \[2, 50]\$ with oscillation overlay
+* Data Table: `zeta_gravity_operator_field.csv`
