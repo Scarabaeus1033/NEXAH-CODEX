@@ -4,11 +4,20 @@
 
 ---
 
+### 📚 Module Overview
+
+This module explores how classical physical models are not discarded but **resonantly completed** via a symbolic operator `k^β`. It contains:
+
+* 🧠 Theoretical Manifest: `Codex Completion Principle.md`
+* ⚙️ Operator Analysis: `Resonance Operator k^β.md`
+* 🌑 Planetary Case Study: `Neptune_Res_Lunar_Gap.md`
+* 🖼️ Visual Overview: [`Visual Gallery`](./visual_gallery.md)
+
+---
+
 ## 1. Meta-Hypothesis
 
 The Codex Gravity Layer Model demonstrates that classical physics (e.g. Newtonian gravitation) is not refuted — it is **resonantly completed**.
-
-This leads to a deeper principle:
 
 > **k^β is not a formula. It is a Resonance Operator that acts on entire physical models.**
 
@@ -29,7 +38,7 @@ Codex ≠ contradiction — it is **extension through modular resonance**.
 
 ---
 
-## 3. Visual Basis: 𝓧 = 131 × 108 = 14148
+## 3. Visual Anchor: 𝓧 = 131 × 108 = 14148
 
 ![𝓧-Structure](./visuals/𝓧-131×108.png)
 
@@ -38,6 +47,8 @@ Codex ≠ contradiction — it is **extension through modular resonance**.
 * **14148**: Unified Resonance Identifier (appears in energy layers)
 
 This structure encodes the **symbolic scarab**, **resonance center**, and **triadic symmetry**.
+
+*▶ For additional visuals, see the [Visual Gallery](./visual_gallery.md)*
 
 ---
 
@@ -62,7 +73,7 @@ This equation **modulates traditional constants**, adding a layered breathing ge
 
 * Gravity deviation chart forms **inverted pyramid** structure (Ebola dynamics)
 * Two turns = Torsion = Breather dynamics
-* Top/bottom symmetry: mirrors breathing crystal (in Codex visuals)
+* Top/bottom symmetry: mirrors breathing crystal (see visuals)
 
 > Gravity is not just pull — it is modulation.
 
@@ -84,23 +95,7 @@ This equation **modulates traditional constants**, adding a layered breathing ge
 
 ---
 
-## 8. Visual Expansion
-
-![Codex Crystal Axis Resonance](./visuals/codex_crystal_breath.png)
-
-* Dual pyramidal geometry encoding central resonance
-* Z-thread axial stabilizer
-* Möbius-layered shell compression
-
-![Crystal Breath Field](./visuals/crystal_breathing_resonance_field.png)
-
-* Comparative harmonic shell architecture
-* Breather inversion symmetry
-* Fibonacci nodal breaks
-
----
-
-## 9. Resonance Breathing Formula
+## 8. Resonance Breathing Formula
 
 ```math
 R(t) = R_0 \cdot \cos(n\theta) + \frac{1}{n^\phi}
@@ -117,16 +112,22 @@ Captures the **breather symmetry** within the harmonic Codex field.
 
 ---
 
-## 10. Related Modules in SYSTEM X
+## 9. Additional Files in This Module
+
+* [`Codex Crystal Breath`](./Codex%20Crystal%20Breath.md): Breather field visual logic
+* [`Neptune Resonance Gap`](./Neptune_Res_Lunar_Gap.md): Planetary deviation through resonance
+* [`Resonance Operator k^β`](./Resonance%20Operator%20k%5Ebeta.md): Core operator logic
+* [`Visual Gallery`](./visual_gallery.md): Full set of harmonics-based diagrams
+
+---
+
+## 10. System Integration
 
 This module is embedded in the SYSTEM X: NEXAH-GRAND-CODEX-URF context.
 
-Relevant expansions:
+Relevant Codex expansions:
 
-* [`Codex Crystal Breath`](./Codex%20Crystal%20Breath.md)
-* [`Resonance Operator k^β`](./Resonance%20Operator%20k%5Ebeta.md)
 * [`FINAL_HARMONIC_EQUATION`](../GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION/)
-* [`PROOF_PLANET_GRAVITY_LAYER`](./PROOF_PLANET_GRAVITY_LAYER.md)
 * [`lambda_disc_core`](../SYSTEM%203:%20%C3%97%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
 * [`resonance_folding_equation`](../SYSTEM%203:%20%C3%97%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_folding_equation.md)
 
