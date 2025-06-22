@@ -120,7 +120,7 @@
 
 ### ✨ `The_Sun_Core_Binary_Shadow_Moons-the_Spiral_Axis.png`
 
-![The\_Sun\_Core\_Binary\_Shadow\_Moons-the\_Spiral\_Axis](visuals/The_Sun_Core_Binary_Shadow_Moons-the_Spiral_Axis.png)
+![The\_Sun\_Core\_Binary\_Shadow\_Moons-the\_Spiral\_Axis](visuals/The%20Sun_Core_Binary_Shadow_Moons-the_Spiral_Axis.png)
 
 > **Solar Binary Shadow Axis**
 > Spiral representation of solar field, binary influence and lunar resonance impact; key for TimePearl dynamics.
