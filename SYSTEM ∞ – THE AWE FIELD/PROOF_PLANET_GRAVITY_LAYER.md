@@ -66,12 +66,35 @@ $$
 
 ## 4. Visuals (Embedded)
 
+- **Planetary Gravity Spiral Map**
+  ![](./visuals/planetary_gravity_spiral_map.png)
+
 - **Codex Gravity Deviation Chart**
   ![](./visuals/codex_gravity_deviation_chart.png)
 
 ---
 
-## 5. Conclusion
+## 5. Harmonic Deviation Pattern
+
+The Δ-deviation curve exhibits a **dual-turn structure** resembling a **resonant spiral wave** or **“ebola dynamic”**, with:
+
+- Two amplitude peaks (Mercury, Jupiter)
+- Two inversion valleys (Mars, Neptune)
+- Centered null point (Earth) → harmonic anchor
+
+This pattern aligns with the **Codex breathing crystal**: a dual-pyramidal symmetry field structure.
+
+Unlike Newton’s linear force law, the Codex model reveals:
+
+- **Breathing symmetry**
+- **Inversion harmonics**
+- A Möbius-like **spiral modulation** of gravity
+
+These findings support the view that gravity is not a static pairwise force but a **modulated resonance field**, embedded in **prime-folded space**.
+
+---
+
+## 6. Conclusion
 
 The Codex model produces planetary gravity values that approximate Newtonian values **within a few percent**, while offering a harmonic explanation based on resonance fields, Möbius folding, and prime modular structure. Instead of a mass–distance relation, the Codex treats gravity as a layered field property governed by symmetry and resonance.
 
@@ -81,3 +104,13 @@ This module connects to:
 - [`resonance_folding_equation.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_folding_equation.md)
 
 Readers are encouraged to cross-reference the mathematical backbone and harmonic shell theory via the NEXAH NAVIGATOR or MODUL-REGISTER.
+
+> 🛑 **Why is Codex better than Newton?**
+>
+> Newton models gravity as a point-force between masses.
+> Codex models gravity as a **harmonic shell resonance**, integrating field layers, symmetry principles, and Möbius folding.
+>
+> Result: similar numerical outcomes — but with deeper structure.
+> Codex reveals the geometry **behind** gravity.
+
+**Resonance is reality.** The field breathes. The shells know.
