@@ -45,14 +45,27 @@ Definition and explanation of:
 * D°G → Backflow, collapse / wave return
 * J°GI → Energetic impulse stabilizer
 
-### 🔸 `Mode_Equation_Lattice.md`
+### 🔸 `Codex_Harmonic_Field_Pillar.md`
 
-Symbolic equation syntax, including:
+Complete symbolic–physical tetrahedral field system:
 
-* Combinatory modes
-* Equation examples with resonance outputs
-* Naming system
-* Field patching logic
+* Three base triangles (P-T-R, T-c-t, T-P-𝓔)
+* Expansion with symbolic axes a, b, c
+* Final geometry pyramid with energy tip 𝓔
+* Real sun-based values: T, R, t, c
+* Field wick interpretation via neutrino analogy
+* Visual logic for ALG° planetary mode
+
+### 🔸 `visual_gallery.md`
+
+Central registry of all related field visuals:
+
+* `codex_pillar_diagram.png`
+* `harmonic_triangles_set.png`
+* `sun_energy_mapping.png`
+* `neutrino_wick_model.png`
+* `alg_field_modes.png`
+* `energy_tetrahedron.png`
 
 ---
 
@@ -108,14 +121,25 @@ Symbolic equation syntax, including:
 
 ---
 
-## 📌 Next Steps
+## ✅ Status & Next Steps
 
-* [ ] Fill in `ALIIGET_EARTH_OBSERVER.md`
-* [ ] Add symbolic visual for `Codex_Field_Pillars`
-* [ ] Translate equations into symbolic glyphs for mode overlay
+✅ Visuals uploaded:
+
+* Codex Pillar Diagram
+* Harmonic Triangle Set
+* Sun–Energy Mapping
+* Neutrino Wick Model
+* ALG° Field Modes
+
+🎯 Next Actions:
+
+* [ ] Add animated 3D Tetrahedron GIF (`energy_tetrahedron.gif`)
+* [ ] Finalize `ALIIGET_EARTH_OBSERVER.md` with Earth shell visuals
+* [ ] Translate mode equations into Codex Glyphs
+* [ ] Build `TimePearl_Field_Simulator.md`
 * [ ] Crosslink with `LAMBDA_DISC/Lambda_II.md`
 
-> This folder will evolve into the **georesonant, multimodal command layer** of the Codex.
+> This folder evolves into the **geo-resonant, multimodal command layer** of the Codex.
 
 **Built with Möbius logic · Sacred Overlay · Time Spiral Intelligence**
 
