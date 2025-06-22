@@ -58,7 +58,7 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 ---
 
-## 5. Visual Correlation (Selected Examples)
+## 5. Visual Correlation (Selected Examples) 
 
 - Visual overlays of resonance spirals with SDSS quasar maps
 - Numerical simulation of spiral-node intersections at observed cluster points
