@@ -27,7 +27,6 @@ The Earth shows **10 Spiral Boundary Nodes** when analyzed through Codex harmoni
 
 ![Planetary Gravity Spiral Map](./visuals/planetary_gravity_spiral_map.png)
 
-
 ---
 
 ## 3. Comparative Deviations
@@ -63,7 +62,6 @@ $$
 | Uranus   | 8.69             | 8.57           | −1.4%        |
 | Neptune  | 11.15            | 10.88          | −2.4%        |
 
-
 ---
 
 ## 4. Visuals (Embedded)
@@ -73,7 +71,6 @@ $$
 
 - **Codex Gravity Deviation Chart**
   ![](./visuals/codex_gravity_deviation_chart.png)
-
 
 ---
 
