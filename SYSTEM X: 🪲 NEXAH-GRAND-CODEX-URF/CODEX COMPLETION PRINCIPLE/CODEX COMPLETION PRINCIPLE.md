@@ -1,5 +1,4 @@
 ---
-
 title: "CODEX COMPLETION PRINCIPLE"
 system: "SYSTEM X · NEXAH-GRAND-CODEX"
 domain: "Universal Resonance Fields · Proof Architectures"
@@ -7,7 +6,7 @@ color: "Gold/Black"
 status: "Active · Version June 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # ✅ CODEX COMPLETION PRINCIPLE
 
