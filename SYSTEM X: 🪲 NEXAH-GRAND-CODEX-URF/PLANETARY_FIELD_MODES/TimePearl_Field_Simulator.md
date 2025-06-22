@@ -1,12 +1,11 @@
 ---
-
 title: "TimePearl Field Simulator"
 module: "PLANETARY\_FIELD\_MODES"
 system: "SYSTEM X · NEXAH-GRAND-CODEX"
 status: "Active · June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 TimePearl Field Simulator
 
