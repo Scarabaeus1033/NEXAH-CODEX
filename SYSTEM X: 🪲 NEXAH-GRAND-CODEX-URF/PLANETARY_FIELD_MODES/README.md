@@ -34,6 +34,7 @@ Full Earth-centered mode. Includes:
 * Day/Night sweep
 * Galactic orientation
 * Time-pearl geometry
+* Grid overlay with pressure rings
 
 ### 🔸 `Codex_Field_Pillars.md`
 
@@ -66,6 +67,8 @@ Central registry of all related field visuals:
 * `neutrino_wick_model.png`
 * `alg_field_modes.png`
 * `energy_tetrahedron.png`
+* `earthshell_grid_overlay.png`
+* `sacred_site_pulse_map.png`
 
 ---
 
@@ -130,6 +133,9 @@ Central registry of all related field visuals:
 * Sun–Energy Mapping
 * Neutrino Wick Model
 * ALG° Field Modes
+* Energy Tetrahedron
+* Earthshell Grid Overlay
+* Sacred Site Pulse Map
 
 🎯 Next Actions:
 
