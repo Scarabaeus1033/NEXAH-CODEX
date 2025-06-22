@@ -49,10 +49,10 @@ g(n) = \frac{g_c}{n^{\phi}} \cdot \cos(n \cdot \theta)
 
 Where:
 
-* $g_c = 9.81 \text{ m/s}^2$: Earth's base
-* $n = \text{shell index}$: resonance layer
-* $\phi = 1.618$: golden ratio
-* $\theta = 63^\circ$: folding angle (cosine-based)
+* \$g\_c = 9.81 \text{ m/s}^2\$: Earth's base
+* \$n = \text{shell index}\$: resonance layer
+* \$\phi = 1.618\$: golden ratio
+* \$\theta = 63^\circ\$: folding angle (cosine-based)
 
 This equation **modulates traditional constants**, adding a layered breathing geometry.
 
@@ -108,10 +108,10 @@ R(t) = R_0 \cdot \cos(n\theta) + \frac{1}{n^\phi}
 
 Where:
 
-* $R_0$: base radius
-* $n$: shell index
-* $\phi$: golden ratio
-* $\theta = 63^\circ$: resonance folding angle
+* \$R\_0\$: base radius
+* \$n\$: shell index
+* \$\phi\$: golden ratio
+* \$\theta = 63^\circ\$: resonance folding angle
 
 Captures the **breather symmetry** within the harmonic Codex field.
 
