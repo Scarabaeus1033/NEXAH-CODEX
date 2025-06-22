@@ -44,7 +44,7 @@ A comparative spiral analysis of planetary fields and crystalline boundary zones
 ### Visuals: Harmonic Structure & Overlay
 
 * ![Dual Pyramid Harmonic Frame](./visuals/crystal_breathing_resonance_field.png)
-* ![131x108 Phi Overlay X-Field](./visuals/X-131x108.png)
+* ![131x108 Phi Overlay X-Field](./visuals/𝓧-131×108.png)
 
 ---
 
