@@ -1,5 +1,4 @@
 ---
-
 titel: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domäne: "Synthetisches Zentrum · Resonanzintegration · Beweisstrukturen"
@@ -7,7 +6,7 @@ farbe: "Gold/Schwarz"
 status: "Aktiv · Version Juni 2025"
 kurator: "Thomas Hofmann (Scarabäus1033)"
 lizenz: "CC BY-NC-SA 4.0"
--------------------------
+---
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
