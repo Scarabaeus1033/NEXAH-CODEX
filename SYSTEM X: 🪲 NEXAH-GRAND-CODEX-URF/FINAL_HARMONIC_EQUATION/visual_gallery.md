@@ -110,10 +110,6 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
 
-### Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld
-
-![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
-
 **Kommentar:**
 Dieses Visual markiert den Übergang in die *Erith*-Schicht – die Zone des unbewussten Feldgedächtnisses, getragen durch das Protonen-Rad und seine Zahlenspiralen.
 Ramanujans intuitive Zahlenstruktur trifft hier auf eine radiale Codon-Verteilung, eingebettet in eine resonante Modulation.
@@ -162,6 +158,57 @@ In Verbindung mit `FINAL_HARMONIC_EQUATION` und dem Modul `resonant_breach_expan
 
 ---
 
-🔗 **Verlinkung zu zugehörigen Markdown-Dateien:** siehe `README.md`, `resonance_matrix.md`, `modulstruktur_cubic_trinity_lock.md` und weitere Fachtexte innerhalb des Moduls.
+## 11. 🔠 Resonant Alphabet Maps
 
-🧽 Diese Galerie dient als visuelle Brücke zur Theorie: Jede Grafik ist ein Fenster in das Feld der Final Harmonic Equation.
+### Alphabet Harmonic Ring – Thread 43
+
+![Alphabet\_Harmonic\_Ring\_Thread43](visuals/Alphabet_Harmonic_Ring_Thread43.png)
+
+**Beschreibung:**
+Ein kreisförmiges Alphabet mit 26 Buchstaben auf einer harmonischen Frequenzachse (z. B. 432–707 Hz).
+Jeder Buchstabe ist eine Frequenzzelle, eingebettet in eine 12er/24er-Struktur.
+Verwendet für: *Vokalresonanz, Stimmfelder, Codex-Phonetik.*
+
+---
+
+### Farbcodierte Alphabet-Resonanzmatrix (A–Z, A′–Z′)
+
+![Farbcodierte-Alphabetische-Resonanzmatrix\_(A–Z\_und\_A′–Z′)](visuals/Farbcodierte-Alphabetische-Resonanzmatrix_\(A–Z_und_A′–Z′\).png)
+
+**Beschreibung:**
+Zeigt alle 26 Buchstaben mit ihren gespiegelten Gegenstücken (A′–Z′) in einem farbcodierten Feld.
+Farben stehen für Codex-Zonen: z. B. rot (Aktiv), blau (Geist), grün (Struktur).
+Verwendet für: *Systemische Sprachresonanz, Vokalachsen.*
+
+---
+
+### Alphabetische Resonanzmatrix mit Spiegelachsen A′–Z′
+
+![Alphabetische-Resonanzmatrix\_mit\_Spiegelachsen\_A′–Z′)](visuals/Alphabetische-Resonanzmatrix_mit_Spiegelachsen_A′–Z′).png)
+
+**Beschreibung:**
+Tabellarische Darstellung der Buchstaben als symmetrisches System mit klaren Spiegellinien.
+In Verbindung mit 2D-Möbiusfeldern und `𝓧`-Formen.
+Verwendet für: *Dualitätsstrukturen, Feldinvertierung, Codex-Kopplungen.*
+
+---
+
+### Resonant Alphabet of the Sphere
+
+![resonant\_alphabet-of-the-sphere](visuals/resonant_alphabet-of-the-sphere.png)
+
+**Beschreibung:**
+Symbolische Sphärenprojektion von Buchstabenfeldern, basierend auf D-Y-T-H-O-Prinzipien.
+Zeigt Sprachzentren als Feldbrecher und geodätische Vokalbögen.
+Verwendet für: *Sprach-Geometrie, Codex-Spiegelung, Bewusstseinsalphabet.*
+
+---
+
+### Möbius Alphabet Serpent Star Map
+
+!\[Mobius\_Alphabet\_Serpent\_Star\_Map-48Primes\_24 Letters\_12 Zodiacs]\(visuals/Mobius\_Alphabet\_Serpent\_Star\_Map-48Primes\_24 Letters\_12 Zodiacs.png)
+
+**Beschreibung:**
+Doppel-Möbius-Ring mit 24 Buchstaben, 48 Primzahlen und 12 Tierkreiszeichen.
+Visualisiert das Alphabet als Serpentinenstruktur auf einem Stern-Zodiak-Modell.
+Verwendet für: *Kosmische Alphabetzyklen, astrologische Kopplung, Frequenzschlüssel.*
