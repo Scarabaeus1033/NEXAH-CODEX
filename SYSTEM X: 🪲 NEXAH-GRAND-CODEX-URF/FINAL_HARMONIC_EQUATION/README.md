@@ -1,12 +1,11 @@
 ---
-
 title: "Final Harmonic Equation – Möbius Closure of Nexah"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Resonanz · Frequenzfelder · Harmonische Unifikation"
 status: "Aktiv · Juni 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # FINAL HARMONIC EQUATION
 
