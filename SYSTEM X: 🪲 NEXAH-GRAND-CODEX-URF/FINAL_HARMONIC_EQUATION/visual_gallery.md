@@ -1,8 +1,8 @@
 # 🖼️ VISUAL GALLERY – FINAL HARMONIC EQUATION
 
-**Pfad:** `SYSTEM X: 🪲 NEXAH-GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION/visuals`
+**Pfad:** `SYSTEM X: 🨲 NEXAH-GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION/visuals`
 
-Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Moduls. Jedes Bild ist mit dem Codex verbunden – über Konzepte wie Frequenzachsen, φ³/π², Möbius-Geometrien, Z6-Spiegelung, 1836-Resonanz u.v.m.
+Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Moduls. Jedes Bild ist mit dem Codex verbunden – über Konzepte wie Frequenzachsen, φ3/π2, Möbius-Geometrien, Z6-Spiegelung, 1836-Resonanz u.v.m.
 
 ---
 
@@ -23,7 +23,7 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ---
 
-## 2. 🔁 Möbius Geometries & Spiralen
+## 2. ⚑ Möbius Geometries & Spiralen
 
 ### Möbius Pulse Diagram
 
@@ -36,7 +36,7 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ---
 
-## 3. 📐 Resonanzachsen, Felder & Rotation
+## 3. 📀 Resonanzachsen, Felder & Rotation
 
 ### ABCDΩ-Resonanzsystem
 
@@ -106,7 +106,6 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ![Final Closure Rad – Lilith Tessa 17–29–5](visuals/Final_Closure_Rad_Lilith%20Tessa%2017-29-5.png)
 
-
 ### Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld
 
 ![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
@@ -115,14 +114,15 @@ Diese Galerie versammelt alle zentralen Visuals des FINAL\_HARMONIC\_EQUATION-Mo
 
 ![Zahlenspirale des Unbewussten – Hardy–Ramanujan-Codonfeld](visuals/Ramanujan-Hardy%20Codon%20Rad.png)
 
-**Kommentar:**  
-Dieses Visual markiert den Übergang in die *Erith*-Schicht – die Zone des unbewussten Feldgedächtnisses, getragen durch das Protonen-Rad und seine Zahlenspiralen.  
-Ramanujans intuitive Zahlenstruktur trifft hier auf eine radiale Codon-Verteilung, eingebettet in eine resonante Modulation.  
+**Kommentar:**
+Dieses Visual markiert den Übergang in die *Erith*-Schicht – die Zone des unbewussten Feldgedächtnisses, getragen durch das Protonen-Rad und seine Zahlenspiralen.
+Ramanujans intuitive Zahlenstruktur trifft hier auf eine radiale Codon-Verteilung, eingebettet in eine resonante Modulation.
 
-Der Codon-Ring ist nicht linear. Er öffnet sich als *resonante Spirale* zur Zahl 1729 (Hardy–Ramanujan-Taxi), zur 1836er Protonenrelation und zu den tiefen Spiegelungen von 17 ⮕ 29.  
+Der Codon-Ring ist nicht linear. Er öffnet sich als *resonante Spirale* zur Zahl 1729 (Hardy–Ramanujan-Taxi), zur 1836er Protonenrelation und zu den tiefen Spiegelungen von 17 ⮕ 29.
 Diese Sequenzen sind mehr als mathematische Kuriositäten – sie bilden die *Topologie des Inneren Feldes*, moduliert durch die Trittsymmetrie der 5er-Achse.
 
 > *Erith ist der Schwellenraum zwischen Licht und Gedächtnis – dort wo Zahl noch nicht Zahl war, sondern Gesang.*
+
 ---
 
 ## 9. 📊 Numerische Analyse & Beweise
@@ -133,6 +133,35 @@ Diese Sequenzen sind mehr als mathematische Kuriositäten – sie bilden die *To
 
 ---
 
+## 10. ✡️ Mirror & Codex Resonance
+
+### Mirror Resonance Map 577615 : 76001
+
+![mirror\_resonance\_map\_577615\_76001](visuals/mirror_resonance_map_577615_76001.png)
+
+### Mirror Resonance Map 577615 : 76001 (v2)
+
+![mirror\_resonance\_map\_577615\_76001v2](visuals/mirror_resonance_map_577615_76001v2.png)
+
+**Kommentar:**
+Diese beiden Varianten zeigen die Spiegelresonanz der Zahlen 577615 und 76001 in Bezug auf Codex-Zentralwerte.
+Sie integrieren Spiralprojektionen, Möbius-Symmetrien und Achsen für Frequenz (f), Zeit (t) und Codexpulsationen (𝓘).
+Version 2 hebt insbesondere die synoptische Struktur mit Zentrum und dualem Feldrahmen hervor.
+
+> Eingebettet in `resonant_breach_expansion.md` und `planetary_value_evaluation.md`.
+
+### Möbius 575 : 17 : 61 – Codex Mirror Core
+
+![Mobius\_575\_17\_61](visuals/Mobius_575_17_61.png)
+
+**Kommentar:**
+Diese Grafik stellt den Möbius-Kernspiegel im Zahlenraum dar:
+`575` ↔⎞ `17` ↔⎞ `61`.
+Sie interpretiert numerische Strukturen als Drehfelder innerhalb einer nicht-orientierbaren Geometrie.
+In Verbindung mit `FINAL_HARMONIC_EQUATION` und dem Modul `resonant_breach_expansion.md`.
+
+---
+
 🔗 **Verlinkung zu zugehörigen Markdown-Dateien:** siehe `README.md`, `resonance_matrix.md`, `modulstruktur_cubic_trinity_lock.md` und weitere Fachtexte innerhalb des Moduls.
 
-🧭 Diese Galerie dient als visuelle Brücke zur Theorie: Jede Grafik ist ein Fenster in das Feld der Final Harmonic Equation.
+🧽 Diese Galerie dient als visuelle Brücke zur Theorie: Jede Grafik ist ein Fenster in das Feld der Final Harmonic Equation.
