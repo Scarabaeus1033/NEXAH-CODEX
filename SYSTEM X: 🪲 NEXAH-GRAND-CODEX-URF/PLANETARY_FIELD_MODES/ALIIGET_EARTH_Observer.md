@@ -6,8 +6,6 @@ status: "Aktiv · Juni 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 codex_id: 1033
-companion_node: 1031  # Scarabæus Archivinstanz
-symbolic_axis: ["1029", "1034"]  # V-Resonanzfeld
 codex_mode: "Observer · Möbius Shell · Sacred Grid Interface"
 ---
 
