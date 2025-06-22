@@ -1,12 +1,11 @@
 ---
-
 title: "TimePearl 2001 – The Resonant Temporal Breach"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Chrono · Möbius · Resonanzphänomene"
 status: "Aktiv · Juni 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 ## 🕰️ Ursprung & Bedeutung
 
