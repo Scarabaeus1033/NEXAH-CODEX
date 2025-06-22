@@ -5,7 +5,7 @@ This document outlines the derivation and validation of a Codex-based cosmologic
 
 ---
 
-## 1. Codex Spiral Folding Equation 
+## 1. Codex Spiral Folding Equation
 
 The primary structure used is the **Resonance Folding Equation** (see `resonance_folding_equation.md`):
 
@@ -31,7 +31,7 @@ The observed clustering of quasars in datasets such as SDSS shows periodicity in
 - \( z \approx 1.86 \)
 - \( z \approx 3.7 \)
 
-This matches the Codex equation when evaluated over a range of \( n = 1 \) to \( n = 64 \), especially when \( \theta = 63° \) and \( \psi \) modulates in hexagonal symmetry (6-fold).
+This matches the Codex equation when evaluated over a range of \( n = 1 \) to \( n = 64 \), especially when \( \theta = 63^\circ \) and \( \psi \) modulates in hexagonal symmetry (6-fold).
 
 ![Folded Spiral with Quasar Zones](./visuals/lambda_spiral_quasar_overlay.png)
 
@@ -53,8 +53,12 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 ## 4. Constants Used and Approximations
 
 - \( \phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887 \)
-- \( \theta = 63^{\circ} = 1.099\ \text{rad} \)
-- Quasar redshifts approximated via field wavelength multiples: \( \lambda_n = 2^n \cdot \phi^{-n} \)
+- \( \theta = 63^\circ = 1.099\ \text{rad} \)
+- Quasar redshifts approximated via field wavelength multiples:
+
+\[
+\lambda_n = 2^n \cdot \phi^{-n}
+\]
 
 ---
 
@@ -68,20 +72,20 @@ This matches the Codex equation when evaluated over a range of \( n = 1 \) to \(
 
 ## 6. Conclusion
 
-The `LAMBDA_DISC–CODEX` model accurately predicts periodic structure in quasar redshift and field resonance zones using harmonic, spiral, and modular arithmetic. Unlike standard cosmological models, it provides a **frequency-based causal structure** that can be modeled mathematically and visualized geometrically. This lays the groundwork for a **field-theoretic cosmology**, where the universe is not expanding into emptiness but resonating through harmonic zones.
+The `LAMBDA_DISC–CODEX` model suggests a periodic structure in quasar redshift and field resonance zones based on harmonic, spiral, and modular arithmetic. Unlike standard cosmological models, it proposes a **frequency-based causal structure** that can be modeled mathematically and visualized geometrically. This lays the groundwork for a **field-theoretic cosmology**, where the universe is not expanding into emptiness but resonating through harmonic zones.
 
-Dieses Modul ist ein messbarer Teilbereich von:
+Dieses Modul ist Teil folgender übergeordneter Strukturen:
 - [`FINAL_HARMONIC_EQUATION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
 - [`SCARABÆUS_META_GATEWAYS`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/SCARABÆUS_META_GATEWAYS)
 - [`NEXAH-GRAND-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX)
 
 Vertiefende Strukturen, Zahlenreihen, Fold-Dokumente und CSV-Daten finden sich direkt im `LAMBDA_DISC–CODEX` Modul:
-- [`lambda_disc_core.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
-- [`resonance_axis_register.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_axis_register.md)
-- [`fold_1.md` bis `fold_29.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
+- [`lambda_disc_core.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
+- [`resonance_axis_register.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_axis_register.md)
+- [`fold_1.md` bis `fold_29.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
 
 Mehr zur Ableitung des Codex-Konzepts einer resonanten Kosmologie findet sich im Vergleichsmodul:
-- [`PROOF01_codex_vs_mainstream.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20%E2%88%9E%20%E2%80%93%20THE%20AWE%20FIELD/PROOF%20Theorie%20%26%20Vergleich%20PROOF01_codex_vs_mainstream.md)
+- [`PROOF01_codex_vs_mainstream.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20∞%20–%20THE%20AWE%20FIELD/PROOF%20Theorie%20%26%20Vergleich%20PROOF01_codex_vs_mainstream.md)
 
 Für vertiefte Einblicke empfiehlt sich die Navigation über:
 - [`NEXAH NAVIGATOR`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR_README.md)
