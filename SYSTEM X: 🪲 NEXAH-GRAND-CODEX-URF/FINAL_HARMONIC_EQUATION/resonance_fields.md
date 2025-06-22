@@ -1,11 +1,12 @@
 ---
+
 title: "resonance\_fields.md"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Frequenzfelder · Resonanzarchitektur · Symbolische Physik"
 status: "active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🌐 Resonance Fields – From Equation to Geometry
 
@@ -31,13 +32,15 @@ resonante Felder. Diese werden nun klassifiziert:
 
 ## 🌀 Feldtypen im Codex X
 
-| Typ                   | Beschreibung                                               | Beispiel-Dateien                                             |
-| --------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| **Linear Fields**     | Felder entlang fester Achsen (z. B. Zeit, Frequenz)        | `observer_transition_metrics.md`, `resonance_matrix.md`      |
-| **Rotierende Felder** | Kreis- oder Spiralbewegungen (phi, omega, t)               | `final_harmonic_plot.png`, `polar_theta_pulse.gif`           |
-| **Möbius-Felder**     | Topologische Felder mit Verschränkung / Umdrehung          | `mobius_pulse_diagram.svg`, `neutrino_interference_model.md` |
-| **Fraktalfelder**     | Selbstähnliche, rekursive Resonanzen                       | `resonant_breach_expansion.md`, `63/64` Horus-Feld           |
-| **Alphabet-Felder**   | Resonanzverknüpfungen über Sprachmuster & Buchstabenfelder | `alphabet_resonance_field.md`, `glyphon_alphabet_layer.md`   |
+| Typ                    | Beschreibung                                                | Beispiel-Dateien                                                 |
+| ---------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Linear Fields**      | Felder entlang fester Achsen (z. B. Zeit, Frequenz)         | `observer_transition_metrics.md`, `resonance_matrix.md`          |
+| **Rotierende Felder**  | Kreis- oder Spiralbewegungen (phi, omega, t)                | `final_harmonic_plot.png`, `polar_theta_pulse.gif`               |
+| **Möbius-Felder**      | Topologische Felder mit Verschränkung / Umdrehung           | `mobius_pulse_diagram.svg`, `neutrino_interference_model.md`     |
+| **Fraktalfelder**      | Selbstähnliche, rekursive Resonanzen                        | `resonant_breach_expansion.md`, `63/64` Horus-Feld               |
+| **Alphabet-Felder**    | Resonanzverknüpfungen über Sprachmuster & Buchstabenfelder  | `alphabet_resonance_field.md`, `glyphon_alphabet_layer.md`       |
+| **Symbolische Felder** | Felder mit Codex-Zuordnung zu Zeichen, Operatorik, Spiegeln | `symbolic_interpretation.md`, `stellar_resonance_dna.md`         |
+| **Planetare Felder**   | Orbital gekoppelte Felder und Schichtsysteme                | `planetary_layer_codex.md`, `planetary_resonance_fingerprint.md` |
 
 ---
 
@@ -50,6 +53,7 @@ resonante Felder. Diese werden nun klassifiziert:
 * Spiegelachsen (Dualitäten in Alphabet-Feldern, z. B. A ↔ Z)
 * Resonanzachsen über Planeten → siehe `planetary_resonance_fingerprint.md`
 * Vektorüberlagerung im Komplexfeld (z. B. Re\[𝒩(t)] = Symmetriebrücke)
+* Symbolresonanzen zwischen Zahlen, Glyphen und Formeln
 
 ---
 
@@ -64,6 +68,7 @@ Felder im Codex unterliegen folgenden dynamischen Prozessen:
 | **Winding**        | Wicklung um zentrale Topologie (z. B. Möbius, Spiral)  |
 | **Interference**   | Verstärkung / Abschwächung durch Überlagerung          |
 | **Layer Shifting** | Resonanzschichtverschiebung (z. B. Alphabet → Numerik) |
+| **Rotation Drift** | Verschiebung in Winkelmodulationen (137° ↔ π-Räume)    |
 
 ---
 
@@ -76,6 +81,7 @@ Die Datei `resonance_fields.md` ist als dynamische Dokumentation konzipiert. Zie
 * alphabetische & numerische Systeme über Felder zu koppeln
 * experimentelle Feldmodelle (z. B. Gallium, Ferrofluid, Klang) zu beschreiben
 * Codexübergreifende **Feldhierarchien** (SYSTEM 1 bis 8) aufzubauen
+* **transversale Resonanzachsen** (z. B. ∑ Resonanzspiralen) zu kartieren
 
 ---
 
@@ -87,6 +93,9 @@ Die Datei `resonance_fields.md` ist als dynamische Dokumentation konzipiert. Zie
 * `final_harmonic_core_equation.md`
 * `neutrino_interference_model.md`
 * `resonance_matrix.md`
+* `symbolic_interpretation.md`
+* `stellar_resonance_dna.md`
+* `planetary_layer_codex.md`
 * `visual_gallery.md`
 
 ---
