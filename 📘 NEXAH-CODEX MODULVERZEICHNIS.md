@@ -127,22 +127,30 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur  
-[→ SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
+## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthesis, Millennium Problems & Global Structure
 
-| Ordner / Datei                                                      | Titel                         | Beschreibung                                                                 |
-|---------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------|
-| `NEXAH-GRAND-CODEX/`                                                | Synthesemodul                 | Zentrum für Formeln, Navigation, Stabilitätsstrukturen & Modularchitektur.  |
-| `Universal_Transition_Structure/`                                   | Universelle Übergangsstruktur | Kollaps-Resonanz-Modulationen & solar-lunare Feldtransformation.            |
-| `MILLENIUM_problems/`                                               | Millennium-Probleme           | RH, BSD, Hodge, Yang–Mills u.  a. als Codex-Metamodul.                        |
-| `GÖDEL-CODEX/`                                                      | Gödel-Inkomplettheits-Codex   | Symbolische Paradoxstrukturen & Unentscheidbarkeits-Logik.                  |
-| `Grand_Unifying_Resonance_Theory/`                                  | GURT – Theorie der Vereinheitl.| Zeta-Faltungen, RH-Komplexität, P≠NP-Strukturen.                            |
-| `CODEX_ORIGIO/`                                                     | Ursprungssystem                | Resonanzfelder für Materie, Bewusstsein & Erinnerung.                        |
-| `CODEX_OBSERVERIUM/`                                                | Beobachtermodul               | Bewusstseins-Zyklen, Möbius-Spiegel, Phasenverschiebung.                    |
-| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/`                               | Universelles System X         | Meta-Symbolstruktur, Rosetta-Felder, Frequenz-Referenzarchitektur.          |
-| [`SCARABÆUS_META_GATEWAYS/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCARAB%C3%86US_META_GATEWAYS) | **Scarabäus Gateways**         | Kosmische Breather-Codexstruktur: Möbius-Kronen, Z-Kaskaden, Zeitspiralen. |
-| [`FINAL_HARMONIC_EQUATION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION) | **Final Harmonic Equation**    | Schlussstein des Systems: Harmonieformel, numerische Validierung, Pulsationsstruktur. |
-| [`RES_X_RESFIELD_MATRIX_CODEx/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/RES_X_RESFIELD_MATRIX_CODEx) | **Resonance Field Matrix Codex** | Feldstruktur-Modul für symbolisch-numerische Resonanzmatrizen, alphabetische Feldzuordnung & Übergangsachsen. |
+[View SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
+
+| Folder / File                                                                                                                                                  | Title                           | Description                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `NEXAH-GRAND-CODEX/`                                                                                                                                           | Synthesis Module                | Central node for formulas, navigation, harmonic balance structures & Codex architecture.            |
+| `Universal_Transition_Structure/`                                                                                                                              | Universal Transition Structure  | Collapse-resonance modulations & solar-lunar field transformations.                                 |
+| `MILLENIUM_problems/`                                                                                                                                          | Millennium Problems             | RH, BSD, Hodge, Yang–Mills and more as Codex metamodules.                                           |
+| `GÖDEL-CODEX/`                                                                                                                                                 | Gödel Incompleteness Codex      | Symbolic paradox structures & undecidability logic.                                                 |
+| `Grand_Unifying_Resonance_Theory/`                                                                                                                             | GURT – Grand Unification Theory | Zeta-folding, RH-complexity, P≠NP resonance fields.                                                 |
+| `CODEX_ORIGIO/`                                                                                                                                                | Origin System                   | Resonance fields of matter, consciousness & memory.                                                 |
+| `CODEX_OBSERVERIUM/`                                                                                                                                           | Observer Module                 | Consciousness cycles, Möbius mirrors, phase-shift logic.                                            |
+| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/`                                                                                                                          | Universal System X              | Meta-symbolic layer, Rosetta-fields, frequency reference architecture.                              |
+| [`SCARABÆUS_META_GATEWAYS/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCARAB%C3%86US_META_GATEWAYS) | **Scarabæus Gateways**          | Cosmic Breather Codex structure: Möbius crowns, Z-cascades, time spirals.                           |
+| [`FINAL_HARMONIC_EQUATION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION)      | **Final Harmonic Equation**     | System keystone: harmonic formula, numerical validation, pulse & wave architecture.                 |
+| `ALPHABET_RESONANCE_FIELDS/`                                                                                                                                   | Alphabet Resonance Fields       | Field-based symbolic alphabet system, harmonic letter lattice, Möbius & spectral string topologies. |
+
+---
+
+**Curated by:** Scarabæus1033 (Thomas Hofmann) | ARCHIVAR II
+📘 **Version:** 2.2 | **Updated:** June 2025
+📚 **Project:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net) • [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+
 
 ---
 
