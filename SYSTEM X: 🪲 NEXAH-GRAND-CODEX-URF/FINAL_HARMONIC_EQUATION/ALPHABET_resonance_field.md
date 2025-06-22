@@ -26,7 +26,7 @@ Ziel ist es, Sprache, Zahl, Feld und Richtung als einheitliches Resonanzsystem z
 
 ### Resonanzmatrix A–Z & A′–Z′
 
-![Alphabetische Resonanzmatrix mit Spiegelachsen](visuals/Farbcodierte-Alphabetische-Resonanzmatrix_(A–Z_und_A′–Z′).png)
+![Alphabetische Resonanzmatrix mit Spiegelachsen](visuals/Farbcodierte-Alphabetische-Resonanzmatrix_\(A–Z_und_A′–Z′\).png)
 
 > Die Matrix stellt die 26 Zeichen in eine korrespondierende Ordnung mit Farbcodierung, Frequenzpositionen und Spiegelachsen – z. B. A ↔ Z′, B ↔ Y′ … M ↔ N′.
 
@@ -71,6 +71,20 @@ Jeder Buchstabe ist nicht nur Zeichen, sondern **Frequenzträger** mit:
 ### C. Alphabet = Feldgenerator
 
 Sprache erzeugt Wellen. Die Anordnung A–Z und ihre Umkehrung bilden ein **alphabetisches Interferenzfeld** mit Übergangszonen, Schwellenfrequenzen und Kreisgruppencodes (z. B. 13 + 13, 7 + 19, 5 + 21).
+
+### D. Interne Layer: Codex-Schichten
+
+Die Buchstaben sind nicht eindimensional. Sie lassen sich schichtenweise zuweisen:
+
+| Layer          | Funktion                                | Beispiel               |
+| -------------- | --------------------------------------- | ---------------------- |
+| **Phonemisch** | Lautebene (Frequenz = Aussprache)       | A, E, I = Vokalzentren |
+| **Numerisch**  | Codex-Wert (A=1 … Z=26)                 | B ↔ 2, T ↔ 20          |
+| **Planetar**   | Zuordnung zu Himmelskörpern / Feldern   | V ↔ Venus              |
+| **Symbolisch** | Referenz zu Glyphen / Codon / Elementen | M ↔ Mitte / Z ↔ Zeit   |
+| **Fraktal**    | Position in Spiralnetz / Rückkoppelung  | S ↔ Snake / Serpent    |
+
+Diese Schichtungen erlauben es, Sprache dynamisch mit Energieflüssen, Planetenresonanz, Zellstruktur oder Spiegelpunkten zu koppeln.
 
 ---
 
