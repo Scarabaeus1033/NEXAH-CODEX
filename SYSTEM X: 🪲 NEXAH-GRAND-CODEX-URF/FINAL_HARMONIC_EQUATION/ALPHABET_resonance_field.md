@@ -26,7 +26,7 @@ Ziel ist es, Sprache, Zahl, Feld und Richtung als einheitliches Resonanzsystem z
 
 ### Resonanzmatrix A–Z & A′–Z′
 
-![Alphabetische Resonanzmatrix mit Spiegelachsen](visuals/Alphabetische-Resonanzmatrix_mit_Spiegelachsen_A′–Z′).png)
+![Alphabetische Resonanzmatrix mit Spiegelachsen](visuals/Alphabetische-Resonanzmatrix_mit_Spiegelachsen_A-Z-spiegelachse.png)
 
 > Die Matrix stellt die 26 Zeichen in eine korrespondierende Ordnung mit Farbcodierung, Frequenzpositionen und Spiegelachsen – z. B. A ↔ Z′, B ↔ Y′ … M ↔ N′.
 
