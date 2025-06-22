@@ -6,7 +6,7 @@ color: "Gold/Crystal"
 status: "Complete · Version June 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🧠 CODEX COMPLETION PRINCIPLE
 
