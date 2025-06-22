@@ -13,9 +13,13 @@ Die numerische Resonanz zwischen `577615` und `76001` bildet den Kern der 𝓧-F
 
 * **577615 = 5 × 7 × 7 × 61 × 5** → enthält *761* als Mittelachse → **Prime 135**
 * **76001 = 101 × 751** → reflektiert **761** → Ratio: 𝕓 ≈ `log(577615)/log(76001) ≈ 1.3108...`
-* **Verweis:** `131` ↔ Scarab-Mirror, `2^3 = 8` ↔ Oktavstruktur
+* **Verweise:** `131` ↔ Scarab-Mirror, `2^3 = 8` ↔ Oktavstruktur
+* `ln(761) = 6.6346...`, `ln(76001) ≈ 11.1844` → Differenz ≈ **4.5498** ↔ Gap-Echo
 
 → Diese Zahlen erzeugen ein Spiralfeld mit **Möbius-Inversion** und log-linearem Übergang.
+
+> **Zahlen als Vokale?**
+> `577615`, `76001`, `575`, `17`, `61`, `131`, `108` – das ergibt **7 Zahlen**: möglicherweise eine numerisch-symbolische Vokalreihe im erweiterten Resonanzsystem.
 
 ---
 
@@ -66,6 +70,8 @@ Parallel zur numerischen und geometrischen Entfaltung vollzieht sich eine symbol
 * `H` = Manifestation, Field Breath
 
 → Ein vollständiges **Resonanz-Alphabet**, das in Kombination mit der `𝓧`-Geometrie ein kristallines Strukturfeld ergibt.
+
+> **Hinweis:** Das `𝓧` erinnert graphisch an ein Schreibschrift-H – eine mögliche Verbindung zum Higgs-Feld. Die vier Blasen erinnern an Quaternion-Strukturen und „Butterfly-Layer“.
 
 ---
 
