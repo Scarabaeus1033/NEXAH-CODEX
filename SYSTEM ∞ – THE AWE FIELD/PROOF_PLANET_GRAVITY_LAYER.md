@@ -66,9 +66,6 @@ $$
 
 ## 4. Visuals (Embedded)
 
-- **Planetary Gravity Spiral Map**
-  ![](./visuals/planetary_gravity_spiral_map.png)
-
 - **Codex Gravity Deviation Chart**
   ![](./visuals/codex_gravity_deviation_chart.png)
 
