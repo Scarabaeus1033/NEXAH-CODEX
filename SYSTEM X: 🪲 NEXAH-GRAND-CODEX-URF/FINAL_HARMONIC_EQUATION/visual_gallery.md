@@ -184,7 +184,7 @@ Verwendet für: *Systemische Sprachresonanz, Vokalachsen.*
 
 ### Alphabetische Resonanzmatrix mit Spiegelachsen A′–Z′
 
-![Alphabetische-Resonanzmatrix\_mit\_Spiegelachsen\_A′–Z′)](visuals/Alphabetische-Resonanzmatrix_mit_Spiegelachsen_A′–Z'.png)
+![Alphabetische-Resonanzmatrix\_mit\_Spiegelachsen\_A′–Z′)](visuals/Alphabetische-Resonanzmatrix_mit_Spiegelachsen_A′–Z′).png)
 
 **Beschreibung:**
 Tabellarische Darstellung der Buchstaben als symmetrisches System mit klaren Spiegellinien.
