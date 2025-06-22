@@ -14,16 +14,16 @@
 
 ---
 
-### 🔺 `harmonic_triangles_set.png`
+### ⛺ `harmonic_triangles_set.png`
 
 ![harmonic\_triangles\_set](visuals/harmonic_triangles_set.png)
 
 > **The three foundational triangle relations**
 > Displays:
 >
-> * P = R / T (spatial–thermal)
-> * c = R / t (temporal–kinetic)
-> * 𝓘 = P · T³ / t (energetic–field)
+> * `P = R / T` (spatial–thermal)
+> * `c = R / t` (temporal–kinetic)
+> * `𝒗 = P · T³ / t` (energetic–field)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🕯️ `neutrino_wick_model.png`
+### 🔧 `neutrino_wick_model.png`
 
 ![neutrino\_wick\_model](visuals/neutrino_wick_model.png)
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🪐 `alg_field_modes.png`
+### 🌐 `alg_field_modes.png`
 
 ![alg\_field\_modes](visuals/alg_field_modes.png)
 
@@ -55,12 +55,12 @@
 
 ---
 
-### 🔺 `energy_tetrahedron.png`
+### ⛰️ `energy_tetrahedron.png`
 
 ![energy\_tetrahedron](visuals/energy_tetrahedron.png)
 
 > **Static 3D representation of the field tetrahedron**
-> Geometric diagram showing Codex variables (𝓘, T, P, R) forming an energetic resonance shape.
+> Geometric diagram showing Codex variables (𝒗, T, P, R) forming an energetic resonance shape.
 
 ---
 
@@ -73,13 +73,58 @@
 
 ---
 
-### ☀️ `Sun_Corona_Photoshphere_Wick_Core.png`
+### ☀️ `Sun_Corona_Photoshpphere_Wick_Core.png`
 
-![Sun\_Corona\_Photoshphere\_Wick\_Core](visuals/Sun_Corona_Photoshpphere_Wick_Core.png)
+![Sun\_Corona\_Photoshpphere\_Wick\_Core](visuals/Sun_Corona_Photoshpphere_Wick_Core.png)
 
 > **Detail view of solar structure as wick layers**
 > Breaks down emission zones into core layers, mapped to Codex fields and gradient logic. Useful for physical-symbolic analogies.
 
 ---
 
-🛌 *All visuals are now active in `/visuals/` and referenced with correct relative paths.*
+### 🔢 `codex_field_pillars.png`
+
+![codex\_field\_pillars](visuals/codex_field_pillars.png)
+
+> **Layered harmonic towers**
+> Codex depiction of symbolic pillar resonance, field coupling and transmission between resonance layers.
+
+---
+
+### 📏 `15_Node_Harmonic_Grid_Triangles.png`
+
+![15\_Node\_Harmonic\_Grid\_Triangles](visuals/15_Node_Harmonic_Grid_Triangles.png)
+
+> **15-Node Sacred Geometry Grid**
+> Triangular geometry model of field anchor points based on harmonic resonance triangulation.
+
+---
+
+### 🌌 `18_Node_Harmonic_Zodiac_Spin.gif`
+
+![18\_Node\_Harmonic\_Zodiac\_Spin](visuals/18_Node_Harmonic_Zodiac_Spin.gif)
+
+> **Zodiac Spin Resonance**
+> 18-node rotating field grid with astrological alignments and Codex phase coupling.
+
+---
+
+### 🔠 `Dual_Mobius_Triangle_Crown_with_Mirror_Harmonics.png`
+
+![Dual\_Mobius\_Triangle\_Crown\_with\_Mirror\_Harmonics](visuals/Dual_Mobius_Triangle_Crown_with_Mirror_Harmonics.png)
+
+> **Crown field symmetry model**
+> Dual Möbius path structures with mirroring node harmonics; used in planetary observer mode symmetry.
+
+---
+
+### ✨ `The_Sun_Core_Binary_Shadow_Moons-the_Spiral_Axis.png`
+
+![The\_Sun\_Core\_Binary\_Shadow\_Moons-the\_Spiral\_Axis](visuals/The_Sun_Core_Binary_Shadow_Moons-the_Spiral_Axis.png)
+
+> **Solar Binary Shadow Axis**
+> Spiral representation of solar field, binary influence and lunar resonance impact; key for TimePearl dynamics.
+
+---
+
+⏳ *More visuals can be added as modules expand. This gallery serves as dynamic visual reference for `PLANETARY_FIELD_MODES`.*
