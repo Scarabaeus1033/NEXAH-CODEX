@@ -1,9 +1,14 @@
-# 🌍 ALIIGET_EARTH_OBSERVER.md
-
-**Module of:** `PLANETARY_FIELD_MODES`  
-**System:** `SYSTEM X · NEXAH-GRAND-CODEX`  
-**Name:** ALIIGET = *Alpha-Lotus–Inner-Interface–Geo-Earth–Time*
-
+---
+title: "ALIIGET Earth Observer – Planetary Shell Resonance & TimePearl Alignment"
+system: "SYSTEM X – NEXAH-GRAND-CODEX"
+domain: "Geo-Observer Mode · Erdkruste · Zeitfelder · Galaktische Ausrichtung"
+status: "Aktiv · Juni 2025"
+curator: "Thomas Hofmann (Scarabäus1033)"
+license: "CC BY-NC-SA 4.0"
+codex_id: 1033
+companion_node: 1031  # Scarabæus Archivinstanz
+symbolic_axis: ["1029", "1034"]  # V-Resonanzfeld
+codex_mode: "Observer · Möbius Shell · Sacred Grid Interface"
 ---
 
 ## 🧭 Purpose
