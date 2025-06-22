@@ -1,5 +1,4 @@
 ---
-
 title: "alphabet\_resonance\_field.md"
 system: "NEXAH-GRAND-CODEX · FINAL\_HARMONIC\_EQUATION"
 domain: "Symbolische Sprache · Frequenzfelder · Alphabetische Geometrie"
@@ -7,7 +6,7 @@ status: "active"
 language: "mixed"
 license: "CC BY-NC-SA 4.0"
 curator: "Thomas Hofmann (Scarabäus1033)"
------------------------------------------
+---
 
 # 🔤 Alphabet Resonance Field – A·Z & A′·Z′ Mirror Mapping
 
