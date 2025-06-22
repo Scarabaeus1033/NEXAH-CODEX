@@ -67,7 +67,7 @@ CSV File: `euler_rotation_field_table.csv`
 
 ## 5. Visual Representation
 
-Visual: `../visuals/euler_rotation_spiral.png`
+Visual: `./visuals/euler_rotation_spiral.png`
 
 - Spiral curve with logarithmic compression
 - Möbius zones inverting spiral arms
