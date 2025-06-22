@@ -1,94 +1,73 @@
-# 🗼 Codex Harmonic Field Pillar
+# 🧭 Codex Harmonic Field Pillar
 
-**Module of:** `PLANETARY_FIELD_MODES`
-**System:** `SYSTEM X · NEXAH-GRAND-CODEX`
+## 🌞 INTRODUCTION
 
----
-
-## 🔺 Overview
-
-This document outlines the **Codex Harmonic Pillar** — a unified energy structure combining temperature, radius, pressure, time, and light-speed into one symbolic tetrahedron. It provides a resonance-based field geometry where **energetic emergence** is tracked across dimensional layers and planetary systems.
+Dieses Modul beschreibt das vollständige Feldsystem der Codex-Harmonik, basierend auf realen Sonnenparametern (T, R, t, c) und erweitert durch symbolische Größen (𝓔, a, b, P). Es integriert Temperatur, Zeit, Druck, Energie, Radius, Lichtgeschwindigkeit und abstrakte Feldachsen in eine einheitliche Geometrie.
 
 ---
 
-## 🌞 Known Relations (Solar Anchored)
+## 🔺 DIE DREI GRUND-DREIECKE
 
-| Variable | Meaning          | Interpretation                    |
-| -------- | ---------------- | --------------------------------- |
-| T        | Temperature      | photosphere / chromosphere / core |
-| t        | Time             | \~500 s for light to reach Earth  |
-| R        | Radius           | of the Sun or local field         |
-| P        | Pressure / Pulse | P = R / T (Codex field parameter) |
-| c        | Speed of light   | 299,792,458 m/s                   |
-| L        | Luminosity       | L ∝ T⁴                            |
-
----
-
-## 🔺 Triangle Structures (Codex Pillar Construction)
-
-### ⚓ Triangle 1 — Spatial–Thermal
+### ⚓ 1. Spatial–Thermal Triangle
 
 ```
      R
     / \
-   P - T      →  P = R / T
+   P - T
 ```
 
-### 🕒 Triangle 2 — Temporal–Kinetic
+* **P = R / T**
+* P als symbolischer Druck / Puls / Feldwiderstand
+
+### 🕒 2. Temporal–Kinetic Triangle
 
 ```
      T
     / \
-   c - t      →  c = R / t  or  t = R / c
+   c - t
 ```
 
-### 🔆 Triangle 3 — Energetic–Field
+* **t = R / c**
+* Zeit als Lichtlaufzeit, c = Lichtgeschwindigkeit
+
+### 🔆 3. Energetic–Field Triangle
 
 ```
      P
     / \
-   T - 𝓔      →  𝓔 = P · T³ / t
+   T - 𝓔
 ```
 
-Each triangle shares variables and forms the **skeleton of a symbolic Codex tetrahedron**, with `𝓔` (energy output or harmonic emergence) as apex.
+* **𝓔 = P · T³ / t**
+* Alternative: **𝓔(t, T, P) = kₑ · (T⁴ / t) · P^α**
 
 ---
 
-## 🧱 a–b–c: Foundation of Movement
+## 🧬 DIE ERWEITERUNG: Codex Bewegungsachsen
 
-To complete the 3D Pillar:
+### a = Aktion / Impuls / Feldgradient (𝒜)
 
-### a = Action / Amplitude / Acceleration
+### b = Basis / Grenze / Möbius-Wicklung (𝓑)
 
-* e.g. `a = ΔT / Δx`
-* Impulse or directional slope of temperature or pressure field
+### c = Lichtgeschwindigkeit / Übergangsachse (𝓒)
 
-### b = Boundary / Breath / Base
-
-* e.g. Neutrino Wick, Möbius Fold, dimensional anchor
-
-### c = Light-Speed Axis
-
-* `c = R / t`
-* Codex vertical time-space line
-
-### Final Triangle:
+Neues Dreieck:
 
 ```
      𝓔
     / \
-   a - b    →  𝓔 = a · b
+   a - b
 ```
 
-These three (`a`, `b`, `c`) form the movement base of the Pillar:
-
-* `a` → impulse
-* `b` → containment
-* `c` → translation
+* **𝓔 = a · b** (Symbolische Energie durch Wirkung und Basis)
+* **a = ΔT / Δx** als Feldbeschleunigung
+* **b = Länge, Wicklung oder Durchdringung (resistive Struktur)**
 
 ---
 
-## 🧬 Pillar Diagram (Planned Visual)
+## 🧱 DAS FELD-SYSTEM ALS PYRAMIDE
+
+Finale Geometrie:
 
 ```
           𝓔
@@ -101,41 +80,85 @@ These three (`a`, `b`, `c`) form the movement base of the Pillar:
         L   t
 ```
 
-This represents the **Codex Möbius Column** — light, pulse, and breath spiraling into emergence.
+* 3D: Codex-Tetraeder oder spiralförmige Möbius-Säule
+* 𝓔 = Spitze des Energieausstoßes oder der Resonanzemission
 
 ---
 
-## ⚙️ ALG° – Planetary Algorithmic Field Pillar
+## ☀️ SUN-BASED REAL RELATIONS
 
-* **AL**: planetary action length (Mars, or orbital seed)
-* **G**: gravity or geometric rotation
-* **°**: activation marker, phase turn, Möbius twist
+| Variable | Bedeutung            | Interpretation                    |
+| -------- | -------------------- | --------------------------------- |
+| T        | Temperatur           | Photosphäre / Chromosphäre / Kern |
+| t        | Zeit                 | 500 s Lichtlaufzeit zur Erde      |
+| R        | Radius / Abstand     | Sonnenradius oder Erdabstand      |
+| P        | Druck / Puls         | Codexfeld P = R / T               |
+| c        | Lichtgeschwindigkeit | 299.792.458 m/s                   |
+| L        | Luminosität          | ∝ T⁴ (Stefan–Boltzmann)           |
 
-Codex Modes:
+Berechnungen:
 
-* Mars = AL°
-* Venus = VE°
-* Moon = LU°
-* Earth = ER° / GR°
-
-These codons define field pathways in space–time lattice.
-
----
-
-## 📐 Equation Set Summary
-
-* `P = R / T`  (geometric field pressure)
-* `𝓔 = P · T³ / t` (harmonic energy emergence)
-* `c = R / t`  (light-speed ratio)
-* `𝓔 = (T⁴ / t) · P^α · kₑ` (extended model w/ constant)
-* `𝓔 = a · b`  (symbolic resonance output)
+* **P = R / T ≈ 1.2 × 10⁵**  (in cgs-Einheiten plausibel)
+* **c = R / t**, daher **t = R / c**
+* alles wird dimensional verbindbar
 
 ---
 
-## ✅ Next Steps
+## 🕯️ SYMBOLISCHE DEUTUNG: Die Sonnenkerze
 
-* [ ] Create Codex Pillar visual with full triangle stacking
-* [ ] Build `Mode_Equation_Lattice.md`
-* [ ] Map `a`, `b`, and `c` to observer perspectives
+* T = Farbe (blauer Rand, weißer Kern)
+* t = Dauer der Emission
+* P = Wickelung / Druckstruktur (unsichtbarer Neutrinodocht)
 
-**This file serves as the structural definition of dimensional energy emergence in the Codex.**
+> "Die Sonne hat keinen sichtbaren Docht wie eine Kerze – ihr Docht ist Neutrino-basiert."
+
+Das entspricht der Final Harmonic Triangle:
+
+* P = R / T
+* 𝓔 = P · T³ / t
+* t = R / c
+
+---
+
+## ⚙️ ALG° – PLANETARE MODULATION
+
+Bezug zu planetaren Resonanzachsen:
+
+* **AL** = Aktionslänge oder Grundfeld (Mars)
+* **G** = Gravitationswirkung
+* **°** = Aktivierungswinkel / Übergang / Codex-Marker
+
+Codex-Syntax:
+
+* Mars = **AL°**
+* Erde = **ER°** oder **GR°**
+* Mond = **LU°**
+* Venus = **VE°**
+
+Wird später mit planetarer Rotation, Masse, Frequenzachsen gekoppelt.
+
+---
+
+## 📷 VISUALS TO PRODUCE
+
+Folgende Visuals werden im Anschluss erstellt und in `visual_gallery.md` dokumentiert:
+
+1. `codex_pillar_diagram.png` – vollständige Feldpyramide (Tetraeder-Form)
+2. `harmonic_triangles_set.png` – drei Codex-Dreiecke einzeln
+3. `sun_energy_mapping.png` – reale Sonnenparameter vs Codex-Relationen
+4. `neutrino_wick_model.png` – Kerzenvergleich mit Neutrinodocht
+5. `alg_field_modes.png` – Darstellung planetarer AL°-Symbole
+6. `energy_tetrahedron.gif` – rotierendes 3D-Modell der Harmonic Field Pillar
+
+---
+
+## ✅ STATUS
+
+Dieser Codex-Pfeiler ist nun als vollständiges Feldmodell dokumentiert. Verlinkt wird er in:
+
+* `FINAL_HARMONIC_EQUATION`
+* `PLANETARY_FIELD_MODES`
+* `ALIIGET_EARTH_Observer`
+* `Mode_Equation_Lattice`
+
+Bereit zur Visualisierung und Harmonisierung mit weiteren Modulen.
