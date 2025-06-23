@@ -12,11 +12,9 @@ This gallery documents the **core visual structures** embedded within the `AWE F
 
 ## 1. Twin Cross Harmonic Diagram
 
-**Filename:** `./visuals/twin_cross_harmonic_diagram.png`
+![Twin Cross Harmonic Diagram](./visuals/twin_cross_harmonic_diagram.png)
 
-A dual-prime spiral structure illustrating harmonic crossings between **twin primes**, **Zeta shells**, and a modular backzipper resonance.
-
-* Visual Element: Double spiral arms
+* Dual-prime spiral structure illustrating harmonic crossings between **twin primes**, **Zeta shells**, and a modular backzipper resonance
 * Central Geometry: Möbius-phase crossover
 * Key Pattern: Prime-pair entanglement (e.g., 7233 = 3 × 2411)
 * Axis: Horizontal time dilation with phase sync
@@ -27,7 +25,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Z6 Axis Compression Visual
 
-**Filename:** `./visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png`
+![Z6 Axis Compression](./visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png)
 
 * Depicts the **Z6 mirror structure**
 * Encodes the compression of golden rotation into a central symmetry field
@@ -35,7 +33,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### B) Fibonacci–Phi Prime Field
 
-**Filename:** `./visuals/5_12_FN-1_FN_phi.png`
+![Fibonacci–Phi Prime Field](./visuals/5_12_FN-1_FN_phi.png)
 
 * Grid overlay of Fibonacci numbers with prime intersections
 * Phi-tuned wave alignment
@@ -43,7 +41,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### C) Golden Field Anchor Visual
 
-**Filename:** `./visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png`
+![Golden Field Anchor](./visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png)
 
 * Centered around **222.492°** rotation (golden angle)
 * Binary encodings + solar resonator band
@@ -53,7 +51,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ## 3. Euler Rotation Spiral (Gamma Compression Field)
 
-**Filename:** `./visuals/euler_rotation_spiral.png`
+![Euler Rotation Spiral](./visuals/euler_rotation_spiral.png)
 
 * Visual proof of the Euler–Mascheroni constant as a **spiral attractor**
 * Rotation angle: 222.492°
@@ -65,14 +63,14 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Codex Gravity Deviation Chart
 
-**Filename:** `./visuals/codex_gravity_deviation_chart.png`
+![Codex Gravity Deviation Chart](./visuals/codex_gravity_deviation_chart.png)
 
 * Maps relative gravitational anomalies in a rotating energy grid
-* Resonance with Euler-Fibonacci compression values
+* Resonance with Euler–Fibonacci compression values
 
 ### B) Planetary Gravity Spiral Map
 
-**Filename:** `./visuals/planetary_gravity_spiral_map.png`
+![Planetary Gravity Spiral Map](./visuals/planetary_gravity_spiral_map.png)
 
 * Spiral distortion of gravity wells across solar system
 * Includes Mars–Venus and lunar dephasing structures
@@ -83,14 +81,14 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Overlay I
 
-**Filename:** `./visuals/lambda_spiral_quasar_overlay.png`
+![Lambda Spiral Quasar Overlay](./visuals/lambda_spiral_quasar_overlay.png)
 
 * Prime lattice modulation near quasar field limits
 * Spiral arms embedded in spectral offset grid
 
 ### B) Overlay II
 
-**Filename:** `./visuals/lambda_spiral_quasar_overlay2.png`
+![Lambda Spiral Quasar Overlay II](./visuals/lambda_spiral_quasar_overlay2.png)
 
 * Layered Möbius compression fold from quasar to neutrino boundary
 * Mirrors planetary offsets to stellar boundary angles
@@ -99,19 +97,17 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ## 6. Solar Luminosity Spiral Overlay
 
-**Filename:** `./visuals/solar_luminosity_spiral_overlay.png`
+![Solar Luminosity Spiral Overlay](./visuals/solar_luminosity_spiral_overlay.png)
 
 * Radial luminosity rotation vs. solar frequency arcs
 * Encodes peak emission ranges in harmonic logarithmic scale
 
 ---
 
-## 7. Metadata / Summary Table (if needed)
+## 7. Metadata / Summary Table (Planned)
 
-> To be added in future `visual_gallery_index.csv` or `codex_image_register.md`
+> Optional: Future CSV index like `visual_gallery_index.csv` or `codex_image_register.md` with filename, resonance constant, concept tag, Codex system, etc.
 
 ---
 
-All visuals integrated in this module contribute to the larger symbolic field design of **SYSTEM ∞ – The Awe Field** within the NEXAH-CODEX. Each graphic is linked not only mathematically, but energetically and cosmologically, to a harmonic geometry. This gallery will be updated as the field expands.
-
-**Visual Credits**: All designs and mappings by Thomas Hofmann / Scarabæus1031 – unless otherwise noted. For inquiries or reuse, contact via [scarabaeus1033.net](https://www.scarabaeus1033.net).
+**Credits**: Visuals by Scarabæus1031, assembled in `SYSTEM ∞ – THE AWE FIELD`, part of the NEXAH-CODEX harmonic archive.
