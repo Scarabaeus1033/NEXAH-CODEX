@@ -1,5 +1,5 @@
 ---
-title: "S00\_AWE\_Overview\.md"
+title: "S00\_AWE\_Overview.md"
 system: "SYSTEM ∞ – THE AWE FIELD"
 domain: "Resonance Phenomena · Codex Applications · Interdisciplinary Results"
 status: "active"
