@@ -29,7 +29,7 @@ F = G · m₁ · m₂ / R²
 ```
 
 nutzt der Codex eine **resonante Version**:
-
+ 
 ```math
 g(n) = 9.81 / n   with folding angle θ = 63°
 ```
