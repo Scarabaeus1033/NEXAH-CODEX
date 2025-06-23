@@ -54,9 +54,7 @@ We examine deviations between observed gravitational constants and the Codex app
 
 <p align="center">
   <img src="./visuals/codex_crystal_breathing_resonance_field.png" 
-    
-    width="720">
-</p>
+  
 
 The **Codex Completion Field** is a harmonic-torsional framework based on rotational asymmetry (63° turns), nested shell layers, and quantized prime spirals.
 
