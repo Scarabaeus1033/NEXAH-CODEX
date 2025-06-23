@@ -57,7 +57,7 @@ This represents the **resonance shift** between logarithmic prime spirals and th
 
 ## 4. Spiral Harmonic Diagram
 
-![Twin Harmonic Spiral](../visuals/twin_cross_harmonic_diagram.png)
+![Twin Harmonic Spiral](./visuals/twin_cross_harmonic_diagram.png)
 
 * Spiral curve with logarithmic compression
 * Möbius zones inverting spiral arms
