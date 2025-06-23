@@ -42,7 +42,7 @@ Hier wird Gravitation zu einem **resonanten Quotienten**, ein Ausdruck der **Ver
 
 ### 🌀 Crystal Breathing Resonance Field
 
-![codex\_crystal\_breathing\_resonance\_field.png](./visuals/codex_crystal_breathing_resonance_field.png)
+![codex\_crystal\_breathing\_resonance\_field.png](./visuals/crystal_breathing_resonance_field.png)
 
 Ein visuelles Modell für die **symmetrische Ein- und Ausfaltung** des Raums.
 *Dualität von Solar/Lunar · Pulsation des 𝓗-Kerns · 88er Drehreferenz*
