@@ -3,7 +3,7 @@
 title: Visual Gallery – The Awe Field
 system: SYSTEM ∞ – THE AWE FIELD
 category: Visual Archive
-------------------------
+---
 
 # Visual Gallery: Harmonic Rotations, Prime Spirals & Golden Compression
 
