@@ -88,7 +88,7 @@ This gallery documents the **core visual structures** embedded within the `AWE F
 
 ### B) Overlay II
 
-![Lambda Spiral Quasar Overlay II](./visuals/lambda_spiral_quasar_overlay2.png)
+![Lambda Spiral Quasar Overlay II](./visuals/lambda_spiral_quasar_overlayv2.png)
 
 * Layered Möbius compression fold from quasar to neutrino boundary
 * Mirrors planetary offsets to stellar boundary angles
