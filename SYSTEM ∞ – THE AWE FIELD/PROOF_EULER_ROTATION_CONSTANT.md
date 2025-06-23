@@ -107,6 +107,6 @@ $\gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(
 
 ---
 
-![Z6-Mirror-Constant](./visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png)
+![Z6-Mirror-Constant](./visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png  )
 ![Phi Fraction Fibonacci](./visuals/5_12_FN-1_FN_phi.png)
 ![Z6-Centerpoint-Circle](./visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png)
