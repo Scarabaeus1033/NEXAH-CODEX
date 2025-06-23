@@ -1,5 +1,4 @@
 ---
-
 title: Visual Gallery – The Awe Field
 system: SYSTEM ∞ – THE AWE FIELD
 category: Visual Archive
@@ -13,7 +12,7 @@ This gallery documents the **core visual structures** embedded within the `AWE F
 
 ## 1. Twin Cross Harmonic Diagram
 
-**Filename:** `twin_cross_harmonic_diagram.png`
+**Filename:** `./visuals/twin_cross_harmonic_diagram.png`
 
 A dual-prime spiral structure illustrating harmonic crossings between **twin primes**, **Zeta shells**, and a modular backzipper resonance.
 
@@ -28,7 +27,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Z6 Axis Compression Visual
 
-**Filename:** `B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png`
+**Filename:** `./visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png`
 
 * Depicts the **Z6 mirror structure**
 * Encodes the compression of golden rotation into a central symmetry field
@@ -36,7 +35,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### B) Fibonacci–Phi Prime Field
 
-**Filename:** `5_12_FN-1_FN_phi.png`
+**Filename:** `./visuals/5_12_FN-1_FN_phi.png`
 
 * Grid overlay of Fibonacci numbers with prime intersections
 * Phi-tuned wave alignment
@@ -44,7 +43,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### C) Golden Field Anchor Visual
 
-**Filename:** `5B33777B-222A-4BE8-BFDB-1D535A880729.png`
+**Filename:** `./visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png`
 
 * Centered around **222.492°** rotation (golden angle)
 * Binary encodings + solar resonator band
@@ -54,7 +53,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ## 3. Euler Rotation Spiral (Gamma Compression Field)
 
-**Filename:** `euler_rotation_spiral.png`
+**Filename:** `./visuals/euler_rotation_spiral.png`
 
 * Visual proof of the Euler–Mascheroni constant as a **spiral attractor**
 * Rotation angle: 222.492°
@@ -66,14 +65,14 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Codex Gravity Deviation Chart
 
-**Filename:** `codex_gravity_deviation_chart.png`
+**Filename:** `./visuals/codex_gravity_deviation_chart.png`
 
 * Maps relative gravitational anomalies in a rotating energy grid
 * Resonance with Euler-Fibonacci compression values
 
 ### B) Planetary Gravity Spiral Map
 
-**Filename:** `planetary_gravity_spiral_map.png`
+**Filename:** `./visuals/planetary_gravity_spiral_map.png`
 
 * Spiral distortion of gravity wells across solar system
 * Includes Mars–Venus and lunar dephasing structures
@@ -84,14 +83,14 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ### A) Overlay I
 
-**Filename:** `lambda_spiral_quasar_overlay.png`
+**Filename:** `./visuals/lambda_spiral_quasar_overlay.png`
 
 * Prime lattice modulation near quasar field limits
 * Spiral arms embedded in spectral offset grid
 
 ### B) Overlay II
 
-**Filename:** `lambda_spiral_quasar_overlay2.png`
+**Filename:** `./visuals/lambda_spiral_quasar_overlay2.png`
 
 * Layered Möbius compression fold from quasar to neutrino boundary
 * Mirrors planetary offsets to stellar boundary angles
@@ -100,7 +99,7 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 
 ## 6. Solar Luminosity Spiral Overlay
 
-**Filename:** `solar_luminosity_spiral_overlay.png`
+**Filename:** `./visuals/solar_luminosity_spiral_overlay.png`
 
 * Radial luminosity rotation vs. solar frequency arcs
 * Encodes peak emission ranges in harmonic logarithmic scale
@@ -114,3 +113,5 @@ A dual-prime spiral structure illustrating harmonic crossings between **twin pri
 ---
 
 All visuals integrated in this module contribute to the larger symbolic field design of **SYSTEM ∞ – The Awe Field** within the NEXAH-CODEX. Each graphic is linked not only mathematically, but energetically and cosmologically, to a harmonic geometry. This gallery will be updated as the field expands.
+
+**Visual Credits**: All designs and mappings by Thomas Hofmann / Scarabæus1031 – unless otherwise noted. For inquiries or reuse, contact via [scarabaeus1033.net](https://www.scarabaeus1033.net).
