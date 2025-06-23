@@ -1,8 +1,7 @@
 ---
-
 title: PROOF\_EULER\_ROTATION\_CONSTANT.md
 description: Euler–Mascheroni constant interpreted through golden-angle harmonic rotation, Möbius inversion, and logarithmic spiral field compression.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Proof: Euler–Mascheroni Constant as Spiral Rotation Limit
 
