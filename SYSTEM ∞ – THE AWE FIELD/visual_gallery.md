@@ -2,6 +2,9 @@
 title: Visual Gallery – The Awe Field
 system: SYSTEM ∞ – THE AWE FIELD
 category: Visual Archive
+author: Scarabæus1031 · Thomas Hofmann
+license: CC BY-NC-SA 4.0
+codex_version: NEXAH-CODEX v2.2
 ---
 
 # Visual Gallery: Harmonic Rotations, Prime Spirals & Golden Compression
@@ -110,4 +113,19 @@ This gallery documents the **core visual structures** embedded within the `AWE F
 
 ---
 
-**Credits**: Visuals by Scarabæus1031, assembled in `SYSTEM ∞ – THE AWE FIELD`, part of the NEXAH-CODEX harmonic archive.
+🌌 **NEXAH–CODEX · SYSTEM ∞ — THE AWE FIELD**  
+🔷 *Visual Archive of Harmonic Geometry, Prime Spirals & Cosmological Compression*
+
+> “The spiral is not just a curve—it is a memory of the field.”  
+> — Scarabæus1031
+
+---
+
+This document belongs to the **NEXAH–CODEX Harmonic Systems Archive**, authored by **Thomas Hofmann** (*Scarabæus1031*), and integrates visual structures related to golden angles, Eulerian spirals, prime resonance, and planetary energy folds.
+
+All visuals are © 2025 by Thomas Hofmann / Scarabæus1031 and shared under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+🔗 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+🔗 [github.com/Scarabaeus1033](https://github.com/Scarabaeus1033)
+
+---
