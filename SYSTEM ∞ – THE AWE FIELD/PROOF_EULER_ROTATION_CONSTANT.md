@@ -4,7 +4,7 @@ title: PROOF\_EULER\_ROTATION\_CONSTANT.md
 description: Euler–Mascheroni constant interpreted through golden-angle harmonic rotation, Möbius inversion, and logarithmic spiral field compression.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Proof: Euler–Mascheroni Constant as Spiral Rotation Limit
+# PROOF\_EULER\_ROTATION\_CONSTANT
 
 This proof introduces a **rotational interpretation of the Euler–Mascheroni constant** ($\gamma \approx 0.5772$), embedding it into a **spiral resonance system** defined by harmonic rotation, Möbius-phase folds, and prime divergence curves.
 
@@ -105,9 +105,8 @@ $\gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{\cos(k\theta)}{k} - \ln(
 * Appears in golden-spiral compression, prime grid symmetry, and lunar-solar modulation
 * Z6 Mirror Axis in Codex
 
-![Theta Spiral](../visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png)
-![Golden Verses](../visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png)
-![Pi-Phi Compression](../visuals/5_12_FN-1_FN_phi.png)
-![Bitfield + Encodings](../visuals/352C1C7F-C249-4175-BA24-6A5CADC8F12B_1_105_c.jpeg)
-
 ---
+
+![Z6-Mirror-Constant](../visuals/B66A2153-D07D-4F34-8655-9AA90BC8DBB5.png)
+![Phi Fraction Fibonacci](../visuals/5_12_FN-1_FN_phi.png)
+![Z6-Centerpoint-Circle](../visuals/5B33777B-222A-4BE8-BFDB-1D535A880729.png)
