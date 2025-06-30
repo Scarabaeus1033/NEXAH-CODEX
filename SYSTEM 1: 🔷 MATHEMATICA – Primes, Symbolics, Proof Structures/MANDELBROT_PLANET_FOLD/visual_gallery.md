@@ -12,7 +12,7 @@ This gallery collects and explains the core visual components of the `MANDELBROT
 ## 🌀 Mandelbrot Structures
 
 ### 1. **Mandelbrot_the_whole_thang.png**
-![Mandelbrot Whole](./visuals/Mandelbrot_the_whole_thang.png)
+![Mandelbrot Whole](./visuals/%20Mandelbrot_the_whole_thang.png)
 *A high-resolution representation of the Mandelbrot Set — interpreted as a cosmic symbolic entity.*
 
 ### 2. **mandelbrot_tail_section.png**
