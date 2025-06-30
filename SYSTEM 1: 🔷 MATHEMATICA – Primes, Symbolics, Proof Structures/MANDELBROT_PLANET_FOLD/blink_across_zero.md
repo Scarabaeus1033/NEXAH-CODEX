@@ -47,7 +47,7 @@ This image shows the **zoom into the Mandelbrot tail** where the **Arrokoth–Q-
 
 ## 🪞 Extended Symbolic Geometry: Θ–Z–Λ Triangle
 
-![Triangle Visual](./visuals/Doppel-Oval%20mit%20Spiegel%20&%20Dreieck%20(O-Z-%5E).png)
+![Triangle Visual](./visuals/Doppel-Oval_mit_Spiegel-Dreieck_O-Z-^.png)
 
 This diagram reframes the Zeta resonance into a triangle of forces:
 
