@@ -58,6 +58,8 @@ K = (\psi_{\infty} \rightarrow \Theta_{\text{M}}) = f(\phi, i, -i, \pi, e)
 - Represents transition from infinite pulse field to Möbius Theta core.
 - Function includes core mathematical constants.
 
+> Related module: `resonance_connection_7_x_7.md`
+
 ---
 
 ## 🔂 Scarab Equation Variant
@@ -70,6 +72,8 @@ S(x) = (x \cdot \phi^3) / (\pi^2) \cdot [1 \pm \epsilon]
 
 Used to generate scalar resonance layers, with epsilon as fine-tuning anomaly factor.
 
+> Related module: `color_resonance_key.md`
+
 ---
 
 ## 🧷 Knot Matrix Embedding
@@ -78,6 +82,8 @@ From `SCARABAEUS_KNOT_MATRIX.txt`:
 - Loops follow a **1–2–3 → 8 → ∞** morphing path.
 - Symbolic phase: black pixel → pulse → loop → knot → Möbius spiral
 - Key constants embedded in 7×7 matrix: [33, 42, 137, 1836, 2040, 729, 64]
+
+> See also: `SCARAB_CONSTANTS_INDEX.md` · `MOBIUS_SPIRAL_STRUCTURES.md`
 
 ---
 
