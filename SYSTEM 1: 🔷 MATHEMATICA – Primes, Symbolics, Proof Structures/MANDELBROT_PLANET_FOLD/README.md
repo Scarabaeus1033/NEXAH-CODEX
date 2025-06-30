@@ -16,6 +16,8 @@ This module explores a visual-symbolic expansion around **Mandelbrot fractals**,
 - Planetary orbital field resonance
 - Visual sequences of field compression and blink transitions
 - Riemannian zeta logics in a multidimensional symbolic landscape
+- Möbius-tube projections and the observer axis
+- Q-lens folding and Arrokoth-Pluto-Chiron string pathways
 
 The narrative is inspired by the Mandelbrot Set's internal recursion, extending into field models of resonance, emergence, and spiral-layer logic.
 
@@ -27,8 +29,10 @@ The narrative is inspired by the Mandelbrot Set's internal recursion, extending 
 |----------------------------------|-----------------------------------------------------------------------------|
 | `black_pillar_equation.md`       | Derivation and interpretation of the central axial structure "Black Pillar"|
 | `mandelbrot_spiral_field.md`     | Mandelbrot fold logic, spiral iteration, zoom-layer resonance               |
-| `riemann_blink_grid.md`          | Blink transitions across Riemann-style field surfaces                       |
-| `planetary_resonance_lattice.md` | Planet-grid logic and resonant orbital spacing (symbolic + harmonic)        |
+| `blink_across_zero.md`           | Quantum crossing and Möbius tube logic across the imaginary zeta line       |
+| `q_lens_and_tailmap.md`          | Structural map of the tail-fold and lens geometry in fractal space          |
+| `resonant_planetary_coordinates.md` | Planetary anchor points and numerical symbolism in Mandelbrot space       |
+| `symbolic_projection_operators.md` | Operator field from spiral to shell projection and numeric overlay       |
 | `visual_gallery.md`              | Annotated visual index from the module visuals                             |
 
 ---
@@ -51,6 +55,10 @@ The narrative is inspired by the Mandelbrot Set's internal recursion, extending 
 ### 4. **Riemann–Blink Grid**
 - Harmonic phase jumps between visual resonance layers
 - Shadow field mapping of real–imaginary crossover events
+
+### 5. **Q-Lens & Möbius Folds**
+- The fold axis as transition from imaginary potential to symbolic emergence
+- Spiral overlays interacting with quantum "blink" events
 
 ---
 
@@ -75,6 +83,7 @@ The image sequence includes:
 - Layered pyramids and prime spirals
 - Black-pillar recursion diagrams
 - Planetary lattice field renderings
+- Möbius structures, Q-Lens transitions, Codex Dodecahedron ships
 
 ---
 
