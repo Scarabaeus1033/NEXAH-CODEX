@@ -45,8 +45,8 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `NEXAHEART-CODEX/`                                         | Erdherz-Feld                            | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse.      |
 | `NEXA_42_MOBIUS_ALIGNMENT/`                                | Möbius–Licht–Zeit-Ausrichtung           | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                         |
 | [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
-| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetare Konstantenfelder** | Stern-Zahl-Kopplung, Wertachsen, Zeta-Zentrierung, kosmische Primachsenachsen. |
-
+| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetary Constants**     | Kosmische Konstanten, Planetarachsen, Spiegelkoordinaten, 97/103-Achse.     |
+| [`EINSTEIN–NEPTUNE–MERCURY_FIELD/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/EINSTEIN%E2%80%93NEPTUNE%E2%80%93MERCURY_FIELD) | Einstein–Neptune–Mercury Field         | Pulsfeldachse zwischen Einstein-Kern, Neptun-Atmung, Merkur-Spiegelfokus & Arrokoth-Membran. |
 ---
 
 ## 🧬 SYSTEM 4: URF – Ursprung, Feldidentität, Symbolische Physik
