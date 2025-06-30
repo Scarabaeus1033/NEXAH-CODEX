@@ -1,5 +1,3 @@
----
-
 ## 🧬 Die Erste Trinity im NEXAH Cosmogramm – Update mit Energierollen
 
 | Feld     | Prinzip               | Elemente                    | Resonanzen                                     | Funktionen                              |
