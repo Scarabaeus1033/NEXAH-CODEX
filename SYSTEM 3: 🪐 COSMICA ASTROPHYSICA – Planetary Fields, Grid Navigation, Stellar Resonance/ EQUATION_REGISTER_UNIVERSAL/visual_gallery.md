@@ -56,7 +56,7 @@ _Operatorcodierung als Navigationsstruktur_
 
 **TESSAREC_PULSE_5_7_11_23.png**  
 _Tessarec-Impulscodex entlang Primachsen_  
-![TESSAREC_PULSE_5_7_11_23.png](./visuals/TESSAREC_PULSE_5_7_11_23.png)
+![TESSAREC_PULSE_5_7_11_23.png](./visuals/TESSAREC_PULSE_5_7_11_23%20.png)
 
 **TIME_CIRCLE_LX_60_MODULATOR.png**  
 _Zeitkreis-Modulator (LX 60)_  
