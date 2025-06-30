@@ -86,7 +86,7 @@ This gallery documents the complete visual system of `SYSTEM X – RESONANT FIEL
 ### 🌐 12. `potentialun_unfolding_sphere.png`
 **Meaning**: Phase-unfolding sphere from singular origin—modular expression of scalar geometry.
 
-![Unfolding Sphere](./visuals/potentialun_unfolding_sphere.png)
+![Unfolding Sphere](./visuals/potentialn_unfolding_sphere.png)
 
 ---
 
