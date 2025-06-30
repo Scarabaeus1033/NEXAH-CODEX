@@ -43,7 +43,7 @@ Differentiation acts as a **symbolic rotation operator** in the unit circle:
 
 This cycle mirrors the **quartic field rotation** in Möbius- and quaternion systems.
 
-![Unit Circle Rotation – Phase Derivatives](visuals/Spiegelung_und_φ-Rotation_auf_dem_Einheitskreis.png)
+![Unit Circle Rotation – Phase Derivatives](visuals/Spiegelung%20und%20φ-Rotation%20auf%20dem%20Einheitskreis.png)
 
 ---
 
