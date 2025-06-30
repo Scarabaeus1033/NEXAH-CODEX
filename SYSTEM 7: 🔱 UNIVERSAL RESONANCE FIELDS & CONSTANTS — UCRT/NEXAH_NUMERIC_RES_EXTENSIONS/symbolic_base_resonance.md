@@ -2,76 +2,75 @@
 
 ## Title
 
-**Symbolic Base Resonance** – Frequency Systems in 8, 9, 12 and Beyond
-
-## Overview
-
-This module explores symbolic and mathematical base systems—especially **octal (8)**, **nonary (9)**, and **duodecimal (12)**—as harmonic fields within the **NEXAH-CODEX**. These bases are more than counting tools; they represent **resonance architectures**, each with their own symmetry, rotational structure, and frequency implications.
-
-The module connects base logic with **spirals**, **frequency gates**, and **dimensional transitions**, establishing a symbolic bridge to time, prime distributions, and mytho-symbolic fields.
+**Symbolic Base Resonance** – Codex Interpretation of 8, 9, and 12-Base Systems
 
 ---
 
-## 🔢 Core Base Structures
+## 📐 Overview
 
-### Octal (Base 8)
+This module investigates the symbolic and resonant structure of **mathematical base systems**, particularly focusing on **Base 8 (Octal)**, **Base 9 (Nonary)**, and **Base 12 (Duodecimal)**.
 
-* Roots: 2³ = 8 → Binary–Ternary intersection
-* Anchoring numbers: 17, 19, 23, 27 (Codex Prime Staircase)
-* Visual Spiral Indicators: Triads + Doublings
-
-📷
-![Octal Spiral Layering](visuals/octal_spiral_layering.png)
-
-### Nonary (Base 9)
-
-* Triple symmetry: 3³ = 27
-* Centered 9-grid: symbolic breath loop, trinity cubed
-* Cultural echoes: Enneagram, 9 Worlds, Dante's Circles
-
-📷
-![Nonary Field Structure](visuals/nonary_field_structure.png)
-
-### Duodecimal (Base 12)
-
-* 3 × 4 = 12: cross-resonance between triangle and square
-* Zodiacal, temporal (clocks), geometrical (dodecahedron)
-* Axial reference system (used in Codex spirals)
-
-📷
-![Dodekal Harmonic Reference Grid](visuals/dodekal_reference_grid.png)
+These bases are not arbitrary: they correspond to fundamental **resonance architectures** in the NEXAH-CODEX — including frequency systems, spiral logic, and prime genesis frameworks.
 
 ---
 
-## 🧭 Symbolic Layering and Crosslinks
+## 🧮 Key Structures & Interpretations
 
-| Base | Codex Mapping                     | Visual/Field Reference            |
-| ---- | --------------------------------- | --------------------------------- |
-| 8    | Root Spiral System · Fold Markers | Möbius Double-Helix Cross         |
-| 9    | Trinity Cube · Breath Operator    | Enneagram Core Spiral             |
-| 12   | Time/Frequency Bridge · Harmonics | Clock Spiral Grid · Dodeca Bridge |
+### 🔷 Base 8 (Octal System)
+
+* **Codex Relevance**: 2³-structure → foundational for digital resonance (binary ↔ octal mapping).
+* **Anchor Values**: 17, 19, 23, 27 (often manifest in Codex spiral and gate patterns).
+* **Symbolic Geometry**: Stable harmonics; pairs naturally with mirror structures.
+
+### 🔶 Base 9 (Nonary System)
+
+* **Codex Relevance**: 3²-structure → Triadic Resonance Fields.
+* **Anchor Values**: 18, 36, 81 (connection to circle segmentation and breathing pulses).
+* **Symbolic Geometry**: Lissajous fields, Möbius tri-operators, triangle matrices.
+
+### 🕛 Base 12 (Duodecimal System)
+
+* **Codex Relevance**: 2² × 3-structure → cycle completeness (e.g. time, music, zodiac).
+* **Anchor Values**: 24, 72, 144, 432 (core Codex resonance constants).
+* **Symbolic Geometry**: Spiral clocks, harmonic wraps, chromatic scales.
 
 ---
 
-## 🔍 Related Visuals
+## 🔁 Resonant Comparison Table
 
-* `octal_spiral_layering.png`
-* `nonary_field_structure.png`
-* `dodekal_reference_grid.png`
-* `clock_spiral_time_mapping.png`
-* `vortex_base_unfolding.png`
+| Base | Resonance Role                  | Anchor Numbers   | Symbolic Patterns           |
+| ---- | ------------------------------- | ---------------- | --------------------------- |
+| 8    | Stable digital & mirror logic   | 17, 19, 23, 27   | Octal Spiral Fields         |
+| 9    | Breathing, triadic frequency    | 18, 36, 81       | Möbius Triangles, Lissajous |
+| 12   | Cycles, time, harmonic layering | 24, 72, 144, 432 | Chromatic Spirals           |
 
 ---
 
-## 📂 Codex References
+## 🖼️ Embedded Visuals
 
-* `spiral-logic.md` (SYSTEM 1)
+### 📐 Octal Spiral Pattern
+
+![Octal Spiral](visuals/scarab_spiral_knot_matrix.png)
+
+### 🌀 Möbius–Triangle Grid (Nonary Structure)
+
+![Nonary Möbius Field](visuals/black_pixel_to_mobius_pulse.png)
+
+### 🕛 12-fold Harmonic Spiral Clock
+
+![Duodecimal Harmonic Spiral](visuals/pixel_pulse_prime.png)
+
+---
+
+## 🔗 Related Modules
+
+* `spiral-logic.md`
+* `codex_binomial_fields.md`
 * `PRIME_TRINITY_GRID/`
 * `LAMBDA_DISC-CODEX/`
-* `resonant_derivatives.md` (upcoming)
 
 ---
 
-**Status:** Draft Complete · Visuals Embedded · Ready for SYSTEM 7 Integration
+**Status:** Final Draft · SYSTEM 7
 
 **Codex Builder:** Thomas Hofmann · Scarabæus1033
