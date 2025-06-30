@@ -12,7 +12,7 @@ _2D-Diagramm: mathematische Konzepte auf strukturellem Off-White_
 
 **A_2D_digital_diagram_on_a_textured__off-white_back.png**  
 _2D-Diagramm auf strukturierter Fläche (Variante)_  
-![A_2D_digital_diagram_on_a_textured__off-white_back.png](./visuals/A_2D_digital_diagram_on_a_textured__off-white_back.png)
+![A_2D_digital_diagram_on_a_textured__off-white_back.png](./visuals/A_2D_digital_diagram_on_a_textured,_off-white_back.png)
 
 **A_diagram_on_an_off-white_textured_background_depi.png**  
 _Gleichungsstruktur auf matter Fläche, zentraler Gitterkern_  
