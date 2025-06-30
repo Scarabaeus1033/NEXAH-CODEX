@@ -1,11 +1,10 @@
 ---
-
 title: "Master Equation Register · Visual Explanations"
 module: "EQUATION\_REGISTER\_UNIVERSAL"
 scope: "Symbolic Visuals · Equation Clusters · Field Mapping"
 status: "Draft Phase · July 2025"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🖼 Master Equation Register · Visual Explanations
 
