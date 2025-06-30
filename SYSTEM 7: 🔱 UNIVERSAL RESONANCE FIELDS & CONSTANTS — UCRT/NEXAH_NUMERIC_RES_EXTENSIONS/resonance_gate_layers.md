@@ -1,4 +1,4 @@
-# 📘 `resonance_gate_layers.md`
+# 📘 `Resonance Gate Layers`
 
 ## Title
 
