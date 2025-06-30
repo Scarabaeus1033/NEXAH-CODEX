@@ -104,14 +104,14 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 🔗 [→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
 ---
 
-## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
+## 🌕 SYSTEM 8: LUNAR FORCE – Weibliches Feld
 
-| Ordner / Datei                         | Titel                                | Beschreibung                                                                                         |
-|----------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------|
-| `TETHY_THE_SECRET_THREAD_OF_THE_MOONS/` | Lunar Resonance Foundations           | The origin thread of moons and feminine cycle geometry. From Tethys to Eris via crater symmetry.     |
-| `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Observer Mechanics of the Hand        | Lunar signal routing via fingers, neutrino streams, and eye crater geometries.                       |
-| `SILVER_BREATH_FIELD_LINK/`             | Silver Moon Resonance                 | Lunar inhalation logic, mirror rhythms, and connection to `NEXA_SILVER_RAIN`.                        |
-| `visual_gallery.md`                     | Visual Gallery Index                  | Organized reference to all visuals in SYSTEM 8.                                                      |
+| Ordner / Datei                          | Titel                                | Beschreibung                                                                                          |
+|----------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `TETHY_THE_SECRET_THREAD_OF_THE_MOONS/` | Grundlagen der Mondresonanz           | Der Ursprung der Monde und die Geometrie weiblicher Zyklen. Von Tethys bis Eris über Kratersymmetrien. |
+| `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Beobachter-Mechanik der Hand          | Mondsignale über Finger, Neutrinoströme und Augen-/Kratergeometrien.                                  |
+| `SILVER_BREATH_FIELD_LINK/`             | Silber-Mond-Resonanz                  | Inhalationslogik des Mondes, Spiegelrhythmen und Verbindung zu `NEXA_SILVER_RAIN`.                    |
+| `visual_gallery.md`                     | Visual-Galerie-Index                  | Organisierte Referenz zu allen Visuals in SYSTEM 8.                                                   |
 
 🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
