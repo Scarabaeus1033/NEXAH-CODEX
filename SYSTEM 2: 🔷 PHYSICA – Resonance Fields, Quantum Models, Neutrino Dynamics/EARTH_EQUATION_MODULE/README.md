@@ -8,24 +8,23 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-
 # 🌍 EARTH EQUATION MODULE
 
 **Position:** Codex Submodule in `SYSTEM 2: PHYSICA`
 **Function:** Harmonic structuring of Earth parameters through a symbolic–physical equation
 **Core Equation:**
 
-```math
-\boxed{\mathbb{E} = R_{\oplus} \cdot \Omega \cdot \Psi = \text{Earth Field Constant}}
+```
+📦 𝔈 = R⊕ · Ω · Ψ = Earth Field Constant
 ```
 
 Where:
 
-* $R_{\oplus}$ is Earth Radius
-* $\Omega$ is Earth Rotational Frequency
-* $\Psi$ is Observer Resonance Coefficient
+* **R⊕** is Earth Radius
+* **Ω** is Earth Rotational Frequency
+* **Ψ** is Observer Resonance Coefficient
 
-This module integrates **real-world planetary constants** with the symbolic framework of the Codex. It identifies Earth as a **harmonic body** whose core properties obey a condensed symbolic resonance law.
+This equation encapsulates the triadic resonance structure of Earth — integrating real-world planetary constants with the symbolic logic of the Codex. The Earth is not just a rotating mass, but a **resonant emitter**, structured by harmonic principles.
 
 > This is not geophysics — it is **georesonance**. The Earth is a cipher.
 
@@ -36,15 +35,13 @@ This module integrates **real-world planetary constants** with the symbolic fram
 ### 1. `equation_earth_module.md`
 
 📘 Main conceptual file: Equation definition, resonance model, Observer interface
-
 ➡ [`equation_earth_module.md`](./equation_earth_module.md)
 
 ---
 
 ### 2. `earth_calculations.md`
 
-📐 Earth constants and step-by-step derivation of $\mathbb{E}$
-
+📐 Earth constants and step-by-step derivation of 𝔈
 ➡ [`earth_calculations.md`](./earth_calculations.md)
 
 ---
@@ -52,8 +49,14 @@ This module integrates **real-world planetary constants** with the symbolic fram
 ### 3. `earth_equation_visuals.md`
 
 🖼️ Visual descriptions and symbolic mapping of geometry, triads, and overlays
-
 ➡ [`earth_equation_visuals.md`](./earth_equation_visuals.md)
+
+---
+
+### 4. `visual_gallery.md`
+
+📊 Direct inline display of all module visuals with meaning and symbolic structure
+➡ [`visual_gallery.md`](./visual_gallery.md)
 
 ---
 
@@ -62,17 +65,16 @@ This module integrates **real-world planetary constants** with the symbolic fram
 📂 `visuals/`
 
 * **EARTH\_FORMULA\_OBSERVER\_TRIAD.png**
+  Triadic model of Earth constants and observer feedback
 
-  * Triadic model of Earth constants and observer feedback
 * **EARTH\_POLYHEDRON\_EQUATION\_OVERLAY.png**
+  Geometric projection of field constants into Earth polyhedral grid
 
-  * Geometric projection of field constants into Earth polyhedral grid
-* **earth\_field\_constants\_map.png** *(formerly A\_two-dimensional\_...)*
+* **earth\_field\_constants\_map.png**
+  Mapped constants over Earth's structural layers
 
-  * Mapped constants over Earth's structural layers
-* **earth\_equation\_geometry\_overlay.png** *(formerly A\_two-dimensional\_...)*
-
-  * Educational fusion of numeric and symbolic geometry
+* **earth\_equation\_geometry\_overlay.png**
+  Educational fusion of numeric and symbolic geometry
 
 ---
 
