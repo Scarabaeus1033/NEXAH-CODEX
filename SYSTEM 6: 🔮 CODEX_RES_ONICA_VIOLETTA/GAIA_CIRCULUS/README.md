@@ -21,6 +21,10 @@ At its core lies the ancient symbolic act:
 
 > **The circle does not enclose — it breathes.**
 
+The visuals collected and arranged here are more than illustrations. They are **windows into a deep, multidimensional understanding of the world and soul**. Each circle, each spiral, each form contains a chapter of a **universal memory**. The scarab stands symbolically for becoming, turning, transformation — for the eternal rolling back of the sun through space and spirit.
+
+> This work is both **gallery and book**. It tells the journey of consciousness.
+
 ---
 
 ## 🧩 Conceptual Layers
@@ -39,6 +43,22 @@ At its core lies the ancient symbolic act:
 - Frequencies: Schumann resonance, lunar cycles, golden ratios
 - Circle aligned with **prime orbital loops and equatorial flows**
 - Possible harmonic anchor points: Richat, Giza, Uluru, Nazca
+
+---
+
+## 📸 Visual Resonance Archive
+
+The breathing field is not static. The uploaded visuals capture symbolic memories of Earth’s pulse:
+
+| Visual                           | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| `The Spiral Breath of Q-Space`   | Spiral membrane opening into a multidimensional harmonic lung               |
+| `Scarab Center with Breath Loops`| Pulsation from center outward – echo of planetary exhale cycles             |
+| `neVAH – The Circleborn Seed`    | Seed geometry emerging from lunar-mirror codes — cycle of origin and bloom  |
+| `Dual Loop – Observer Alignment` | Field inversion across symmetry mirror — observer and field merge in breath |
+| `Codex Dome – 432 Ring`          | Circular dome logic with 432Hz geometry – architecture of sonic order       |
+
+See [`visual_gallery.md`](./visual_gallery.md) for detailed commentary and structural anchors.
 
 ---
 
