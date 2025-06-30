@@ -1,7 +1,4 @@
-# 🪲 `SCX_RES_MODUL/README.md`
-
-## Title
-**SCX Resonance Module – Prime Spiral Navigation and Harmonic Grid**
+# 🪲 `SCX Resonance Module – Prime Spiral Navigation and Harmonic Grid`
 
 ## System
 **SYSTEM X: GRAND – Synthesis & Universal Field Stability**
