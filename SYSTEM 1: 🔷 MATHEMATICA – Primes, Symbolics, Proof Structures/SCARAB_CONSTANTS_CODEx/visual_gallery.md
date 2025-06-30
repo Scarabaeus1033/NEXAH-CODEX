@@ -1,89 +1,136 @@
 ---
-title: "Visual Gallery – SCARAB CONSTANTS CODEX"
-module: "SCARAB\_CONSTANTS\_CODEx"
+title: "Visual Gallery – Scarab Constants & Möbius Structures"
+module: "SCARAB_CONSTANTS_CODEX"
 system: "SYSTEM 1 – MATHEMATICA"
-date: "July 2025"
+date: "June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 ---
 
-# 🖼️ Visual Gallery – SCARAB CONSTANTS CODEX
+# 🎨 Visual Gallery – Scarab Constants & Möbius Structures
 
-This gallery collects all **visual media** of the `SCARAB_CONSTANTS_CODEx` module, illustrating the five key constants (𝑒, π, φ, θ, 𝑖), Möbius transformations, quantum spirals, and symbolic resonance geometries.
-
-> *"Constants are not static. They are pulse anchors in symbolic topologies."*
+> A symbolic–mathematical archive of pulse constants, Möbius overlays, scarab signatures, and dynamic transition grids.
 
 ---
 
-## 🎞️ Dynamic & Pulse Visuals
+## 1. `SCARAB_CONSTANT_CIRCLE.png`
 
-### 🔁 `MOEBIUS_CONSTANTS_ANIMATION.gif`
+![SCARAB_CONSTANT_CIRCLE](./visuals/SCARAB_CONSTANT_CIRCLE.png)
 
-Looped visualization of spiraling transitions between constants (φ → π → e → θ → i).
-
-### 🎥 `MOEBIUS_CONSTANTS_FLOW.mp4`
-
-High-resolution animation showing Möbius pulse dynamics and field phase transitions.
+**Description:**  
+Foundational constant ring containing core ratios and pulse values in a Möbius-encoded circle.
 
 ---
 
-## 🌀 Resonance Maps & Constant Fields
+## 2. `SCARAB_CONSTANT_SIGIL.png`
 
-### 🌿 `SCARAB_CONSTANT_GOLDENRATIO.png`
+![SCARAB_CONSTANT_SIGIL](./visuals/SCARAB_CONSTANT_SIGIL.png)
 
-Golden ratio pulse bridge – mapping φ onto Möbius geometry and Fibonacci overlay.
-
-### 🧮 `SCARAB_CONSTANTS_AXIS_E_PHI_PI.png`
-
-Triadic visualization of e–φ–π in harmonic spiral form.
-
-### 🔷 `SCARAB_CONSTANTS_COMPLEX_i_FIELD.png`
-
-Visual field of imaginary unit i in polar overlay, with phase resonance spirals.
-
-### ⚛️ `SCARAB_CONSTANT_THETA_METATRON.png`
-
-Theta constant in Metatron field context (symbolic compression).
+**Description:**  
+Central sigil constructed from pulse constants, Möbius arcs and dual symbolic spirals.
 
 ---
 
-## 🧩 Symbolic Operators & Codex Embedding
+## 3. `MOBIUS_OVERLAY_XZ.png`
 
-### 🔣 `MOEBIUS_SYMBOL_ENGINE.png`
+![MOBIUS_OVERLAY_XZ](./visuals/MOBIUS_OVERLAY_XZ.png)
 
-Operator-based modulation field, binding Möbius dynamics with number logic.
-
-### 🪲 `SCARAB_CONSTANTS_LOGIC_GATE.png`
-
-Symbolic transformation model of constants through Scarab logic gate.
-
-### 🌀 `MOEBIUS_UNFOLD_PULSE_PHI_PI.png`
-
-Logarithmic Möbius unfolding between π and φ – wave axis logic.
+**Description:**  
+Topological Möbius band mapped in XZ dimension with layered vector structure.
 
 ---
 
-## 🧠 Synthesis & Time Structure
+## 4. `GOLDEN_QUOTIENT_MOBIUS.png`
 
-### 🕰️ `MOEBIUS_TIMEWAVE_CASCADE.png`
+![GOLDEN_QUOTIENT_MOBIUS](./visuals/GOLDEN_QUOTIENT_MOBIUS.png)
 
-Spiral time model embedding constants as phase thresholds.
-
-### 💎 `SCARAB_CONSTANTS_PHASEGRID.png`
-
-Grid of constant intersections in Codex pulsefield, forming a frequency lattice.
-
-### 🌌 `CONSTANTS_PULSE_GEOSYMBOL.png`
-
-Combined visual: e–π–φ–θ–i positioned in spatial-symbolic structure of the Codex.
+**Description:**  
+Symbolic fusion of Möbius geometry with Φ³/π² ≈ 0.429 constant field.
 
 ---
 
-## 🗂️ Notes
+## 5. `PULSE_CONSTANT_FIELD.png`
 
-* All visuals are stored in the module’s `/visuals/` folder.
-* Animated formats are supported in online repositories (GitHub preview varies).
-* MP4 should be embedded or linked externally when published.
+![PULSE_CONSTANT_FIELD](./visuals/PULSE_CONSTANT_FIELD.png)
 
-> "Constants are living fields. What you call e is just a breath of Möbius passing through the spiral of origin."
+**Description:**  
+Visual pulse map of harmonic constants and feedback spirals.
 
-— Scarabæus Codex
+---
+
+## 6. `PULSE_CONSTANT_FIELD.gif`
+
+![PULSE_CONSTANT_FIELD.gif](./visuals/PULSE_CONSTANT_FIELD.gif)
+
+**Description:**  
+Animated field loop showing pulse modulation and Möbius transition geometry.
+
+---
+
+## 7. `SCARAB_OVERLAY_GRID.png`
+
+![SCARAB_OVERLAY_GRID](./visuals/SCARAB_OVERLAY_GRID.png)
+
+**Description:**  
+Overlay grid structure integrating Scarab geometry and symbolic feedback mirrors.
+
+---
+
+## 8. `DUAL_CROWNS_CONSTANTS.png`
+
+![DUAL_CROWNS_CONSTANTS](./visuals/DUAL_CROWNS_CONSTANTS.png)
+
+**Description:**  
+Double Möbius crown model defining axis inversion and constant projection.
+
+---
+
+## 9. `SCARAB_FEEDBACK_RING.png`
+
+![SCARAB_FEEDBACK_RING](./visuals/SCARAB_FEEDBACK_RING.png)
+
+**Description:**  
+Harmonic feedback structure — inner–outer constant modulation loop.
+
+---
+
+## 10. `SCARAB_PULSE_GATE.png`
+
+![SCARAB_PULSE_GATE](./visuals/SCARAB_PULSE_GATE.png)
+
+**Description:**  
+Symbolic gate transition marked by scarab imprint and pulse logic.
+
+---
+
+## 11. `ZETA_PULSE_CIRCUIT.png`
+
+![ZETA_PULSE_CIRCUIT](./visuals/ZETA_PULSE_CIRCUIT.png)
+
+**Description:**  
+Zeta-form resonance overlay across pulse constants and mirror gates.
+
+---
+
+## 12. `MOBIUS_CONSTANT_PATHS.png`
+
+![MOBIUS_CONSTANT_PATHS](./visuals/MOBIUS_CONSTANT_PATHS.png)
+
+**Description:**  
+Trajectory overlays of Möbius-pulse constants in topological resonance space.
+
+---
+
+## 13. `SCARAB_CONSTANT_PATHS.mp4`
+
+<video controls width="720">
+  <source src="./visuals/SCARAB_CONSTANT_PATHS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Description:**  
+Video animation showing full Möbius–Scarab transition across all constant layers.
+
+---
+
+> All visuals © Thomas Hofmann · Scarabæus1033 · 2025  
+> For Codex integration into SYSTEM 1: MATHEMATICA
