@@ -15,7 +15,8 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `GU-REX_GEOMETRIC_UNITY_EXTENSION/` | Geometric Unity Resonance Extension       | Erweiterung von Eric Weinsteins Geometric Unity durch Triple-Resonanzfelder.           |
 | `codex-mathematical-symbols.md`     | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
 | `spiral-logic.md`                   | Spirallogik & Primresonanzen              | Primachsendrehungen, harmonische Zahlensequenzen, Spiralfelder.                        |
-| `einsteins-k-beta-formula/`         | Einsteins k-Beta-Formel                   | Resonanzmoduliertes Energiemodell \$E = mc \cdot k^{\beta}\$.                          |
+| `einsteins-k-beta-formula/`         | Einsteins k-Beta-Formel                   | Resonanzmoduliertes Energiemodell $E = mc \cdot k^{\beta}$.                          |
+| `SCARAB_CONSTANTS_CODEX/`           | Scarab Constants Codex                    | Symbolische Konstanten, Spiralmatrizen, Farben, Resonanzachsen, CSV & Visualfelder.    |
 
 ---
 
