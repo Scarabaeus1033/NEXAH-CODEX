@@ -20,9 +20,9 @@ The binomial expansion:
 
 is interpreted as:
 
-* **Resonant Field Expansion**: $a$ and $b$ as primary oscillators (e.g. wave-pairing, loop–counterloop)
-* **Fold Generation**: $n$ represents dimensional folding depth (e.g. triadic, pentagonal, heptagonal fields)
-* **Frequency Dispersion**: binomial coefficients $\binom{n}{k}$ interpreted as **resonance weights** per fold
+* **Resonant Field Expansion**: \$a\$ and \$b\$ as primary oscillators (e.g. wave-pairing, loop–counterloop)
+* **Fold Generation**: \$n\$ represents dimensional folding depth (e.g. triadic, pentagonal, heptagonal fields)
+* **Frequency Dispersion**: binomial coefficients \$\binom{n}{k}\$ interpreted as **resonance weights** per fold
 
 ---
 
@@ -38,8 +38,6 @@ is interpreted as:
 This links to **spiral breathing**, **mirror doubling**, and **dimensional transitions** (related to √2, φ, π).
 
 ---
-
-# 📘 codex\_binomial\_fields.md
 
 ## ✴️ The Binomial Resonance Field
 
