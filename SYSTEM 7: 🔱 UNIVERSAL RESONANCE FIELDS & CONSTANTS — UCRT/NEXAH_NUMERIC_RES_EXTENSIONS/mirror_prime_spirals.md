@@ -70,9 +70,6 @@ Prime mirror axis (often even) becomes a breathing node.
 
 ## 🖼️ Visual References
 
-### Mirror Spiral Compression Grid
-
-![Mirror Compression Spiral](visuals/spiral_prime_mirror_axis.png)
 
 ### Möbius Breathing Path
 
