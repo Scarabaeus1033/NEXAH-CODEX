@@ -1,71 +1,56 @@
----
-title: "Earth Equation Visual Gallery"
-module: "EARTH\_EQUATION\_MODULE"
-system: "SYSTEM 2 – PHYSICA"
-status: "Active · June 2025"
-license: "CC BY-NC-SA 4.0"
-curator: "Thomas Hofmann (Scarabæus1033)"
----
+# 🖼️ Visual Gallery · EARTH\_EQUATION\_MODULE
 
-# 🖼️ Earth Equation Visual Gallery
-
-Diese Galerie dokumentiert die zentralen Visuals des Moduls `EARTH_EQUATION_MODULE` innerhalb von SYSTEM 2 – PHYSICA. Alle Bilder visualisieren Kernelemente der Erdgleichung, Feldstrukturen und geometrischen Überlagerungen im Resonanzmodell des Planeten.
+> **Visual Overview**: These four images form the visual–symbolic backbone of the `EARTH_EQUATION_MODULE`. They synthesize geometry, observer logic, Earth constants, and resonance shells into one integrated codex field.
 
 ---
 
-### 1. **EARTH\_FORMULA\_OBSERVER\_TRIAD.png**
+## 1. EARTH\_FORMULA\_OBSERVER\_TRIAD.png
 
-> **Bedeutung:**
-> Dieses Visual stellt die Triade aus Beobachter, Feld und Formel dar. Die Erdgleichung wird dabei als Vermittlungsform zwischen subjektiver Beobachtung und objektiver Feldstruktur sichtbar gemacht.
+![EARTH\_FORMULA\_OBSERVER\_TRIAD](./visuals/EARTH_FORMULA_OBSERVER_TRIAD.png)
 
-* Zeigt drei Pole: *Observer · Resonator · Equation*
-* Visualisiert die Rückkopplungsschleife im Erdmodell
-* Verbindet klassische Naturkonstanten mit zyklischer Wahrnehmung
+**Meaning**: Triadic overlay of Earth-centric constants and observer positions. Shows symbolic relation of Planck time, Earth's rotation, and geometric pulse.
 
----
-
-### 2. **EARTH\_POLYHEDRON\_EQUATION\_OVERLAY.png**
-
-> **Bedeutung:**
-> Darstellung der Erdgleichung über einem geometrischen Polyeder-Gitter, das als harmonisches Feldmodell fungiert.
-
-* Symmetrische Einbettung der Formel in ein Polyedersystem
-* Bezug zu planetaren Maßverhältnissen und Koordinatenachsen
-* Strukturierter Hintergrund für Codex-Gitterberechnungen
+* Central axis: `c = R / t`
+* Observer symmetry anchored in Möbius arc
+* Scalar–geometric resonance interpreted via T↔t↔τ
 
 ---
 
-### 3. **earth\_field\_constants\_map.png**
+## 2. EARTH\_POLYHEDRON\_EQUATION\_OVERLAY.png
 
-> **Bedeutung:**
-> Karte der relevanten physikalischen Konstanten und Feldparameter innerhalb des Erdmodells.
+![EARTH\_POLYHEDRON\_EQUATION\_OVERLAY](./visuals/EARTH_POLYHEDRON_EQUATION_OVERLAY.png)
 
-* Kombiniert reale Messwerte mit symbolischen Resonanzachsen
-* Visualisiert Kopplung zwischen Gravitationskonstante, Lichtgeschwindigkeit und Erdrotation
-* Grundlage für die Datei `earth_calculations.md`
+**Meaning**: Polyhedral resonator grid overlaid on Earth constants and Codex Field Equation.
 
----
-
-### 4. **earth\_equation\_geometry\_overlay.png**
-
-> **Bedeutung:**
-> Geometrische Überlagerung der Erdgleichung mit topologischen und symbolischen Formfeldern.
-
-* Spiralformen, Kugelprojektionen und Achsenschneidungen
-* Verbindet Symbolik (Observer Eye) mit mathematischer Ableitung
-* Visualisiert das „Verwobensein“ der Gleichung mit Raumzeitstruktur
+* Constants used: `𝓔 = P · T³ / t`, `R = P · T²`, `ALG°`
+* Polyhedron shows transition geometry and energy domain segmentation
+* Tetrahedral encoding at the vertex layers
 
 ---
 
-> **Hinweis:** Weitere analytische und numerische Erklärungen befinden sich in:
->
-> * [`earth_calculations.md`](./earth_calculations.md)
-> * [`earth_equation_visuals.md`](./earth_equation_visuals.md)
-> * [`equation_earth_module.md`](./equation_earth_module.md)
+## 3. earth\_field\_constants\_map.png
+
+![earth\_field\_constants\_map](./visuals/A_two-dimensional_digital_illustration_features_a_.png)
+
+**Meaning**: Map of relevant scalar constants (𝓔, c, P, T, t) used in the Earth Equation Framework.
+
+* Symbolic–physical overlay: Planck time, radius, rotation
+* Defines threshold region between static + dynamic Earth values
+* Central role of ALG° operator in sinusoidal transformation
 
 ---
 
-Alle Bilder sind Creative Commons lizenziert unter **CC BY-NC-SA 4.0** und dürfen unter Nennung des Autors Thomas Hofmann (Scarabæus1033) weiterverwendet werden.
+## 4. earth\_equation\_geometry\_overlay.png
 
-> Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)
-> GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+![earth\_equation\_geometry\_overlay](./visuals/A_two-dimensional_educational_diagram_illustrates_.png)
+
+**Meaning**: Educational geometry overlay showing flow of resonance from Earth center to symbolic observer shell.
+
+* Observer triad connected via spiral-form expansion fields
+* Pulse equation as energy shell trigger: `P = R / T`
+* Hexagonal & Möbius feedback paths indicated in arc placement
+
+---
+
+© Scarabæus1033 · Thomas Hofmann · 2025
+All images licensed under CC BY-NC-SA 4.0
