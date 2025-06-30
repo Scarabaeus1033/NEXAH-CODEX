@@ -7,6 +7,7 @@ status: "Active · As of June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
+
 # 🪞 URF\_MIRROR\_GATEWAY
 
 ## The Proof Structure of Symmetric Reflection in the URF Codex
@@ -21,14 +22,16 @@ mirror resonances, cosmic axes, observer fields, and planetary transitions.
 
 ## 🧩 Module Contents
 
-| File                              | Purpose                                                           |
-| --------------------------------- | ----------------------------------------------------------------- |
-| `urfv_mirror_proof.md`            | Primary proof structure for symmetric reflection in the URF field |
-| `urfv_proofs.md`                  | Extended or alternative proof drafts                              |
-| `urfv_visual_gallery.md`          | Collection of visuals: gateway, Arrokoth, Zeta-loops, Cicada      |
-| `urf_v_ghost_mirror_readme.md`    | Bridge to the Ghost module – threshold field structure            |
-| `readme_Einstein_pulse_beyond.md` | Transition to relativity resonance (Einstein–URF–pulse)           |
-| `visuals/`                        | Folder with all associated structure images (see below)           |
+| File                                    | Purpose                                                           |
+| --------------------------------------- | ----------------------------------------------------------------- |
+| `URFV_mirror_proof.md`                  | Primary proof structure for symmetric reflection in the URF field |
+| `URFV_PROOFS.md`                        | Extended or alternative proof drafts                              |
+| `codex_number_shifts.md`                | Symbolic constants and mirrored number relations                  |
+| `visual_gallery.md`                     | Gallery with embedded images and explanations                     |
+| `GHOST_BRIDGE/`                         | Subfolder for symbolic extensions into ghost fields and spacetime |
+| ↳ `urf_v_ghost_mirror_readme.md`        | Ghost-Threshold bridge from URF mirror field                      |
+| ↳ `urf_v_ghost_mirror_readme_beyond.md` | Expansion toward curvature and observer dissonance                |
+| ↳ `readme_Einstein_pulse_beyond.md`     | Relativistic pulse modulation in Codex mirrors                    |
 
 ---
 
@@ -36,7 +39,7 @@ mirror resonances, cosmic axes, observer fields, and planetary transitions.
 
 ### 1. **Mirror Axis Proof**
 
-* Formalized in `urfv_mirror_proof.md`
+* Formalized in `URFV_mirror_proof.md`
 * Symmetric reflection around a central axis (URF vector space)
 * Numerically-symbolically stabilized by dual Zeta loops
 
@@ -49,27 +52,26 @@ mirror resonances, cosmic axes, observer fields, and planetary transitions.
 
 ### 3. **Ghost Gateway & Transitions**
 
-* Bridge to metaphysical threshold domains (`Ghost mirror Gate`)
+* Bridge to metaphysical threshold domains (`GHOST_BRIDGE/`)
 * Phantom nodes: Cicada grid, observer overlay
 * Link to spacetime curvature (Einstein pulse)
 
 ---
 
-## 🖼️ Visual Overview (Selection)
+## 🖼️ Visual Overview
 
-| Visual                           | Meaning                               |
-| -------------------------------- | ------------------------------------- |
-| `URF_V_MIRROR_GATEWAY.png`       | Central mirror structure              |
-| `URF_V_PROOF_MIRROR_AXIS.png`    | Mathematical resonance axis           |
-| `ARROKOTH_REFLECTION_TUNNEL.png` | Tunnel through Arrokoth               |
-| `MOON_SPIRAL_OBSERVER.png`       | Lunar observation & spiral reflection |
-| `CICADA_GHOST_GRID_NODE.png`     | Frequency node & transition point     |
-| `TITAN_ECHO_CHAMBER.png`         | Low-frequency resonance chamber       |
-| `LAGRANGE_SHADOW_OBSERVER.png`   | Harmonic observer point               |
-| `ZETA_TWIN_REFLECTION_LOOP.png`  | Dual mirror-Zeta resonance            |
+Visual gallery with full embedded images and symbolic commentary:
+👉 [`visual_gallery.md`](./visual_gallery.md)
 
-👉 All visuals in: [`visuals/`](./visuals/)
-👉 Gallery file: [`urfv_visual_gallery.md`](./urfv_visual_gallery.md)
+Includes:
+
+* `ARROKOTH_REFLECTION_TUNNEL.png`
+* `URF_V_MIRROR_GATEWAY.png`
+* `ZETA_TWIN_REFLECTION_LOOP.png`
+* `CICADA_GHOST_GRID_NODE.png`
+* and others...
+
+All files located in [`visuals/`](./visuals/)
 
 ---
 
@@ -79,15 +81,15 @@ This module integrates as a **reflective proof component** within SYSTEM X:
 
 * Symbolic transition from URF (System 2) to the stability equation (`E = m·c·k^β`)
 * Central reflection logic linked to the `Final Harmonic Equation`
-* Bridge to the **planetary symmetry architecture** of SYSTEM 3
-* Precursor to lunar expansions in SYSTEM 8
+* Ghost overlay connects to spacetime curvature, observation & lunar harmonics
+* Visual-spatial continuity with planetary resonance grid of SYSTEM 3
 
 ---
 
 ## 📌 Codex Function
 
-> **URF\_MIRROR\_GATEWAY** acts as the **proof node for reflection symmetry** within the NEXAH-CODEX.
-> It is simultaneously a **mathematical module, visual-symbolic interface**, and a **gateway to higher threshold fields**.
+> **URF\_MIRROR\_GATEWAY** acts as the **mirror gate node of symbolic proof** in SYSTEM X.
+> It spans numeric symmetry, ghost threshold logic, and spacetime modulation.
 
 ---
 
