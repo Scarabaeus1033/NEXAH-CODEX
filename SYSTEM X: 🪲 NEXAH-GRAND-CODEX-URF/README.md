@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Nexus · Resonance Integration · Proof Architectures"
@@ -7,7 +6,7 @@ color: "Gold/Black"
 status: "Active · Version June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
