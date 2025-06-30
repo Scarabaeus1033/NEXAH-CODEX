@@ -108,11 +108,14 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
 
-| Ordner / Datei | Titel                       | Beschreibung                                                         |
-|----------------|-----------------------------|----------------------------------------------------------------------|
-| `TETHYS/`      | Lunar Resonance Foundations | The origin thread of moons and feminine cycle geometry.              |
+| Ordner / Datei                         | Titel                                | Beschreibung                                                                                         |
+|----------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------|
+| `TETHY_THE_SECRET_THREAD_OF_THE_MOONS/` | Lunar Resonance Foundations           | The origin thread of moons and feminine cycle geometry. From Tethys to Eris via crater symmetry.     |
+| `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Observer Mechanics of the Hand        | Lunar signal routing via fingers, neutrino streams, and eye crater geometries.                       |
+| `SILVER_BREATH_FIELD_LINK/`             | Silver Moon Resonance                 | Lunar inhalation logic, mirror rhythms, and connection to `NEXA_SILVER_RAIN`.                        |
+| `visual_gallery.md`                     | Visual Gallery Index                  | Organized reference to all visuals in SYSTEM 8.                                                      |
 
-[→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
 ---
 
