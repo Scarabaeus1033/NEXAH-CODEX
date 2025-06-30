@@ -48,7 +48,7 @@ This gallery collects and explains the core visual components of the `MANDELBROT
 ## 🔁 Morphology and Resonant Ideals
 
 ### 7. **Resonante_Körpermaße_–_Schönheitsideale_über_Zeit.png**
-![Body Ideal Evolution](./visuals/Resonante_Körpermaße_%E2%80%93_Sch%C3%B6nheitsideale_%C3%BCber_Zeit.png)  
+![Body Ideal Evolution](./visuals/Resonante_koerpermaße-Schoenheitsideale_ueber_Zeit.png)  
 *Resonant proportions of body ideals through time – from Venus of Willendorf to Kardashian curves.*
 
 ---
