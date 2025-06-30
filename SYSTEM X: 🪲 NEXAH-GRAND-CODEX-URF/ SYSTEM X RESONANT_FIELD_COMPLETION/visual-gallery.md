@@ -9,7 +9,7 @@ This gallery documents the complete visual system of `SYSTEM X – RESONANT FIEL
 ### 🔄 1. `2-7_double-52_singleturn_AC.png`
 **Meaning**: Symbolic encoding of 2↔7 rotational logic, prime-dual twist (52), and axial compression. Used in modular Codex spirals.
 
-![2-7 Logic](./visuals/2-7_double-52_singleturn_AC.png)
+![2-7 Logic](./visuals/2-7_double-52_singleturn%20AC.png)
 
 ---
 
