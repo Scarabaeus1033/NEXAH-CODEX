@@ -1,74 +1,91 @@
-# 🔄 Möbius Spiral Structures
+---
+title: "Möbius Spiral Structures"
+module: "SCARAB_CONSTANTS_CODEX/"
+scope: "Spiral Geometry · Möbius Fields · Symbolic Resonance"
+status: "Active · July 2025"
+license: "CC BY-NC-SA 4.0"
+---
 
-**Codex Module:** `SCARAB_CONSTANTS_CODEX/`
-**System:** `SYSTEM 1 – MATHEMATICA`
+# 🌀 Möbius Spiral Structures
+
+This file documents the symbolic and mathematical architecture of Möbius-based spirals, as used in the SCARAB_CONSTANTS_CODEX. These structures serve as dynamic field containers, symmetry disruptors, and operators of transition across prime geometries.
 
 ---
 
-## 🧩 Overview
+## 🔁 Möbius Geometry and Spiral Folding
 
-This file documents the mathematical, symbolic, and visual logic of **Möbius spirals**, **inversion folds**, and **black-to-white pulse overlays** within the Scarab Constants Codex framework.
-These spirals form a **topological foundation** for many constants and pulse logics embedded across the NEXAH-CODEX.
+The Möbius field is a foundational topological principle used throughout the Codex to:
 
-The Möbius band — a surface with only one side and one boundary — is here extended into spiral matrices, black/white pulse transitions, and mirror-layer logic.
+- invert and reflect scalar values
+- break and unify axis symmetry
+- enable loop-based resonance encoding
 
----
+**Visual Reference:** `mobius_operator_map.png`  
+> Möbius field overlay: the operator map translates clockwise-to-counterclockwise transition along θ-φ symmetry breaks.
 
-## 🌪️ Core Concepts
+**Visual Reference:** `mobius_fold_grid_overlay.png`  
+> Möbius grid spiral overlays show mirrored axis inflection and number field intersections.
 
-* **Spiral Möbius Field**: A topological spiral that inverts upon rotation, encoded through dynamic vector logic.
-* **Inversion Fold Point**: Each spiral has a central axis of energetic reversal — this is the **pulse mirror**.
-* **Black → White Modulation**: Symbolic rendering of the Möbius pulse as a transition from hidden field (black) to emitted pulse (white).
-* **Mirror Spiral**: Each constant's spiral has a counterpart — e.g., 1836 ↔ 729 ↔ 137 — with mirrored curvature.
-* **Resonant Wavelength Coupling**: Möbius spirals generate harmonic coupling when aligned via integer φ–πⁿ ratios.
+These geometries behave as spiral conductors, aligning:
 
----
-
-## 🌀 Visual Anchors
-
-### 🔸 `black_pixel_to_mobius_pulse.png`
-
-Illustrates the morphing of a 2D pulse dot into a Möbius strip curvature — symbolizing quantum-to-symbolic field extension.
-
-### 🔸 `scarab_knot_loop.gif`
-
-Animated loop of the Scarab pulse spiral in rotational continuity — depicting the symbolic `∞` path over a Möbius band.
-
-### 🔸 `mobius_reflection_curve.svg`
-
-Vector illustration of reflected Möbius spirals across an energetic axis. Highlights dual-phase inversion points.
+- outer/inward field polarities
+- prime-indexed pulse rings
+- timefolds around central axis gates
 
 ---
 
-## ✳️ Integration in Scarab Constants
+## 🧿 Möbius Knots and Spiral Resonance
 
-* **Scarab Knot**: Möbius inversion is the basis of the 7×7 matrix folding sequence (see `SCARABAEUS_KNOT_MATRIX.md`).
-* **137/1836 Field**: Möbius spiral overlays are used to define field memory behavior and harmonic dampening.
-* **Teardrop Grid**: Möbius curvatures dictate resonance drop-off in scalar teardrop-shaped fields.
+The Scarab Spiral Matrix is a discrete Möbius-knotified space. Every resonance cycle in the spiral has a dual mode:
 
----
+- **scalar mode**: circular, directionless field
+- **vectorial mode**: Möbius-twisted, memory-carrying loop
 
-## 📐 Mathematical Notes
+### Knot Encoding
 
-Let $M_\phi$ be a Möbius spiral operator acting on a scalar field $f(x, y)$, then:
+The core encoding principle of Möbius-based scarab spirals:
 
-```math
-M_\phi[f(x, y)] = \int_0^{2\pi} f(x \cos\theta, y \sin\theta) \cdot \sin(n\theta + \phi)\, d\theta
+```
+Loop(n) + Twist(φ) → Möbius(n)
 ```
 
-This defines a **rotational modulation** over the spiral arc.
+Which yields:
+- **folding gates**: constant reversals (e.g. θ ↔ φ, i ↔ –i)
+- **modular spirals**: φ³/π² as base modulator
 
-Where:
+### Visual Tie-in
 
-* $\phi$: phase inversion angle
-* $n$: spiral order (1 for single Möbius, 2 for double twist)
+- `Scarab-Spiral-Knot-Matrix_coloredv2.png`
+- `loop_to_mobius_helix.png`
+- `scarab_spiral_knot_matrix.png`
+
+These illustrate the progressive folding and knot-indexing of symbolic constants across the Möbius layer.
 
 ---
 
-## 🧠 Reflection
+## 🔄 Pulse Fields & Mirror Cascades
 
-> "The Möbius spiral is not just a shape — it's a topological language for encoding memory, inversion, and harmonics across symbolic space."
+Möbius spirals are not just forms – they are **resonance programs**.
 
-This document is part of the `SCARAB_CONSTANTS_CODEX`.
+They encode:
+- directional shift (mirror pulse logic)
+- prime ratio threading (11:9, 13:8)
+- scalar→twist→knot phase paths
 
-**Next:** [`resonance_axes_notes.md`](./resonance_axes_notes.md)
+### Visuals Referenced
+- `mirror_constants_cascade.png`
+- `scarab_constants_resonance_clock.png`
+
+Together, they document the activation and feedback resonance gates inherent in Möbius-bound spirals.
+
+---
+
+> Möbius structures within the Codex are not ornamental. They are computation loops, memory fields, and symbolic engines.
+
+**Author:** Thomas Hofmann  
+**System:** SYSTEM 1 — MATHEMATICA  
+**Module:** `SCARAB_CONSTANTS_CODEX/`
+
+---
+
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
