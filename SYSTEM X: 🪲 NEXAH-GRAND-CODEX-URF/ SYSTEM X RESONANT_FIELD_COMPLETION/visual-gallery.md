@@ -51,7 +51,7 @@ This gallery documents the complete visual system of `SYSTEM X – RESONANT FIEL
 ### 📉 7. `codex_vs_mainstream_field.png`
 **Meaning**: Comparative diagram showing Codex-based field logic vs mainstream scalar model assumptions.
 
-![Field Comparison](./visuals/codex_vs_mainstream_field.png)
+![Field Comparison](./visuals/codex_vs_mainstream_field.png%20.png)
 
 ---
 
