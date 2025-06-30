@@ -11,37 +11,31 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 
 **Function:** Numeric evaluation and symbolic estimation of Earth field parameters using the resonance equation.
 
-**Base Formula:**
-\[
-\mathcal{E}_e = \frac{P \cdot T^3}{t}
-\]
+**Base Formula:** `𝓔ₑ = (𝑃 · 𝑇³) / 𝑡`
 
 ---
 
-## 📐 Input Constants (reference values)
+### 🔻 Input Constants (reference values)
 
-| Symbol | Meaning                        | Value       | Unit            |
-|--------|--------------------------------|-------------|-----------------|
-| P      | Pressure (atmospheric surface) | 101325      | Pa              |
-| T      | Temperature                    | 288.15      | K               |
-| t      | Time reference (Earth day)     | 86400       | s               |
+| Symbol | Meaning                        | Value   | Unit |
+|--------|--------------------------------|---------|------|
+| P      | Pressure (atmospheric surface) | 101325  | Pa   |
+| T      | Temperature                    | 288.15  | K    |
+| t      | Time reference (Earth day)     | 86400   | s    |
 
 ---
 
-## 📊 Sample Calculation
+### 🔗 📊 Sample Calculation
 
-Using the equation:
-\[
-\mathcal{E}_e = \frac{101325 \cdot (288.15)^3}{86400}
-\]
+Using the equation: `𝓔ₑ = (101325 · 288.15³) / 86400`
 
 **Step-by-step:**
-1. \(T^3 = 23,922,444.7\)
-2. \(P \cdot T^3 = 2.4227 \times 10^{12}\)
-3. \(\mathcal{E}_e = \frac{2.4227 \times 10^{12}}{86400} \approx 28,038,310\)
 
-🧠 **Interpretation:**
-The result represents a **resonant scalar field quantity** (in Pa·K³/s) indicating Earth’s energetic coherence per observer unit.
+1. `𝑇³ = 23,922,444.7`
+2. `𝑃 · 𝑇³ = 2.4227 × 10¹²`
+3. `𝓔ₑ = (2.4227 × 10¹²) / 86400 ≈ 28,038,310`
+
+🧠 **Interpretation:** The result represents a **resonant scalar field quantity** (in Pa·K³/s) indicating Earth’s energetic coherence per observer-time unit.
 
 ---
 
