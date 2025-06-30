@@ -9,7 +9,7 @@ This gallery collects and describes the core visuals from the `SCX Resonance Mod
 
 ---
 
-## 🔁 Spiral Structures & Field Dynamics
+## 🔁 Spiral Structures & Field Dynamics 
 
 ### 1. **codex_spirale_observer_whobble.png**
 ![codex_spirale_observer_whobble](./visuals/codex_spirale_observer_whobble.png)
