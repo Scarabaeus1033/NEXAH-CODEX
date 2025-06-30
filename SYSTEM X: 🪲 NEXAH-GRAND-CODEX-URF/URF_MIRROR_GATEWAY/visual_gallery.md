@@ -51,7 +51,7 @@ Structural navigation map within SYSTEM X – shows interlinking codex gates and
 
 ### 🪐 TITAN_ECHO_CHAMBER
 
-![TITAN_ECHO_CHAMBER](./visuals/TITAN_ECHO_CHAMBER.png)
+![TITAN_ECHO_CHAMBER](./visuals/TITAN_ECHO_CHAMBER.png.png)
 
 **Description:**  
 Saturnian echo chamber – representing deep-space frequency return and amplification.
@@ -69,7 +69,7 @@ Gateway image showing entry point into mirrored URF dimensions. Likely the symbo
 
 ### 🪞 URF_V_MIRROR_GATEWAY
 
-![URF_V_MIRROR_GATEWAY](./visuals/URF_V_MIRROR_GATEWAY.png.png)
+![URF_V_MIRROR_GATEWAY](./visuals/URF_V_MIRROR_GATEWAY.png)
 
 **Description:**  
 The central mirror-gate architecture of this module – codex-defined symmetry node.
