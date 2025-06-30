@@ -94,6 +94,10 @@ where the **microstructural** (System 1), the **field-energetic** (System 2), an
 **Prime Spirals, Crater Maps & Cosmic Grid Folding**  
 > Cikada matrices, Möbius compression, Z6 symmetry, deep resonator logic.
 
+### [`EINSTEIN–NEPTUNE–MERCURY FIELD/`](./EINSTEIN–NEPTUNE–MERCURY%20FIELD/)
+**Pulsefield Axis and Cosmographic Resonance**  
+> Scalar–spiral–mirror architecture with Codex ULLINIUM logic and terminal memory logic.
+
 ---
 
 ## 🔁 Möbius Crown Series (Integrated under SYSTEM 3)
