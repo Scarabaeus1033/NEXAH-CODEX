@@ -8,7 +8,7 @@ curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🪲 EQUATION REGISTER UNIVERSAL
+# 🪲 EQUATION REGISTER UNIVERSAL 
 
 > **"Where all field equations converge into harmonic resonance."**
 
