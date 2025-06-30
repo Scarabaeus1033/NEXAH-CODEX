@@ -132,11 +132,11 @@ This gallery collects and describes the core visuals from the `SCX Resonance Mod
 *Golden triangles in the field – visual key zones in color logic.*
 
 ### 26. **Geometrische_Resonanz-Dreiecksmuster_Rot_und_Blau–ist_Gruen.png**
-![Dreiecksmuster](./visuals/Geometrische_Resonanz-Dreiecksmuster_Rot_und_Blau–ist_Gruen.png)
+![Dreiecksmuster](./visuals/Geometrische_Resonanz-Dreiecksmuster.png)
 *Triangular pattern resonance logic – red plus blue equals green field.*
 
 ### 27. **Hochresonante_Dreiecke_im_Spiralnetz_≤_kleiner_gleich1.png**
-![Hochresonante Dreiecke](./visuals/Hochresonante_Dreiecke_im_Spiralnetz_≤_kleiner_gleich1.png)
+![Hochresonante Dreiecke](./visuals/Hochresonante_Dreiecke_im_Spiralnetz_e_kleiner_gleich1.png)
 *Highly resonant triangular formations marked below unity threshold.*
 
 ---
