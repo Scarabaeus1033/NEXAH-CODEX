@@ -56,7 +56,7 @@ This diagram reframes the Zeta resonance into a triangle of forces:
 - **Z (Zeta)** = Central imaginary anchor, Möbius junction point
 
 Each point is part of a **double oval** geometry, indicating a mirrored time-symmetry structure, looped across the zero line.
-
+ 
 ---
 
 ## 🔁 Symbolic Transition
