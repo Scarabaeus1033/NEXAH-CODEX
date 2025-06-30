@@ -1,11 +1,10 @@
 ---
-
 title: "Visual Gallery – SCARAB CONSTANTS CODEX"
 module: "SCARAB\_CONSTANTS\_CODEx"
 system: "SYSTEM 1 – MATHEMATICA"
 date: "July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
------------------------------------------
+---
 
 # 🖼️ Visual Gallery – SCARAB CONSTANTS CODEX
 
