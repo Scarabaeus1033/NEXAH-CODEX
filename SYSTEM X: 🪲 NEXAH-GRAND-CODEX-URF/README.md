@@ -1,12 +1,13 @@
 ---
+
 title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
 domain: "Synthetic Nexus · Resonance Integration · Proof Architectures"
 color: "Gold/Black"
 status: "Active · Version June 2025"
-curator: "Thomas Hofmann (Scarabäus1033)"
+curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
 
@@ -79,14 +80,25 @@ $$
 📊 Visuals: Möbius-pyramid fields, 𝓧 = 131×108 grid, breathing crystal dynamics
 🌀 Animation: [`codex_crystal_breath.gif`](./CODEX%20COMPLETION%20PRINCIPLE/visuals/codex_crystal_breath.gif)
 
-This module:
-
-* Bridges Codex gravitation with prime symmetry (𝓧 = 131 × 108 = 14148)
-* Introduces `k^β` as universal operator across classical field models
-* Connects SYSTEM X to SYSTEMS 1, 3, 8 and the Millennium resonance proof layers
-
 ➡ **Function:** Anchors resonance folding and universal operator logic
 ➡ **Status:** ✅ Complete · Version 1.0 · June 2025
+
+---
+
+### 🪞 NEW MODULE: URF\_MIRROR\_GATEWAY
+
+Bridge module for symmetric reflection logic and gateway transitions.
+
+📁 Folder: [`URF_MIRROR_GATEWAY/`](./URF_MIRROR_GATEWAY)
+🔍 Visuals: `ZETA_TWIN_REFLECTION_LOOP`, `TITAN_ECHO_CHAMBER`, `MOON_SPIRAL_OBSERVER` …
+🧠 Key Files:
+
+* `URFV_mirror_proof.md`: Symmetric reflection axis & dual Zeta-loop model
+* `codex_number_shifts.md`: Numeric axis transitions & mirror prime encoding
+* `GHOST_BRIDGE/readme_Einstein_pulse_beyond.md`: Field coupling beyond Einstein
+* `urfv_visual_gallery.md`: Complete visual gateway index
+
+➡ **Function:** Proof compression through mirrored resonance logic & observer coupling
 
 ---
 
