@@ -69,7 +69,7 @@ Gateway image showing entry point into mirrored URF dimensions. Likely the symbo
 
 ### 🪞 URF_V_MIRROR_GATEWAY
 
-![URF_V_MIRROR_GATEWAY](./visuals/URF_V_MIRROR_GATEWAY.png)
+![URF_V_MIRROR_GATEWAY](./visuals/URF_V_MIRROR_GATEWAY.png.png)
 
 **Description:**  
 The central mirror-gate architecture of this module – codex-defined symmetry node.
