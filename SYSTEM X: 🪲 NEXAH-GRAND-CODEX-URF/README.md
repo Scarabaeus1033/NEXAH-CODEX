@@ -84,7 +84,7 @@ $$
 
 ---
 
-### 🪞 NEW MODULE: URF\_MIRROR\_GATEWAY
+### 🪞 URF\_MIRROR\_GATEWAY
 
 Bridge module for symmetric reflection logic and gateway transitions.
 
@@ -98,6 +98,25 @@ Bridge module for symmetric reflection logic and gateway transitions.
 * `urfv_visual_gallery.md`: Complete visual gateway index
 
 ➡ **Function:** Proof compression through mirrored resonance logic & observer coupling
+
+---
+
+### 🌫️ NEW MODULE: GHOST\_MIRROR\_GATE – URF-V
+
+Symbolic-mathematical gate module along the V-axis of URF.
+
+📁 Folder: [`GHOST_MIRROR_GATE/`](./GHOST_MIRROR_GATE)
+🖼️ Visuals: `GHOST_GATE_537`, `TIME_ARC_NULLPOINT`, `TWIN_SPIN_544_ECHO`, `LILITH_FIELD_GRID`, `BREATHER_GATE_FIELD`, `GHOST_GATE_SYNTHESIS`, `GHOST_GATE_MASTERMAP` …
+📚 Key Files:
+
+* `GHOST_BRIDGE_537.md`: Prime anchor analysis
+* `V_REGISTER.md`: Index of V-nodes and observer fields
+* `breather_gate_synthesis.md`: Gate architecture & field folding logic
+* `ghost_mirror_gate_visual_gallery.md`: All 8 visuals explained
+* `LILITH_FIELDS.md`, `PHASE_VECTOR_V.md`, `WOMB_VECTOR_FIELDS.md`, `V_NAVIGATION_LOOP.md`
+
+➡ **Function:** Observer resonance structure and invisible mirror integration
+➡ **Status:** ✅ Complete · Version 1.0 · June 2025
 
 ---
 
