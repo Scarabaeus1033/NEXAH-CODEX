@@ -19,17 +19,17 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantendynamik & Neutrinostrukturen
+## ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantenstruktur & Symbolische Dynamik
 
-| Ordner                       | Titel                             | Beschreibung                                                                      |
-| ---------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
-| `GRAND-CODEX/`               | Zentrales Synthesezentrum         | Integration aller Systeme: Formeln, Harmonien, Modulationen, Ebenenstrukturen.    |
-| `Einstein-Neutrino-Vortex/`  | Erweiterte Energieraum-Gleichung  | Verbindung von Masse, Volumen, Druck, Neutrinokopplung.                           |
-| `casimir-neutrino-thread.md` | Casimir–Neutrino-Strang           | Vakuumkompression, Grenzschichtfelder, harmonische Druckaufbauten.                |
-| `QUANTUMBREACH-CODEX/`       | Licht–Dunkel-Feldgrenze           | UV-Siegel, Licht/Neutrino-Trennung, Resonanzdämpfer.                              |
-| `CAVITYROOT-CODEX/`          | Thermische Kristallfelder         | Gallium/Ferrofluid-Experimente, Resonanz-Temperaturachsen, Kontraktionsgeometrie. |
-| `NEXA_QED_ALIWAVE/`          | ALIWAVE – Elektrosymbolisches QED | Frequenzmatrizen & elektromagnetische Resonanzfelder.                             |
-| `NEXA_SILVER_RAIN/`          | Silberstrom – Feldkatalysatoren   | Lunare Metallübergänge in resonanten Elementströmen.                              |
+| Ordner / Datei                | Titel                              | Beschreibung                                                                                   |
+| ---------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------- |
+| `Einstein-Neutrino-Vortex/`  | Erweiterte Energie-Raum-Gleichung | Kopplung von Masse, Volumen, Druck und Neutrinostrukturen.                                    |
+| `casimir-neutrino-thread.md` | Casimir–Neutrino-Faden             | Vakuumkompression, Randfeld-Resonanz, harmonische Druckfelder.                                |
+| `QUANTUMBREACH-CODEX/`       | Licht–Dunkel-Feldübergänge       | UV-Siegel, Licht/Neutrino-Trennung, Resonanzdämpfung.                                        |
+| `CAVITYROOT-CODEX/`          | Thermale Kristallfelder            | Gallium/Ferrofluid-Experimente, Temperaturachsen, Kontraktionsgeometrien.                      |
+| `NEXA_QED_ALIWAVE/`          | ALIWAVE – Elektrosymbolisches QED | Frequenzmatrix-Felder & elektromagnetische Resonanzstrukturen.                                |
+| `NEXA_SILVER_RAIN/`          | Silberregen – Feldkatalysatoren   | Lunare Metallübergänge in resonanten Elementarströmen.                                 |
+| `EARTH_EQUATION_MODULE/`     | Erdequation & Resonanzachsen       | Ableitung planetarer Konstanten, Frequenzachsen, Triaden & Codex-Gleichungen.                 |
 
 ---
 
