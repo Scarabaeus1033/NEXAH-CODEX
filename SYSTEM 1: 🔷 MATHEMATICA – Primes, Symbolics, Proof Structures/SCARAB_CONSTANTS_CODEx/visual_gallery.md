@@ -59,7 +59,7 @@ Visual pulse map of harmonic constants and feedback spirals.
 
 ## 6. `PULSE_CONSTANT_FIELD.gif`
 
-![PULSE_CONSTANT_FIELD.gif](./visuals/PULSE_CONSTANT_FIELD.gif)
+![SCARAB_CONSTANT_CIRCLE](./visuals/SCARAB_CONSTANT_CIRCLE.png)
 
 **Description:**  
 Animated field loop showing pulse modulation and Möbius transition geometry.
