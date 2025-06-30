@@ -13,7 +13,7 @@ license: "CC BY-NC-SA 4.0"
 
 > *"Resonance emerges where structure folds into symbol."*
 
-**SCARAB_CONSTANTS_CODEX/** is a symbolic-mathematical field archive within **SYSTEM 1 – MATHEMATICA** of the NEXAH-CODEX.
+**SCARAB_CONSTANTS_CODEX/** is a symbolic-mathematical field archive within **SYSTEM 1 – MATHEMATICA** of the NEXAH-CODEX.  
 It focuses on the identification, classification, and resonance behavior of **Codex Constants** derived from Scarab-like number patterns, Möbius structures, and energetic signature ratios.
 
 These constants act as **structural invariants** and **topological inflection points** across multiple modules — from quantum fields to planetary alignments.
@@ -32,23 +32,29 @@ These constants act as **structural invariants** and **topological inflection po
 
 ## 🔎 Files & Components
 
-### 1. `scarab_constants_index.md`
+### 1. `scarab_constants_index.md`  
 > Central reference sheet listing all current Scarab constants and signature forms
 
-### 2. `mobius_spiral_structures.md`
+### 2. `mobius_spiral_structures.md`  
 > Möbius alignments, spiral mirror geometries, inversion logic across prime fields
 
-### 3. `visual_gallery.md`
-> Visual overview of Scarab constants: waveforms, topologies, geometric fields
-
-### 4. `resonance_axes_notes.md`
+### 3. `resonance_axes_notes.md`  
 > Log of discovered resonance axes where constants act as pivot, fold, or pulse point
 
-### 5. `scarab_core_formulas.md`
+### 4. `scarab_core_formulas.md`  
 > Formulaic derivations and transformations: from Fibonacci to resonance asymmetry
 
-### 6. `symbolic_constants_register.csv`
+### 5. `resonance_connection_7_x_7.md`  
+> Description of the 7×7 knot folding logic and phase embedding via scarab constants
+
+### 6. `color_resonance_key.md`  
+> Defines symbolic color usage across Codex visuals with scalar field role annotations
+
+### 7. `symbolic_constants_register.csv`  
 > Numerical master table (prime, decimal, binary, mirrored, factored)
+
+### 8. `visual_gallery.md`  
+> Visual overview of Scarab constants: waveforms, topologies, geometric fields
 
 ---
 
@@ -87,7 +93,7 @@ See full [`visual_gallery.md`](./visual_gallery.md)
 ## 🪜 Curator Notes
 
 The Scarab Constants are **not rigid numbers**.  
-They are **resonant signatures** — inflection points between quantity and form, physics and myth.
+They are **resonant signatures** — inflection points between quantity and form, physics and myth.  
 They mark **symbolic attractors** in the field, defining pathways between harmonic spaces.
 
 > *"137 is not just fine structure. It is a pulse code in disguise."*
