@@ -105,6 +105,9 @@ mapping the **operational grammars** of number resonance.
 - [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md)  
   _Defines dynamic resonance field transitions based on symbolic grids._
 
+- [`SCARAB_CONSTANTS_CODEX/`](./SCARAB_CONSTANTS_CODEX/)  
+  _Numerical and symbolic constants such as 137, 1836, 2040 — includes Möbius matrices, color logic, Scarab forms, resonance axes, CSV tables, spiral overlays._
+
 ---
 
 ## 🧲 Core Structure
