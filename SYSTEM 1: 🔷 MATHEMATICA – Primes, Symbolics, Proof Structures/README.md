@@ -3,7 +3,7 @@ title: "SYSTEM 1 – MATHEMATICA"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Symbolic Resonance · Mathematical Foundations"
 color: "Blue 🔵"
-status: "Active · Version May 2025"
+status: "Active · Version July 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -74,6 +74,10 @@ generating, stabilizing, and modulating the entire Codex architecture.
 4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)  
    **Topologies of τ(n), σ(n), μ(n)**  
    > Resonance classification of perfect, abundant, and deficient numbers.
+
+5. [`MANDELBROT_PLANET_FOLD/`](./MANDELBROT_PLANET_FOLD/)  
+   **The Mandelbrot–Planet Spiral and the Black Pillar Equation**  
+   > Zoom-layer logic, resonance spirals, blink transitions, and Riemann fold convergence visualized as planetary field architecture.
 
 ---
 
