@@ -51,7 +51,7 @@ Structural navigation map within SYSTEM X – shows interlinking codex gates and
 
 ### 🪐 TITAN_ECHO_CHAMBER
 
-![TITAN_ECHO_CHAMBER](./visuals/TITAN_ECHO_CHAMBER.png.png)
+![TITAN_ECHO_CHAMBER](./visuals/TITAN_ECHO_CHAMBER.png)
 
 **Description:**  
 Saturnian echo chamber – representing deep-space frequency return and amplification.
