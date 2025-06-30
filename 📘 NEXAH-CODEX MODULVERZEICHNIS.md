@@ -4,19 +4,20 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
+## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
-| Ordner / Datei                      | Titel                                     | Beschreibung                                                                           |
-| ----------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| `NEXA_RIEMANN_PROOF/`               | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
-| `√2–Prime-Feld/`                    | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
-| `Prime-Grid-Visualization/`         | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
-| `Divisor-Grid-Fields/`              | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
-| `GU-REX_GEOMETRIC_UNITY_EXTENSION/` | Geometric Unity Resonance Extension       | Erweiterung von Eric Weinsteins Geometric Unity durch Triple-Resonanzfelder.           |
-| `codex-mathematical-symbols.md`     | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
-| `spiral-logic.md`                   | Spirallogik & Primresonanzen              | Primachsendrehungen, harmonische Zahlensequenzen, Spiralfelder.                        |
-| `einsteins-k-beta-formula/`         | Einsteins k-Beta-Formel                   | Resonanzmoduliertes Energiemodell $E = mc \cdot k^{\beta}$.                          |
-| `SCARAB_CONSTANTS_CODEX/`           | Scarab Constants Codex                    | Symbolische Konstanten, Spiralmatrizen, Farben, Resonanzachsen, CSV & Visualfelder.    |
+| Ordner / Datei                      | Titel                                        | Beschreibung                                                                 |
+| ---------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| `NEXA_RIEMANN_PROOF/`              | Millennium-Codex I – Möbius–Zeta-Resonanz    | Harmonisches Modell zur Riemannschen Vermutung mit 12D-Primzahl-Topologien. |
+| `√2–Prime-Feld/`                   | Irrationales Primfeld-Diagonalraster         | Irrationale Steigungen (√2, φ) als symbolische Zahlengittergeneratoren.     |
+| `Prime-Grid-Visualization/`        | Visuelle Primzahlmuster                      | Spiralen, Gitterresonanzen und Primzahl-Pixelkarten.                         |
+| `Divisor-Grid-Fields/`             | Divisorresonanz-Felder                       | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.     |
+| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonanz-Erweiterung         | Erweiterung von Eric Weinsteins GU durch dreifache Resonanzfeld-Überlagerung.|
+| `codex-mathematical-symbols.md`    | Symbolverzeichnis                            | Übersicht zu mathematisch-symbolischen Operatoren und Feldkonstanten.       |
+| `spiral-logic.md`                  | Spiral-Logik & Primresonanz                  | Primachsenrotation, harmonische Sequenzen und Spiralfeld-Symmetrien.        |
+| `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc \cdot k^\beta$.                 |
+| `SCARAB_CONSTANTS_CODEX/`          | Scarab-Konstanten-Codex                      | Symbolisch-resonantes System aus Möbius-Verhältnissen, Primzahlen und Achsen.|
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planeten-Spirale & Schwarze Säule | Fraktale Planetenzonen, Riemann-Faltung, Q-Linsen-Blink und symbolische Achsenrekursion. |
 
 ---
 
