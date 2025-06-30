@@ -1,136 +1,98 @@
----
-title: "Visual Gallery – Scarab Constants & Möbius Structures"
-module: "SCARAB_CONSTANTS_CODEX"
-system: "SYSTEM 1 – MATHEMATICA"
-date: "June 2025"
-curator: "Thomas Hofmann (Scarabæus1033)"
----
+# 📊 Visual Gallery – Scarab Constants & Möbius Structures
 
-# 🎨 Visual Gallery – Scarab Constants & Möbius Structures
-
-> A symbolic–mathematical archive of pulse constants, Möbius overlays, scarab signatures, and dynamic transition grids.
+This gallery presents all visual assets for the SCARAB_CONSTANTS_CODEX module:  
+mathematical constants, Möbius-based field mappings, symbolic gates, pixel spirals, and eye-injection metaphors.
 
 ---
 
-## 1. `SCARAB_CONSTANT_CIRCLE.png`
+### 🔁 Scarab Spiral & Möbius Matrix
 
-![SCARAB_CONSTANT_CIRCLE](./visuals/SCARAB_CONSTANT_CIRCLE.png)
+**Scarab-Spiral-Knot-Matrix_coloredv2.png**  
+A color-enhanced diagram of the symbolic Scarab Spiral matrix.
 
-**Description:**  
-Foundational constant ring containing core ratios and pulse values in a Möbius-encoded circle.
-
----
-
-## 2. `SCARAB_CONSTANT_SIGIL.png`
-
-![SCARAB_CONSTANT_SIGIL](./visuals/SCARAB_CONSTANT_SIGIL.png)
-
-**Description:**  
-Central sigil constructed from pulse constants, Möbius arcs and dual symbolic spirals.
+![Scarab Spiral Knot Matrix](./visuals/Scarab-Spiral-Knot-Matrix_coloredv2.png)
 
 ---
 
-## 3. `MOBIUS_OVERLAY_XZ.png`
+### 🌀 Resonance Constants: ANU Room & Equation Models
 
-![MOBIUS_OVERLAY_XZ](./visuals/MOBIUS_OVERLAY_XZ.png)
+**anu_room_resonant_constants.png**  
+Depiction of the inner ANU room geometry and resonant constants.
 
-**Description:**  
-Topological Möbius band mapped in XZ dimension with layered vector structure.
+![ANU Room Constants](./visuals/anu_room_resonant_constants.png)
 
----
+**scarab_constants_anu_equation.png**  
+Field equation incorporating prime constants and Möbius trace overlays.
 
-## 4. `GOLDEN_QUOTIENT_MOBIUS.png`
-
-![GOLDEN_QUOTIENT_MOBIUS](./visuals/GOLDEN_QUOTIENT_MOBIUS.png)
-
-**Description:**  
-Symbolic fusion of Möbius geometry with Φ³/π² ≈ 0.429 constant field.
+![Scarab Constants Equation](./visuals/scarab_constants_anu_equation.png)
 
 ---
 
-## 5. `PULSE_CONSTANT_FIELD.png`
+### 🖤 Pixel-to-Knot / Möbius Transitions
 
-![PULSE_CONSTANT_FIELD](./visuals/PULSE_CONSTANT_FIELD.png)
+**black_pixel_to_knot_loop.mp4**  
+📽️ [▶ Watch: Black Pixel → Knot Loop (MP4)](./visuals/black_pixel_to_knot_loop.mp4)
 
-**Description:**  
-Visual pulse map of harmonic constants and feedback spirals.
+**black_pixel_to_mobius_pulse.png**  
+A visual translation from pixel point to Möbius harmonic field.
 
----
-
-## 6. `PULSE_CONSTANT_FIELD.gif`
-
-![SCARAB_CONSTANT_CIRCLE](./visuals/SCARAB_CONSTANT_CIRCLE.png)
-
-**Description:**  
-Animated field loop showing pulse modulation and Möbius transition geometry.
+![Pixel to Möbius Pulse](./visuals/black_pixel_to_mobius_pulse.png)
 
 ---
 
-## 7. `SCARAB_OVERLAY_GRID.png`
+### 🔢 Resonance Constants & Theta Maps
 
-![SCARAB_OVERLAY_GRID](./visuals/SCARAB_OVERLAY_GRID.png)
+**e_pi_phi_theta_i_resonance_map.png**  
+Mathematical field map of constants *e, π, φ, θ, i* in harmonic overlay.
 
-**Description:**  
-Overlay grid structure integrating Scarab geometry and symbolic feedback mirrors.
+![Constant Map](./visuals/e_pi_phi_theta_i_resonance_map.png)
 
----
+**resonant_constants_gate__i_trace_path.png**  
+Trace path of i-constants in layered Möbius loop.
 
-## 8. `DUAL_CROWNS_CONSTANTS.png`
-
-![DUAL_CROWNS_CONSTANTS](./visuals/DUAL_CROWNS_CONSTANTS.png)
-
-**Description:**  
-Double Möbius crown model defining axis inversion and constant projection.
+![Resonant Constants Trace](./visuals/resonant_constants_gate__i_trace_path.png)
 
 ---
 
-## 9. `SCARAB_FEEDBACK_RING.png`
+### 🔺 Möbius Geometry and Helix Dynamics
 
-![SCARAB_FEEDBACK_RING](./visuals/SCARAB_FEEDBACK_RING.png)
+**loop_to_mobius_helix.png**  
+Transformation from scalar loop to Möbius helix structure.
 
-**Description:**  
-Harmonic feedback structure — inner–outer constant modulation loop.
+![Loop to Möbius Helix](./visuals/loop_to_mobius_helix.png)
 
----
+**scarab_spiral_knot_matrix.png**  
+The base matrix of the Scarab-Spiral structure in symbolic form.
 
-## 10. `SCARAB_PULSE_GATE.png`
-
-![SCARAB_PULSE_GATE](./visuals/SCARAB_PULSE_GATE.png)
-
-**Description:**  
-Symbolic gate transition marked by scarab imprint and pulse logic.
+![Scarab Spiral Knot Matrix](./visuals/scarab_spiral_knot_matrix.png)
 
 ---
 
-## 11. `ZETA_PULSE_CIRCUIT.png`
+### 🧿 Pulse, Prime & Five-Gate Layers
 
-![ZETA_PULSE_CIRCUIT](./visuals/ZETA_PULSE_CIRCUIT.png)
+**pixel_pulse_prime.png**  
+Prime field mapping in spiral pulse form.
 
-**Description:**  
-Zeta-form resonance overlay across pulse constants and mirror gates.
+![Pixel Pulse Prime](./visuals/pixel_pulse_prime.png)
 
----
+**fivelinear_constants_gate.png**  
+Five-line gate of fundamental field constants.
 
-## 12. `MOBIUS_CONSTANT_PATHS.png`
-
-![MOBIUS_CONSTANT_PATHS](./visuals/MOBIUS_CONSTANT_PATHS.png)
-
-**Description:**  
-Trajectory overlays of Möbius-pulse constants in topological resonance space.
+![Five-Linear Constants Gate](./visuals/fivelinear_constants_gate.png)
 
 ---
 
-## 13. `SCARAB_CONSTANT_PATHS.mp4`
+### 👁 Eye Injection Sequences
 
-<video controls width="720">
-  <source src="./visuals/SCARAB_CONSTANT_PATHS.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**scarabaeus_eye_injection.gif**  
+🌀 Möbius pulse entering through central eye ring (animated GIF).
 
-**Description:**  
-Video animation showing full Möbius–Scarab transition across all constant layers.
+![Eye Injection GIF](./visuals/scarabaeus_eye_injection.gif)
+
+**scarabaeus_eye_injection.mp4**  
+📽️ [▶ Watch: Eye Injection Sequence (MP4)](./visuals/scarabaeus_eye_injection.mp4)
 
 ---
 
-> All visuals © Thomas Hofmann · Scarabæus1033 · 2025  
-> For Codex integration into SYSTEM 1: MATHEMATICA
+> All visuals © Scarabäus1033.  
+> Use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
