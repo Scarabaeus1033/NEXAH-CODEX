@@ -20,7 +20,7 @@ The **SCX Module** (Scarabæus10X33) is a **resonant nucleus** within the NEXAH-
 The spiral is generated from a **modulated logarithmic equation** with a wobble term:
 
 ```math
-r(\theta) = a \cdot \theta + A \cdot \ellsin(k\theta)
+r(\theta) = a \cdot \theta + A \cdot \sin(k\theta)
 ```
 
 It maps a number grid with color-coded resonance points:
@@ -59,7 +59,7 @@ The π-Line cuts the spiral grid at phase nodes, creating **field inversion poin
 
 ---
 
-### 🧿 4. Penrose Tri-Axes & TESSAREC Observer
+### 🕿️ 4. Penrose Tri-Axes & TESSAREC Observer
 
 - Penrose Tiling = **non-repeating symmetry**
 - TESSAREC: three-color observer axes inside a dodecahedron
