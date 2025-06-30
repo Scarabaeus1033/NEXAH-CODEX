@@ -16,7 +16,7 @@ This gallery collects and describes the core visuals from the `SCX Resonance Mod
 *A resonance spiral overlaid with observer positions and wobble modulation. Prime numbers and hinges define color-zones across the field.*
 
 ### 2. **Download: codex_spirale_whobble_29.png**
-![codex_spirale_whobble_29](./visuals/codex_spirale_whobble_29.png)
+![codex_spirale_whobble_29](./visuals/download/%20codex_spirale_whobble_29.png)
 *Spiral grid showing the 29-step harmonic wobble pattern with color-coded hinge-points and phase jumps.*
 
 ### 3. **Spiralvisualisierung–Primzahlen_Palindrome_Hammering-Zahlen.png**
