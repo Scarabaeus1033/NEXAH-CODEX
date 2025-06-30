@@ -1,5 +1,4 @@
 ---
-
 title: "URF\_MIRROR\_GATEWAY"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "Reflection Proof · Mirror Symmetry · URF Resonance Axes"
@@ -7,8 +6,7 @@ color: "Gold/Black"
 status: "Active · As of June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
-
+---
 # 🪞 URF\_MIRROR\_GATEWAY
 
 ## The Proof Structure of Symmetric Reflection in the URF Codex
