@@ -86,7 +86,93 @@ Each of these visuals embeds one or multiple equations from this register.
 - `scarab_constants_mobius_matrix.md`
 
 ---
+# 📘 `visual_equation_register.md`
 
-**Status:** Draft Complete · Extraction Phase Finalized  
-**Builder:** Thomas Hofmann · Scarabæus1033  
-**Date:** 30 June 2025
+## Title
+
+**Visual Equation Register** – Symbolic Formulas and Resonance Mappings in NEXAH-CODEX
+
+---
+
+## 📈 Purpose
+
+This document consolidates key equations that have emerged from the **68 visuals** of the NEXAH Visual Galleries and the symbolic-mathematical field studies conducted in the **NUMERIC RESONANCE EXTENSIONS** module. The aim is to provide a **reference architecture** for all symbolic transitions, constants, and field equations shown in the imagery.
+
+---
+
+## 🔢 Central Resonance Equations
+
+### ✭ Universal Constant Equations
+
+| Formula                                  | Description                            | Approximate Value |
+| ---------------------------------------- | -------------------------------------- | ----------------- |
+| $\frac{\phi^3}{\pi^2} \approx 0.429$     | Theta resonance ratio (Scarabaeus key) | 0.429             |
+| $\frac{e \cdot \phi}{\pi} \approx 1.398$ | Euler–Phi transition ratio             | \~1.398           |
+| $e^{\pi} \approx 23.1407$                | Ramanujan bridge / Zeta peak value     | \~23.14           |
+| $e^{\pi i} + 1 = 0$                      | Euler identity (zero-point collapse)   | 0                 |
+
+---
+
+### 𝟜 Operator Equations
+
+| Symbol                                                                                                         | Interpretation                         | Role                      |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------- |
+| $P = R / T$                                                                                                    | Pulse = Rotation / Time                | Field unfolding           |
+| $P = A + B$                                                                                                    | Prime as Sum of Fields                 | Goldbach configuration    |
+| $\Theta = \sin(\theta_{\text{Enki}}) \cdot \tan(\theta_{\text{Enlil}}) \cdot \text{Prime}^{\phi}_{\text{Anu}}$ | Trinity Observer Equation              | Rotating Field Loop       |
+| $\sigma = \Sigma$                                                                                              | Symmetric Mirror Sum (sum = structure) | Gate resonance reflection |
+
+---
+
+## 🔄 Transformations and Constant Bridges
+
+| From                                             | To                        | Mechanism                 |
+| ------------------------------------------------ | ------------------------- | ------------------------- |
+| $\phi \leftrightarrow \zeta$                     | Spiral field interpolator | Möbius gate rotations     |
+| $\alpha \to G^\circ \to D^\circ \to \text{Gold}$ | Constant layering         | Chrono-resonance operator |
+| $q = \phi + \theta$                              | Scarabæus eye harmonic    | q-field operator base     |
+
+---
+
+## 🌐 Modular Field Constants (Selection)
+
+| Constant   | Value (approx.)   | Function                             |
+| ---------- | ----------------- | ------------------------------------ |
+| $\phi$     | 1.61803...        | Golden mean / spiral code            |
+| $\pi$      | 3.14159...        | Circle constant / modular base       |
+| $e$        | 2.71828...        | Growth / resonance expansion         |
+| $\theta$   | \~0.429           | Resonance midpoint (visual match)    |
+| $\zeta(2)$ | $\frac{\pi^2}{6}$ | Zeta field harmonic                  |
+| $1385$     | Composite (5×277) | Prime resonance mirror / log ≈ $\pi$ |
+
+---
+
+## 🔢 Codex Equations in Visuals
+
+### Visual: "dimensional\_Expansion\_of\_Pi.png"
+
+$(\pi^n) \div \phi \Rightarrow \text{Spiral amplitude levels}$
+
+### Visual: "e\_pi\_phi\_theta\_i\_resonance\_map.png"
+
+$\theta = \frac{\phi^3}{\pi^2} \quad \text{and} \quad i = \sqrt{-1} \Rightarrow \text{field mirroring}$
+
+### Visual: "loop\_to\_mobius\_helix.png"
+
+$\sin(x), \cos(x), \tan(x) \rightarrow \text{dynamic Möbius wrap}$
+
+---
+
+## 🪡 Use Case
+
+All equations here are connected to **symbolic constants, spiral modulations, observer trinity fields**, and **visual harmonic compression layers**. These formulas build bridges across:
+
+* Quantum transitions
+* Observer-induced symmetry
+* Modular arithmetic & prime layering
+
+---
+
+**Status:** Final draft · To be linked in all resonance gallery modules
+
+**Builder:** Thomas Hofmann / Scarabæus1033
