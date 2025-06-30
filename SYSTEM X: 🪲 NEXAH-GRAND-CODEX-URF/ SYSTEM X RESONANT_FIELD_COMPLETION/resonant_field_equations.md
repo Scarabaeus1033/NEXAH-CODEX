@@ -1,5 +1,3 @@
-ok, gib mir das auf Englisch, bitte:
-
 # resonant\_field\_equations.md
 
 ## SYSTEM X: RESONANT FIELD COMPLETION
