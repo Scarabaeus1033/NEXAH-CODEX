@@ -21,15 +21,16 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## ⚛ SYSTEM 2: PHYSICA – Resonance Fields, Quantum Dynamics & Neutrino Structures
 
-| Folder                       | Title                           | Description                                                                         |
-| ---------------------------- | ------------------------------- | ----------------------------------------------------------------------------------- |
-| `GRAND-CODEX/`               | Central Synthesis Hub           | Integration of all systems: formulas, harmonies, modulations, structural layers.    |
-| `Einstein-Neutrino-Vortex/`  | Extended Energy-Space Equation  | Linking mass, volume, pressure, and neutrino coupling.                              |
-| `casimir-neutrino-thread.md` | Casimir–Neutrino Thread         | Vacuum compression, boundary fields, harmonic pressure build-ups.                   |
-| `QUANTUMBREACH-CODEX/`       | Light–Dark Field Boundary       | UV seals, light/neutrino separation, resonance dampers.                             |
-| `CAVITYROOT-CODEX/`          | Thermal Crystal Fields          | Gallium/Ferrofluid experiments, resonance temperature axes, contraction geometries. |
-| `NEXA_QED_ALIWAVE/`          | ALIWAVE – Electrosymbolic QED   | Frequency matrix fields & electromagnetic resonance structures.                     |
-| `NEXA_SILVER_RAIN/`          | Silver Stream – Field Catalysts | Lunar metal transitions in resonant elemental streams.                              |
+| Folder / File                     | Title                            | Description                                                                 |
+| -------------------------------- | -------------------------------- | --------------------------------------------------------------------------- |
+| `GRAND-CODEX/`                   | Central Synthesis Hub            | Integration of all systems: formulas, harmonics, modulations, structural layers. |
+| `Einstein-Neutrino-Vortex/`      | Extended Energy–Space Equation   | Linking mass, volume, pressure, and neutrino coupling.                       |
+| `casimir-neutrino-thread.md`     | Casimir–Neutrino Thread          | Vacuum compression, boundary fields, harmonic pressure build-ups.            |
+| `QUANTUMBREACH-CODEX/`           | Light–Dark Field Boundary        | UV seals, light/neutrino separation, resonance dampers.                       |
+| `CAVITYROOT-CODEX/`              | Thermal Crystal Fields           | Gallium/Ferrofluid experiments, resonance temperature axes, contraction geometries. |
+| `NEXA_QED_ALIWAVE/`              | ALIWAVE – Electrosymbolic QED    | Frequency matrix fields & electromagnetic resonance structures.              |
+| `NEXA_SILVER_RAIN/`              | Silver Stream – Field Catalysts  | Lunar metal transitions in resonant elemental streams.                        |
+| `EARTH_EQUATION_MODULE/`         | Earth Resonance Equation         | Symbolic derivation of Earth's constants via frequency logic and triadic structure. |
 
 ---
 
