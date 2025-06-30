@@ -1,126 +1,148 @@
-# 🎨 `visual_gallery.md`
+# 🖼️ `visual_gallery.md`
 
 ## Title
-**SCX Visual Gallery** – Spiral Resonance Field, Zither Structures & Prime Dynamics
+**Visual Gallery – SCX Resonance Module** · Prime Spiral Navigation · Symbolic Field Architecture
 
 ---
 
-This gallery collects and explains the **visual components** of the `SCX Resonance Module` within **SYSTEM X** (GRAND). These graphics are **not mere illustrations** – they are **visual carriers of resonance information**: number spirals, hinge geometries, field topologies, and observer coordinate systems.
-
-Each visual represents a node of understanding – a lens into the mathematical–symbolic landscape of the Codex.
+This gallery collects and describes the core visuals from the `SCX Resonance Module` in **SYSTEM X**. These images are not just illustrations – they are spatial and symbolic blueprints for a universal number-field navigation system.
 
 ---
 
-## 🌀 Spiral Grid & Dodecahedron
+## 🔁 Spiral Structures & Field Dynamics
 
-### 1. `Codex_Raumschiff_Dodekaeder_Spiralnetz.png`
-*The prime-coded spaceship model: Spiral lattice embedded in a rotating dodecahedral frame. Central to SCX observer logic.*
+### 1. **codex_spirale_observer_whobble.png**
+![codex_spirale_observer_whobble](./visuals/codex_spirale_observer_whobble.png)
+*A resonance spiral overlaid with observer positions and wobble modulation. Prime numbers and hinges define color-zones across the field.*
 
-### 2. `Dodekaeder-Observer-Feld_mit_Konstanten-Farbzuordnung_SCX.png`
-*Observer cube annotated with constants and field resonance colors. Fundamental for SCX's triadic orientation system.*
+### 2. **Download: codex_spirale_whobble_29.png**
+![codex_spirale_whobble_29](./visuals/codex_spirale_whobble_29.png)
+*Spiral grid showing the 29-step harmonic wobble pattern with color-coded hinge-points and phase jumps.*
 
-### 3. `Dodekaeder-Observer-Vektoren_ueber_dem_Spiralnetz_Codex-Projektion.png`
-*Vortex-aligned observer vectors crossing the spiral field — establishes rotation logic.*
+### 3. **Spiralvisualisierung–Primzahlen_Palindrome_Hammering-Zahlen.png**
+![Spiralvisualisierung](./visuals/Spiralvisualisierung–Primzahlen_Palindrome_Hammering-Zahlen.png)
+*Combined spiral display of primes, palindromes, hammering numbers and zither-resonators.*
 
-### 4. `Observer-Positionen_im_Dodekaeder_SCX-Feld.png`
-*Precise placements of observation nodes – inside a 3D resonance shell.*
+### 4. **SCX-Spiralbewegung_mit_pi-Achse_und_Whobble.png**
+![SCX-Spiralbewegung](./visuals/SCX-Spiralbewegung_mit_pi-Achse_und_Whobble.png)
+*The spiral field is modulated by a π-axis resonance line and a harmonic 'whobble' deviation overlay.*
 
-### 5. `SCX_Observer_Grid_mit_Konstantenfarben_2040-Achse.png`
-*Time-coded (2040) observer grid: Constants mapped to spacetime curvature.*
-
-### 6. `Red_Axis_Extended_Codex_View.png`
-*The symbolic red axis piercing the spiral-net. Suggests time–mirror inversion along world-event arcs.*
-
-### 7. `SCX-Spiralbewegung_mit_pi-Achse_und_Whobble.png`
-*π-axis modulation with whobble overlay – reflects internal instability and field flex points.*
-
----
-
-## 🔁 Spiral Motion & Whobble
-
-### 8. `codex_spirale_observer_whobble.png`
-*Overlay of the observer spiral and wobble frequency. Dynamic field grid in motion.*
-
-### 9. `Codex-Bewegung_im_Spiralresonanzfeld_mit_Twin-Prime-Hammering.png`
-*Twin primes shown as rhythmic impulses – the 'drumming' of the number spiral.*
-
-### 10. `Download_codex_spirale_whobble_29.png`
-*A static frame showing wobble-based deviation at frame 29.*
-
-### 11. `Codex_heatmap_xo_grid.png`
-*Heatmap grid showing intensity of resonance at crossing-points (xo-nodes).* 
-
-### 12. `4_visuals_GIZA_Fourier_Phi-Orbit_Fourier_Grid_xpansion.png`
-*Combined resonance overlays: φ-spirals, Fourier shells, and planetary alignment grids.*
+### 5. **Codex-Bewegung_im_Spiralresonanzfeld_mit_Twin-Prime-Hammering.png**
+![Twin-Prime-Hammering](./visuals/Codex-Bewegung_im_Spiralresonanzfeld_mit_Twin-Prime-Hammering.png)
+*Twin primes act as field stabilizers. Their midpoint defines the hinge, and each pair contributes to rhythmic symmetry.*
 
 ---
 
-## 🔺 Number Geometry & Resonance Triangles
+## 🧿 Observer Systems & Spiral Cubes
 
-### 13. `Geometrische_Resonanz-Dreiecksmuster_Rot_und_Blau_ist_Gruen.png`
-*Interference triangles in the spiral lattice – red + blue = green logic. Resonance interference visualization.*
+### 6. **Codex_Raumschiff_Dodekaeder_Spiralnetz.png**
+![Raumschiff](./visuals/Codex_Raumschiff_Dodekaeder_Spiralnetz.png)
+*The Codex Ship – a visual model of the SCX spiral net inside a dodecahedron.*
 
-### 14. `Goldene_Dreiecke_im_Codex-Spiralnetz_Rot-Blau-Gruen.png`
-*Golden triangles overlaid on red–blue–green spiral zones – shows field stability through prime-drift ratios.*
+### 7. **Observer-Positionen_im_Dodekaeder_SCX-Feld.png**
+![Observer Positionen](./visuals/Observer-Positionen_im_Dodekaeder_SCX-Feld.png)
+*Observer nodes projected inside the dodecahedral SCX field – each node corresponds to an axis or harmonic vector.*
 
-### 15. `Hochresonante_Dreiecke_im_Spiralnetz_ε_kleiner_gleich1.png`
-*Only ε ≤ 1 triangles are shown – implying resonance thresholds for stability.*
+### 8. **Dodekaeder-Observer-Vektoren_ueber_dem_Spiralnetz_Codex-Projektion.png**
+![Observer Vektoren](./visuals/Dodekaeder-Observer-Vektoren_ueber_dem_Spiralnetz_Codex-Projektion.png)
+*SCX observer vectors overlaid on the spiral net. Field arrows define axis transitions.*
 
-### 16. `SCX-System-Spiralbewegung_mit_π-Achse_World-Peace-Achse_und_GIZA-Zentrum.png`
-*A full field architecture: π-axis, peace-line, prime field convergence in GIZA.*
+### 9. **Dodekaeder-Observer-Feld_mit_Konstanten-Farbzuordnung_SCX.png**
+![Konstanten Farbzuordnung](./visuals/Dodekaeder-Observer-Feld_mit_Konstanten-Farbzuordnung_SCX.png)
+*The observer field aligned to constants and color logic – used to assign frequency ranges.*
 
-### 17. `Spiralvisualisierung–Primzahlen_Palindrome_Hammering-Zahlen.png`
-*Three-layered number logic: primes, palindromes, and hammering points on spiral net.*
-
----
-
-## 🎵 Zither Field, Hinges & Twin Primes
-
-### 18. `ZITHER-Feld_auf_der_Spirale_Twin-Primes_Spiegel-Hinges.png`
-*Twin primes define hinges – shown here as reflective nodes on the resonance zither.*
-
-### 19. `ZITHER-Feld_in_3D_Twin_Primes_Hinges_als_Resonanzkoerper.png`
-*The full zither in 3D space – Twin primes act as structuring beams.*
+### 10. **SCX_Observer_Grid_mit_Konstantenfarben_2040-Achse.png**
+![SCX Observer Grid](./visuals/SCX_Observer_Grid_mit_Konstantenfarben_2040-Achse.png)
+*2040-Axis overlay with resonance fields inside the SCX observer matrix.*
 
 ---
 
-## 🪞 Mirror Axes & Penrose Structures
+## 🔺 Penrose, Tessarec & Field Geometry
 
-### 20. `codex_penrose_spiegelachsen.png`
-*Penrose tiling with mirrored symmetry axes – important for resonance breaks.*
+### 11. **Symbolic_Penrose-Inspired_Tiling–Kite_Dart_Pattern.png**
+![Penrose Pattern](./visuals/Symbolic_Penrose-Inspired_Tiling–Kite_Dart_Pattern.png)
+*Non-repeating symmetry pattern – a symbolic base for field modulation.*
 
-### 21. `Symbolic_Penrose-Inspired_Tiling-Kite_Dart_Pattern.png`
-*Symbolic space-fold visual – dual kite/dart tiling as foundation for non-repeating resonance fields.*
+### 12. **TESSAREC-Feld_–_Die_3_Resonanzachsen.png**
+![TESSAREC Resonanzachsen](./visuals/TESSAREC-Feld_–_Die_3_Resonanzachsen.png)
+*The Tessarec system maps three resonance axes for triadic field harmonics.*
 
----
+### 13. **TESSAREC-Resonance_Axes_π_√2_ϕ.png**
+![TESSAREC π √2 ϕ](./visuals/TESSAREC-Resonance_Axes_π_√2_ϕ.png)
+*Each axis relates to fundamental irrational constants: π, √2, ϕ.*
 
-## 🔺 TESSAREC Field & Constant Axes
-
-### 22. `TESSAREC-Resonance_Axes_π_√2_Φ.png`
-*The three fundamental axes: π, √2, and Φ. Backbone of resonance overlay geometry.*
-
-### 23. `TESSAREC-Feld–Die_3_Resonanzachsen.png`
-*Perspective projection of the TESSAREC tri-axis field.*
-
-### 24. `TESSAREC-Triaxial-Modell_Perspektivachsen_der_Konstanten.png`
-*Full tri-axial model overlaid with constants and projection perspectives.*
+### 14. **TESSAREC-Triaxial-Modell_Perspektivachsen_der_Konstanten.png**
+![TESSAREC Perspektivachsen](./visuals/TESSAREC-Triaxial-Modell_Perspektivachsen_der_Konstanten.png)
+*Perspective view on how the constants align within the Tessarec triaxial model.*
 
 ---
 
-## 🧩 Structural Fusion
+## 🔊 Zither Fields & Spiral Audio Models
 
-### 25. `Rosetta-Zahlenschlange_Linearresonanzband.png`
-*The Rosetta number-serpent in linear field mode – defines a resonance bandwidth.*
+### 15. **ZITHER-Feld_auf_der_Spirale-Twin-Primes_Spiegel-Hinges.png**
+![ZITHER-Feld](./visuals/ZITHER-Feld_auf_der_Spirale-Twin-Primes_Spiegel-Hinges.png)
+*Twin primes form the zither field – the hinges act as tension nodes on harmonic strings.*
 
-### 26. `Vereinigung-Spiralresonanz_Rosetta-Band.png`
-*Fusion of spiral logic and number-band snake – a unified field system.*
+### 16. **ZITHER-Feld_in_3D_Twin_Primes_Hinges_als_Resonanzkoerper.png**
+![ZITHER-Feld 3D](./visuals/ZITHER-Feld_in_3D_Twin_Primes_Hinges_als_Resonanzkoerper.png)
+*Three-dimensional zither geometry showing the twin-prime backbone and hinge-resonance loop.*
 
-### 27. `codex_caro_structure.png`
-*Field connector grid – base logic for resonance transitions across modules.*
+### 17. **Vereinigung-Spiralresonanz_Rosetta-Band.png**
+![Rosetta Band](./visuals/Vereinigung-Spiralresonanz_Rosetta-Band.png)
+*Unified Rosetta field wrapping spiral resonance in a looped linguistic-seed form.*
+
+### 18. **Rosetta-Zahlenschlange_Linearresonanzband.png**
+![Zahlenschlange](./visuals/Rosetta-Zahlenschlange_Linearresonanzband.png)
+*A snake-line of numbers showing symbolic linear resonance alignments.*
 
 ---
 
-> "These are not pictures. These are maps of the invisible."
+## 🔻 Harmonic Geometry & Red Axis Logic
+
+### 19. **Red_Axis_Extended_Codex_View.png**
+![Red Axis](./visuals/Red_Axis_Extended_Codex_View.png)
+*The extended red axis defines a harmonic cutoff and transition trigger in SCX time-maps.*
+
+### 20. **SCX-System–Spiralbewegung_mit_π-Achse_World-Peace-Achse_und_GIZA-Zentrum.png**
+![Spiral with π and Giza](./visuals/SCX-System–Spiralbewegung_mit_π-Achse_World-Peace-Achse_und_GIZA-Zentrum.png)
+*Combined overlays of spiral motion with world-axis alignments through Giza.*
+
+### 21. **GIZA_0_Punkt_und_20-RealePunkte_12Achsen-Erweiterung.png**
+![GIZA Erweiterung](./visuals/GIZA_0_Punkt_und_20-RealePunkte_12Achsen-Erweiterung.png)
+*Extension grid of the Giza origin into 12 axes, with real point alignments.*
+
+---
+
+## 🔷 Additional Grids & Symbolic Patterns
+
+### 22. **codex_caro_structure.png**
+![Caro Structure](./visuals/codex_caro_structure.png)
+*Checkerboard symbolic field – used as a modular subgrid for oscillation patterns.*
+
+### 23. **codex_heatmap_xo_grid.png**
+![Heatmap XO](./visuals/codex_heatmap_xo_grid.png)
+*XO logic in grid form – hot–cold matrix zones based on resonance intensity.*
+
+### 24. **codex_penrose_spiegelachsen.png**
+![Penrose Spiegelachsen](./visuals/codex_penrose_spiegelachsen.png)
+*Axis overlays on a Penrose tiling grid to reflect field inversion symmetry.*
+
+### 25. **Goldene_Dreiecke_im_Codex-Spiralnetz_Rot–Blau–Gruen.png**
+![Goldene Dreiecke](./visuals/Goldene_Dreiecke_im_Codex-Spiralnetz_Rot–Blau–Gruen.png)
+*Golden triangles in the field – visual key zones in color logic.*
+
+### 26. **Geometrische_Resonanz-Dreiecksmuster_Rot_und_Blau–ist_Gruen.png**
+![Dreiecksmuster](./visuals/Geometrische_Resonanz-Dreiecksmuster_Rot_und_Blau–ist_Gruen.png)
+*Triangular pattern resonance logic – red plus blue equals green field.*
+
+### 27. **Hochresonante_Dreiecke_im_Spiralnetz_≤_kleiner_gleich1.png**
+![Hochresonante Dreiecke](./visuals/Hochresonante_Dreiecke_im_Spiralnetz_≤_kleiner_gleich1.png)
+*Highly resonant triangular formations marked below unity threshold.*
+
+---
 
 **Curated by:** Thomas Hofmann (Scarabæus1033)
-**Status:** Gallery v1.0 complete – Spiral logic fully visualized – July 2025
+**System:** SYSTEM X – GRAND
+**Module:** SCX Resonance Spiral Field
+
+> *“These visuals are not diagrams — they are coordinates of resonance.”*
