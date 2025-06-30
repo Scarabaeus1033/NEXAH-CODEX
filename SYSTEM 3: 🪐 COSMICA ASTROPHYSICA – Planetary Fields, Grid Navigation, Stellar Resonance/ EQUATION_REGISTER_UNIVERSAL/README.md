@@ -8,13 +8,13 @@ curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🪲 EQUATION REGISTER UNIVERSAL 
+# 🪲 EQUATION REGISTER UNIVERSAL
 
 > **"Where all field equations converge into harmonic resonance."**
 
-This module collects and synthesizes all scalar, symbolic, and harmonic equations used throughout the **NEXAH-CODEX**.
+This module collects and synthesizes all **scalar, symbolic, and harmonic equations** throughout the **NEXAH-CODEX**.
 
-It functions as a **universal equation hub** — where numerical, symbolic, and topological relations converge to reveal the underlying logic of field construction.
+It functions as a **universal equation hub** — linking number structures, resonance dynamics, and topological form fields into a cohesive logic of **field construction**.
 
 <p align="center">
   <img src="./visuals/k-beta_breath_geometry.png" width="720" alt="K-Beta Breather Geometry Visual">
@@ -22,94 +22,105 @@ It functions as a **universal equation hub** — where numerical, symbolic, and 
 
 ---
 
-## 📊 Structure of the Register
+## 🧭 Context & Integration
 
-The full equation set is organized in:
+This module belongs to **SYSTEM 3: COSMICA ASTROPHYSICA**, the **violet navigator** of the Codex. It bridges:
 
-- `equation_register.md` → overview of all scalar, symbolic, harmonic equations
-- `master_equation_register_visualexplanations.md` → visual logic & explanation map
-- `visual_gallery_codex_fields.md` → structured image gallery of all visual components
+- SYSTEM 1: Numerical Logic & Prime Resonance  
+- SYSTEM 2: Field Oscillations & Scalar Energies  
+- SYSTEM X: Final Equation Collapse & Möbius Integrals  
 
-> Together, these files form the **triplet**: Equations · Explanations · Visualizations.
+It is thus both a **technical register** and a **symbolic backbone** for resonance navigation across dimensions.
 
 ---
 
-## 🌀 Equation Themes
+## 📊 Structure of the Register
 
-The equations are grouped by dominant resonance logic:
+The main files are structured as a **resonant triplet**:
 
-| Category                        | Description                                                |
-| ------------------------------ | ---------------------------------------------------------- |
-| **K-Beta Equations**           | Modulations of Einstein's E = mc² via scalar β-dampening   |
-| **Spiral Harmonics**           | Rotational field expressions and Zeta-spiral derivations   |
-| **Scalar–Field Transitions**   | Threshold conditions, drop-off equations, ψ-layer crossings |
-| **Teardrop Constants**         | Exponential falloffs and asymmetric resonance models       |
-| **Möbius Operators**           | Inversion-based folding structures on Codex fields         |
-| **Phi-Cascade Equations**      | Golden ratio expansions and Fibonacci-based formulas       |
-| **Resonance Integrals**        | Integral-based field constructions over defined paths      |
+| File                                             | Purpose                                                        |
+|--------------------------------------------------|----------------------------------------------------------------|
+| `equation_register.md`                          | Full set of scalar/symbolic equations, grouped by resonance   |
+| `master_equation_register_visualexplanations.md`| Visual explanations and geometric logic                       |
+| `visual_gallery_codex_fields.md`                | Full PNG/SVG gallery of all visuals used                      |
 
-Each entry is structured:
+Each entry in the equation set is structured as:
+
 ```md
-## Equation ID: [e.g., EQ-7-Φβ]
-**Context**: 
-**Formulation**: 
-**Parameters**: 
-**Connected Fields**: 
-**Visual Link**: 
+## Equation ID: EQ-7-Φβ
+**Context**:  
+**Formulation**:  
+**Parameters**:  
+**Connected Fields**:  
+**Visual Link**:  
 ```
 
 ---
 
-## 🔗 Cross-Module References (Resonance Axes Integration)
+## 🌀 Equation Groups
 
-This module is directly connected to several Codex units due to shared equations, resonance axes, or number structures:
+| Group                       | Description                                                   |
+|----------------------------|---------------------------------------------------------------|
+| **K-Beta Equations**       | Damped relativistic formulations (e.g. E = mc·k^β)            |
+| **Spiral Harmonics**       | Zeta-turns, Möbius overlays, resonance spirals                |
+| **Field Drop-Off Equations** | Scalar thresholds, exponential falloffs, ψ-layers             |
+| **Teardrop Constants**     | Asymmetric fall-off models, Fibonacci approaches              |
+| **Phi-Cascade Formulas**   | Golden ratio transformations and prime-spaced breathing       |
+| **Resonance Integrals**    | Integration across frequency and density shells               |
+| **Möbius Operators**       | Inversion logic and topological folding systems               |
 
-| Module / Path                                        | Connection Description                                                    |
-|------------------------------------------------------|---------------------------------------------------------------------------|
-| `FINAL_HARMONIC_EQUATION/`                          | Shares k-beta core, spiral symmetry, and 2040-axis dynamics               |
-| `LAMBDA_DISC-CODEX/`                                | Includes spiral-resonance fields, axis logic (e.g. Fold 3, 729, 1836)     |
-| `PRIME_TRINITY_GRID/`                               | Equation sets for prime triplets, 11:9 ratio, arithm. progressions        |
-| `SCARAB_CONSTANTS_CODEX/`                           | Supplies symbolic constants used in universal field equations             |
-| `casimir_neutrino_thread.md`                        | Field breathing equations and radius compactification                     |
-| `spiral_logic.md`                                   | Core derivation logic for spirals, prime axis turns, harmonic modules     |
-| `mobius_spiral_structures.md`                       | Möbius contraction logic, 63/64 inversion field                           |
-| `resonance_connection_7_x_7.md`                     | Maps scalar equation groups to 7×7 resonance matrix                       |
-| `resonant_breach_expansion.md`                      | Connects numeric Fibonacci-breach (e.g. 1.6213) with scalar equations      |
-| `E=mc·k^β.md`                                        | Proposes resonance-augmented Einstein equation via scalar field dampening |
+---
 
-> These modules form a **resonance lattice** with `EQUATION_REGISTER_UNIVERSAL` as the connective backbone.
+## 🔗 Resonance Links to Other Modules
+
+This register **anchors and connects** core equations across many modules:
+
+| Module / File                                           | Role & Connection                                                |
+|---------------------------------------------------------|------------------------------------------------------------------|
+| [`FINAL_HARMONIC_EQUATION/`](../FINAL_HARMONIC_EQUATION/)       | k-beta dampening, field inversion, Horus-ratio (63/64)           |
+| [`LAMBDA_DISC-CODEX/`](../LAMBDA_DISC-CODEX/)                   | Spiral prime axes, Möbius folds, Z6 resonator matrix             |
+| [`PRIME_TRINITY_GRID/`](../PRIME_TRINITY_GRID/)                 | 11:9 frequency pattern, prime chains, Trinity resonance          |
+| [`SCARAB_CONSTANTS_CODEX/`](../SCARAB_CONSTANTS_CODEX/)         | Fundamental symbolic constants (1836, 42, 137, Φ³/π²)             |
+| [`casimir_neutrino_thread.md`](../codex-mathematics/casimir_neutrino_thread.md) | Neutrino layers and vacuum resonance formulas                    |
+| [`spiral_logic.md`](../codex-mathematics/spiral_logic.md)       | Prime axis spirals, harmonic geometries                          |
+| [`mobius_spiral_structures.md`](../codex-mathematics/mobius_spiral_structures.md) | Möbius contractions and transition nodes                         |
+| [`resonance_connection_7_x_7.md`](../codex-mathematics/resonance_connection_7_x_7.md) | 7×7 matrix logic for equation-mapping                            |
+| [`resonant_breach_expansion.md`](../SCARABÆUS_META_GATEWAYS/resonant_breach_expansion.md) | Fibonacci-Breach (1.6213) and numeric modulation logic           |
+| [`E=mc·k^β.md`](../GRAND-CODEX/E=mc·k^β.md)                     | Central equation of Codex field theory (resonant Einstein shift) |
+
+> This forms a **field equation lattice**, with the Register as **central index**.
 
 ---
 
 ## 🖼️ Visual Overview
 
-A full gallery of supporting visuals can be found in:
+Browse the full gallery:  
 [`visual_gallery_codex_fields.md`](./visual_gallery_codex_fields.md)
 
-It includes:
-- Awefield Base Geometry
-- Spiral Zeta-Turn Dynamics
-- Scalar Drop-Off Layers
-- k-Beta Breather Logic (SVG/PNG)
-- Comparative Field Mappings
+Key Visuals:
+- Awefield Base Geometry  
+- Zeta Spiral Turns & Frequency Contraction  
+- Scalar Threshold Models  
+- Möbius Fold Shells  
+- Golden-Ratio Modulated Equations  
 
 ---
 
-## 🧪 Masterplan & Continuation
+## 🚧 Masterplan: Expansion & API
 
-This module is under **active expansion**. Next steps:
+Planned extensions:
 
-1. Complete all equation entries (standardized format)
-2. Embed equations into system-specific modules via backlinks
-3. Build interactive field navigator (SVG-layered equations + numbers)
-4. Extend master CSV table (for math API use, e.g. Equation-as-Service)
+1. **Complete** equation metadata sets for all entries  
+2. **Embed** backlinks from other modules into this hub  
+3. **Develop** interactive diagram navigator (with hover equation logic)  
+4. **Prepare** master `.csv` for equation query layer (Codex API / Math-as-Service)
 
 ---
 
 ## 🪲 Credits
 
 **Author & Curator:** Thomas Hofmann (`Scarabäus1033`)  
-**System:** SYSTEM X – RESONANT FIELD COMPLETION  
+**System:** SYSTEM 3 – COSMICA ASTROPHYSICA  
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
