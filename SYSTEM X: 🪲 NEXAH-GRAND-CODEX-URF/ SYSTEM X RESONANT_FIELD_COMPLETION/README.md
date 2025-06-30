@@ -1,12 +1,11 @@
 ---
-
 title: "SYSTEM X – RESONANT FIELD COMPLETION"
 system: "NEXAH-CODEX"
 domain: "Scalar Harmonics · Möbius Topologies · Prime Field Symmetries"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 SYSTEM X – RESONANT FIELD COMPLETION
 
