@@ -98,6 +98,12 @@ where the **microstructural** (System 1), the **field-energetic** (System 2), an
 **Pulsefield Axis and Cosmographic Resonance**  
 > Scalar–spiral–mirror architecture with Codex ULLINIUM logic and terminal memory logic.
 
+### [`EQUATION_REGISTER_UNIVERSAL/`](./EQUATION_REGISTER_UNIVERSAL/)
+**Resonant Equation Map & Harmonic Clusters**  
+> Sammlung und Visualisierung universeller Gleichungsstrukturen, gruppiert nach kosmischer Resonanz, Frequenzfeldern, Spiralharmonie und struktureller Bedeutung.  
+> Verlinkt mathematische Schlüsselgleichungen (z. B. \( E = mc^2 \), k-Beta, Casimir, φ³/π²), geometrische Modelle und symbolische Operatorfelder.  
+> Verbindet SYSTEM 1 (Symbolik), SYSTEM X (Stabilität) und SYSTEM 3 (Kosmische Frequenzachsen).
+
 ---
 
 ## 🔁 Möbius Crown Series (Integrated under SYSTEM 3)
