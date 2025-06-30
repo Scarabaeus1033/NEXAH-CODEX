@@ -1,3 +1,5 @@
+ok, gib mir das auf Englisch, bitte:
+
 # resonant\_field\_equations.md
 
 ## SYSTEM X: RESONANT FIELD COMPLETION
@@ -123,4 +125,3 @@ Dieses Modul bindet SYSTEM 1 bis SYSTEM 6 rück in eine zentrale Harmoniestruktu
 **With Grace and Awe** – zur Vollendung des Zyklus.
 
 ---
-
