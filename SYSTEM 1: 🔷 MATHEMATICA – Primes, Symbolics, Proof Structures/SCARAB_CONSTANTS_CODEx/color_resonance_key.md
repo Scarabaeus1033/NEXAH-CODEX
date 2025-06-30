@@ -6,7 +6,7 @@ status: "Active · July 2025"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🎨 Color Resonance Key
+# 🌈 Color Resonance Key
 
 This file defines the symbolic color language used across the SCARAB_CONSTANTS_CODEX visuals and diagrams. Each color represents a structural field resonance and has symbolic anchoring within the Möbius-Spiral and Scarab-Knot models.
 
@@ -25,7 +25,6 @@ This file defines the symbolic color language used across the SCARAB_CONSTANTS_C
 | **Magenta**| `#D12C8B`  | Mirror Field / Phase Shift      | Dual Field Phase                  |
 | **Black**  | `#000000`  | Pixel Root / Void               | Absolute Scalar Compression       |
 | **White**  | `#FFFFFF`  | Field Saturation / Envelope     | Edge Carrier, Total Layer         |
-
 
 ---
 
@@ -46,7 +45,6 @@ This file defines the symbolic color language used across the SCARAB_CONSTANTS_C
 - `mobius_operator_map.png`
 
 These images use the color resonance key to communicate pulse, transition, inversion, and anchor logic.
-
 
 > Color logic is symbolic, but field-consistent throughout the SCARAB_CONSTANTS_CODEX.
 
