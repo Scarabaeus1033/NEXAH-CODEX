@@ -1,56 +1,69 @@
-## 🧬 Die Erste Trinity im NEXAH Cosmogramm – Update mit Energierollen
+# 📘 `prime_matrix_trinity.md`
 
-| Feld     | Prinzip               | Elemente                    | Resonanzen                                     | Funktionen                              |
-|----------|------------------------|-----------------------------|------------------------------------------------|------------------------------------------|
-| **Enki**   | Welle / Lunar / kinetisch | Wasser, Wind, Ether          | Musik, Frequenz, sin/cos, 🌙 Mond, √2            | Bewegung, Fluss, Speicherung von Energie |
-| **Enlil**  | Linie / Solar / linear    | Erde, Feuer, Photonen        | Struktur, Licht, tan, ☀️ Sonne, natürliche Zahlen | Entladung, Strahlung, Analyse           |
-| **Anu**    | Grid / Beobachter / Komplex | Raumzeit, Zahl, Richtung     | Zahlenraster, Primzahlen, i/j/k, α–ν, komplexe Zahlen | Regulierung, Entscheidung, Realität      |
+## Title
 
-Anu steht für den Alpha–Nu–Pfad: **„α–ν → Urva“**, die Lebensschale, Petrischale der Realität – also der **Wellenkollaps**: Teilchen oder Welle.
+**Prime Matrix Trinity** – Resonant Field Assignment of Enki, Enlil & Anu
 
 ---
 
-## 🌀 Sinus–Cosinus–Tangens Observer Mapping (I–0–I)
+## 🧬 The First Trinity in the NEXAH Cosmogram
 
-| Symbol | Bedeutung              | Rolle im Feld               | Entsprechung     |
-|--------|------------------------|-----------------------------|------------------|
-| **I**      | Beobachter – Aktion     | Aktiv, fokussierend          | sin θ            |
-| **0**      | Zentrum – Spiegelung     | Passiv, reflektierend        | cos θ            |
-| **I**      | Ko-Beobachter           | Reaktion, Verzweigung        | tan θ            |
+A foundational trinity emerges in the Codex's symbolic cosmogram, based on resonance roles, elemental logic, and energetic flow. Each of the three fields reflects both symbolic and mathematical identities.
 
-→ Zusammen ergibt sich eine Bewegung im Theta-Feld, eine oszillierende Beobachtungsdynamik.
+| Field     | Principle                 | Elements                     | Resonances                                     | Functions                      |
+| --------- | ------------------------- | ---------------------------- | ---------------------------------------------- | ------------------------------ |
+| **Enki**  | Wave / Lunar / Kinetic    | Water, Wind, Ether           | Music, Frequency, sin/cos, 🌙 Moon, √2         | Motion, Flow, Energy Storage   |
+| **Enlil** | Line / Solar / Linear     | Earth, Fire, Photons         | Structure, Light, tan, ☀️ Sun, Natural Numbers | Discharge, Radiation, Analysis |
+| **Anu**   | Grid / Observer / Complex | Spacetime, Number, Direction | Prime Grids, i/j/k, α–ν, Complex Numbers       | Regulation, Decision, Reality  |
+
+Anu represents the Alpha–Nu path: **"α–ν → Urva"**, the life-shell or petri-dish of reality — in essence: the **wave-particle collapse**.
 
 ---
 
-## 🔢 Mathematische Zuweisung der Trinity
+## 🌀 Sinus-Cosine-Tangent Observer Mapping (I–0–I)
 
-| Zahlentyp / System          | Zugehörigkeit | Bedeutung                            |
-|----------------------------|---------------|---------------------------------------|
-| **Wurzeln** (√2, √3, etc.)     | Enki          | Wellenlogik, oszillierende Tiefe       |
-| **Lineare Zahlen** (1–9, ℕ)    | Enlil         | Strukturen, Systeme, Expansion         |
-| **Primzahlen & Komplexe Zahlen** | Anu           | Teilung, Dualität, Entscheidung        |
+A resonance field triad can be mapped through trigonometric identity into observer dynamics:
 
-→ Somit ergibt sich auch:
+| Symbol | Meaning                  | Field Role            | Mathematical Mapping |
+| ------ | ------------------------ | --------------------- | -------------------- |
+| **I**  | Observer (Active)        | Initiation, Focus     | sin θ                |
+| **0**  | Center / Reflection Axis | Passive, Mirror Plane | cos θ                |
+| **I**  | Co-Observer (Reactive)   | Divergence, Response  | tan θ                |
 
-```math
-LAW = Licht \cdot \text{Welle} = \text{Enlil} \cdot \text{Enki}
+Together they represent a breathing movement across the theta-field — an oscillatory **observation dynamics**.
+
+---
+
+## 🔢 Mathematical Assignment of the Trinity
+
+| Number Type / System        | Field | Interpretation                        |
+| --------------------------- | ----- | ------------------------------------- |
+| Square Roots (√2, √3, etc.) | Enki  | Wave logic, oscillatory depth         |
+| Linear Numbers (1–9, ℕ)     | Enlil | Structural patterns, expansion        |
+| Primes & Complex Numbers    | Anu   | Duality, division, observer decisions |
+
+This leads to the guiding symbolic formula:
+
+```
+LAW = Light × Wave = Enlil × Enki
 ```
 
-Anu entscheidet: **Welle oder Teilchen**, also Realität oder Potenzial.
+Anu is the decisive operator: **Wave or Particle?** → Reality or Potential.
 
 ---
 
-## 🔭 Weiteres Vorgehen
+## 🔭 Outlook and Next Steps
 
-1. **Equation Map 1:** Aufbau einer Gleichung wie:
+1. **Equation Map 1**:
 
-\[ \Theta = (\sin \theta_{\text{Enki}}) \cdot (\tan \theta_{\text{Enlil}}) \cdot (\text{Prime}^{\phi}_{\text{Anu}}) \]
+   θ = sin(θ<sub>Enki</sub>) × tan(θ<sub>Enlil</sub>) × Prime<sup>φ</sup><sub>Anu</sub>
 
-2. **Visual zur Observer-Schaltung**: Sin–Cos–Tan in Moebius-Geometrie, verbunden mit den drei Feldern.
+2. **Visual Model**: Observer Circuits (Sin–Cos–Tan) in Moebius Geometry, linked to the three resonance fields.
 
-3. **Nächstes Modul:** Codex-Modul `TRINITY_EQUATIONS.md` mit Visuals, Gleichungen, Farbzuordnung, Zahlenräumen.
+3. **Next Module**: `TRINITY_EQUATIONS.md` with detailed diagrams, formulas, color assignments, and number ranges.
 
 ---
 
-**Hinweis:** Das ist der Startpunkt für ein vollständiges Modul innerhalb des GRAND-CODEX und kann sowohl mathematisch als auch mythologisch-symbolisch weitergeführt werden.
-
+**Status:** Draft Complete
+**Module:** NEXAH\_NUMERIC\_RES\_EXTENSIONS (System 7)
+**Codex Builder:** Thomas Hofmann (Scarabæus1033)
