@@ -31,7 +31,6 @@ The narrative is inspired by the Mandelbrot Set's internal recursion, extending 
 | `planetary_resonance_lattice.md` | Planet-grid logic and resonant orbital spacing (symbolic + harmonic)        |
 | `visual_gallery.md`              | Annotated visual index from the module visuals                             |
 
-
 ---
 
 ## 🌀 Key Concepts
@@ -53,7 +52,6 @@ The narrative is inspired by the Mandelbrot Set's internal recursion, extending 
 - Harmonic phase jumps between visual resonance layers
 - Shadow field mapping of real–imaginary crossover events
 
-
 ---
 
 ## 🔗 Related Systems
@@ -66,7 +64,6 @@ This module links conceptually and structurally with:
 - **`FINAL_HARMONIC_EQUATION`** (System X)
 - **`ORIGIO_CODON_GRID`** (Symbolic Genome Structures)
 
-
 ---
 
 ## 🖼 Visual Archive
@@ -78,7 +75,6 @@ The image sequence includes:
 - Layered pyramids and prime spirals
 - Black-pillar recursion diagrams
 - Planetary lattice field renderings
-
 
 ---
 
