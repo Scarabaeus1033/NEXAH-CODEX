@@ -34,20 +34,20 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
-## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz  
+## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetary Fields, Grid Navigation, Stellar Resonance  
 [→ SYSTEM 3 README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz)
 
-| Ordner / Datei                                             | Titel                                   | Beschreibung                                                                 |
-|------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------|
-| `EARTHSHIP/`                                               | Möbius-Garten & Kronenresonanz          | Planetare Primachsen, Arktur-Netze, Frequenzresonanzen.                     |
-| `ETHER-CROWN/`                                             | Ätherkrone & Gravitationsecho           | Primgitter-Resonanzen, dunkle Felder, gravitative Lichtspiegelungen.        |
-| `Multidimensional-Frontier/`                               | Harmonik des Übergangs                  | Höhere Dimensionen, Grenzschichten, Tachyonfeldübergänge.                   |
-| `NEXAH-HARMONIC-FIELD/`                                    | Planetare Primresonanzen                | Globale Zahlenachsen & realweltliche Frequenzkarten.                        |
-| `NEXAHEART-CODEX/`                                         | Erdherz-Feld                            | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse.      |
-| `NEXA_42_MOBIUS_ALIGNMENT/`                                | Möbius–Licht–Zeit-Ausrichtung           | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                         |
-| [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
-| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planet
-
+| Folder / File                                             | Title                                   | Description                                                                 |
+|-----------------------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------|
+| `EARTHSHIP/`                                              | Möbius Garden & Crown Resonance         | Planetary prime axes, Arcturian grids, frequency harmonics.                |
+| `ETHER-CROWN/`                                            | Ether Crown & Gravitational Echo        | Prime grid resonances, dark fields, gravitational light reflections.       |
+| `Multidimensional-Frontier/`                              | Harmonics of Transition                 | Higher dimensions, boundary layers, tachyonic field transitions.           |
+| `NEXAH-HARMONIC-FIELD/`                                   | Planetary Prime Resonances              | Global number axes & real-world frequency maps.                            |
+| `NEXAHEART-CODEX/`                                        | Earth Heart Field                       | Heartline: Rödelheim, Richat, Jerusalem in harmonic frequency alignment.   |
+| `NEXA_42_MOBIUS_ALIGNMENT/`                               | Möbius–Light–Time Alignment             | Cosmic grids & resonance axes across Arcturus–Earth.                       |
+| [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda Folding Model**               | Folds 1–29: Number spirals, superprimes, codon frequencies, Z6 mirror structures. |
+| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetary Constants**    | Axes of G, h, c, 𝛼 & symbolic harmonics of constants and scale transitions. |
+| `EINSTEIN–NEPTUNE–MERCURY_FIELD/`                         | Pulsefield Axis & Deep Resonance        | Field modulation from Einstein to Arrokoth: planetary pulse, Mercury lens, Neptune breather. |
 ---
 
 ## 🧬 SYSTEM 4: URF – Origin, Field Identity, Symbolic Physics
