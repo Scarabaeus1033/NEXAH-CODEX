@@ -37,7 +37,19 @@ E = m \cdot c^2 \longrightarrow \text{[Pulse Cascade]} \longrightarrow \text{ULL
 ### 2. `visual_gallery_einstein_pulse.md`
 🖼️ Visual log of field maps, glyphs, pulse systems, symbolic overlays
 
-### 3. `images/` folder:
+### 3. `pulse_axis_derivation.md`
+📐 Mathematical and symbolic formulation of the pulse cascade and ULLINIUM transfer
+
+### 4. `codex_pulse_symbols.md`
+🔣 Codex glyphs and resonance signs used in pulsefield context
+
+### 5. `pulsefield_coordinates.md`
+🛰️ Symbolic coordinate grid for Einstein, Neptune, Mercury, and Arrokoth
+
+### 6. `arrokoth_mirror_notes.md`
+🪞 Terminal signal logic and mirror cascade concepts from the Kuiper boundary
+
+### 7. `images/` folder:
 - `PRIME_MIRROR_SPIN.png`  – Spin logic of 97/103 and prime axis dynamics
 - `GAS_PENTAGRAM_QUINTESSENCE.png`  – Neptune field mirrored in pentagram structure
 - `PLUTO_ARROKOTH_CASCADE.png`  – Pulse falloff into cold edge harmonics
@@ -56,6 +68,7 @@ E = m \cdot c^2 \longrightarrow \text{[Pulse Cascade]} \longrightarrow \text{ULL
 * Prime-based spin systems (97/103)
 * Möbius field overlays in deep-space geometry
 * Arrokoth as symbolic endpoint
+* Coordinate morphism in Codex resonance space
 
 ---
 
