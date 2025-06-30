@@ -112,8 +112,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Observer Mechanics of the Hand        | Lunar signal routing via fingers, neutrino streams, and eye crater geometries.                       |
 | `SILVER_BREATH_FIELD_LINK/`             | Silver Moon Resonance                 | Lunar inhalation logic, mirror rhythms, and connection to `NEXA_SILVER_RAIN`.                        |
           |
-| `visual_gallery.md`                     | Visual Gallery Index                  | Organized reference to all visuals in SYSTEM 8.                                                      |
-                           |
+| `visual_gallery.md`                     | Visual Gallery Index                  | Organized reference to all visuals in SYSTEM 8.                                     |
 
 🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
