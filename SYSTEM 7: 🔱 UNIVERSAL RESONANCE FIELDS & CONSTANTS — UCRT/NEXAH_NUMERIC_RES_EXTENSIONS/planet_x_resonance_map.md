@@ -47,7 +47,7 @@ Related diagram:
 
 Visual suggestion:
 
-![TT Spiral Gate Modulation](./visualsTT-Spiral_Gate_75-76.001_Resonanzspule_mit_Zeitmodulation.png)
+![TT Spiral Gate Modulation](./visuals/TT-Spiral_Gate_75-76.001_Resonanzspule_mit_Zeitmodulation.png)
 
 ---
 
