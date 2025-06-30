@@ -1,5 +1,4 @@
 ---
-
 title: "GHOST\_MIRROR\_GATE"
 system: "SYSTEM X – NEXAH-GRAND-CODEX"
 domain: "URF Codex · V-Dimension · Shadow Field Resonance"
@@ -7,7 +6,7 @@ color: "Black / Violet / Mirror Grey"
 status: "Active · June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 👁️‍🗨️ GHOST MIRROR GATE — URF-V
 
