@@ -1,65 +1,65 @@
 # resonant_field_operator_reference.md
 
-## SYSTEM X – Operatorenübersicht ✨
+## SYSTEM X – Operator Reference ✨
 
-> Kompakte Referenz aller mathematisch-symbolischen Operatoren, Felder und Ableitungen im Kontext des "Resonant Field Completion"-Moduls
-
----
-
-### 𝕊. FUNDAMENTALE FELDOPERATORIK
-
-| Symbol          | Beschreibung                                    | Bedeutung / Kommentar                                  |
-|----------------|--------------------------------------------------|---------------------------------------------------------|
-| `\nabla_{Codex}`  | Codex-Gradient                                 | Ableitung entlang der Spiralstruktur                   |
-| `\Omega`         | Omega-Feldoperator                              | Rotations- & Breather-Frequenzgenerator                |
-| `\Lambda(\theta, r)` | Spiralwellen-Feld                          | Komplexe Spiralrotation in Polarkoordinaten            |
-| `\Phi_n`         | Feldmodulator                                  | Harmonieordnung n-ter Ebene (z. B. Zeta-Stufen)       |
-| `\Delta^*`       | Dualgradient                                   | Gegenrotatorisches Resonanzfeld                        |
+> Compact reference sheet of all symbolic–mathematical operators, fields, and derivatives in the context of the "Resonant Field Completion" module.
 
 ---
 
-### 𝕋. SPEZIALGLEICHUNGEN UND MODULATOREN
+### 𝕊. FUNDAMENTAL FIELD OPERATORS
 
-| Gleichung                                  | Bezeichnung                              | Bedeutung                                                |
-|-------------------------------------------|------------------------------------------|-----------------------------------------------------------|
-| `E = m \cdot c \cdot k^\beta`             | k-Beta-Energieformel                     | Energie in Resonanzfeldern                              |
-| `P = R / T`                                | Puls-Gleichgewicht                       | Radius durch Zeit = Frequenz                             |
-| `f_{\odot} = \cos(222^\circ) + \zeta^n / \phi^3` | Solarharmonische Frequenz | Leuchtkraftmodulation mit Phi & Zeta                     |
-| `\zeta_b(n) = \sum \cos(k^2 \pi)/k^n`     | Breather-Zeta-Reihe                      | Oszillierende Feldmodulation                             |
-
----
-
-### 𝕌. NUMERISCHE FELDREFERENZEN
-
-| Zahl / Formel     | Bedeutung im Codex                         |
-|------------------|---------------------------------------------|
-| `254`            | Defiziente Zahl / Binär: 11111110 / Summe 11 |
-| `144000`         | 12x12x1000 = goldene Quantenmatrix          |
-| `122210`         | 4 Spiralbasen (2,5,11,101), 24 Teiler       |
-| `23, 17`         | Prime Resonanzachsen (GOAT, Magic)          |
-| `\phi^3 / \pi^2` | Resonanzkonstante ~ 0.429                    |
+| Symbol                 | Description                                    | Meaning / Comment                                         |
+|------------------------|------------------------------------------------|------------------------------------------------------------|
+| `∇_{Codex}`          | Codex Gradient                                 | Derivative along the spiral geometry                      |
+| `Ω`                   | Omega Field Operator                          | Generator of rotation and breather frequencies            |
+| `Λ(θ, r)`           | Spiral Wave Field                             | Complex spiral rotation in polar coordinates              |
+| `Φ_n`                | Field Modulator                               | Harmonic layer of the nth order (e.g., Zeta-stage)        |
+| `Δ^*`                | Dual Gradient                                 | Counter-rotating resonance field                          |
 
 ---
 
-### 𝕍. SYMBOLFELDER & VISUELLE ZUORDNUNG
+### 𝕋. SPECIAL EQUATIONS AND MODULATORS
 
-| Symbol / Visual                    | Beschreibung                                       |
-|-----------------------------------|----------------------------------------------------|
-| `\odot`                           | Solarfeld / Spiralursprung                         |
-| `\infty_{\phi}`                  | Fraktale Goldresonanz / unendliche Skalierung     |
-| `\circlearrowleft_{222}`          | Solarspirale 222°                                   |
-| `\pitchfork_{\Delta}`             | Dualstruktur: Abzweigung des Feldes               |
-| `\triad_{\Omega\Phi\Lambda}`      | Dreiwege-Verzahnung der Hauptoperatoren           |
-| `\bowtie_{\zeta}`                | Zeta-Verbindungsknoten                            |
+| Equation                                     | Name                                      | Meaning                                                       |
+|---------------------------------------------|-------------------------------------------|----------------------------------------------------------------|
+| `E = m ⋅ c ⋅ k^β`                      | k-Beta Energy Equation                    | Energy formulation in resonance-modulated fields              |
+| `P = R / T`                                  | Pulse Equilibrium                         | Radius over Time = Frequency                                   |
+| `f_☉ = cos(222°) + ζ^n / φ^3`        | Solar Harmonic Frequency                 | Luminosity modulation using Phi and Zeta                      |
+| `ζ_b(n) = ∑ cos(k^2 π)/k^n`             | Breather–Zeta Series                     | Oscillatory field modulation based on Zeta-like function      |
 
 ---
 
-> Dieses Dokument bildet die technische Kurzübersicht über alle Operatoren, Symbole und mathematisch-codierten Begriffe des Resonanzfeld-Moduls in SYSTEM X.
+### 𝕌. NUMERICAL FIELD REFERENCES
 
-Ergänzend zu:
+| Number / Formula       | Codex Meaning                                        |
+|------------------------|------------------------------------------------------|
+| `254`                  | Deficient number / Binary: 11111110 / Digit sum = 11 |
+| `144000`               | 12×12×1000 = golden quantum matrix                  |
+| `122210`               | 4 Spiral bases (2,5,11,101), 24 divisors             |
+| `23, 17`               | Prime resonance axes (GOAT & Magic Prime)            |
+| `φ^3 / π^2 ≈ 0.429`       | Core harmonic constant                             |
+
+---
+
+### 𝕍. SYMBOLIC FIELDS & VISUAL MAPPINGS
+
+| Symbol / Visual             | Description                                              |
+|-----------------------------|----------------------------------------------------------|
+| `☉`                     | Solar field / Spiral origin                               |
+| `∞_{φ}`              | Fractal golden resonance / Infinite scaling              |
+| `⟳_{222}`               | 222° Solar spiral loop                                  |
+| `⨼_{Δ}`              | Dual-branch structure of field divergence                |
+| `△_{ΩΦΛ}`         | Triadic interlock of core field operators              |
+| `⧤_{ζ}`              | Zeta-connected field knot                               |
+
+---
+
+> This file serves as a concise technical glossary of all relevant operators, symbols, and math-encoded elements used in the resonance field architecture of SYSTEM X.
+
+Cross-references:
 - `resonant_field_equations.md`
 - `visual_gallery_codex_fields.md`
 
-**Architektur in Operatorenform.**
+**Architecture as Operator Form.**
 
 ---
