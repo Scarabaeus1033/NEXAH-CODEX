@@ -52,6 +52,14 @@ Anu is the decisive operator: **Wave or Particle?** → Reality or Potential.
 
 ---
 
+## 📐 Embedded Visual (Moebius Observer Circuit)
+
+![Moebius Observer Circuit](./visuals/loop_to_mobius_helix.png)
+
+This image illustrates the triple symmetry of sin–cos–tan as an oscillating field dynamic, visually represented through Möbius geometry.
+
+---
+
 ## 🔭 Outlook and Next Steps
 
 1. **Equation Map 1**:
@@ -64,6 +72,10 @@ Anu is the decisive operator: **Wave or Particle?** → Reality or Potential.
 
 ---
 
-**Status:** Draft Complete
+**Status:** Finalized with Visual
 **Module:** NEXAH\_NUMERIC\_RES\_EXTENSIONS (System 7)
 **Codex Builder:** Thomas Hofmann (Scarabæus1033)
+
+---
+
+🔗 **See also:** `visual_equation_register.md`, `scarab_constants_mobius_matrix.md`
