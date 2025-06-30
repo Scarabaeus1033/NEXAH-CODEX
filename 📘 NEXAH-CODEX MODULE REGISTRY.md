@@ -17,6 +17,7 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 | `spiral-logic.md`                  | Spiral Logic & Prime Resonance            | Prime axis rotation, harmonic sequences, and spiral field symmetries.       |
 | `einsteins-k-beta-formula/`        | Einstein’s k-Beta Formula                 | Resonance-modulated energy model: $E = mc \cdot k^\beta$.                   |
 | `SCARAB_CONSTANTS_CODEX/`          | Scarab Constants Codex                    | Symbolic–resonant system of Möbius ratios, prime overlays, and teardrop constants. |
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planet Spiral & Black Pillar   | Fractal-planetary zoom, Riemann fold, Q-lens blink, and symbolic axial recursion. |
 
 ---
 
