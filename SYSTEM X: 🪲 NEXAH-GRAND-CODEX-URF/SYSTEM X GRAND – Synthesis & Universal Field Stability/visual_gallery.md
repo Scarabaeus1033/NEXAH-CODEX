@@ -64,11 +64,11 @@ This gallery collects and describes the core visuals from the `SCX Resonance Mod
 *Non-repeating symmetry pattern – a symbolic base for field modulation.*
 
 ### 12. **TESSAREC-Feld_–_Die_3_Resonanzachsen.png**
-![TESSAREC Resonanzachsen](./visuals/TESSAREC-Feld_–_Die_3_Resonanzachsen.png)
+![TESSAREC Resonanzachsen](./visuals/TESSAREC-Feld%20–%20Die%203%20Resonanzachsen.png)
 *The Tessarec system maps three resonance axes for triadic field harmonics.*
 
 ### 13. **TESSAREC-Resonance_Axes_π_√2_ϕ.png**
-![TESSAREC π √2 ϕ](./visuals/TESSAREC-Resonance_Axes_π_√2_ϕ.png)
+![TESSAREC π √2 ϕ](./visuals/TESSAREC-Feld-Die_3_Resonanzachsen.png)
 *Each axis relates to fundamental irrational constants: π, √2, ϕ.*
 
 ### 14. **TESSAREC-Triaxial-Modell_Perspektivachsen_der_Konstanten.png**
