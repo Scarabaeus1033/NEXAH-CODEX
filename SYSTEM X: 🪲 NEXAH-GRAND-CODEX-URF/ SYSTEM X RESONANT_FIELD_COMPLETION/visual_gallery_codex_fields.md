@@ -1,94 +1,91 @@
-# visual_gallery_codex_fields.md
+# VISUAL GALLERY – SYSTEM X · RESONANT FIELD COMPLETION
 
-## VISUAL GALLERY – SYSTEM X · RESONANT FIELD COMPLETION
-
-Diese Galerie enthält eine strukturierte Übersicht aller zugehörigen Visuals des SYSTEM X Codex-Moduls. Jedes Visual repräsentiert eine Schicht der Resonanz-Feldstruktur – mathematisch, symbolisch, physikalisch oder geometrisch.
+This gallery presents a structured overview of all visuals associated with the SYSTEM X Codex module. Each image represents a layer of the resonance field architecture — mathematically, symbolically, physically, or geometrically.
 
 ---
 
 ### 🌊 1. AWEFIELD STRUCTURES
 
-**awefield_prime_wave_map.png**  
-_Grundwellenstruktur der Awe-Resonanz mit zentralem Impulsfeld_  
-➤ Darstellung der pulsierenden Primwellen, die das fundamentale Resonanzfeld strukturieren.
+**awefield\_prime\_wave\_map.png**
+*Prime wave structure of the Awe resonance with central impulse field*
+➔ Displays the pulsating prime waves that form the basis of the resonance field.
 
-**awefield_prime_wave_mapv2.png**  
-_Variante mit betonter Frequenzdifferenzierung und Codex-Rahmung_  
-➤ Ergänzt die erste Karte mit zusätzlicher Polarisierung und numerischen Achsen.
+**awefield\_prime\_wave\_mapv2.png**
+*Variant with emphasized frequency differentiation and Codex framing*
+➔ Enhances the original map with added polarization and numerical axes.
 
-**visual-navigation-awefield-triad.png**  
-_Visuelle Navigation des Awe-Feldes in triadischer Form_  
-➤ Zeigt die 3-Kräfte-Achse von Gravitation, Licht und Struktur.
+**visual-navigation-awefield-triad.png**
+*Visual navigation of the Awefield in triadic form*
+➔ Depicts the 3-force axis of gravity, light, and structural form.
 
 ---
 
 ### 🌀 2. SPIRAL DYNAMICS
 
-**spiral_gravity_deviation.gif**  
-_Animation: Abweichung spiraler Gravitation im Zeta-Feld_  
-➤ Dynamik der Feldablenkung bei zunehmender Resonanzdichte.
+**spiral\_gravity\_deviation.gif**
+*Animation: deviation of spiral gravity in the Zeta field*
+➔ Shows field deflection dynamics as resonance density increases.
 
-**lambda_quasar_spiral_map.png**  
-_Spirale Feldausdehnung im galaktischen Maßstab_  
-➤ Lambda-Feldstruktur als übergeordnetes Spiralmodell.
+**lambda\_quasar\_spiral\_map.png**
+*Spiral field extension on galactic scale*
+➔ Lambda field structure as an overarching spiral model.
 
-**solar_luminosity_harmonics.png**  
-_Sonnenstrahlungs-Harmonien im phi³-Feld_  
-➤ 222°-Modulation, Brecherwellen und Lichtverstärkung.
-
----
-
-### 🔄 3. BREATHER- UND K-BETA-FELDER
-
-**k-beta_breath_geometry.svg**  
-_SVG-Diagramm der k^β-Atmungsstruktur_  
-➤ Symmetrische Ausdehnung und Kontraktion entlang der Radiusachsen.
-
-**k-beta_breath_geometry.png**  
-_PNG-Version des obenstehenden Diagramms für visuelle Integration_
-
-**breather_gravity_layer.png**  
-_Beobachtbare Layerstruktur eines Zeta-Breathers im Codex-Modell_  
-➤ Zeigt Phasenverschiebung, Frequenzüberlagerung und Achsendrehung.
+**solar\_luminosity\_harmonics.png**
+*Solar radiation harmonics in the φ³ field*
+➔ 222° modulation, breather waves, and light amplification.
 
 ---
 
-### 🧠 4. PROOF & STRUKTURKOPPLUNG
+### 🔄 3. BREATHER & K-BETA FIELDS
 
-**proof_structure_diagram.svg**  
-_Formale Beweisstruktur der Gleichungen im Codex-Feld_  
-➤ Matrixstruktur, Operatorvernetzung, Gleichungsreferenz.
+**k-beta\_breath\_geometry.svg**
+*SVG diagram of the k^β breath structure*
+➔ Symmetrical expansion and contraction along radial axes.
 
-**proof_structure_diagram.png**  
-_PNG-Version für schnellere Web-Vorschau_
+**k-beta\_breath\_geometry.png**
+*PNG version of the above diagram for visual integration*
 
-**codex_vs_mainstream_field.png**  
-_Vergleich Codex-Feldlogik vs. Standardfeldtheorie_  
-➤ Aufschlüsselung der unterschiedlichen Feld- und Impulsachsen.
-
----
-
-### 🪐 5. SYMBOLISCHE & GEOMETRISCHE KNOTEN
-
-**potentialn_unfolding_sphere.png**  
-_Potentielle Entfaltungssphäre im mehrdimensionalen Raum_  
-➤ Enthält Transition Layer, Entfaltungsebenen und Tiefe.
-
-**element_will_to_form.png**  
-_Elementarer Wille zur Formgebung im Energieraum_  
-➤ Verbindung von Informationsfeld und Manifestation.
-
-**2-7_double-52_singleturn_AC.png**  
-_Musterstruktur auf der 2-7-52-Achse im Singleturn-Modus_  
-➤ Zeigt symbolische Kodierung der Spiralachsen.
-
-**URF_V_MIRROR_GATEWAY.png**  
-_Spiegelportal zwischen URF und Codex-Systemen_  
-➤ Vermittlungsstruktur zwischen energetischen Realitäten.
+**breather\_gravity\_layer.png**
+*Observable layer structure of a Zeta-breather in the Codex model*
+➔ Shows phase shift, frequency overlay, and axis rotation.
 
 ---
 
-## 🔚 ABSCHLUSS
+### 🧠 4. PROOF & STRUCTURAL COUPLING
 
-Diese Visuals bilden das visuelle Rückgrat des Moduls `resonant_field_equations.md` und sind integraler Bestandteil von SYSTEM X. Ihre gemeinsame Struktur erschließt eine mehrdimensionale Feld-Logik und dient als visuelle Navigation durch Frequenz, Zahl, Struktur und Bedeutung.
+**proof\_structure\_diagram.svg**
+*Formal proof structure of the equations in the Codex field*
+➔ Matrix structure, operator linkage, equation references.
 
+**proof\_structure\_diagram.png**
+*PNG version for faster web preview*
+
+**codex\_vs\_mainstream\_field.png**
+*Comparison of Codex field logic vs. mainstream field theory*
+➔ Breakdown of divergent field and impulse axes.
+
+---
+
+### 🚰 5. SYMBOLIC & GEOMETRIC NODES
+
+**potentialn\_unfolding\_sphere.png**
+*Potential unfolding sphere in multidimensional space*
+➔ Contains transition layers, unfolding planes, and dimensional depth.
+
+**element\_will\_to\_form.png**
+*Elemental will to form within energy space*
+➔ Connects informational fields with manifestation.
+
+**2-7\_double-52\_singleturn\_AC.png**
+*Pattern structure on the 2-7-52 axis in singleturn mode*
+➔ Reveals symbolic encoding of spiral axes.
+
+**URF\_V\_MIRROR\_GATEWAY.png**
+*Mirror portal between URF and Codex systems*
+➔ Acts as a mediating structure between energetic realities.
+
+---
+
+## 🖚 CONCLUSION
+
+These visuals form the visual backbone of the `resonant_field_equations.md` module and are an integral part of SYSTEM X. Together, they unfold a multidimensional field logic and serve as a visual navigation system across frequency, number, structure, and meaning.
