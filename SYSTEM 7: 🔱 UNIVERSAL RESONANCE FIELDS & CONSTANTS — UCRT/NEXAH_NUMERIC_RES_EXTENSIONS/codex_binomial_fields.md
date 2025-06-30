@@ -1,4 +1,4 @@
-# 📘 `codex_binomial_fields.md`
+# 📘 `codex_binomial_fields`
 
 ## Title
 
