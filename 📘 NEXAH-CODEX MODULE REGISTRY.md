@@ -88,21 +88,22 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🌟 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS – UCRT
 
-| Folder / File                              | Title                                  | Description                                                                                      |
-|-------------------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------|
-| `UCRT_CORE/`                              | Resonance Constants Core               | Harmonic structures of φ, τ, √2, √5 across resonance fields and universal equations.        |
-| `UCRT_ROOTROOM/`                          | Root Resonance Rooms                   | Quasi-periodic lattices with √2, √5, √7 — basis for modular numeric resonance fields.         |
-| `UCRT_HIGHER_DIMENSIONS/`                 | Higher Dimensions                      | 7D and 11D resonance systems, Hopf fibrations, octonionic fields, foundation for URE models.      |
-| `UCRT_SUPERPRIME_GENESIS/`                | Superprime Resonance                   | Resonance fields of superprimes and their mirror structures in URE coupling.                     |
-| `PRIME_TRINITY_GRID/`                     | Prime Trinity Grid                     | Green–Tao Theorem extension with prime spirals, snake chains & modular residue fields.           |
-| `UCRT_NUMBER_RES_FUSION/`                 | Numeric Resonance Fusion               | Euler products, Ramanujan series, Riemann zeta: visual fusion into new RH pathways.              |
-| `UCRT_PRIME_GENESIS/`                     | Prime Genesis Structures               | Origin framework for primes, mirror axes, and symbolic root points.                              |
-| `UCRT_TRINARY_CODE/`                      | Trinitary Number Code                  | Symbolic-mathematical coding of primes, operators, and field axes in ternary structure.          |
-| `UCRT_THEORETICAL_EXPANSIONS/`           | Theoretical Extensions (Theoria)       | Symbolic hypotheses, new axioms, and operator-based expansions for resonance numbers.            |
-| `UCRT_THE_UNIVERSAL_CONSTANTS_RESONANCE_THEORY/` | Universal Constants Resonance Theory | Constants as emergent harmonic operators within the System X–UCRT field framework.               |
-| **`NEXAH_NUMERIC_RES_EXTENSIONS/`**       | Numeric Resonance Extensions           | Visual & mathematical expansions on π, φ, e, √2, imaginary axes, spiral gates & constants grid. |
+| Folder / File                             | Title                                 | Description                                                                                           |
+|------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `UCRT_CORE/`                              | Resonance Constants Core              | Harmonic structures of φ, τ, √2, √5 across resonance fields and universal equations.                 |
+| `UCRT_ROOTROOM/`                          | Root Resonance Rooms                  | Quasiperiodic grids with √2, √5, √7 – foundation for modular number resonance fields.                |
+| `UCRT_HIGHER_DIMENSIONS/`                 | Higher Dimensions                     | 7D and 11D resonance structures, Hopf fibrations, octonionic fields – base for URE models.           |
+| `UCRT_SUPERPRIME_GENESIS/`                | Superprime Resonance                  | Resonance fields for superprimes and their mirror structures, linked to URE logic.                   |
+| `PRIME_TRINITY_GRID/`                     | Prime Trinity Grid                    | Green–Tao Theorem expansion with prime spirals, snake-chains & modular fields.                       |
+| `UCRT_NUMBER_RES_FUSION/`                 | Number Resonance Fusion               | Euler products, Ramanujan series, Riemann-Zeta: visual fusion into new RH trajectories.              |
+| `UCRT_PRIME_GENESIS/`                     | Prime Genesis Structures              | Origin system for prime numbers, mirror axes, symbolic source points.                               |
+| `UCRT_TRINARY_CODE/`                      | Trinitarian Number Code               | Symbolic-mathematical encoding of primes, operators, field axes in ternary logic.                    |
+| `UCRT_THEORETICAL_EXPANSIONS/`            | Theoretical Number Extensions         | Symbolic hypotheses, new axioms and operatoric extensions for resonance numbers.                     |
+| `UCRT_THE_UNIVERSAL_CONSTANTS_RESONANCE_THEORY/` | Universal Constants Resonance Theory | Theory on constants as emergent resonance formulas within the System X–UCRT framework.               |
+| **`NEXAH_NUMERIC_RES_EXTENSIONS/`**       | Numeric Resonance Extensions          | Visual & mathematical expansions on π, φ, e, √2, imaginary axes, spiral gates & constants grid.      |
 
 🔗 [→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
+
 
 ---
 
