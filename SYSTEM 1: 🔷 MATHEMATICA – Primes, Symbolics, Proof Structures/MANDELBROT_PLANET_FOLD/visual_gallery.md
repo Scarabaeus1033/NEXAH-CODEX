@@ -40,7 +40,7 @@ This gallery collects and explains the core visual components of the `MANDELBROT
 ## 🔭 Planetary Resonance Fields
 
 ### 6. **Z00m_to_Arrokoth_Q-Lens_Zone_Mandelbrot.png**
-![Zoom to Arrokoth](./visuals/Z00m_to_Arrokoth_Q-Lens_Zone_Mandelbrot.png)  
+![Zoom to Arrokoth](./visuals/Z00m_to_Arrokoth_Q-Lens%20Zone_Mandelbrot.png)  
 *Mathematical location of Arrokoth, Chiron, Pluto embedded into Mandelbrot set — symbolic convergence.*
 
 ---
