@@ -39,16 +39,16 @@ This gallery collects and explains the core visual components of the `MANDELBROT
 
 ## 🔭 Planetary Resonance Fields
 
-### 6. **Z00m_to_Arrokoth_Q-Lens Zone_Mandelbrot.png**
-![Zoom to Arrokoth](./visuals/Z00m_to_Arrokoth_Q-Lens Zone_Mandelbrot.png)
+### 6. **Z00m_to_Arrokoth_Q-Lens_Zone_Mandelbrot.png**
+![Zoom to Arrokoth](./visuals/Z00m_to_Arrokoth_Q-Lens_Zone_Mandelbrot.png)  
 *Mathematical location of Arrokoth, Chiron, Pluto embedded into Mandelbrot set — symbolic convergence.*
 
 ---
 
 ## 🔁 Morphology and Resonant Ideals
 
-### 7. **Resonante Körpermaße – Schönheitsideale über Zeit.png**
-![Body Ideal Evolution](./visuals/Resonante Körpermaße – Schönheitsideale über Zeit.png)
+### 7. **Resonante_Körpermaße_–_Schönheitsideale_über_Zeit.png**
+![Body Ideal Evolution](./visuals/Resonante_Körpermaße_%E2%80%93_Sch%C3%B6nheitsideale_%C3%BCber_Zeit.png)  
 *Resonant proportions of body ideals through time – from Venus of Willendorf to Kardashian curves.*
 
 ---
