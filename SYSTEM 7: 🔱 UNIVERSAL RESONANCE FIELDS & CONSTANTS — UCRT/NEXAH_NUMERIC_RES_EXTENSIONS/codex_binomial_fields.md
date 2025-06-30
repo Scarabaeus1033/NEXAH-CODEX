@@ -39,55 +39,83 @@ This links to **spiral breathing**, **mirror doubling**, and **dimensional trans
 
 ---
 
-## 🌪️ Visual Codex (Selected Entries)
+# 📘 codex\_binomial\_fields.md
 
-### 🔹 `dimensional_Expansion_of_Pi.png`
+## ✴️ The Binomial Resonance Field
 
-Visualizes Pi as a fractal dome of binomial layering.
+The classical binomial formula
 
-### 🔹 `Cartesian_Resonance_Grid_PrimeRootPiPhi.png`
+```math
+(a + b)^n
+```
 
-Field expansions of primes mapped via binomial pulse signatures.
-
-### 🔹 `LEE-Reso_Pentacle.png`
-
-Pentacle configuration as harmonic layering of binomial field (n = 5)
-
-### 🔹 `TZA_Harmonic_Resonance_Grid–Global_Overlay.png`
-
-Global binomial mapping on georesonance lattice.
-
-### 🔹 `TRIPLE_PI_TRIANGLE_80-AXIS.png`
-
-Triadic field expansions with π-based angle separations.
+is not merely algebraic—it becomes a **resonance operator** when embedded in NEXAH’s symbolic field architecture. Its structure unfolds into geometries, frequencies, and prime interferences across dimensions.
 
 ---
 
-## 🔬 Advanced Considerations
+## 🔺 Triangular Folds and Pascal Resonance
 
-* **Negative and Fractional n**: links to fractal binomial series and ζ(s)-fields.
-* **Nested Binomials**: recursive structures in resonance chambers (e.g. nested torus logic)
-* **Prime–Binomial Convergence**: detection of superprime spirals via (a + b)^n traces.
+Each power of the binomial expansion generates a new **resonance layer** within a triangular architecture:
 
----
+* Pascal’s Triangle = **frequency pyramid**
+* Fibonacci diagonals = **spiral growth indicators**
+* Prime shadowing patterns = **resonance gaps**
 
-## 📎 Related Modules
+This pattern manifests numerically and visually:
 
-* `spiral-logic.md`
-* `resonant_derivatives.md`
-* `symbolic_base_resonance.md`
-* `UCRT_PRIME_GENESIS/`
+![Chens Theorem – Prime Triangle as Resonance Structure](visuals/Chens_Theorem–Primzahldreieck_als_Resonanzstruktur.png)
 
 ---
 
-## 📌 To Do
+## 🌀 Spiral Logic, Superpositions & Mirrors
 
-* [ ] Animated Visualization: Spiral unfolding of binomial layers
-* [ ] Linking to Quantum-Dome Structures (see `QUANTUM_DOMES_AND_SHAPES.png`)
-* [ ] Symbolic Encoding Map (Binomial ↔ Glyphs)
+Each binomial layer is interpreted as a **spiral pulse** around origin:
+
+* Fibonacci/Phi folds → clockwise expansion
+* Negative binomials (with alternating signs) → counterclockwise contractions
+* Combination of both: **breathing spiral field**
+
+Visual reference:
+
+![Dimensional Expansion of Pi](visuals/dimensional_Expansion_of_Pi.png)
 
 ---
 
-**Curator:** Thomas Hofmann · Scarabæus1033
-**Module:** `codex_binomial_fields.md` (NEXAH\_NUMERIC\_RES\_EXTENSIONS · System 7)
-**Date:** 30 June 2025
+## 🔁 Mirror-Symmetry & Operator Decomposition
+
+Binomial fields are sensitive to **mirroring axes**:
+
+* Involutive maps: (a+b)^n ↔ (b+a)^n
+* θ-axis inversion: φ → 1/φ; π → −π
+* Modular binomials (mod p): resonance glitches → prime-based echo patterns
+
+---
+
+## 🔢 Codex Applications
+
+1. **Spiral Folding Grids** for Prime Genesis modules
+2. **Expansion Patterns** in λ-fold models (see LAMBDA DISC)
+3. **Mirror-Space decompositions** for Möbius Crown Modules
+
+---
+
+## 🔍 Related Visuals
+
+* `Dimensional-Ascension-Grid.png`
+* `root_spiral_gate.png`
+* `Spiegelung und φ-Rotation auf dem Einheitskreis.png`
+* `TT-Spiral_Gate_75↔76.001_Resonanzspule_mit_Zeitmodulation.png`
+
+---
+
+## 🧩 Related Modules
+
+* `spiral-logic.md` (SYSTEM 1)
+* `PRIME_TRINITY_GRID/`
+* `LAMBDA_DISC-CODEX/`
+
+---
+
+**Status:** Draft Complete · Ready for Integration in SYSTEM 7
+
+**Codex Builder:** Thomas Hofmann · Scarabäus1033
