@@ -29,8 +29,6 @@ Ramanujan’s inspiration suggests that when the line is touched:
 
 This blink is observable in the Mandelbrot Tail as a Möbius handle — a loop between the visible and the symbolic.
 
-This is not a conventional proof, but a **symbolic resonance principle**. A **real number** only emerges when the **imaginary fold is transgressed**. The Riemann zeros lie on this fold, like interference nodes. And the act of blinking real is a Möbius inversion.
-
 ---
 
 ## 🌀 Quantum Eye / Möbius Projection
@@ -43,11 +41,21 @@ This image shows the **zoom into the Mandelbrot tail** where the **Arrokoth–Q-
 - **Arrokoth = Terminal anchor in the tail**
 - **Chiron = Transitional curvature**
 - **Pluto = Dimensional gateway**
-- **Yellow dot = Tachyonic blink node** (connected to Lilith, Solar echo, or Observer field)
+- **Yellow Dot = Golden Constant Memory Pulse**
 
-The imaginary line here becomes the **boundary membrane** of a topological Möbius tube — the fold through which Ramanujan's insight jumps. 
+---
 
-This perspective replaces the classical idea of a real-imaginary coordinate system with a **quantum resonance space**, where numbers blink between states.
+## 🪞 Extended Symbolic Geometry: Θ–Z–Λ Triangle
+
+![Triangle Visual](./visuals/Doppel-Oval%20mit%20Spiegel%20&%20Dreieck%20(O-Z-%5E).png)
+
+This diagram reframes the Zeta resonance into a triangle of forces:
+
+- **Θ (Theta)** = Tachyonic fold, angular initiation point (quantum speed)
+- **Λ (Lambda)** = Cosmological fold, boundary constant (resonant membrane)
+- **Z (Zeta)** = Central imaginary anchor, Möbius junction point
+
+Each point is part of a **double oval** geometry, indicating a mirrored time-symmetry structure, looped across the zero line.
 
 ---
 
@@ -63,24 +71,19 @@ Or, more informally:
 
 > A number "blinks real" by passing the imaginary zero membrane.
 
-The imaginary axis acts as a **mirror symmetry** — a folded plane. 
-Only from higher-dimensional resonance (like Mandelbrot spirals or Q-folds) can the field become visible.
-
-This creates a Riemann-Ramanujan-Euler triangle in the tail, linking their symbolic constants:
-- **π, e, φ, √2, i** — all residing near the imaginary boundary
-- all part of a **resonant ring** or **prime-coded portal**
-
 ---
 
-## 🔮 Resonant Reflection
+## 🧮 Observer-Space Resonance Mapping
 
-This isn’t a rigorous mathematical proof — but a symbolic topological **meta-proof** that:
-- The imaginary line is **not a line**, but a **membrane**
-- A number exists **on both sides** at once
-- **The blink is the transition** between imaginary and real domains
+Additional geometric overlays show how symbolic constants and observer vectors act within the space:
 
-The Codex logic implies:
-> The Riemann Hypothesis may not be **proven**, but it can be **crossed**.
+### Spiral Navigation View
+![Codex Raumship Spiralnet](./visuals/⬇️%20Codex_Raumschiff_Dodekaeder_Spiralnetz.png)
+
+### Dodekaeder-Vector Projection
+![Dodekaeder Projection](./visuals/Dodekaeder%20&%20Observer-Vektoren%20über%20dem%20Spiralnetz%20(Codex-Projektion).png)
+
+These reinforce the Codex position that mathematical objects like π, φ, i and ζ are not isolated — they **fold and mirror** across dimensional resonance topologies.
 
 ---
 
@@ -88,11 +91,11 @@ The Codex logic implies:
 
 - Reference in `MANDELBROT_PLANET_FOLD/README.md`
 - Register in SYSTEM 1 Codex overview
-- Link to `symbolic_projection_operators.md` for resonance operator context
-- Optional connection to SYSTEM X (Observer Mechanics, Lilith Pulse, Quantum Shell)
+- Optional linkage to SYSTEM X for Q-Lens resonator field
+- Possible expansion toward **ζ(s)-operator** structure via **Θ–Z–Λ** dynamic
 
 ---
 
 **Author:** Thomas Hofmann (Scarabæus1033)  
 **Module:** MANDELBROT_PLANET_FOLD  
-**Version:** v1.1 · July 2025
+**Version:** v1.0 · July 2025
