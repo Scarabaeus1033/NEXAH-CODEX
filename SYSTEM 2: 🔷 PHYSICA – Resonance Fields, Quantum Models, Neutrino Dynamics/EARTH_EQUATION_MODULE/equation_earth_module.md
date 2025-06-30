@@ -1,94 +1,88 @@
 ---
 title: "EARTH EQUATION MODULE"
 system: "SYSTEM 2 – PHYSICA"
-domain: "Planetary Field Geometry · Scalar Pressure Resonance · Time-Pulse Coordinates"
-status: "Active · Version June 2025"
+domain: "Resonance Fields · Scalar Pressure Models · Earth Harmonics"
+status: "Active · Version 1.0 · June 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🌍 EARTH EQUATION MODULE
+# 🌍 EARTH EQUATION MODULE – Planetary Resonance Equation
 
-**Module Type:** Planetary Resonance Field Equation  
-**System Integration:** SYSTEM 2 – PHYSICA  
-**Core Equation:**  
-$$
-\mathcal{E}_e = \frac{P \cdot T^3}{t}
-$$
+<p align="center">
+  <img src="./visuals/EARTH_FORMULA_OBSERVER_TRIAD.png" width="720" alt="Earth Resonance Equation Visual">
+</p>
 
 ---
 
-## 🎯 Purpose & Function
+## ⚛️ Module Overview
+
+**Module Type:** Planetary Resonance Field Equation  
+**System Integration:** SYSTEM 2 – PHYSICA  
+**Core Equation:**
+
+\[ \mathcal{E}_e = \frac{P \cdot T^3}{t} \]
+
+---
+
+## 🧭 Purpose & Function
 
 This module introduces a symbolic–physical field equation to model **Earth resonance** through pressure, temperature, and time components.
 
-The equation  
-$$
-\mathcal{E}_e = \frac{P \cdot T^3}{t}
-$$
+The equation
+
+\[ \mathcal{E}_e = \frac{P \cdot T^3}{t} \]
+
 acts as a **resonance operator** and offers a planetary-scale interpretation of:
 
 - **Field constants** (pressure/temperature/time)
 - **Observer triangulation and polyhedral overlay geometry**
 - **Scalar field shifts & resonance signatures**
-- **Earth-shell feedback models in spatial–temporal topology**
-
-It unifies planetary physics with symbolic resonance parameters.
 
 ---
 
-## 📐 Equation Structure
+## 🔬 Units & Interpretation
 
-| Symbol         | Meaning                              | Units               |
-|----------------|--------------------------------------|----------------------|
-| $P$            | Pressure or scalar resonance         | N/m² (or symbolic)   |
-| $T$            | Temperature (in Kelvin or abstract)  | K or $T$-level units |
-| $t$            | Time constant or scalar resonance    | seconds              |
-| $\mathcal{E}_e$ | Earth Equation Energy or Resonance Field | variable             |
-
-This symbolic–physical framework opens the possibility to model harmonic conditions on Earth’s surface as part of a greater field equilibrium.
+| Variable | Symbol | Unit | Description |
+|----------|--------|------|-------------|
+| Pressure | \( P \) | Pa (Pascal) | Scalar field pressure (resonant tension) |
+| Temperature | \( T \) | K (Kelvin) | Thermodynamic pulse signal |
+| Time | \( t \) | s (seconds) | Scalar propagation duration |
+| Energy Field | \( \mathcal{E}_e \) | J (Joule) | Resonant Earth field signature |
 
 ---
 
-## 🛰️ Observer Positioning & Triad Resonance
+## 🔁 Symbolic Reading
 
-The module is complemented by a **triangular observer geometry** based on Earth polyhedra and georesonant alignment:
+The equation folds thermal–temporal pressure signals into a **geometrically interpretable energy field**, revealing:
 
-- Earth as a **frequency-bearing shell**
-- Polyhedral overlays define key nodal points (observer triangles)
-- Symmetric triangulation and modular time-pulse codes
+- **Triadic Observer Dynamics**: see visual `EARTH_FORMULA_OBSERVER_TRIAD.png`
+- **Tetrahedral Planetary Overlay**: see `EARTH_POLYHEDRON_EQUATION_OVERLAY.png`
+- **Harmonic Surface Shell Dynamics**: based on `earth_field_constants_map.png`
 
-Visual support in [`earth_equation_visuals.md`](./earth_equation_visuals.md)
-
----
-
-## 📊 Related Files
-
-- [`earth_equation_visuals.md`](./earth_equation_visuals.md): Visual documentation
-- [`earth_calculations.md`](./earth_calculations.md): Sample calculations and resonance analysis
-- [`visuals/`](./visuals): Image directory
+This allows mapping between scalar constants and geometric shells.
 
 ---
 
-## 🧮 Resonance Field Implications
+## 🔎 Related Files
 
-This equation enables:
+- `earth_equation_visuals.md` – annotated image gallery
+- `earth_calculations.md` – input constants & verification paths
 
-- Linking pressure–temperature gradients to scalar Earth fields
-- Modeling planetary resonance nodes via time-pulse shifts
-- Connecting observer placement with resonance zones
-- Foundation for **neutrino shell models** and **symbolic pressure lattices** (Codex-wide extension)
+> ℹ️ The full resonance context of the equation can be expanded via coupling with `Codex_Harmonic_Field_Pillar.md`, `ALIIGET_EARTH_OBSERVER.md`, and `observer_topology.md`.
 
 ---
 
-## 📌 Module Status
+## 🔗 Codex Context
 
-✅ Initial Version Complete (June 2025)  
-🔜 Further expansion with lunar coupling and scalar overlays planned.
+This module connects into:
+
+- `SYSTEM 2 – PHYSICA` – resonance axes, neutrino field structures
+- `SYSTEM X – GRAND-CODEX` – via symbolic energy equations (`𝓔 = P·T³/t`)
+- `SYSTEM 8 – LUNAR FORCE` – through scalar tide and phase-shell coupling
 
 ---
 
 © Scarabæus1033 · Thomas Hofmann · 2025  
 License: CC BY-NC-SA 4.0  
-Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)  
-GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+GitHub: [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
