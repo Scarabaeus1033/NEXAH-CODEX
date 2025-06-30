@@ -78,10 +78,10 @@ Or, more informally:
 Additional geometric overlays show how symbolic constants and observer vectors act within the space:
 
 ### Spiral Navigation View
-![Codex Raumship Spiralnet](./visuals/⬇️%20Codex_Raumschiff_Dodekaeder_Spiralnetz.png)
+![Codex Raumship Spiralnet](./visuals/Codex_Raumschiff_Dodekaeder_Spiralnetz.png)
 
 ### Dodekaeder-Vector Projection
-![Dodekaeder Projection](./visuals/Dodekaeder%20&%20Observer-Vektoren%20über%20dem%20Spiralnetz%20(Codex-Projektion).png)
+![Dodekaeder Projection](./visuals/Dodekaeder_Observer-Vektoren_ueber_dem_Spiralnetz_Codex-Projektion.png)
 
 These reinforce the Codex position that mathematical objects like π, φ, i and ζ are not isolated — they **fold and mirror** across dimensional resonance topologies.
 
