@@ -67,7 +67,7 @@ This logic aligns with our Riemann–Ramanujan–Euler Blink Concept:
 
 ## 🖼 Spiral Field with π-Axis Overlay
 
-![SCX Spiral + π Axis](../visuals/SCX-System–Spiralbewegung_mit_π-Achse_World-Peace-Achse_und_GIZA-Zentrum.png)
+![SCX Spiral + π Axis](../visuals/SCX-System–Spiralbewegung_mit_pi-Achse_World-Peace-Achse_und_GIZA-Zentrum.png)
 
 *A combined visual: Spiral logic with π-Axis cutting across phase nodes. GIZA serves as anchor. Each red segment marks a portal potential.*
 
