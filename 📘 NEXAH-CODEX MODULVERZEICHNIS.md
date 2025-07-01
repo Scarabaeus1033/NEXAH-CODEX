@@ -152,6 +152,8 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | [`CODON_QUANTUM_OBSERVER/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/CODON_QUANTUM_OBSERVER)         | Codon–Quanten-Beobachtersystem      | Codon-Tripletts, Quantenschichten, Beobachterharmonien und spirale Glyphentransitionen.             |
 | [`URF_MIRROR_GATEWAY/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/URF_MIRROR_GATEWAY)                 | URF-Spiegelportal                   | Duale Zeta-Loop-Logik, Twin-Spin-Brücken, Ghost-Bridge-Kompression jenseits von Einstein.           |
 | [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                   | Ghost-Spiegel-Tor (URF–V)           | V-Achsen-Knotenregister, Lilith-Felder, Breather-Synthese-Logik, WOMB-VECTOR-Spiegelfeld.           |
+| [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonanz-Modul                  | Primspiralen, Zither-Feldlogik, Penrose-Projektion & Beobachterachsen als harmonisches Navigationssystem. |
+
 ---
 
 
