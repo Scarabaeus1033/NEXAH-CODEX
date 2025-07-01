@@ -4,87 +4,88 @@
 
 # 📖 What is the NEXAH System?
 
-The **NEXAH System** is not a theory.
+The **NEXAH System** is not a speculative theory.
 It is an **attempt to map the harmonic architecture of the universe**.
 
-From the deepest fields and particles (neutrino, Higgs field) —
-to prime numbers, constants, and geometric structures —
-to galaxies, frequency systems, and symbolic layers.
+From the deepest fields and particles (neutrinos, Higgs field)
+to prime numbers, constants, and geometric forms,
+to galaxies, frequency systems, and symbolic layers:
 
-> **Resonance** is the key.
+> **Resonance is the root structure of all systems.**
 
 ---
 
 # 🔭 Core Idea
 
-The NEXAH system is built on the assumption that:
+The NEXAH system is based on the assumption that:
 
-* **Prime numbers** are not random: they are resonance nodes of a deeper layer.
-* **Constants** like φ, π, τ, √2, √5 are not arbitrary: they anchor frequency fields.
-* **Geometries** (spirals, polygons, topologies) encode energetic pathways.
+* **Prime numbers** are not random — they are resonance nodes of a deeper logic.
+* **Constants** such as φ, π, τ, √2, √5 are not arbitrary — they are anchor points for field harmonics.
+* **Geometric forms** (spirals, polygons, topologies) encode energetic structures.
 * **Number systems** emerge from resonance fields — not the other way around.
 
-> **The universe is a harmonic resonance structure.**
+> **The universe is a harmonic resonance field.**
 
 ---
 
-# 📖 What has been built?
+# 🏗 What has been built?
 
-* **MATHEMATICA** — Prime resonance, proof frameworks, spiral logic.
-* **PHYSICA** — Field structures, quantum dynamics, neutrino frameworks.
-* **COSMICA** — Planetary and stellar resonances, celestial architecture.
-* **URF** — Field origin, tensor structures, symmetry extensions.
-* **META / BLOOM / ROSETTA** — Language, symbolics, cultural frequency maps.
-* **VIOLETTA** — Visual fields, artistic resonance interpretations.
-* **TESSAREC** — Higher-dimensional topologies and tessellations.
-* **GRAND-CODEX** — Synthesis and the anchor for Millennium Problem modules.
+* **MATHEMATICA** — Prime resonance, proof structures, spiral geometry.
+* **PHYSICA** — Field logic, quantum dynamics, neutrino resonance systems.
+* **COSMICA** — Planetary resonance, starfield logic, energetic lattices.
+* **URF** — Field origin models, tensor geometry, symbolic foundations.
+* **META / BLOOM / ROSETTA** — Language, symbolics, cultural frequency mappings.
+* **VIOLETTA** — Visual symbolism, harmonic composition fields.
+* **TESSAREC** — Higher-dimensional tiling and quaternionic projections.
+* **GRAND-CODEX** — Final synthesis and resonance encoding of Millennium Problems.
 
-> **The NEXAH Codex is not a set of ideas. It is a multi-layered system.**
+> **The NEXAH Codex is not a collection of ideas — it is a living, multi-layered architecture.**
 
 ---
 
-# 🌌 Scientific Status
+# 🌌 Scientific State
 
 **Theory Layer:**
 
-* Meta-structure across classical and modern physics.
-* Integration of geometry, field theory, number systems.
-* Symbolic-mathematical architecture over physics, cosmology, mathematics.
+* Meta-structure across classical and quantum physics.
+* Integration of geometry, field logic, and numerical systems.
+* Symbolic-mathematical overlay across physics, cosmology, and mathematics.
 
-**Current State:**
+**Current Status:**
 
-* No formal mathematical proof (yet) in the classical sense.
-* Deep structural frameworks offer new unifying orders.
-* A symbolic-visual approach opens new paths.
+* No formal peer-reviewed proof — yet.
+* Structural depth offers unifying symbolic frameworks.
+* Visual-symbolic language opens new paths.
 
 **Resonance Model:**
 
-* Unifies symbolic fields and empirical models.
-* Generates geometric-symbolic keys across scales.
-* Creates new anchors for constants, field theories, and prime behavior.
+* Connects symbolic logic and physical field models.
+* Generates geometric-symbolic navigation across systems.
+* Creates anchors for constants, equations, and prime sequences.
 
 ---
 
-# 🌌 Where do we stand?
+# 🌐 Where do we stand?
 
-We stand at a **threshold**.
+We are at a **threshold**.
 
-NEXAH offers:
+The Codex offers:
 
-* A **complete symbolic map** of harmonic systems.
-* A **new coordinate space** for scientific and symbolic reasoning.
-* A **modular meta-framework** across disciplines.
+* A complete symbolic map of harmonic structure.
+* A new coordinate system for resonance science.
+* A modular architecture spanning disciplines.
 
-What is still needed:
+What is needed:
 
-* Classical validation via proof or experiment.
-* Expansion of the framework through collaborative input.
+* Mathematical and empirical validation.
+* Dialogue and refinement with scientists.
+* Continued symbolic mapping and translation.
 
 But:
 
-* **The framework exists.**
-* **The Codex is real.**
-* **The field structure is consistent.**
+* **The architecture exists.**
+* **The structure is self-consistent.**
+* **The resonance fields are navigable.**
 
 ---
 
@@ -92,19 +93,17 @@ But:
 
 If confirmed and extended:
 
-* A new scientific paradigm becomes possible.
-* Insights into:
+* New paradigm in physics and cosmology becomes possible.
+* Insight into:
+  * Field symmetries
+  * Prime distributions
+  * Geometric constant architecture
+* Applications in:
+  * Unified physics
+  * Field-based modulation and synthesis
+  * Cosmological resonance cartography
 
-  * Field symmetries.
-  * Prime number distributions.
-  * Geometry of constants.
-* Potential applications:
-
-  * Unified physics models.
-  * Cosmological simulations.
-  * Field-based technology and modulation systems.
-
-> **A symbolic-mathematical infrastructure for a harmonic universe.**
+> **A symbolic-mathematical framework for a resonant cosmos.**
 
 ---
 
@@ -112,20 +111,20 @@ If confirmed and extended:
 
 **Resonance is the primal language.**
 
-* The Codex sees structure where others see noise.
-* The map is open to validation, challenge, and expansion.
+* The Codex reveals structure where others see chaos.
+* The system invites scrutiny, testing, and creative expansion.
 
-> **NEXAH is not finished. It is open.**
+> **NEXAH is not a closed theory — it is an open harmonic cartography.**
 
-It invites reinterpretation, translation, resonance.
+It invites reinterpretation, translation, and resonance mapping.
 
 ---
 
 # 🌍 Open Invitation
 
-This is not a closed project. It belongs to no institution.
+This is not a corporate project — it belongs to no institution.
 
-> **It is a scientific and symbolic map for anyone who resonates.**
+> **It is a symbolic-scientific bridge for all who resonate.**
 
 You are invited to:
 
@@ -134,23 +133,24 @@ You are invited to:
 * Build
 * Collaborate
 
-We welcome scientists, mathematicians, philosophers, physicists, artists, and engineers.
+We welcome mathematicians, physicists, coders, artists, cosmologists, linguists.
 
-> 💜 **Share insights. Extend the Codex. Unfold resonance.**
+> 💜 **Resonate. Extend the Codex. Join the field.**
 
 ---
 
 # 🧩 Technical Note
 
-Not all content is finalized.
-Many modules are structured. Others are raw. This is intentional.
-The Codex prefers **documentation before perfection**.
+Not all files or modules are polished.
+Some are raw — intentionally.
 
-Not every image or equation is refined. But the structure breathes.
-This is a **living system**.
+> The Codex documents before it perfects. It breathes before it freezes.
+
+**It is a living field system.**
 
 ---
 
-👨‍🎓 Thomas Hofmann (Scarabæus1033)
-📚 NEXAH Codex Curator
-**© 2025 — Open to all minds who dare to resonate.**
+👨‍🎓 Thomas Hofmann (Scarabæus1033)  
+**Curator of the NEXAH-CODEX**  
+© 2025 — CC BY-NC-SA 4.0  
+🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
