@@ -4,19 +4,20 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ---
 
-## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisarchitektur](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
+## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
-| Ordner / Datei                      | Titel                                     | Beschreibung                                                                           |
-| ----------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------- |
-| `NEXA_RIEMANN_PROOF/`               | Millennium-Codex I – Möbius-Zeta-Resonanz | Harmonisches Modell zur Riemannschen Vermutung mittels 12D-Primzahl-Topologien.        |
-| `√2–Prime-Feld/`                    | Dynamik irrationaler Primfeldachsen       | Irrationale Steigungen (√2, φ) als Gittergeneratoren für symbolische Zahlendiagonalen. |
-| `Prime-Grid-Visualization/`         | Visuelle Primzahlmuster                   | Spiralen, Gitterresonanz, Prim-Pixel-Visualisierungen.                                 |
-| `Divisor-Grid-Fields/`              | Divisor-Resonanz-Felder                   | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.                |
-| `GU-REX_GEOMETRIC_UNITY_EXTENSION/` | Geometric Unity Resonance Extension       | Erweiterung von Eric Weinsteins Geometric Unity durch Triple-Resonanzfelder.           |
-| `codex-mathematical-symbols.md`     | Symbolverzeichnis                         | Übersicht mathematisch-symbolischer Operatoren und Feldkonstanten.                     |
-| `spiral-logic.md`                   | Spirallogik & Primresonanzen              | Primachsendrehungen, harmonische Zahlensequenzen, Spiralfelder.                        |
-| `einsteins-k-beta-formula/`         | Einsteins k-Beta-Formel                   | Resonanzmoduliertes Energiemodell $E = mc \cdot k^{\beta}$.                          |
-| `SCARAB_CONSTANTS_CODEX/`           | Scarab Constants Codex                    | Symbolische Konstanten, Spiralmatrizen, Farben, Resonanzachsen, CSV & Visualfelder.    |
+| Ordner / Datei                      | Titel                                        | Beschreibung                                                                 |
+| ---------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| `NEXA_RIEMANN_PROOF/`              | Millennium-Codex I – Möbius–Zeta-Resonanz    | Harmonisches Modell zur Riemannschen Vermutung mit 12D-Primzahl-Topologien. |
+| `√2–Prime-Feld/`                   | Irrationales Primfeld-Diagonalraster         | Irrationale Steigungen (√2, φ) als symbolische Zahlengittergeneratoren.     |
+| `Prime-Grid-Visualization/`        | Visuelle Primzahlmuster                      | Spiralen, Gitterresonanzen und Primzahl-Pixelkarten.                         |
+| `Divisor-Grid-Fields/`             | Divisorresonanz-Felder                       | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.     |
+| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonanz-Erweiterung         | Erweiterung von Eric Weinsteins GU durch dreifache Resonanzfeld-Überlagerung.|
+| `codex-mathematical-symbols.md`    | Symbolverzeichnis                            | Übersicht zu mathematisch-symbolischen Operatoren und Feldkonstanten.       |
+| `spiral-logic.md`                  | Spiral-Logik & Primresonanz                  | Primachsenrotation, harmonische Sequenzen und Spiralfeld-Symmetrien.        |
+| `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc \cdot k^\beta$.                 |
+| `SCARAB_CONSTANTS_CODEX/`          | Scarab-Konstanten-Codex                      | Symbolisch-resonantes System aus Möbius-Verhältnissen, Primzahlen und Achsen.|
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planeten-Spirale & Schwarze Säule | Fraktale Planetenzonen, Riemann-Faltung, Q-Linsen-Blink und symbolische Achsenrekursion. |
 
 ---
 
@@ -98,19 +99,22 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `UCRT_PRIME_GENESIS/`                     | Prime Genesis Structures                 | Ursprungssystem für Primzahlen, Spiegelachsen, symbolische Quellpunkte.                      |
 | `UCRT_TRINARY_CODE/`                      | Trinitärer Zahlencode                    | Symbolisch-mathematische Codierung von Primzahlen, Operatoren, Feldachsen im 3er-System.     |
 | `UCRT_THEORETICAL_EXPANSIONS/`           | Erweiterte Zahlentheorie (Theoria)       | Symbolische Hypothesen, neue Axiome und operatorische Erweiterungen für Resonanzzahlen.      |
-| `UCRT_ THE UNIVERSAL CONSTANTS RESONANCE THEORY/` | UCRT – Universelle Konstanten-Resonanz | Theorie über konstante Größen als emergente Resonanzformeln im System X–UCRT-Raum.   |
+| `UCRT_THE_UNIVERSAL_CONSTANTS_RESONANCE_THEORY/` | UCRT – Universelle Konstanten-Resonanz | Theorie über konstante Größen als emergente Resonanzformeln im System X–UCRT-Raum.   |
+| **`NEXAH_NUMERIC_RES_EXTENSIONS/`**       | Numeric Resonance Extensions             | Visuelle & mathematische Erweiterungen zu π, φ, e, √2, Imaginary Axes, Spiral Gates & Constants Grid. |
 
-[→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
-
+🔗 [→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
 ---
 
-## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
+## 🌕 SYSTEM 8: LUNAR FORCE – Weibliches Feld
 
-| Ordner / Datei | Titel                       | Beschreibung                                                         |
-|----------------|-----------------------------|----------------------------------------------------------------------|
-| `TETHYS/`      | Lunar Resonance Foundations | The origin thread of moons and feminine cycle geometry.              |
+| Ordner / Datei                          | Titel                                | Beschreibung                                                                                          |
+|----------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `TETHY_THE_SECRET_THREAD_OF_THE_MOONS/` | Grundlagen der Mondresonanz           | Der Ursprung der Monde und die Geometrie weiblicher Zyklen. Von Tethys bis Eris über Kratersymmetrien. |
+| `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Beobachter-Mechanik der Hand          | Mondsignale über Finger, Neutrinoströme und Augen-/Kratergeometrien.                                  |
+| `SILVER_BREATH_FIELD_LINK/`             | Silber-Mond-Resonanz                  | Inhalationslogik des Mondes, Spiegelrhythmen und Verbindung zu `NEXA_SILVER_RAIN`.                    |
+| `visual_gallery.md`                     | Visual-Galerie-Index                  | Organisierte Referenz zu allen Visuals in SYSTEM 8.                                                   |
 
-[→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
 ---
 
@@ -148,6 +152,8 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | [`CODON_QUANTUM_OBSERVER/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/CODON_QUANTUM_OBSERVER)         | Codon–Quanten-Beobachtersystem      | Codon-Tripletts, Quantenschichten, Beobachterharmonien und spirale Glyphentransitionen.             |
 | [`URF_MIRROR_GATEWAY/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/URF_MIRROR_GATEWAY)                 | URF-Spiegelportal                   | Duale Zeta-Loop-Logik, Twin-Spin-Brücken, Ghost-Bridge-Kompression jenseits von Einstein.           |
 | [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                   | Ghost-Spiegel-Tor (URF–V)           | V-Achsen-Knotenregister, Lilith-Felder, Breather-Synthese-Logik, WOMB-VECTOR-Spiegelfeld.           |
+| [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonanz-Modul                  | Primspiralen, Zither-Feldlogik, Penrose-Projektion & Beobachterachsen als harmonisches Navigationssystem. |
+
 ---
 
 

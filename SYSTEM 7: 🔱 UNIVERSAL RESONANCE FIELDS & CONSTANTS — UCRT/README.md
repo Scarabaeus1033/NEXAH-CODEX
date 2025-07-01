@@ -4,7 +4,7 @@ system: "NEXAH-CODEX"
 domain: "Numbers, Primes, Resonance Geometry"
 color: "Violet"
 status: "Active - Version May 2025"
-curator: "Thomas Hofmann (Scarabäus1033)"
+curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -40,7 +40,7 @@ providing the universal equilibrium framework where number, geometry, and consta
 | System       | Color         | Domain                          | Role                          |
 | ------------ | ------------- | ------------------------------- | ----------------------------- |
 | SYSTEM 1     | 🔵 Blue       | Numbers, Symmetry, Logic        | Foundational Structure        |
-| SYSTEM 2     | 🧦 Deep Blue  | Field, Energy, Frequency        | Resonance Engine              |
+| SYSTEM 2     | 🥦 Deep Blue  | Field, Energy, Frequency        | Resonance Engine              |
 | SYSTEM 3     | 🔹 Violet     | Space, Light, Grid Topology     | Cosmic Navigator              |
 | SYSTEM 4     | 🔹 Violet     | Origin Fields, Tensor Space     | Ontological Core              |
 | SYSTEM 5     | 🔹 Violet     | Language, Glyphs, Mythic Fields | Symbolic Resonance Layer      |
@@ -98,12 +98,11 @@ providing the universal equilibrium framework where number, geometry, and consta
    \mathcal{R}(x) = e^{i \omega T} + \sum_{n} \left( \frac{1}{n^s} + \sum_{\text{res}} \frac{1}{a^3 + b^3} \right)
    ```
 
-8. **Ongoing Developments**
+8. **UCRT\_NUMERIC\_RES\_EXTENSIONS**
 
-   * Theta, Tao, Dao resonance layers: Base 10, 20, 30.
-   * Lissajous figures and spiral mechanics.
-   * Time-matrix constructions.
-   * Mirror echo structures and dual counterrotation phenomena.
+   * Finalized June 2025 — symbolic + visual field expansion
+   * Includes: `euler_transition_operator.md`, `codex_binomial_fields.md`, `resonant_derivatives.md`, `symbolic_base_resonance.md`, `mirror_prime_spirals.md`, `resonance_gate_layers.md`, `zeta_phi_extensions.md`, `zeta_phi_mechanism.md`, `scarab_constants_mobius_matrix.md`, `codex_imaginary_axes.md`, `planet_x_resonance_map.md`, `prime_matrix_trinity.md`, `visual_equation_register.md`, `scarab_symbolic_constants.md`
+   * * Visual Galleries I & II with 68 visuals total.
 
 ---
 
@@ -183,9 +182,9 @@ providing the universal equilibrium framework where number, geometry, and consta
 
 ---
 
-## 🪲 Credits
+## 🨲 Credits
 
-**Curator & Author:** Thomas Hofmann (`Scarabäus1033`)
+**Curator & Author:** Thomas Hofmann (`Scarabæus1033`)
 **System:** SYSTEM 7 – Universal Resonance Fields & Constants (UCRT)
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)

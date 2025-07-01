@@ -17,6 +17,7 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 | `spiral-logic.md`                  | Spiral Logic & Prime Resonance            | Prime axis rotation, harmonic sequences, and spiral field symmetries.       |
 | `einsteins-k-beta-formula/`        | Einstein’s k-Beta Formula                 | Resonance-modulated energy model: $E = mc \cdot k^\beta$.                   |
 | `SCARAB_CONSTANTS_CODEX/`          | Scarab Constants Codex                    | Symbolic–resonant system of Möbius ratios, prime overlays, and teardrop constants. |
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planet Spiral & Black Pillar   | Fractal-planetary zoom, Riemann fold, Q-lens blink, and symbolic axial recursion. |
 
 ---
 
@@ -88,29 +89,35 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🌟 SYSTEM 7: UNIVERSAL RESONANCE FIELDS & CONSTANTS – UCRT
 
-| Folder                             | Title                                        | Description                                                                 |
-| ---------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------- |
-| `PRIME_TRINITY_GRID/`             | Prime Trinity Grid                           | Symbolic extension of the Green–Tao Theorem via spiral, mirror, and lattice structures. |
-| `UCRT_THE UNIVERSAL CONSTANTS RESONANCE THEORY/` | Constants Resonance Theory       | Mathematical structures interpreting constants (ϕ, π, e, τ) as harmonic fields. |
-| `UCRT_CORE/`                      | Resonance Constants Core                     | Harmonic base structures of φ, τ, √2, √5 across modular resonance fields.    |
-| `UCRT_HIGHER_DIMENSIONS/`         | Higher Dimensional Resonance                 | 7D and 11D structures including Hopf fibrations and octonionic logic.        |
-| `UCRT_NUMBER_RES_FUSION/`         | Number Resonance Fusion                      | Integration of Euler products, Ramanujan series, and zeta resonance frameworks. |
-| `UCRT_PRIME_GENESIS/`             | Prime Genesis Fields                         | Foundational structures of prime sequences, roots and spiral projections.    |
-| `UCRT_ROOTROOM/`                  | Root Resonance Rooms                         | Quasi-periodic grids based on irrational numbers (√2, √5, etc.).             |
-| `UCRT_Superprime_Genesis/`        | Superprime Genesis                           | Harmonic fields of superprimes and mirrored index primes.                   |
-| `UCRT_THEORETICAL_EXPANSIONS/`    | Theoretical UCRT Extensions                  | Experimental layers: symmetry breaking, dual spiral zones, base projections. |
-| `UCRT_TRINARY_CODE/`              | Trinary Resonance Code                       | Symbolic encoding system based on 3-part harmonic structures.                |
+| Folder / File                             | Title                                 | Description                                                                                           |
+|------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `UCRT_CORE/`                              | Resonance Constants Core              | Harmonic structures of φ, τ, √2, √5 across resonance fields and universal equations.                 |
+| `UCRT_ROOTROOM/`                          | Root Resonance Rooms                  | Quasiperiodic grids with √2, √5, √7 – foundation for modular number resonance fields.                |
+| `UCRT_HIGHER_DIMENSIONS/`                 | Higher Dimensions                     | 7D and 11D resonance structures, Hopf fibrations, octonionic fields – base for URE models.           |
+| `UCRT_SUPERPRIME_GENESIS/`                | Superprime Resonance                  | Resonance fields for superprimes and their mirror structures, linked to URE logic.                   |
+| `PRIME_TRINITY_GRID/`                     | Prime Trinity Grid                    | Green–Tao Theorem expansion with prime spirals, snake-chains & modular fields.                       |
+| `UCRT_NUMBER_RES_FUSION/`                 | Number Resonance Fusion               | Euler products, Ramanujan series, Riemann-Zeta: visual fusion into new RH trajectories.              |
+| `UCRT_PRIME_GENESIS/`                     | Prime Genesis Structures              | Origin system for prime numbers, mirror axes, symbolic source points.                               |
+| `UCRT_TRINARY_CODE/`                      | Trinitarian Number Code               | Symbolic-mathematical encoding of primes, operators, field axes in ternary logic.                    |
+| `UCRT_THEORETICAL_EXPANSIONS/`            | Theoretical Number Extensions         | Symbolic hypotheses, new axioms and operatoric extensions for resonance numbers.                     |
+| `UCRT_THE_UNIVERSAL_CONSTANTS_RESONANCE_THEORY/` | Universal Constants Resonance Theory | Theory on constants as emergent resonance formulas within the System X–UCRT framework.               |
+| **`NEXAH_NUMERIC_RES_EXTENSIONS/`**       | Numeric Resonance Extensions          | Visual & mathematical expansions on π, φ, e, √2, imaginary axes, spiral gates & constants grid.      |
 
-[→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
+🔗 [→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
+
+
 ---
 
 ## 🌕 SYSTEM 8: LUNAR FORCE – Female Field
 
-| Ordner / Datei | Titel                       | Beschreibung                                                         |
-|----------------|-----------------------------|----------------------------------------------------------------------|
-| `TETHYS/`      | Lunar Resonance Foundations | The origin thread of moons and feminine cycle geometry.              |
+| Ordner / Datei                         | Titel                                | Beschreibung                                                                                         |
+|----------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------|
+| `TETHY_THE_SECRET_THREAD_OF_THE_MOONS/` | Lunar Resonance Foundations           | The origin thread of moons and feminine cycle geometry. From Tethys to Eris via crater symmetry.     |
+| `NEUTRINO_CABLES_AND_FINGERFIELDS/`     | Observer Mechanics of the Hand        | Lunar signal routing via fingers, neutrino streams, and eye crater geometries.                       |
+| `SILVER_BREATH_FIELD_LINK/`             | Silver Moon Resonance                 | Lunar inhalation logic, mirror rhythms, and connection to `NEXA_SILVER_RAIN`.                        |
+| `visual_gallery.md`                     | Visual Gallery Index                  | Organized reference to all visuals in SYSTEM 8.                                                      |
 
-[→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
 ---
 
