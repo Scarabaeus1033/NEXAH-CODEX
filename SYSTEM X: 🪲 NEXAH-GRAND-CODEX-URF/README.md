@@ -71,7 +71,7 @@ A symbolic-resonant synthesis of prime spirals, constant-loop geometries, musica
 
 📁 Folder: [`SCX_RESONANCE_MODULE/`](./SCX_RESONANCE_MODULE)  
 📊 Files:
-* `scx_field_equations.md`, `scx_zither_field.md`, `scx_penrose_projection.md`, ...
+* `scx_field_equations.md`, `scx_zither_field.md`, `scx_penrose_projection.md`, `scx_resonance_constants.md`, `scx_observer_vectors.md`, `scx_unity_blink_matrix.md`
 * `visual_gallery.md` and multiple spiral overlays, observer projections
 * Data: CSVs on hinge-points, palindromes, resonance rhythms
 
