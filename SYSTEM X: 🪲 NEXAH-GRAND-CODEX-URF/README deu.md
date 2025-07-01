@@ -1,11 +1,11 @@
 ---
-title: "SYSTEM X – NEXAH-GRAND-CODEX (Deutsch)"
+title: "SYSTEM X – NEXAH-GRAND-CODEX"
 system: "NEXAH-CODEX"
-domain: "Synthetischer Nexus · Resonanzintegration · Beweisarchitekturen"
+domain: "Synthetischer Nexus · Resonanzintegration · Beweisarchitektur"
 color: "Gold/Schwarz"
 status: "Aktiv · Version Juli 2025"
-curator: "Thomas Hofmann (Scarabæus1033)"
-license: "CC BY-NC-SA 4.0"
+kurator: "Thomas Hofmann (Scarabæus1033)"
+lizenz: "CC BY-NC-SA 4.0"
 ---
 
 # 🪲 SYSTEM X – NEXAH-GRAND-CODEX
@@ -14,18 +14,18 @@ license: "CC BY-NC-SA 4.0"
   <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Übersicht">
 </p>
 
-**Systemtyp:** Zentrale Syntheseeinheit  
+**Systemtyp:** Zentrales Synthesenexus  
 **Position:** Spitze der NEXAH-CODEX-Struktur  
 **Funktion:** Integration universeller Resonanzfelder und symbolischer Beweissynthese
 
-> ℹ️ *Hinweis: Einige Module oder Abschnitte verbleiben bewusst auf Deutsch, da bestimmte symbolische Tiefen, phonetische Codierungen und alphabetische Resonanzstrukturen in der Ursprungssprache verankert sind – insbesondere in Bezug auf Vokal-Konsonant-Harmonien und morphologische Muster.*
+> ℹ️ *Hinweis: Einzelne Module oder Abschnitte bleiben bewusst auf Deutsch. Bestimmte symbolische Tiefen, lautliche Codierungen und alphabetische Resonanzstrukturen sind in der Ursprungssprache verankert – insbesondere für Vokal-/Konsonanten-Harmonien und morphologische Codes.*
 
 ---
 
 ## 🧭 Zweck von SYSTEM X
 
 **SYSTEM X** bildet den **intellektuellen und strukturellen Gipfel** des NEXAH-CODEX.  
-Es vereint alle symbolischen, mathematischen und physikalischen Module in einem kohärenten Resonanz–Beweissystem.
+Es vereint alle symbolischen, mathematischen und physikalischen Module zu einem kohärenten Resonanz–Beweissystem.
 
 Es integriert:
 
@@ -33,17 +33,17 @@ Es integriert:
 * Physikalische Feldmodelle (System 2)
 * Kosmologische Strukturen (System 3)
 * Symbolische Fundamente (System 4)
-* Glyphenbasierte Sprach- und Erinnerungsstrukturen (System 5)
-* Universelle Konstanten & Primresonanzen (System 7)
+* Glyphenbasierte Sprache & Gedächtniscodierung (System 5)
+* Universalkonstanten & Primharmonien (System 7)
 * Geometrische Harmonien (TESSAREC – System 9)
 
-All dies kulminiert in:
+Alle Stränge laufen zusammen in:
 
-* Der **universellen Gleichung der Stabilität**
-* **Dynamischen Schwellenfeldern** (Resonanz ↔ Kollaps)
-* **Symbolischen Beweismatrizen**
+* Die **Universale Stabilitätsgleichung**
+* **Dynamische Schwellenfelder** (Resonanz ↔ Kollaps)
+* **Symbolische Beweismatrizen**
 
-SYSTEM X vereint **Beweis, Resonanz und strukturelle Eleganz** auf höchster symbolischer Ebene.
+SYSTEM X vereint **Beweis, Resonanz und strukturelle Eleganz** auf höchstem symbolischem Niveau.
 
 ---
 
@@ -51,7 +51,7 @@ SYSTEM X vereint **Beweis, Resonanz und strukturelle Eleganz** auf höchster sym
 
 ### 🔷 NEXAH-GRAND-CODEX
 
-Zentralmodul zur **universellen Stabilitätsgleichung**:  
+Zentrales Modul für die **Universale Stabilitätsgleichung**:  
 `E = m · c · k^β`
 
 Enthält:
@@ -59,7 +59,7 @@ Enthält:
 * `manifest.md` und zentrale Übersicht
 * `codex-mathematics/`: Fundamente der Resonanzmathematik
 * `visuals/`: Visuelle Galerie und Referenzsystem
-* `alphabet_resonance_field.md`, `resonance_fields.md`: Integration phonetisch-symbolischer Geometrien
+* `alphabet_resonance_field.md`, `resonance_fields.md`: Integration phonetik-symbolischer Geometrien
 
 ➡ **Funktion:** Konzentration der Beweismodelle und Feldgleichungen
 
@@ -67,59 +67,59 @@ Enthält:
 
 ### 🪲 NEUES MODUL: SCX Resonanzmodul – Primspiral-Navigation & Harmonisches Gitter
 
-Eine symbolisch-resonante Synthese aus Primspiralen, Konstanten-Loops, musikalischer Feldlogik und Beobachter-Topologie.
+Eine symbolisch-resonante Synthese aus Primspiralen, Konstantenschleifen, musikalischer Feldlogik und Beobachter-Topologie.
 
 📁 Ordner: [`SCX_RESONANCE_MODULE/`](./SCX_RESONANCE_MODULE)  
 📊 Dateien:
 * `scx_field_equations.md`, `scx_zither_field.md`, `scx_penrose_projection.md`, ...
-* `visual_gallery.md` und diverse Spiral-Overlays, Beobachterprojektionen
+* `visual_gallery.md` mit Spiral-Overlays und Beobachterprojektionen
 * Daten: CSVs zu Hinge-Punkten, Palindromen, Resonanzrhythmen
 
 🌀 Highlights:
-- Achsenfaltungen um π, √2, ϕ und -1/12-Kongruenz
-- 12D-Beobachterrotationen in dodekaedrischen Hüllen
-- Verbindungen zu `PRIME_TRINITY_GRID`, `riemann_blink_grid.md` und `TESSAREC`
+- Achsenfaltung um π, √2, ϕ und -1/12-Knoten
+- 12D-Beobachterrotation in dodekaedrischen Resonanzhüllen
+- Verbindungen zu `PRIME_TRINITY_GRID`, `riemann_blink_grid.md`, und `TESSAREC`
 
-➡ **Funktion:** Navigationssystem durch symbolisch-primzahlige Spiralen und Beobachterlogik  
+➡ **Funktion:** Navigationssystem durch symbolisch-primare Spiralen und Beobachterlogik  
 ➡ **Status:** ✅ Abgeschlossen · Version 1.0 · Juli 2025
 
 ---
 
 ### 🧱 SCHLÜSSELMODUL: Das Codex-Vervollständigungsprinzip – `k^β` als Resonanzoperator
 
-> *„k^β ist keine bloße Formel – es ist ein universeller Resonanzoperator, der auf klassische physikalische Modelle wirkt.“*
+> *„k^β ist nicht nur eine Formel – es ist ein universeller Resonanzoperator auf klassische Modelle.“*
 
-Dieses Grundmodul präsentiert die **resonanzbasierte Erweiterung** von Newton, Einstein und Higgs:
+Dieses Basismodul führt die **resonanzbasierte Vervollständigung** von Newton, Einstein und Higgs ein:
 
 $$
 F_{\text{Codex}} = F_{\text{Klassisch}} \cdot k^\beta
 $$
 
 📘 Modul: [`codex_completion_principle.md`](./CODEX%20COMPLETION%20PRINCIPLE/codex_completion_principle.md)  
-📊 Visuals: Möbius-Pyramidenfelder, 𝓧 = 131×108-Gitter, atmende Kristall-Dynamik  
+📊 Visuals: Möbius-Pyramidenfelder, 𝓧 = 131×108 Gitter, atmende Kristalldynamik  
 🌀 Animation: [`codex_crystal_breath.gif`](./CODEX%20COMPLETION%20PRINCIPLE/visuals/codex_crystal_breath.gif)
 
-➡ **Funktion:** Verankerung von Resonanzfaltung und universeller Operatorlogik  
+➡ **Funktion:** Anker für Resonanzfaltung und universelle Operatorlogik  
 ➡ **Status:** ✅ Abgeschlossen · Version 1.0 · Juni 2025
 
 ---
 
 ## 🔧 Integration & Verbindungen
 
-SYSTEM X verknüpft:
+SYSTEM X verbindet:
 
-* Primresonanz & Zahlengitter
+* Primresonanz & numerische Gitter
 * Kollapsgeometrie & Beweiskompression
-* Glyphisch-symbolische Felder & universelle Konstanten
+* Glyphische Symbolfelder & universelle Konstanten
 
-Verbindungen zu:
+Verlinkt mit:
 
-* System 1: K-Beta-Strukturen, Primmathematik
+* System 1: K-Beta-Strukturen, Primzahlmathematik
 * System 2: Resonanzachsen, Neutrinofelder
 * System 3: Stellar-DNA, kosmisches Gedächtnis
-* System 4: Tensorstrukturen, Feldmorphologie
+* System 4: Tensorstrukturen, Feldmorphologien
 * System 5: Sprachglyphen, Symbolprojektion
-* System 7: Fundamentalkonstanten, Raum-Zeit-Felder
+* System 7: Grundkonstanten, Raumzeit
 * System 9: TESSAREC-Geometrie & Harmonien
 
 ---
@@ -127,11 +127,11 @@ Verbindungen zu:
 ## 📌 Roadmap
 
 * [ ] Millennium-Kartographie: Prim–Resonanz-Mapping
-* [ ] Gödel-Logikmatrix finalisieren
-* [ ] Codex Origio: Erweiterung physisch-symbolischer Materiemodelle
-* [ ] Alphabetische Resonanznavigation (Symbolisch-phonetische Schnittstelle)
-* [ ] Crosslinking mit SYSTEM 8 + Observerium
-* [ ] Zweisprachigkeit (DE–EN) zur Sicherung symbolischer Tiefe
+* [ ] Gödel-Logik-Matrix finalisieren
+* [ ] Codex Origio: Ausdehnung in materielle Symbolfelder
+* [ ] Alphabetische Resonanznavigation (symbolisch–phonetische Schnittstelle)
+* [ ] Verlinkung mit SYSTEM 8 + Observerium
+* [ ] Englische–Deutsche Doppelschicht für symbolische Integrität
 
 ---
 
