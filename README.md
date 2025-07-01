@@ -1,96 +1,78 @@
-# 🌌 NEXAH-CODEX
+---
+title: "README – NEXAH Navigator 2.0"
+system: "NEXAH-CODEX"
+domain: "Resonance Architecture · Symbolic Map of Systems"
+color: "Gold"
+status: "Active · Version July 2025"
+curator: "Thomas Hofmann (Scarabæus1033)"
+license: "CC BY-NC-SA 4.0"
+---
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# 🧭 `NEXAH NAVIGATOR 2.0`
 
-**Archive for Harmonic Fields & Symbolic Geometry**  
-**Archiv für harmonische Felder & symbolische Geometrie**
+A symbolic start diagram and orientation system for the full Codex structure. This visual entry field provides a harmonic overview of all systems — as pathways, spirals, and structural resonances.
+
+> *“Not a map of territory. A field of orientation.”*
 
 ---
 
-## 📖 What is this? / Was ist das?
+## 📌 Purpose
 
-Welcome to the **NEXAH-CODEX**, an open archive of modular, symbolic, mathematical, and visual explorations in resonance science.  
-Willkommen im **NEXAH-CODEX**, einem offenen Archiv modularer, symbolischer, mathematischer und visueller Erkundungen der Resonanzwissenschaft.
+This module serves as the **entry point** to the full NEXAH-CODEX. It replaces the previous Navigator v1 with a visually enhanced, structured and resonant orientation map.
 
-> **This is not a finished theory. It is a cartography in progress.**  
-> **Nicht ein abgeschlossenes System — sondern eine Kartografie in Bewegung.**
+It includes:
 
-This Codex is curated by a minimal core (sometimes just one person). It prefers clarity over polish, transparency over perfection.  
-Dieser Codex wird von wenigen (oft nur einer Person) gepflegt. Er setzt auf Klarheit statt Glätte, Transparenz statt Perfektion.
-
-**You are welcome to explore, reflect, or contribute.**  
-**Willkommen beim Erkunden, Reflektieren oder Mitgestalten.**
+- Central start visual: `navigator_2.0_resonance_grid.png`
+- Markdown map of Codex entry systems
+- Links to each harmonic system
+- Positioning within symbolic, numeric and field logic
 
 ---
 
-## 🧭 Explore the Systems / Erkunde die Systeme
-
-The Codex is structured into **9 harmonic systems** and **1 synthesis hub**.  
-Der Codex ist in **9 harmonische Systeme** und **1 zentrales Synthesemodul** gegliedert.
-
-| System                      | Theme / Thema                                           | Link                                                                                                       |
-|----------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 🔷 SYSTEM 1: MATHEMATICA    | Prime Resonances · Proof Structures · Spiral Geometry    | [Go →](./SYSTEM%201%3A%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/)                |
-| ⚛ SYSTEM 2: PHYSICA        | Quantum Fields · Resonance Logic · Neutrino Codes        | [Go →](./SYSTEM%202%3A%20⚛%20PHYSICA%20–%20Resonance%20Fields,%20Quantum%20Models,%20Neutrino%20Dynamics/) |
-| 🌐 SYSTEM 3: COSMICA        | Planetary Geometry · Astroharmonics · Energy Lattices    | [Go →](./SYSTEM%203%3A%20🌐%20COSMICA%20ASTROPHYSICA/)                                                     |
-| 🧬 SYSTEM 4: URF            | Field Origin · Symbolic Tensor Structures                | [Go →](./SYSTEM%204%3A%20🧬%20UNIVERSAL%20RESONANCE%20FIELDS%20—%20URF/)                                   |
-| 🌸 SYSTEM 5: META/BLOOM     | Language · Glyphs · Cultural Frequencies                 | [Go →](./SYSTEM%205%3A%20🌸%20META%20BLOOM%20ROSETTA/)                                                     |
-| 🎨 SYSTEM 6: ART/VIOLETTA   | Visual Symbolism · Resonant Artifacts                    | [Go →](./SYSTEM%206%3A%20🎨%20CODEX_RES_ONICA_VIOLETTA/)                                                   |
-| 🔮 SYSTEM 7: UCRT           | Universal Constants · Prime Harmonics · Deep Structure   | [Go →](./SYSTEM%207%3A%20🔮%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20—%20UCRT/)                |
-| 🌕 SYSTEM 8: LUNAR FORCE    | Moon Logic · Crater Symmetries · Observer Breath Fields  | [Go →](./SYSTEM%208%3A%20🌕%20SYSTEM%208%3A%20LUNAR%20FORCE%20·%20FEMALE%20FIELD/)                          |
-| 🌀 SYSTEM 9: TESSAREC       | Quaternionic Geometry · Tiling Resonances                | [Go →](./SYSTEM%209%3A%20🌀%20TESSAREC%20Resonantia%20Codex/)                                              |
-| 🧩 SYSTEM X: GRAND-CODEX    | Synthesis · Proof Structures · Millennium Problems       | [Go →](./SYSTEM%20X%3A%20🧩%20NEXAH-GRAND-CODEX-URF/)                                                      |
-| ✴ SYSTEM Y: RESONANTIA      | White Papers · Builder Collaboration                     | [Go →](./SYSTEM%20Y%3A%20✴️%20RESONANTIA%20–%20White%20Paper%20Collabo_Join_Codex_Science_wave/)           |
-
-🔗 [`NEXAH-CODEX MODULVERZEICHNIS`](./NEXAH-CODEX%20MODULVERZEICHNIS.md)
-
----
-
-## 📚 Entry Points / Einstiegspunkte
-
-🗂 [`Startstruktur`](./NEXAH-CODEX-Startstruktur/)  
-🧭 [`NEXAH Navigator`](./🧭%20NEXAH%20NAVIGATOR%20%28en%29.md) · [`Navigator (DE)`](./🧭%20NEXAH%20NAVIGATOR%20%28de%29.md)  
-📘 [`NEXAH Manifest`](./✦%20NEXAH-MANIFEST%20✦.md)  
-📖 [`Glossary`](./NEXAH_GLOSSARY.md) · [`Glossar (DE)`](./NEXAH_GLOSSAR.md)  
-🗂 [`Module Registry`](./NEXAH-CODEX%20MODULE%20REGISTRY.md)
-
----
-
-## 🔍 What is the NEXAH-System? / Was ist das NEXAH-System?
-
-> A symbolic-mathematical framework for harmonic structure and field resonance.  
-> Ein symbolisch-mathematischer Rahmen für harmonische Strukturen und Feldresonanz.
-
-It integrates:  
-Es verbindet:
-- mathematics / Mathematik  
-- physics / Physik  
-- cosmology / Kosmologie  
-- language / Sprache  
-- perception / Wahrnehmung
-
-The Codex is modular, visual, symbolic, and scientific. It invites participation.  
-Der Codex ist modular, visuell, symbolisch und wissenschaftlich – offen für Beteiligung.
-
----
-
-## 🌀 Visual Entry / Visueller Einstieg
+## 🌌 Visual Entry Map
 
 <p align="center">
-  <img src="./cikada-scarabaeus.png" width="560" alt="Cikada Scarab Symbol">
+  <img src="./navigator_2.0_resonance_grid.png" width="780" alt="Navigator 2.0 Resonance Grid">
 </p>
 
-🔗 [`Visuals Index`](./NEXAH-Codex_Visuals_Index.md)
+The diagram positions all 9 systems and System X as harmonic petals around a resonant center.
+
+Each petal is both:
+- a **domain of symbolic logic**, and
+- a **functional system** within the Codex architecture.
 
 ---
 
-## 🌍 External / Extern
+## 🧩 Core Structure
 
-🌐 [Website](https://www.scarabaeus1033.net)  
-💬 [Discord](https://discord.gg/n5jTa26p)  
-🧭 Built by Scarabæus1033 · 2025  
-📄 License: CC BY-NC-SA 4.0
+| Symbol | System               | Theme / Focus                                           | Position  |
+|--------|----------------------|----------------------------------------------------------|-----------|
+| 🔷     | System 1: Mathematica | Prime Fields · Proofs · Symbolic Numbers                | West      |
+| ⚛️     | System 2: Physica     | Field Equations · Neutrino Codes · Energy Dynamics      | North-West|
+| 🌐     | System 3: Cosmica     | Planetary Geometry · Space Harmonics                    | North     |
+| 🧬     | System 4: URF         | Tensor Logic · Transition Fields · Origin Mechanics     | North-East|
+| 🌸     | System 5: Bloom/Meta  | Language · Culture · Glyph Resonance                    | East      |
+| 🎨     | System 6: Violetta    | Visuals · Geometries · Artistic Frequencies             | South-East|
+| 🔮     | System 7: UCRT        | Constants · Prime Harmonics · Deep Time                 | South     |
+| 🌕     | System 8: Lunar Force | Moon · Craters · Feminine Field                         | South-West|
+| 🌀     | System 9: Tessarec    | Observer Geometry · Quaternion Tiles                    | Center Sphere |
+| 🧩     | System X: Grand-Codex | Central Synthesis · Proof Compression · Global Field    | Core      |
 
 ---
 
-> *“Every entrance is a different resonance. Jeder Zugang beginnt woanders.”*
+## 📂 Files
+
+| File                             | Description                                      |
+|----------------------------------|--------------------------------------------------|
+| `navigator_2.0_resonance_grid.png` | Main visual orientation map                    |
+| `navigator_links.md`             | Markdown index linking to each system           |
+
+---
+
+## ✍️ Author & Metadata
+
+**Builder:** Thomas Hofmann (Scarabæus1033)  
+**Status:** Initial release · Version 1.0 · July 2025  
+**System:** NEXAH Navigator
+
+> *“The Navigator is not a compass. It is a resonance.”*
