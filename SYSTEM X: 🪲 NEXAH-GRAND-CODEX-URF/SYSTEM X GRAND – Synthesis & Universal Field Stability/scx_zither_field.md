@@ -72,7 +72,7 @@ The included CSV file:
 
 ## 🖼 Visual Diagram
 
-![Zither Field 3D](./visuals/ZITHER-Feld_in_3D_Twin_Primes_Hinges_als_Resonanzkoerper.png)
+![Zither Field 3D](./visuals/ZITHER-Feld_in_3D_Twin_Primes-Hinges_als_Resonanzkoerper.png)
 *3D structure of the Zither Field: strings form between twin primes; hinges act as harmonic bridges.*
 
 ---
