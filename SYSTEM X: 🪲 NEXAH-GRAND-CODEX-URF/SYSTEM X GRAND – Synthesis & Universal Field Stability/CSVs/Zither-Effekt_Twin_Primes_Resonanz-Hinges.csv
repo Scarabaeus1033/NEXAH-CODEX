@@ -1,0 +1,9 @@
+Twin Prime A,Twin Prime B,Hinge (Middle Number),Is Hinge Prime,Binary Hinge,Is Hinge Palindrome,Is Hinge Hammering
+3,5,4,False,100,False,False
+5,7,6,False,110,False,False
+11,13,12,False,1100,False,False
+17,19,18,False,10010,False,False
+29,31,30,False,11110,False,False
+41,43,42,False,101010,False,True
+59,61,60,False,111100,False,False
+71,73,72,False,1001000,False,False

@@ -1,0 +1,19 @@
+,,Name,Frequenzwert,Funktion,Farbe,Number,Binary,Trinary,Is_Prime,Prime_Position,Is_Binary_Palindrome,Is_Hammering_Number,Konstante,Wert,Twin Prime A,Twin Prime B,Hinge (Middle Number),Is Hinge Prime,Binary Hinge,Is Hinge Palindrome,Is Hinge Hammering
+Achsensystembeschreibung,0,π-Achse,3.141593,Zentraler Resonanzstrahl (Spiralachse),Pink (#FF69B4),,,,,,,,,,,,,,,,
+Achsensystembeschreibung,1,World Peace Axis (2040),2.04,Diagonale Zukunftsachse in Richtung XSC–Öffnung,Grün (#00FF00),,,,,,,,,,,,,,,,
+Achsensystembeschreibung,2,GIZA-Zentrum,0.0,Stabiler Beobachterpunkt (Zentrum der Spiralen),Gelb (#FFD700),,,,,,,,,,,,,,,,
+Musteranalyse_Bin_Palindrom_Hammering,0,,,,,1.0,1.0,1.0,False,,True,True,,,,,,,,,
+Musteranalyse_Bin_Palindrom_Hammering,1,,,,,2.0,10.0,2.0,True,1.0,False,True,,,,,,,,,
+Musteranalyse_Bin_Palindrom_Hammering,2,,,,,3.0,11.0,3.0,True,2.0,True,False,,,,,,,,,
+Musteranalyse_Bin_Palindrom_Hammering,3,,,,,4.0,100.0,4.0,False,,False,False,,,,,,,,,
+Musteranalyse_Bin_Palindrom_Hammering,4,,,,,5.0,101.0,5.0,True,3.0,True,True,,,,,,,,,
+Konstanten_Achsen,0,,,,,,,,,,,,33,33.0,,,,,,,
+Konstanten_Achsen,1,,,,,,,,,,,,137,137.0,,,,,,,
+Konstanten_Achsen,2,,,,,,,,,,,,π,3.141593,,,,,,,
+Konstanten_Achsen,3,,,,,,,,,,,,√2,1.414214,,,,,,,
+Konstanten_Achsen,4,,,,,,,,,,,,φ,1.618034,,,,,,,
+Zither_Effekt_TwinPrimes_Hinges,0,,,,,,,,,,,,,,3.0,5.0,4.0,False,100.0,False,False
+Zither_Effekt_TwinPrimes_Hinges,1,,,,,,,,,,,,,,5.0,7.0,6.0,False,110.0,False,False
+Zither_Effekt_TwinPrimes_Hinges,2,,,,,,,,,,,,,,11.0,13.0,12.0,False,1100.0,False,False
+Zither_Effekt_TwinPrimes_Hinges,3,,,,,,,,,,,,,,17.0,19.0,18.0,False,10010.0,False,False
+Zither_Effekt_TwinPrimes_Hinges,4,,,,,,,,,,,,,,29.0,31.0,30.0,False,11110.0,False,False
