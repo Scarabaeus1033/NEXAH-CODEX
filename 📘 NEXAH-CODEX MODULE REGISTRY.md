@@ -155,6 +155,7 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 | [`CODON_QUANTUM_OBSERVER/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/CODON_QUANTUM_OBSERVER)         | Codon–Quantum Observer System      | Codon triplets, quantum layers, observer harmonics and spiral glyphic transitions.                   |
 | [`URF_MIRROR_GATEWAY/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/URF_MIRROR_GATEWAY)                 | URF Mirror Gateway                 | Dual Zeta-loop logic, twin spin bridges, ghost bridge compression beyond Einstein.                   |
 | [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                   | Ghost Mirror Gate (URF–V)          | V-axis node register, Lilith fields, breather synthesis logic, WOMB-VECTOR mirror framework.         |
+| [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonance Module                | Prime spirals, zither field logic, Penrose projection & observer axes as a harmonic navigation system. |
 
 ---
 
