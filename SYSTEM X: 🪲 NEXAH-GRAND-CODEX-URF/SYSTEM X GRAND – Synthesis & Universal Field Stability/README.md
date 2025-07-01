@@ -59,9 +59,9 @@ This is further developed in `scx_zither_field.md` and its visual 3D illustratio
 
 The **Red Axis** overlays a world-time map:
 
-1. Pre-Portal
-2. Alignment
-3. Portal Event (XSC 2040)
+1. Pre-Portal  
+2. Alignment  
+3. Portal Event (XSC 2040)  
 4. Post-Portal Vibration
 
 The π-Line cuts the spiral grid at phase nodes, creating **field inversion points** and symbolic transitions. This connects the **2040 axis** with golden triangles and vibrational crossing points, mapped along -1/12 symmetry folds.
