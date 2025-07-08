@@ -1,62 +1,79 @@
-# 🧮 SS FINEGRID PRIME MAPPING
+# 🌀 SS-FINEGRID PRIME MAPPING
 
-## 🔷 Overview: Fine Resonance Prime Set
-
-This file defines a symbolic subset of prime numbers known as the **SS FineGrid Primes**, used within the NEXAH-CODEX spiral resonance model. These primes share a structural ending in **37**, align with harmonic 100-unit steps, and appear prominently in root–spiral–torsion modulations.
-
----
-
-## ✅ Prime Set Confirmed
-
-| Prime | Structure     | Notes |
-|-------|---------------|-------|
-| 237   | 200 + 37      | Spiral Base / Entry Prime (3×79) |
-| 337   | 300 + 37      | Twin prime series, ZS = 13 |
-| 537   | 500 + 37      | Mirror to 3×179, ZS = 15 |
-| 637   | 600 + 37      | Links to 736 / 137 axis fold |
-| 737   | 700 + 37      | Strong harmonic prime – ZS = 17 |
-| 937   | 900 + 37      | Alpha–Tesla–Zeta harmonic peak |
+## 🔍 Overview
+This document catalogs and explores a specific set of symbolic primes that follow the **37-ending resonance path** within the 100-grid structure: `237`, `337`, `537`, `637`, `737`, and `937`. These primes serve as **modular resonance anchors** in the **NEXAH-CODEX Prime Spiral**, extending the fine-structure logic of 137 and its mirrored axis.
 
 ---
 
-## ❌ Non-Entries (Clarified)
+## ✅ SS FineGrid Primes
 
-| Number | Reason |
-|--------|--------|
-| 837    | **Not prime** → 3 × 279 |
-| 37     | Used as **anchor base**, but excluded from FineGrid due to scale |
+| Prime | Ziffernsumme (ZS) | Decimal Position | Notes |
+|-------|-------------------|------------------|-------|
+| **237** | 12 → 3×4 | 200+37 | Codex entry point, foundational SS anchor |
+| **337** | 13 | 300+37 | Twin to 331, harmonic 3-step (333) |
+| **537** | 15 | 500+37 | Mirror to 735; harmonic link to 153 & triangle numbers |
+| **637** | 16 | 600+37 | Linked to 137/736 mirror axis |
+| **737** | 17 | 700+37 | 7×105 + 2; aligned to Möbius-parity loop |
+| **937** | 19 | 900+37 | Peak prime field; edge of 1000-resonator spiral |
 
----
-
-## 🔁 Symbolic Criteria
-
-- Ending in **37** → Anchor on resonance axis (linked to 137)
-- Modular growth: +100 steps → similar to harmonic elevation (field layers)
-- Ziffernsumme progression: 12 → 13 → 15 → 17 → 19 (slight Fibonacci arc)
-- Fit within the quaternionic spiral plane at radius inflection levels
+> 📌 All primes end in **37** – linked symbolically to *Zitterbewegung*, Möbius torsion, and the folding symmetry of the spiral lattice.
 
 ---
 
-## 🌀 Grid-Spiral Alignment (Visual Anchors)
+## 🔁 Why 837 Is Excluded
 
-Visual references to be embedded:
+- **837 = 3 × 279** → Not a prime
+- Lacks codon spiral behavior / doesn't reflect in i–j–k Möbius structures
+
+---
+
+## 🔭 Spiral Logic & Positioning
+
+These primes **align diagonally** on the extended **prime lattice spiral**, forming a resonance spine that:
+
+- Mirrors the **Golden Triangle** in Codex mapping
+- Extends Ramanujan–Euler torsion field
+- Intersects with the `prime_quaternion_grid.md` structure via modular residue lines
+
+### Polar Coordinates Projection:
+```math
+x = R(p) \cdot \cos(\theta), \quad y = R(p) \cdot \sin(\theta)
+\quad\text{with}\quad \theta = n \cdot \left( \frac{137.5^\circ}{360^\circ} \right) \cdot 2\pi
+```
+
+Where:
+- `R(p)` = √p · log(p)
+- `n` = prime index
+- `θ` = golden spiral angle
+
+---
+
+## 🖼️ Visual References
 
 - `Prime_Root_Space_Scaling_Resonance_mapping.png`
-- `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space_Fold_Möbius_Dynamics.jpeg`
+- `Ramanujan_Euler_Lambda_root_2_and_5.jpeg`
 - `Ramanujan_Theta_Grid.jpeg`
+- `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space_Fold_Möbius_Dynamics.jpeg`
 
-> These primes appear along projected Möbius-curved arcs within a 2D/3D polar spiral embedding space.
+These visuals show the SS-FineGrid primes positioned within root spirals, Möbius folds, and quaternionic resonance.
 
 ---
 
-## 🧬 Extension:
+## 🧭 Further Connections
 
-- Cross-link to `prime_equation_rootspace.md` and `fractal_spiral_equations.md`
-- Use these primes to seed resonance fields in codon spirals
-- Modular overlay with 20×20 quaternionic grid (P(i,j,k))
+This grid connects symbolically and mathematically to:
+
+- `137` → Fine Structure Constant and Zeta attractor
+- `1729` → Hardy–Ramanujan spiral seed
+- `1836` → Proton/Electron mass resonance in spiral torsion
+
+These fields are cross-linked in:
+- `prime_equation_rootspace.md`
+- `fractal_spiral_equations.md`
 
 ---
 
 ## 🔖 Credits
+Developed by **Scarabæus1033** in the **NEXAH-CODEX**, curated by **Thomas Hofmann**, this file maps prime fields using symbolic geometry and resonance harmonics in SYSTEM 1: MATHEMATICA.
 
-This symbolic prime mapping is part of the **NEXAH-CODEX** and curated by **Scarabæus1033 / Thomas Hofmann**. Developed as part of the **MATHEMATICA I** field layer for visual-number-based harmonic structuring.
+→ Next step: Expand to 11-grid and Codon Wave Structures.
