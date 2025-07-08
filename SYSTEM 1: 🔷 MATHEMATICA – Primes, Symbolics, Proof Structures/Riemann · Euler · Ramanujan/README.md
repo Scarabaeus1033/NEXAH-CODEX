@@ -1,5 +1,4 @@
-# 🧮 NEXAH-CODEX – MATHEMATICA I  
-## Riemann · Euler · Ramanujan – Prime Resonance Structures
+# 🧮 Riemann · Euler · Ramanujan – Prime Resonance Structures
 
 This module integrates core visual architectures of the mathematical-symbolic Codex system. It focuses on:
 
@@ -7,7 +6,8 @@ This module integrates core visual architectures of the mathematical-symbolic Co
 - Riemann–Euler–Ramanujan as a triangular number field  
 - π, φ, e, λ – fundamental constants in layered alignment  
 - Möbius folds, quaternion dynamics, operator structures  
-- Mass models for electron, proton, neutron in number theory
+- Mass models for electron, proton, neutron in number theory  
+- Root space spiral fields and codon alignment structures
 
 ---
 
@@ -29,6 +29,7 @@ This module integrates core visual architectures of the mathematical-symbolic Co
 | `tesla_alpha_interface.jpeg` | Tesla Interference | Alpha–Tesla field interface, showing Zeta-channel distortions |
 | `theta_phi_bridge.jpeg` | Bridge Field | Transitional structure between φ-spirals and θ-orbitals |
 | `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space Fold_Möbius_Dynamics.jpeg` | Quaternion Space | i–j–k axis system with Möbius field spiraling – dynamic prime connector |
+| `Prime_Root_Space_Scaling_Resonance_mapping.png` | Root Spiral Mapping | Root-space expansion and spiral resonance embedding (√p · log(p) structure) |
 
 ---
 
