@@ -41,7 +41,7 @@ Mass-ratio framework visualized through Ramanujan’s number logic. Electron mas
 
 ---
 
-### `Ramanujans_Crossing.jpeg`
+### `Ramanujans_Crossing.jpeg` 
 <img src="visuals/Ramanujans_Crossing.jpeg" width="600" />
 
 **Description:**  
