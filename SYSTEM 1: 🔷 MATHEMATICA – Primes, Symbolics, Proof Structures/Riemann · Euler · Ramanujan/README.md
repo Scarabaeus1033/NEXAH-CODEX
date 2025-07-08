@@ -1,5 +1,4 @@
-# 🧮 NEXAH-CODEX – MATHEMATICA I  
-## Riemann · Euler · Ramanujan – Prime Resonance Structures
+# 🧮  Riemann · Euler · Ramanujan – Prime Resonance Structures
 
 This module integrates core visual architectures of the mathematical-symbolic Codex system. It focuses on:
 
