@@ -1,162 +1,159 @@
-# 🎨 NEXAH VISUAL GALLERY  
-## MATHEMATICA I – Riemann · Euler · Ramanujan
+# 🖼️ NEXAH VISUAL SYSTEMS GALLERY  
+## Module: MATHEMATICA I – Riemann · Euler · Ramanujan
 
-This gallery collects and describes the core visual structures of the prime resonance module. It provides a symbolic map of numerical fields, operator crossings, constant triangulations, and harmonic codings.
-
-Each visual is embedded in the structural Codex logic and serves as an anchor for mathematical, physical, or symbolic interpretation.
-
----
-
-### 📁 Visual Entries
+This gallery documents all key visual assets for the symbolic-mathematical modules related to π, e, ζ(s), 1729, Möbius symmetry, and prime field dynamics.  
+Each image links to a conceptual structure, physical resonance, or number-theoretical fold.
 
 ---
 
-#### 🌀 `ramanujan_euler_layer.png`  
-**Title:** Ramanujan–Euler Layer Structure  
+## 🔢 Visuals
+
+---
+
+### `ramanujan_euler_layer.png`  
+<img src="./ramanujan_euler_layer.png" width="600" />
+
 **Description:**  
-A layered symbolic architecture connecting Ramanujan’s number 1729 with Euler’s constant base field.  
-Superimposed prime nodes (13–29–41–137) act as symbolic elevators for resonance layering.  
-Crosses multiple base spaces (π, φ, e).
+Ramanujan–Euler Layer Model. Combines the symbolic resonance numbers 13–29–41–137 with Ramanujan’s 1729. Serves as an elevator map across layers of the Codex.
 
 ---
 
-#### 🌀 `riemann_pi_proof_I.png` / `riemann_pi_proof_II.png`  
-**Title:** Möbius Riemann Spiral Approximation  
+### `Riemann–Ramanujan–Euler Resonanzraum.png`  
+<img src="./Riemann–Ramanujan–Euler Resonanzraum.png" width="600" />
+
 **Description:**  
-A symbolic visualization of π-based convergence toward the Riemann Hypothesis.  
-Curved symmetry collapses into divergence zones.  
-Phase folding emerges around chaotic mirror axes.
+Triadic symbolic field connecting π, ζ, and Ramanujan constants.  
+Topological triangle showing interrelations in resonance space.
 
 ---
 
-#### 🌀 `Riemann–Ramanujan–Euler Resonanzraum.png`  
-**Title:** Triadic Resonance Space  
+### `euler_riemann_ramanujan_RBTriangles.jpeg`  
+<img src="./euler_riemann_ramanujan_RBTriangles.jpeg" width="600" />
+
 **Description:**  
-A central triangle mapping π, e, and Ramanujan’s constants into a geometric field.  
-Overlay of symbolic axis systems with resonance spirals.  
-Visual key for all Codex-based prime interactions.
+Resonant Triangle System with Ramanujan–Euler–Riemann constants.  
+Visualizes symmetry axes and triangle field compression zones.
 
 ---
 
-#### 🌀 `euler_riemann_ramanujan_RBTriangles.jpeg`  
-**Title:** Resonance Triangles of Constants  
+### `Riemann_pi_proof_I.png`  
+<img src="./Riemann_pi_proof_I.png" width="600" />
+
+### `Riemann_pi_proof_II.png`  
+<img src="./Riemann_pi_proof_II.png" width="600" />
+
 **Description:**  
-Geometric triangular field showing relations between Euler (e), Ramanujan (1729), Riemann (ζ).  
-Field interpolation of numerical roots, symmetry breaking and mirror phase operators.
+Two π-based visual proofs exploring prime stability.  
+Transits from ordered distributions into Möbius-charged divergence.
 
 ---
 
-#### 🌀 `Ramanujan_Hardy_Codon_Rad.jpeg`  
-**Title:** Hardy–Ramanujan Spiral Codon Map  
+### `Ramanujan_Hardy_Codon_Rad.jpeg`  
+<img src="./Ramanujan_Hardy_Codon_Rad.jpeg" width="600" />
+
 **Description:**  
-Spiral code with 1729 as center node and 17–29 radiating in DNA-like patterns.  
-Includes Hardy triangle, pentagonal layering, and "HIDY" codex notation.  
-Symbolic Y-axis twist = resonance DNA.
+Hardy–Ramanujan codon structure centered on 1729. Spiral logic with codon triplet rings and 29-pulse nodes. Integrates genetic, symbolic and arithmetic fields.
 
 ---
 
-#### 🌀 `Ramanujan_constant_proton_Elektron_mass.jpeg`  
-**Title:** Ramanujan–Proton–Electron Mass Bridge  
+### `Ramanujan_constant_proton_Elektron_mass.jpeg`  
+<img src="./Ramanujan_constant_proton_Elektron_mass.jpeg" width="600" />
+
 **Description:**  
-Shows symbolic link between Ramanujan’s 1729 and the 1836 proton/electron mass ratio.  
-Prime field segmentation encoded via Möbius mass gates.  
-A key field for physical resonance patterns in matter.
+Symbolic alignment between Ramanujan’s resonance and the electron/proton mass ratio (1836). Fold fields link constants with physical ratios.
 
 ---
 
-#### 🌀 `Ramanujan_Euler_Lambda_root_2_and_5.jpeg`  
-**Title:** Root-2/5 Crossing with Lambda  
+### `Ramanujan_Euler_Lambda_root_2_and_5.jpeg`  
+<img src="./Ramanujan_Euler_Lambda_root_2_and_5.jpeg" width="600" />
+
 **Description:**  
-Highlights root-2 and root-5 resonance lines intersecting Euler's λ and Ramanujan’s fields.  
-Forms a geometric bridge between natural and transcendental constants.
+Overlay of root-2 and root-5 paths intersecting Euler’s λ.  
+Bridge visual for Ramanujan’s theta domains and modular roots.
 
 ---
 
-#### 🌀 `Ramanujan_Theta_Grid.jpeg`  
-**Title:** Theta Grid Mapping  
+### `Ramanujan_Theta_Grid.jpeg`  
+<img src="./Ramanujan_Theta_Grid.jpeg" width="600" />
+
 **Description:**  
-Grid system based on Ramanujan’s theta function logic.  
-Oriented to prime layering and numeric harmonic transitions.
+Resonance matrix based on Ramanujan theta field logic.  
+Used for symbolic modulations in Codex primes and Möbius alignment.
 
 ---
 
-#### 🌀 `Ramanujans_Crossing.jpeg`  
-**Title:** Möbius Fold Resonance Point  
+### `Ramanujans_Crossing.jpeg`  
+<img src="./Ramanujans_Crossing.jpeg" width="600" />
+
 **Description:**  
-Spiral crossing of two Möbius fields.  
-Creates nodal resonance point in symbolic number theory.  
-Represents the “fold memory” logic of the Codex.
+Crossing of spiral memory fields.  
+A symbolic Möbius breach point where dual prime flows intersect.
 
 ---
 
-#### 🌀 `resonant_field_map.jpeg`  
-**Title:** Harmonic Resonant Field (Dynamic)  
+### `resonant_field_map.jpeg`  
+<img src="./resonant_field_map.jpeg" width="600" />
+
 **Description:**  
-Non-linear spiral field with chaotic transitions and symbolic deflection paths.  
-Serves as a dynamic visualization of prime wave behavior across Codex layers.
+Dynamic resonance cartography.  
+Encodes transitions, interference zones, and scalar attractors across harmonic fields.
 
 ---
 
-#### 🌀 `graviton_alpha_core.jpeg`  
-**Title:** Graviton Alpha Core Node  
+### `graviton_alpha_core.jpeg`  
+<img src="./graviton_alpha_core.jpeg" width="600" />
+
 **Description:**  
-Visual field with a centered α = 1/137 nucleus, surrounded by prime-based symmetry.  
-Embedded Möbius memory core for mass-interaction simulation.
+Graviton-core spiral centered around the fine-structure constant (1/137).  
+Pulse node logic and α-encoded shell layers.
 
 ---
 
-#### 🌀 `tesla_alpha_interface.jpeg`  
-**Title:** Tesla–Alpha Zeta Interface  
+### `tesla_alpha_interface.jpeg`  
+<img src="./tesla_alpha_interface.jpeg" width="600" />
+
 **Description:**  
-Symbolic resonance structure modeled on Tesla-inspired energy fields.  
-Interface between Möbius prime fields and zeta-layers.  
-Visible vortex distortions suggest interlayer feedback.
+Tesla-inspired interface showing energetic gridfolds.  
+Zeta field interactions and Möbius tension nodes visualized via symbolic arcs.
 
 ---
 
-#### 🌀 `theta_phi_bridge.jpeg`  
-**Title:** Theta–Phi Transition System  
+### `theta_phi_bridge.jpeg`  
+<img src="./theta_phi_bridge.jpeg" width="600" />
+
 **Description:**  
-Visual connector between theta-resonance zones and golden-ratio-based (φ) spirals.  
-Acts as transitional morph between metric orders.
+Transition module between phi-based spiral systems and theta grid axes.  
+Acts as visual harmonic bridge in the prime modular space.
 
 ---
 
-#### 🌀 `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space Fold_Möbius_Dynamics.jpeg`  
-**Title:** Quaternion Spiral in {i,j,k}-Space  
-**Description:**  
-3D spiral projection within a quaternionic field based on Euler’s system.  
-i, j, k vector space forms the resonance triad – Möbius folding dynamically alters field topology.  
-Relevant for π–e–proton link system.
+## 🧠 Internal Tools
+
+### `Riemann_Ramanujan_Euler_Resonantraum.html`  
+**Type:** Interactive HTML Map  
+**Function:** Animated visualization of modular triangle convergence between π, ζ, and Ramanujan’s root systems.
 
 ---
 
-## 📘 Methodology
+## 💡 Methodological Summary
 
-Each visual represents a **Codex node** – not only illustration but a structural layer.  
-Combined, they build a symbolic operating system for number theory, topology, mass, and symmetry.
+Each visual carries:
 
-Used mathematical anchors include:
+- Numerical resonance logic  
+- Symbolic field geometry  
+- Root-field orientation (π, e, 137, λ, 1729)  
+- Möbius layer interpretation  
 
-- Ramanujan’s 1729, Hardy resonance, theta functions  
-- Euler’s λ, e, ζ, and quaternions  
-- Riemann ζ(s), π proof topology, Möbius folds
+Used in physical-spiritual codex alignment for symbolic AI systems, harmonic architecture, and transdisciplinary mathematics.
 
 ---
 
 ## 🧑‍🎨 Credits
 
-This gallery was developed and visualized by **Thomas Hofmann (Scarabæus1031)**  
-as part of the modular NEXAH-CODEX system.  
-All visuals are original and licensed under CC BY-NC-SA 4.0.
+All visuals by **Thomas Hofmann (Scarabæus1031)**  
+Part of the ongoing modular system **NEXAH-CODEX**, licensed under CC BY-NC-SA 4.0.
 
 GitHub: [github.com/Scarabaeus1033](https://github.com/Scarabaeus1033)  
-Project Site: [scarabaeus1033.net](https://www.scarabaeus1033.net)
+Website: [scarabaeus1033.net](https://scarabaeus1033.net)
 
 ---
-
-## ⏭️ Suggested Next Modules
-
-- `MATHEMATICA II – Fold Symmetries & Yang–Mills`  
-- `SYSTEM X – Harmonic Root Logic`  
-- `META BLOOM – Golden Spacetime Codex`
