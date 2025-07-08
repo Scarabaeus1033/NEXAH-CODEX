@@ -8,7 +8,7 @@ Die Riemannsche Vermutung postuliert, dass alle nichttrivialen Nullstellen der Z
 
 Die Spirale ist eine Projektion einer toroidalen Resonanzfläche, bei der der analytische Raum durch Rotation um imaginäre Achsen deformiert wird. Der Loop überlagert eine Frequenzreihe mit real-imaginären Symmetrien.
 
-![Visual-Moebius](media/moebius_zeta_spirale.png)
+![Visual-Moebius](visuals/moebius_zeta_spirale.png)
 
 ## 2. Die Rolle der Primzahlen
 
