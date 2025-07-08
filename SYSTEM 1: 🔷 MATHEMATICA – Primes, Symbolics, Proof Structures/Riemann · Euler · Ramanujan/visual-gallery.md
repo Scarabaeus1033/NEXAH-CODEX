@@ -49,8 +49,8 @@ Visual depiction of Ramanujan’s numerical transition bridge — a ‘crossing�
 
 ---
 
-### `Rananjuan_Hardy_Codon_Rad.jpeg`
-<img src="visuals/Rananjuan_Hardy_Codon_Rad.jpeg" width="600" />
+### `Ramanjuan_Hardy_Codon_Rad.jpeg`
+<img src="visuals/Ramanujan_Hardy_Codon_Rad.jpeg" width="600" />
 
 **Description:**  
 Spiral codon structure referencing 1729 and 17295, with hexagonal/pentagonal number symbolism. DNA helix embedded in prime coordinate framework.
