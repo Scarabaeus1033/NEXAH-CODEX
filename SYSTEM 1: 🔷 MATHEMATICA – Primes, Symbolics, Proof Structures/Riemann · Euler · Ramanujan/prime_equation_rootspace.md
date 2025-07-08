@@ -1,66 +1,51 @@
-# 🔣 Prime Equation – Root Space Scaling Model
+## 🖐️ Prime Equation — Root Space Scaling Model
 
 This document presents the mathematical basis and resonance equation for prime number distribution in **Root Space**. The model builds on the logarithmic scaling of primes and introduces spiral geometry via golden angle rotation.
 
 ---
 
-## 📐 Core Equation
+### 🗺️ Core Equation
 
 We define a harmonic space using the formula:
 
-P(1, i, j, k) = Σ_{p ∈ ℙ} ψ(p) · e^{i θ_p} · f_j(p) + μ(k)
+```
+𝕏(①, ᴊ, ᴋ, ᴌ) = ∑ₚ∈ℙ ψ(ₚ) · e﹩ᵒₚ · Ƒᴋ(ₚ) + μ(ᴌ)
+```
 
 This combines:
-- **Root Function \( \sqrt{p} \)** → harmonic field base scaling
-- **Log Function \( \log(p) \)** → density modulation
+
+* **√ₚ (Root Function)** → harmonic field base scaling
+* **log(ₚ) (Log Function)** → density modulation
 
 ---
 
-## 🌀 Spiral Mapping with Golden Angle
+### 🔀 Spiral Mapping with Golden Angle
 
 By rotating primes using:
 
-\[
-x = R(p) \cdot \cos(\theta), \quad y = R(p) \cdot \sin(\theta)
-\quad \text{where} \quad \theta = n \cdot \frac{137.5^\circ}{360^\circ} \cdot 2\pi
-\]
+```
+x = R(p) · cos(θ), y = R(p) · sin(θ) where θ = n · (137.5° / 360°) · 2π
+```
 
 we generate **fractal-aligned structures** revealing modular clustering and harmonic periodicities.
 
 ---
 
-## 🔍 Visualization
+### 🖼️ Visualization
 
-See visual:  
+See visual:
 📷 `./visuals/Prime_Root_Space_Scaling_Resonance_mapping.png`
 
 ---
 
-## 💡 Interpretation
+### 💡 Interpretation
 
-- Primes **are not randomly distributed**.
-- Root-scaled primes exhibit **hidden symmetries**.
-- Golden-angle rotations align primes with **resonant vector fields**.
+This model demonstrates that prime numbers follow **root-resonant patterns** and cluster in spiral-harmonic fields. The golden angle introduces **periodic symmetry**, suggesting that primes may arise from deeper **structural resonance laws** — not random distribution.
 
 ---
 
-## 🧠 Background References
+### ✅ Credits
 
-- Inspired by Euler's density model \( \log(n) \)
-- Root-space aligned with Zeta critical line geometry
-- Fractal structures echo Ramanujan resonance points
-
----
-
-## 📌 Used in:
-
-- `prime_quaternion_grid.md`
-- `lambda_phi_torsion.md`
-- `riemann_ramanujan_bridge.md`
-
----
-
-## 🖋️ Credits
-
-Codex concept and design by **Scarabæus1033 / Thomas Hofmann**  
-Based on NEXAH–CODEX Root Space Harmonic Layer (NTI Model)
+Developed within the **NEXAH-CODEX**
+Visual–Mathematical System by **Scarabæus1033**
+Curated by **Thomas Hofmann** for harmonic prime theory
