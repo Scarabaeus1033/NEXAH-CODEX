@@ -8,13 +8,7 @@ This document presents the mathematical basis and resonance equation for prime n
 
 We define a harmonic space using the formula:
 
-<pre>
-```latex
-$begin:math:display$ 
-P(1, i, j, k) = \\sum_{p \\in \\mathbb{P}} \\psi(p) \\cdot e^{i \\theta_p} \\cdot f_j(p) + \\mu(k) 
-$end:math:display$
-```
-</pre>
+P(1, i, j, k) = Σ_{p ∈ ℙ} ψ(p) · e^{i θ_p} · f_j(p) + μ(k)
 
 This combines:
 - **Root Function \( \sqrt{p} \)** → harmonic field base scaling
