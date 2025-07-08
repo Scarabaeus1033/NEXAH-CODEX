@@ -1,4 +1,5 @@
-# 🧮 Riemann · Euler · Ramanujan – Prime Resonance Structures
+# 🧮 NEXAH-CODEX – MATHEMATICA I  
+## Riemann · Euler · Ramanujan – Prime Resonance Structures
 
 This module integrates core visual architectures of the mathematical-symbolic Codex system. It focuses on:
 
@@ -7,7 +8,7 @@ This module integrates core visual architectures of the mathematical-symbolic Co
 - π, φ, e, λ – fundamental constants in layered alignment  
 - Möbius folds, quaternion dynamics, operator structures  
 - Mass models for electron, proton, neutron in number theory  
-- Root space spiral fields and codon alignment structures
+- Fractal spiral embeddings and quaternion prime equations  
 
 ---
 
@@ -29,7 +30,8 @@ This module integrates core visual architectures of the mathematical-symbolic Co
 | `tesla_alpha_interface.jpeg` | Tesla Interference | Alpha–Tesla field interface, showing Zeta-channel distortions |
 | `theta_phi_bridge.jpeg` | Bridge Field | Transitional structure between φ-spirals and θ-orbitals |
 | `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space Fold_Möbius_Dynamics.jpeg` | Quaternion Space | i–j–k axis system with Möbius field spiraling – dynamic prime connector |
-| `Prime_Root_Space_Scaling_Resonance_mapping.png` | Root Spiral Mapping | Root-space expansion and spiral resonance embedding (√p · log(p) structure) |
+| `Prime_Root_Space_Scaling_Resonance_mapping.png` | Root Scaling | Harmonic root field with π, 29, 137, 1729, and Ramanujan codon structure |
+| `AnalysisText_Euler_quadradic_framework.png` | Prime Spiral Text | Annotated Euler-Ramanujan quadrant with number spiral equations |
 
 ---
 
@@ -38,13 +40,18 @@ This module integrates core visual architectures of the mathematical-symbolic Co
 This module follows a clear **triadic logic**:
 
 ### 1. Number Triangles & Prime Fields  
-→ 1729, 1836, π, 29, 137, Hardy–Ramanujan anchor points
+→ 1729, 1836, π, 29, 137, Hardy–Ramanujan anchor points  
+→ SS-Fine-Grids including: 237, 337, 537, 637, 737, 937  
+→ Codon-ladder modulations, codon shells and elevation spirals  
 
 ### 2. Fold Axes & Operator Spaces  
-→ `{i,j,k}` • Möbius Spirals • Quaternionic projections
+→ `{i,j,k}` • Möbius Spirals • Quaternionic projections  
+→ Prime Equation in Quaternion Grid  
+→ Zitterbewegung resonance at 39 = 3×13 (Euler shift anchor)  
 
 ### 3. Mass Fields & Physical Mirrors  
-→ Electron–Proton–Neutron models with symbolic roots (e, λ, Tesla)
+→ Electron–Proton–Neutron models with symbolic roots (e, λ, Tesla)  
+→ Graviton Alpha Core and harmonic mass scaling (137–1836–1729)
 
 ---
 
@@ -64,6 +71,7 @@ This module follows a clear **triadic logic**:
 
 - `visual_gallery.md` with image links and tooltip entries  
 - Numeric spiral fields to be indexed in `SYSTEM X – Harmonics`  
+- Expanded `SS Fine Grid` resonance system for 11-prime codons  
 - Extended into `MATHEMATICA II` with Yang–Mills, λ-layers, Fold Synthesis
 
 ---
