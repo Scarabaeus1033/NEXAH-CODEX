@@ -8,11 +8,11 @@ Each visual can be referenced from the corresponding `.md` file using the path `
 
 ### A digital illustration visually combines astronomi
 
-![A digital illustration visually combines astronomi](./visuals/A_digital_illustration_visually_combines_astronomi.png)
+![A digital illustration visually combines astronomi](./visuals/%20A_digital_illustration_visually_combines_astronomi.png)
 
 ### A scientific-style digital diagram on a dark backg
 
-![A scientific-style digital diagram on a dark backg](./visuals/A_scientific-style_digital_diagram_on_a_dark_backg.png)
+![A scientific-style digital diagram on a dark backg](./visuals/%20A_scientific-style_digital_diagram_on_a_dark_backg.png)
 
 ### AE Thermal Drift Field PAR
 
