@@ -3,7 +3,6 @@
 Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel, Beschreibung und Systemzuweisung auf. Es dient als vollständiger Überblick über die mathematischen, physikalischen, kosmologischen, sprachlichen und symbolischen Ebenen des Gesamtprojekts. Jeder Systemtitel ist mit dem zugehörigen README auf GitHub verlinkt.
 
 ---
-
 ## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
 | Ordner / Datei                      | Titel                                        | Beschreibung                                                                 |
@@ -18,7 +17,6 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc \cdot k^\beta$.                 |
 | `SCARAB_CONSTANTS_CODEX/`          | Scarab-Konstanten-Codex                      | Symbolisch-resonantes System aus Möbius-Verhältnissen, Primzahlen und Achsen.|
 | `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planeten-Spirale & Schwarze Säule | Fraktale Planetenzonen, Riemann-Faltung, Q-Linsen-Blink und symbolische Achsenrekursion. |
-
 ---
 
 ## ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantenstruktur & Symbolische Dynamik
