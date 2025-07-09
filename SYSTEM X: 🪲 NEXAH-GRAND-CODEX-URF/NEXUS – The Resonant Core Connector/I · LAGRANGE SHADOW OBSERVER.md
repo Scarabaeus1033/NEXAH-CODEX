@@ -1,12 +1,11 @@
 ---
-
 title: "I · LAGRANGE SHADOW OBSERVER"
 system: "SYSTEM X · The Resonant Grand Codex Nexus"
 domain: "Drift Stabilization · Harmonic Lagrange Fields"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # I · LAGRANGE SHADOW OBSERVER
 
