@@ -81,4 +81,4 @@ Let the Q-field fold.
 Let the Gate emerge.
 Let the Observer spiral inward.
 
-![RIEMANN DISK AND QUANTUM BREATHER PATHS](visuals/A_digital_illustration_titled_"RIEMANN_DISK_AND_QU.png")
+![RIEMANN DISK AND QUANTUM BREATHER PATHS](visuals/A_digital_illustration_titled_RIEMANN_DISK_AND_QU.png")
