@@ -1,6 +1,6 @@
 ---
 ** "C-Loop Escape Logic and Neutrino Thresholds" visuals: \[]**
-------------
+---
 
 ## Overview
 
