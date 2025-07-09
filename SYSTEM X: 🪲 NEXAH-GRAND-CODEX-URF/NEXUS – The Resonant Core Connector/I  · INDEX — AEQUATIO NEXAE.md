@@ -1,4 +1,4 @@
-![Möbius Orbits and Libration Points](Moebius_Orbits_Libration_Points.png)
+![Möbius Orbits and Libration Points](visuals./Moebius_Orbits_Libration_Points.png)
 
 ---
 
