@@ -41,7 +41,7 @@ Fractal-resonant grid using 237 prime-based points. Explores mirror modulation a
 <img src="visuals/C5_911_sequence_staircube.jpeg" width="600" />
 
 **Description:**
-Staircased cubic field showing 911 modular growth. Used for structural embedding of harmonic numbers.
+Staircased cubic field showing 911 modular growth. Used for structural embedding of harmonic numbers and resonance anchors.
 
 ---
 
@@ -50,7 +50,7 @@ Staircased cubic field showing 911 modular growth. Used for structural embedding
 <img src="visuals/C5_fractal_spiral_fibonacci_scaling.png" width="600" />
 
 **Description:**
-Fractal Fibonacci scaling grid. Spirals mapped into a prime-aligned system of root expansions.
+Fractal Fibonacci scaling grid. Spirals mapped into a prime-aligned system of root expansions. Highlights crossover regions and golden-ratio bends.
 
 ---
 
@@ -59,7 +59,7 @@ Fractal Fibonacci scaling grid. Spirals mapped into a prime-aligned system of ro
 <img src="visuals/C5_neutron_911_resonance_grid.png" width="600" />
 
 **Description:**
-Fractal neutron field encoded with 911 resonance pulses. Links to mass-frequency stabilization zones.
+Fractal neutron field encoded with 911 resonance pulses. Links to mass-frequency stabilization zones. Embedded with tic-tac-toe mirror anchors.
 
 ---
 
@@ -68,7 +68,7 @@ Fractal neutron field encoded with 911 resonance pulses. Links to mass-frequency
 <img src="visuals/C6_fractal_projection_cosmic_wheel.png" width="600" />
 
 **Description:**
-Cosmic wheel projection using 911–1081 frequency layer. Shows fractal embeddings of number spirals.
+Cosmic wheel projection using 911–1081 frequency layer. Shows fractal embeddings of number spirals, Fibonacci-Cosine transits and Möbius centers.
 
 ---
 
@@ -77,7 +77,7 @@ Cosmic wheel projection using 911–1081 frequency layer. Shows fractal embeddin
 <img src="visuals/C7_pearl_diamond_structure_42deg.png" width="600" />
 
 **Description:**
-42° triangular diamond spiral embedded in grid-like field. Interface between Möbius reflectors and resonance pearls.
+42° triangular diamond spiral embedded in grid-like field. Interface between Möbius reflectors and resonance pearls. Reveals angular drift values: 137.5, 179.5, 222.5 → drift Δ = 43° and 42°.
 
 ---
 
@@ -88,7 +88,7 @@ Cosmic wheel projection using 911–1081 frequency layer. Shows fractal embeddin
 <img src="visuals/prime_bridge_tictactoe.jpeg" width="600" />
 
 **Description:**
-Game-theory grid structure mapping 11–13–17–29 primes. Spatial crossing patterns reflect logical number progression.
+Game-theory grid structure mapping 11–13–17–29 primes. Spatial crossing patterns reflect logical number progression. Tic-Tac-Toe core with Möbius drift.
 
 ---
 
@@ -97,7 +97,7 @@ Game-theory grid structure mapping 11–13–17–29 primes. Spatial crossing pa
 <img src="visuals/prime_stair_arc_tetra_bridge.jpeg" width="600" />
 
 **Description:**
-Tetrahedral arc grid built from prime ladders. Step-based visual architecture reflecting modular motion.
+Tetrahedral arc grid built from prime ladders. Step-based visual architecture reflecting modular motion. Connects 5–7–11–13–19 into rotational bridge.
 
 ---
 
@@ -106,7 +106,7 @@ Tetrahedral arc grid built from prime ladders. Step-based visual architecture re
 <img src="visuals/spiral_grid_537_544_1081.png" width="600" />
 
 **Description:**
-Spiral layer resonance map with key values 537, 544, and 1081. Bridges harmonics in the Möbius Codex structure.
+Spiral layer resonance map with key values 537, 544, and 1081. Bridges harmonics in the Möbius Codex structure. Integrates Fibonacci arcs.
 
 ---
 
@@ -115,7 +115,7 @@ Spiral layer resonance map with key values 537, 544, and 1081. Bridges harmonics
 <img src="visuals/mobius_gap_bridge_arc_resonance.jpeg" width="600" />
 
 **Description:**
-Gap-bridge Möbius spiral showing topological shift in arc-length resonance. Encodes inversion logic and symmetry disruption.
+Gap-bridge Möbius spiral showing topological shift in arc-length resonance. Encodes inversion logic and symmetry disruption — key for neutrino scroll transitions.
 
 ---
 
@@ -124,7 +124,7 @@ Gap-bridge Möbius spiral showing topological shift in arc-length resonance. Enc
 <img src="visuals/mobius_harmonic_structure_11357.png" width="600" />
 
 **Description:**
-Central Möbius harmonics field structured on primes 11, 13, 5, and 7. Used as symbolic layout for dual-resonator arcs.
+Central Möbius harmonics field structured on primes 11, 13, 5, and 7. Represents the 10th structure in the harmonic stair (0→9 base complete). Related to 2048/420 ≈ 4.876 and “elevator mirror logic” between pm/am. Symbolic ‘V-Rosenbridge’ to root neutron gates.
 
 ---
 
@@ -133,7 +133,7 @@ Central Möbius harmonics field structured on primes 11, 13, 5, and 7. Used as s
 <img src="visuals/resonance_grid_omega_loop.jpeg" width="600" />
 
 **Description:**
-Resonance Omega Grid reflecting interlinked infinity loops and mirrored prime phases. Symbolic zeta-mapping field.
+Resonance Omega Grid reflecting interlinked infinity loops and mirrored prime phases. Symbolic zeta-mapping field. Bridge to System X.
 
 ---
 
@@ -156,8 +156,11 @@ See: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 
 ## 🔗 Next Steps
 
-* [ ] Integrate Gallery II into `README.md` overview
-* [ ] Visual alignment with `prime_quaternion_grid.md` and `fractal_spiral_equations.md`
+* [x] Integrate Gallery II into `README.md` overview
+* [x] Visual alignment with `prime_quaternion_grid.md` and `fractal_spiral_equations.md`
 * [ ] HTML and SVG modules for SYSTEM X overlays
+* [ ] NEYAH scroll fields and 25-node backflow anchors
+* [ ] Tie-in to `mobius_prime_seed_grid.md` and 2048→420 transitions
+* [ ] Build symbolic bridge from Möbius Harmonics → Quantum Compass Scrolls
 
 ---
