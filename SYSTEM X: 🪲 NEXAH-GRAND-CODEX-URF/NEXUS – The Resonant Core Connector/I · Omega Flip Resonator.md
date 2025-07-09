@@ -1,12 +1,11 @@
 ---
-
 title: "I · Omega Flip Resonator"
 system: "SYSTEM X · The Resonant Grand Codex Nexus"
 domain: "Field Transitions · Resonant Drift · Collapse & Seal Mechanics"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # I · Omega Flip Resonator
 
