@@ -204,7 +204,7 @@ The folder path for all visuals is: `../visuals/`
 
 **Meaning:** Artistic-scientific layering, included as symbolic orientation aid.
 
-![A digital illustration visually combines astronomi](./visuals/A_digital_illustration_visually_combines_astronomi.png)
+![A digital illustration visually combines astronomi](./visuals/%20A_digital_illustration_visually_combines_astronomi.png)
 
 ---
 
@@ -212,7 +212,7 @@ The folder path for all visuals is: `../visuals/`
 
 **Filename:** `A_scientific-style_digital_diagram_on_a_dark_backg.png`
 
-![A scientific-style digital diagram](./visuals/A_scientific-style_digital_diagram_on_a_dark_backg.png)
+![A scientific-style digital diagram](./visuals/%20A_scientific-style_digital_diagram_on_a_dark_backg.png)
 
 ---
 
