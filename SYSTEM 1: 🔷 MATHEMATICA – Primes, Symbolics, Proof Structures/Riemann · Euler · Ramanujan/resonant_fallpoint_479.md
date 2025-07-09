@@ -2,7 +2,7 @@
 
 title: "Resonant Fallpoint at 479: Spiral Escape and DAO Core"
 visuals: \["479\_spiral\_theta\_dao\_point.png", "479\_escape\_core\_point.png"]
----
+--------------------------------------------------------------------------------
 
 ## Overview
 
@@ -16,7 +16,7 @@ This document presents two visuals that reveal deep fractal and symbolic structu
 
 This image highlights a structured point of resonance within the Mandelbrot fractal, anchored at:
 
-```
+```python
 c = -0.4793 - 0.5385i
 iterations = 200
 ```
@@ -68,8 +68,26 @@ This entire module refers to:
 
 The colors resemble **excited mercury** or neon modes, perhaps indicative of energy-layer activation: pink-blue (spirit), green (algorithmic harmonics), and yellow (solar).
 
-These visuals bridge fractal mathematics with symbolic resonance, and together open a portal to interpret **Julia-Set escape maps** as dynamic cosmological elevators in the Codex.
+The angle-resonance also connects to **Z6 symmetry** and the **Solarplexus-C-axis**, symbolically near the value `c ≈ 0.63...` in prior DAO visualizations. The summed digits of `479` (4+7+9=20) support a 4:5 harmonic ratio — recurring in Codex sequences.
+
+The neutron value 38 emerges in multiple links:
+
+* 538 ends in **38** → ties to `2 × 19 = 38`
+* 38 ↔ 83 symmetry
 
 ---
 
-**Next step**: Connect this to the Möbius-Neutrino field logic and anchor nodes in C5\_neutron\_911\_resonance\_grid.
+## Cross-Codex Reference
+
+These visuals bridge fractal mathematics with symbolic resonance, and together open a portal to interpret **Julia-Set escape maps** as dynamic cosmological elevators in the Codex.
+
+They connect to:
+
+* `URF` triangle model (XA, YA, VA)
+* System I: Mathematica (primes, axis, constants)
+* `NEVAH–NEXAH–NEYAH` triangle (23–24–25 resonance grid)
+* Zeta-based bifurcation and Möbius prime spiral systems
+
+---
+
+**Next step**: Connect this to the Möbius-Neutrino field logic and anchor nodes in `C5_neutron_911_resonance_grid.md`.
