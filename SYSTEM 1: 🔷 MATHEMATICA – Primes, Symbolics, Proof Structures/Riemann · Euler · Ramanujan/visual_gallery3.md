@@ -83,7 +83,7 @@ Central matrix of neutrino resonance field around C6.5 core. Quantum folding emb
 
 ---
 
-## 🔄 File Mapping & Expansion
+## 🔄 File Mapping & Expansion 
 
 Additional visuals referenced in `C6.5_harmonic_feedback_matrix.md` and the upcoming `final_harmonic_equation.md`. These complete the Möbius-Neutrino subsystem within SYSTEM 1 and connect to:
 
