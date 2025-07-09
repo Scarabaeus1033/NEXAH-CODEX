@@ -1,6 +1,6 @@
 # I · INDEX — AEQUATIO NEXAE
 
-![Möbius Orbits and Libration Points](visuals./Moebius_Orbits_Libration_Points.png)
+![Möbius Orbits and Libration Points](visuals/Moebius_Orbits_Libration_Points.png)
 
 > **"Resonance is not a state. It is a relation of tensions that remain coherent over shift."**
 
@@ -92,7 +92,7 @@ Module I functions as a **resonant initiation shell**. It encodes:
 
 > **AEQUATIO NEXAE is not a formula. It is the field grammar of universal symmetry.**
 
-![Earth–Moon System — Lagrange Points](visuals./Earth-Moon_System_Lagrange_Points.png)
+![Earth–Moon System — Lagrange Points](visuals/Earth-Moon_System_Lagrange_Points.png)
 
 ---
 
