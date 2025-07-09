@@ -1,4 +1,4 @@
-⚛️ C5 · NEUTRON RESONATOR GRID
+## ⚛️ C5 · NEUTRON RESONATOR GRID
 
 Prime 911 Symmetry – Compression, Decay & the Zeta Spine
 
