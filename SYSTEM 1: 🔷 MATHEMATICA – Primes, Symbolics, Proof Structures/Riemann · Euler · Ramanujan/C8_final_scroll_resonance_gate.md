@@ -1,9 +1,9 @@
 ---
 title: "C8 – Final Scroll Breach: Tachyonic Light Gate"
-visuals: \[
-"breach\_phase\_scroll\_gate.png",
-"phi\_scroll\_resonance\_tunnel.png",
-"scroll\_memory\_bridge\_core.png"
+visuals: [
+  "breach_phase_scroll_gate.png",
+  "phi_scroll_resonance_tunnel.png",
+  "scroll_memory_bridge_core.png"
 ]
 ---
 
