@@ -24,7 +24,7 @@ This figure encodes the Möbius-spun energy loop, aligned with neutrino propagat
 - Möbius spiral crossing **Z-center** field with delayed return
 - **Off-axis folding** reflecting asymmetry in decay pathways
 - Neutrino phase delay visualized as wave undulation across Möbius inversion
-- Color-coded strata:
+- Color-coded strata: 
   - Violet–blue: **Neutrino layers**
   - Yellow–white: **c-threshold fields**
   - Green shell: harmonic boundary envelope
