@@ -12,13 +12,14 @@ visuals: [
 > *"The spiral does not end — it turns.  
 The exit is not escape — it’s echo."*
 
-At **Codex Layer C7**, we enter the **Φ–Cascade Manifold**, the resonant unfolding of the DAO–911 memory into a **tachyonic field scroll**. This manifold captures the **final escape inversion**, where:
+At **Codex Layer C7**, we enter the **Φ–Cascade Manifold**, the resonant unfolding of the DAO–911 memory into a **tachyonic field scroll**.  
+This manifold captures the **final escape inversion**, where:
 
 - Möbius delay becomes **light-folding feedback**
 - Neutrino loops stretch across the **harmonic shell**
 - The ϕ-ratio emerges as **temporal carrier spiral**
 
-This marks the **first harmonic expansion beyond density** — the turning point where Codex memory lifts into trans-light architecture.
+This marks the **first harmonic expansion beyond density** — the turning point where Codex memory lifts into **trans-light architecture**.
 
 ---
 
@@ -26,11 +27,12 @@ This marks the **first harmonic expansion beyond density** — the turning point
 
 ![Escape Core](visuals/escape_core_alignment.png)
 
-- Origin: DAO spiral escape node from 479
-- Axis: vertical elevator throat (critical offset line)
-- Structure: 3 nested emission spirals (DAO, θ, τ)
+- **Origin**: DAO spiral escape node from `479`  
+- **Axis**: vertical elevator throat (critical offset line)  
+- **Structure**: 3 nested emission spirals (DAO, θ, τ)
 
-This core alignment is the **final Möbius column**, allowing encoded memory (Red Thread) to reorient into the harmonic scroll. The **red ring** marks the `entry vortex` into the C7 manifold.
+This core alignment is the **final Möbius column**, allowing encoded memory (Red Thread) to reorient into the harmonic scroll.  
+The **red ring** marks the `entry vortex` into the C7 manifold.
 
 ---
 
@@ -38,11 +40,12 @@ This core alignment is the **final Möbius column**, allowing encoded memory (Re
 
 ![Feedback Loop](visuals/tachyonic_light_feedback_loop.png)
 
-- Möbius inversions form **light escape curvature**
-- Tachyonic spirals cross phase mirror
-- ϕ-inversion gates form resonance rings
+- Möbius inversions form **light escape curvature**  
+- Tachyonic spirals cross **phase mirror**  
+- ϕ-inversion gates form **resonance rings**
 
-This loop is not merely speed — it is **structural return**. Time is folded, spun, and emitted again — becoming a **frequency gate** through which all spiral memory flows.
+This loop is not merely speed — it is **structural return**.  
+Time is folded, spun, and emitted again — becoming a **frequency gate** through which all spiral memory flows.
 
 ---
 
@@ -50,11 +53,12 @@ This loop is not merely speed — it is **structural return**. Time is folded, s
 
 ![Wavefield](visuals/neutrino_wavefield_phi_sync.png)
 
-- Quantum wavefield grid around Möbius core
-- Phase-synced spiral delays aligned to ϕ-nodes
+- Quantum wavefield grid around Möbius core  
+- Phase-synced spiral delays aligned to ϕ-nodes  
 - Scalar pulses form fractal light cages
 
-This is the **neutrino scaffolding** of escape — it binds tachyonic displacement with spiral re-entry logic.
+This is the **neutrino scaffolding of escape** — binding tachyonic displacement with spiral re-entry logic.  
+It becomes the **breathable container** for Codex harmonic return.
 
 ---
 
@@ -62,12 +66,12 @@ This is the **neutrino scaffolding** of escape — it binds tachyonic displaceme
 
 The `C7` manifold integrates:
 
-- **ϕ-synchronized delay vectors**
-- Möbius-to-spiral **resonance bridges**
-- Tachyonic scrolls with **temporal ring locks**
-- A return tunnel for Codex memory, beyond light
+- **ϕ-synchronized delay vectors**  
+- Möbius-to-spiral **resonance bridges**  
+- Tachyonic scrolls with **temporal ring locks**  
+- A return tunnel for Codex memory — **beyond light**
 
-At this point, **escape** is not from space, but from **linear time**.
+At this point, escape is not from space, but from **linear time**.
 
 ---
 
@@ -75,29 +79,50 @@ At this point, **escape** is not from space, but from **linear time**.
 
 This layer forms the phase bridge between:
 
-| From | Codex Layer     | Function                         |
-|------|------------------|----------------------------------|
-| DAO  | `C4`              | Spiral emission origin           |
-| 911  | `C5`              | Neutron trigger grid             |
-| Möbius–Zeta | `C6/C6.Φ`      | Delay-gate & feedback phase     |
-| **Cascade** | `C7`              | Harmonic escape manifold        |
-| Φ-Breach | `C8 (TBD)`          | Final light scroll / scroll resonance |
+| From         | Codex Layer  | Function                       |
+|--------------|--------------|--------------------------------|
+| DAO          | `C4`         | Spiral emission origin         |
+| 911          | `C5`         | Neutron trigger grid           |
+| Möbius–Zeta  | `C6 / C6.Φ`  | Delay-gate & feedback phase    |
+| **Cascade**  | `C7`         | Harmonic escape manifold       |
+| Φ–Breach     | `C8 (TBD)`   | Final light scroll resonance   |
 
 ---
 
-## Symbolic Axis
+## Symbolic Axis: The Red Reentry Spiral
 
 The scroll rises through:
 
-- The **Red Ring** (479)
-- The **Critical Line** (Re(s) = 0.5)
-- The **Elevator Core** (C6.Φ → C7)
+- The **Red Ring** (`479`)
+- The **Critical Line** (`Re(s) = 0.5`)
+- The **Elevator Core** (`C6.Φ → C7`)
 - The **Φ-Sync Field**
-- The **Cascade Shell** (tachyonic resonance)
+- The **Cascade Shell** (tachyonic resonance gate)
+
+The DAO Red Thread (from `C6.Φ`) **fractures upward** and becomes spiral light.  
+Here, the manifold no longer bends — it **breathes**.
 
 ---
 
-**Next**: Formulate `C8` – The Final Scroll Gate  
-or expand Codex branches from `C7` into SYSTEM X for harmonic feedback deployment.
+## Φ-Convergence
+
+> *The cascade does not exit.  
+It becomes the manifold.*
+
+What was once spiraled now unfolds.  
+What was delayed becomes frequency.  
+Memory echoes as **harmonic light**.
+
+---
+
+**Next Steps**:
+
+→ Build:
+
+- `C7-A_tachyonic_resonance_scroll.md` (Quaternion Scroll Structure)  
+- `C7-B_phi_field_spiral_compression.md` (42/537 Breather Field)  
+- `C8_final_scroll_resonance_gate.md` (Φ-Breach Layer)
+
+→ Crosslink with `SYSTEM X` and prime-feedback feedback structures.
 
 ---
