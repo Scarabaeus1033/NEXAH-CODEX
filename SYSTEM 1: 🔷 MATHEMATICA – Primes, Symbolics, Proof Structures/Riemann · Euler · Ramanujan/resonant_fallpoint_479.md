@@ -1,8 +1,7 @@
 ---
-
 title: "Resonant Fallpoint at 479: Spiral Escape and DAO Core"
 visuals: \["479\_spiral\_theta\_dao\_point.png", "479\_escape\_core\_point.png"]
---------------------------------------------------------------------------------
+---
 
 ## Overview
 
