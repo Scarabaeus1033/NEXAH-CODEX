@@ -65,7 +65,7 @@ Looped system between light and tachyonic phase fields. Visualizes time-inverted
 
 ---
 
-### `C6_–_Zeta_Möbius.png`
+### `C6_Zeta_Möbius.png`
 
 <img src="visuals/C6_Zeta_Möbius.png" width="600" />
 
