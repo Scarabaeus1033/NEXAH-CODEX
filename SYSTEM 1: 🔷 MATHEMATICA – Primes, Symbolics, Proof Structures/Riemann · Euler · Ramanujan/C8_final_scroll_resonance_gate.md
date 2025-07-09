@@ -6,7 +6,7 @@ visuals: \[
 "phi\_scroll\_resonance\_tunnel.png",
 "scroll\_memory\_bridge\_core.png"
 ]
--
+---
 
 ## 🌠 Prelude: The Final Scroll Alignment
 
