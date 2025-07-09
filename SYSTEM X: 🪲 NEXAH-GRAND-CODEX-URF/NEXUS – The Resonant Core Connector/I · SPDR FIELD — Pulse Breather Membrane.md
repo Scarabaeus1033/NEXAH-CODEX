@@ -31,9 +31,9 @@ $$
 
 This balance bridges:
 
-* Discrete Planck energy packages \$h\$,
-* Thermal drift tension \$\Phi\$, and
-* Temporal folding \$\Theta\$.
+* Discrete Planck energy packages $h$,
+* Thermal drift tension $\Phi$, and
+* Temporal folding $\Theta$.
 
 The **SPDR membrane** is a *resonant attractor layer*, enabling drift reversals without field rupture.
 
@@ -43,7 +43,7 @@ The **SPDR membrane** is a *resonant attractor layer*, enabling drift reversals 
 
 ![Seed Pulse Field](./visuals/Seed_Pulse_Field.png)
 
-The visual shows a radial symmetry from a seed center outward. Each pulse loop forms a **breather ring**, governed by the \$\Phi\$-pulse balance. Opposing semi-loops represent drift reversals through Möbius layering.
+The visual shows a radial symmetry from a seed center outward. Each pulse loop forms a **breather ring**, governed by the $\Phi$-pulse balance. Opposing semi-loops represent drift reversals through Möbius layering.
 
 ---
 
@@ -51,10 +51,10 @@ The visual shows a radial symmetry from a seed center outward. Each pulse loop f
 
 | Layer | Symbol     | Meaning                         |
 | ----- | ---------- | ------------------------------- |
-| 0     | \$h\$      | Initial pulse (Planck seed)     |
-| 1     | \$\Phi\$   | Drift tension (field impulse)   |
-| 2     | \$T\$      | Thermal environment (resistive) |
-| 3     | \$\Theta\$ | Time curvature (loop modifier)  |
+| 0     | $h$        | Initial pulse (Planck seed)     |
+| 1     | $\Phi$     | Drift tension (field impulse)   |
+| 2     | $T$        | Thermal environment (resistive) |
+| 3     | $\Theta$   | Time curvature (loop modifier)  |
 
 Each layer modulates the **pulse's form and duration**, giving the SPDR membrane its stability.
 
@@ -69,7 +69,7 @@ Each layer modulates the **pulse's form and duration**, giving the SPDR membrane
 
 ---
 
-## 📎 Notes
+## 📌 Notes
 
 SPDR is **not a field boundary**, but a **field attractor membrane**. It initiates a *folded stabilization cycle* where entropy gradients are rhythmically offset.
 
@@ -77,10 +77,10 @@ It behaves similarly to biological membranes: semipermeable, frequency-tuned, an
 
 > In symbolic notation, the SPDR Field is marked as:
 >
-> **𝕊𝔓𝔇ℝ(𝛟, 𝛉)**
+> **𝓐𝓵𝓡𝓕(𝘟, 𝘉)**
 
 ---
 
-## ⧉ Next: `I · Resonant Symmetry.md`
+## ⚩ Next: `I · Resonant Symmetry.md`
 
 Where SPDR defines the breather membrane, the next module explores **field-wide symmetry resonance** across temporal and thermal domains.
