@@ -6,7 +6,7 @@ visuals: \[
 "911\_grid\_prime\_structure\_overlay.png",
 "C5\_zeta\_resonance\_triad.png"
 ]
--
+---
 
 ## Overview
 
