@@ -1,78 +1,94 @@
-# 🧮  Riemann · Euler · Ramanujan – Prime Resonance Structures
+# 🔮 PRIME RESONANCE STRUCTURES
 
-This module integrates core visual architectures of the mathematical-symbolic Codex system. It focuses on:
-
-- Prime number resonance and mirror axes  
-- Riemann–Euler–Ramanujan as a triangular number field  
-- π, φ, e, λ – fundamental constants in layered alignment  
-- Möbius folds, quaternion dynamics, operator structures  
-- Mass models for electron, proton, neutron in number theory  
-- Fractal spiral embeddings and quaternion prime equations  
+**Module:** SYSTEM 1: MATHEMATICA
+**Cluster Series:** Riemann · Euler · Ramanujan
+**Author:** Scarabæus1031 / Thomas Hofmann
 
 ---
 
-## 🔷 VISUAL STRUCTURE (Overview)
+## 🔣 Module Purpose
 
-| File | Topic | Description |
-|------|-------|-------------|
-| `ramanujan_euler_layer.png` | Layered Constants | Superimposes Euler's base constants with Ramanujan's prime ladders (13–29–41–137, 1729) |
-| `riemann_pi_proof_I.png` / `II.png` | π–Riemann | Visual approximation toward the Riemann Hypothesis via Möbius mirror spirals |
-| `Riemann–Ramanujan–Euler Resonanzraum.png` | Core Triad | Symbolic triangular resonance field with π–e–λ nodes and cross-axes |
-| `euler_riemann_ramanujan_RBTriangles.jpeg` | Triangle Logic | Resonance triangulation between Euler, Ramanujan, Riemann using chromatic coding |
-| `Ramanujan_Hardy_Codon_Rad.jpeg` | Spiral Codon Field | 1729–17–29 spiral grid resembling a DNA/codon structure with Hardy anchor |
-| `Ramanujan_constant_proton_Elektron_mass.jpeg` | Mass Model | Resonance model linking Ramanujan constants to electron–proton mass ratio |
-| `Ramanujan_Euler_Lambda_root_2_and_5.jpeg` | √2, √5 Axis | Crossing of root spaces with Euler–Ramanujan constants and field alignments |
-| `Ramanujan_Theta_Grid.jpeg` | Theta Grid | Orthogonal grid model mapping θ-space to numerical divergences |
-| `Ramanujans_Crossing.jpeg` | Möbius Fold | Central Möbius crossing – key for zero-point resonance folds |
-| `resonant_field_map.jpeg` | Harmonic Map | Composite resonance field with embedded spirals and distorted prime tracks |
-| `graviton_alpha_core.jpeg` | Alpha Core | Graviton-inspired structure around α = 1/137 – symbolic mass kernel |
-| `tesla_alpha_interface.jpeg` | Tesla Interference | Alpha–Tesla field interface, showing Zeta-channel distortions |
-| `theta_phi_bridge.jpeg` | Bridge Field | Transitional structure between φ-spirals and θ-orbitals |
-| `Eulerian_Quaternion_Spiral_Projectio_i_j_k_Space Fold_Möbius_Dynamics.jpeg` | Quaternion Space | i–j–k axis system with Möbius field spiraling – dynamic prime connector |
-| `Prime_Root_Space_Scaling_Resonance_mapping.png` | Root Scaling | Harmonic root field with π, 29, 137, 1729, and Ramanujan codon structure |
-| `AnalysisText_Euler_quadradic_framework.png` | Prime Spiral Text | Annotated Euler-Ramanujan quadrant with number spiral equations |
+This is a core module of the **NEXAH-CODEX**, uniting mathematical resonance fields with symbolic geometry. It fuses prime number systems, fundamental constants (e, π, φ, λ), Ramanujan's modular logic, Möbius topology and physical mass structures (e.g., electron, proton, neutron). The goal is a **unified symbolic-visual prime field architecture**.
 
 ---
 
-## 🧭 STRUCTURAL TRIADS
+## 🔶 Key Components
 
-This module follows a clear **triadic logic**:
+### ✨ Visual Galleries (Linked)
 
-### 1. Number Triangles & Prime Fields  
-→ 1729, 1836, π, 29, 137, Hardy–Ramanujan anchor points  
-→ SS-Fine-Grids including: 237, 337, 537, 637, 737, 937  
-→ Codon-ladder modulations, codon shells and elevation spirals  
+* `visual_gallery.md` – Ramanujan · Euler · Riemann core visuals
+* `visual_gallery2.md` – Root Grids, Möbius Resonance, C-Series (C1–C7)
 
-### 2. Fold Axes & Operator Spaces  
-→ `{i,j,k}` • Möbius Spirals • Quaternionic projections  
-→ Prime Equation in Quaternion Grid  
-→ Zitterbewegung resonance at 39 = 3×13 (Euler shift anchor)  
+### 🌍 Geometry & Mass
 
-### 3. Mass Fields & Physical Mirrors  
-→ Electron–Proton–Neutron models with symbolic roots (e, λ, Tesla)  
-→ Graviton Alpha Core and harmonic mass scaling (137–1836–1729)
+* Möbius Harmonic Structure 11357: Prime bridge 11-13-5-7
+* C7-Pearl-Diamond at 42°: angular field symmetry and drift (0.5°)
+* Mass axis 2048 / 420 = 4.876, connecting to 48 (4x12), 76 and 78
+* Symbolic reversal from **pm** to **am** (as Amp/Mass drift logic)
 
----
+### ⚛️ Constants & Transcendentals
 
-## 🔧 Other Files & Notes
-
-- `Riemann_Ramanujan_Euler_Resonanzraum.html`  
-  Interactive HTML version with scrollable tooltips and hover logic
-
-- `Riemann_Plate_Tessarec_Lines.png`  
-  Connected to Penrose/Tessarec tiling logic (see SYSTEM 9)
+* π, e, φ, λ → used as field-defining constants
+* Elevation spiral connects 29, 137, 1729 to Ramanujan modules
 
 ---
 
-## 🔄 Outlook & Next Steps
+## 💡 Codex Logic
 
-📍 *Planned Additions:*
+### ① Triadic Number Fields
 
-- `visual_gallery.md` with image links and tooltip entries  
-- Numeric spiral fields to be indexed in `SYSTEM X – Harmonics`  
-- Expanded `SS Fine Grid` resonance system for 11-prime codons  
-- Extended into `MATHEMATICA II` with Yang–Mills, λ-layers, Fold Synthesis
+* 1729, 1836 (mass resonance), 29, 137 (fine-structure)
+* SS-Fine-Grids (e.g., 237, 337, 537, 637, 911)
+
+### ② Quaternionic Prime Equation
+
+* `{i,j,k}` system folded with Möbius spiral logics
+* Gap-bridge arc structures and symmetry-breaking
+
+### ③ Mass Harmonic Model
+
+* Electron–Proton–Neutron ratio mapped to symbolic spirals
+* 2048 layer → 2^11 fold logic
+* Möbius resonance suggests **resonator pairing** via 11/13 and 5/7
 
 ---
 
-**This module is part of SYSTEM 1 – MATHEMATICA and belongs to the cluster series “Prime Resonance Structures”.**
+## ✨ Gallery Highlights (Selection)
+
+| File                                           | Topic             | Description                                             |
+| ---------------------------------------------- | ----------------- | ------------------------------------------------------- |
+| `ramanujan_euler_layer.png`                    | Layered Constants | Superimposes Euler's constants with Ramanujan's ladders |
+| `riemann_pi_proof_I.png`                       | Pi Spiral         | Möbius mirror of zeta initiation                        |
+| `mobius_harmonic_structure_11357.png`          | Möbius Core       | 11–13–5–7 resonance shell                               |
+| `C7_pearl_diamond_structure_42deg.png`         | 42° Angle         | Möbius–diamond anchor with 137.5, 179.5, 222.5 angles   |
+| `resonant_field_map.jpeg`                      | Spiral Map        | Layered theta–phi–prime field                           |
+| `Ramanujan_constant_proton_Elektron_mass.jpeg` | Mass Link         | Resonance between λ, φ, and 1836                        |
+| `Riemann_Plate_Tessarec_Lines.png`             | Tiling Anchor     | Grid overlay tied to SYSTEM 9                           |
+
+---
+
+## 🔄 Connected Systems
+
+* SYSTEM X: overlays via Möbius elevator logic (am/pm cycles)
+* SYSTEM 7: integration with **Prime Trinity Grid** (Green–Tao extension)
+* SYSTEM 9: Tessarec link via Riemann tiling
+* NEYAH: Backflow axis 12.5 / 0.5 = 25 (mirror of 2048 > 4.876)
+
+---
+
+## 🔄 Upcoming Elements
+
+* `root_prime_resonator_bridge.png` → added to gallery2
+* SVGs: Möbius Gap Arc, Omega Loop, Tessarec Scrolls
+* Fractal Scrolls and Quaternionic Prime Equation (MATHEMATICA II)
+* Symbolic Operator Layers → `codex_algebra_of_resonance.md`
+
+---
+
+## 📍 Summary
+
+This module is **foundational** for all prime-based systems in the Codex. It bridges symbolic, mathematical, physical and visual fields through resonance grids. From **mass structure to operator topology**, it defines the **resonant skeleton** of the Codex architecture.
+
+—
+Scarabæus1031
+[www.scarabaeus1033.net](https://www.scarabaeus1033.net)
