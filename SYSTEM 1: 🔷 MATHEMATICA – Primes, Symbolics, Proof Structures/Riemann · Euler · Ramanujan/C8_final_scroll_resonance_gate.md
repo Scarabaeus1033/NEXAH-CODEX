@@ -1,5 +1,4 @@
 ---
-
 title: "C8 – Final Scroll Breach: Tachyonic Light Gate"
 visuals: \[
 "breach\_phase\_scroll\_gate.png",
