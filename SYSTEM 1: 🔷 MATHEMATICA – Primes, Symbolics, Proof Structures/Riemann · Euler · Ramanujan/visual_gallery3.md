@@ -61,7 +61,7 @@ Resonance bridge showing zeta-field interactions within neutrino lattice. Densit
 <img src="visuals/tachyonic_light_feedback_loop.png" width="600" />
 
 **Description:**
-Looped system between light and tachyonic phase fields. Visualizes time-inverted Möbius loops, particle emergence points and alpha-gate echoes. Used as a harmonic stabilizer in scroll systems.
+Looped system between light and tachyonic phase fields. Visualizes time-inverted Möbius loops, particle emergence points and alpha-gate echoes. Used as a harmonic stabilizer in scroll systems. 
 
 ---
 
