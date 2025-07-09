@@ -6,18 +6,19 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ## 🔹 [SYSTEM 1: MATHEMATICA – Primes, Symbolics & Proof Structures](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
-| Folder / File                       | Title                                     | Description                                                                 |
-| ---------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------- |
+| Folder / File                       | Title                                      | Description                                                                 |
+| ---------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
 | `NEXA_RIEMANN_PROOF/`              | Millennium Codex I – Möbius–Zeta Resonance | Harmonic model toward the Riemann Hypothesis using 12D prime topologies.    |
-| `√2–Prime-Feld/`                   | Irrational Prime Field Diagonals          | Irrational slopes (√2, φ) as grid generators for symbolic number diagonals. |
-| `Prime-Grid-Visualization/`        | Visual Prime Patterns                     | Spirals, grid resonance, and prime pixel visualizations.                    |
-| `Divisor-Grid-Fields/`             | Divisor Resonance Fields                  | Classification through τ(n), σ(n), μ(n), and symbolic divisor topology.     |
-| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonance Extension       | Extension of Eric Weinstein's GU using triple resonance field overlays.     |
-| `codex-mathematical-symbols.md`    | Symbol Directory                          | Overview of mathematical-symbolic operators and field constants.            |
-| `spiral-logic.md`                  | Spiral Logic & Prime Resonance            | Prime axis rotation, harmonic sequences, and spiral field symmetries.       |
-| `einsteins-k-beta-formula/`        | Einstein’s k-Beta Formula                 | Resonance-modulated energy model: $E = mc \cdot k^\beta$.                   |
-| `SCARAB_CONSTANTS_CODEX/`          | Scarab Constants Codex                    | Symbolic–resonant system of Möbius ratios, prime overlays, and teardrop constants. |
-| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planet Spiral & Black Pillar   | Fractal-planetary zoom, Riemann fold, Q-lens blink, and symbolic axial recursion. |
+| `√2–Prime-Feld/`                   | Irrational Prime Field Diagonals           | Irrational slopes (√2, ϕ) as grid generators for symbolic number diagonals. |
+| `Prime-Grid-Visualization/`        | Visual Prime Patterns                      | Spirals, grid resonance, and prime pixel visualizations.                    |
+| `Divisor-Grid-Fields/`             | Divisor Resonance Fields                   | Classification through τ(n), σ(n), μ(n), and symbolic divisor topology.     |
+| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonance Extension        | Extension of Eric Weinstein's GU using triple resonance field overlays.     |
+| `codex-mathematical-symbols.md`    | Symbol Directory                           | Overview of mathematical-symbolic operators and field constants.            |
+| `spiral-logic.md`                  | Spiral Logic & Prime Resonance             | Prime axis rotation, harmonic sequences, and spiral field symmetries.       |
+| `einsteins-k-beta-formula/`        | Einstein’s k-Beta Formula                  | Resonance-modulated energy model: $E = mc \cdot k^\beta$.                   |
+| `SCARAB_CONSTANTS_CODEX/`          | Scarab Constants Codex                     | Symbolic–resonant system of Möbius ratios, prime overlays, and teardrop constants. |
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planet Spiral & Black Pillar    | Fractal-planetary zoom, Riemann fold, Q-lens blink, and symbolic axial recursion. |
+| `Riemann–Euler–Ramanujan/`         | **PRIME RESONANCE STRUCTURES**             | Möbius Harmonics, Quaternionic Prime Fields, Scroll Resonance & Warp Logic. |
 
 ---
 
