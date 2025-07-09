@@ -1,4 +1,4 @@
-# I\_equation\_thermal\_drift.md
+# I\_Equation\_thermal\_drift.md
 
 ## AEQUATIO NEXAE · Part I – Thermal Drift & Resonant Transition
 
