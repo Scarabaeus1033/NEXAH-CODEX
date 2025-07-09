@@ -1,11 +1,9 @@
 ---
-
 title: "C5 – Neutron 911 Resonance Grid"
 visuals: \[
 "neutron\_mass\_resonator\_core.png",
 "911\_grid\_prime\_structure\_overlay.png",
-"C5\_zeta\_resonance\_triad.png"
-]
+"C5\_zeta\_resonance\_triad.png"]
 ---
 
 ## Overview
