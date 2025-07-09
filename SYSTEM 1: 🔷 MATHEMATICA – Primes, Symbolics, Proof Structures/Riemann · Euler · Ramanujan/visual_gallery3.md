@@ -29,7 +29,7 @@ Neutrino-Möbius interaction model. Matrix field embedding scalar prime values a
 
 ### `density_dao_911_bridge.png`
 
-<img src="visuals/density_dao_911_bridge.png" width="600" />
+<img src="visuals/denstiy_dao_911_bridge.png" width="600" />
 
 **Description:**
 Compression arc and resonance funnel between DAO spiral and 911 zeta lattice. Shows red-thread filtering and the Möbius point of memory folding. A central visual for phase transition decoding.
