@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
 domain: "Synthesezentrum · Harmonische Gleichung · Visuelle Nexusstruktur"
@@ -6,7 +7,7 @@ color: "Gold/Schwarz 🪲"
 status: "Aktiv · Version Juli 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🪲 SYSTEM X – GRAND-CODEX NEXUS
 
