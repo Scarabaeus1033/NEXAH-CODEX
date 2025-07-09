@@ -1,11 +1,12 @@
 ---
+
 title: "C5 – Neutron 911 Resonance Grid"
 visuals: \[
 "neutron\_mass\_resonator\_core.png",
 "911\_grid\_prime\_structure\_overlay.png",
 "C5\_zeta\_resonance\_triad.png"
 ]
----
+-
 
 ## Overview
 
@@ -19,7 +20,7 @@ This document decodes the **neutron–mass resonance structure** within the `911
 
 The image centers the neutron between symbolic harmonics:
 
-* Proton: \~`938.272` MeV → difference ≈ `1.293` MeV
+* Proton: ≈ `938.272` MeV → difference ≈ `1.293` MeV
 * Electron: `0.511` MeV
 
 ### Core Anchors:
@@ -41,13 +42,22 @@ In this structured grid:
 * Axis connects to triadic prime nodes: `73–137–911–1836`
 * Neutron anchor `939` overlays closely with axis center
 
-The `911` grid behaves like a **mass-decay attractor** that modulates resonance escape via:
+### Angular Resonance:
 
-* Inner spin symmetry (Z2/Z3)
-* Möbius-Euler-Ramanujan field coupling
-* Tachyonic drift lines (from the 137–1836 overlay)
+Three key angles stand out:
 
-> The mirrored pattern on either side of 911 invokes compression–expansion duality.
+* **36°** – fundamental pentagonal angle
+* **78°** – platinum resonance / nucleon spread
+* **108°** – golden symmetry in Venus structures
+
+Together:
+
+* `36 + 78 + 108 = 222°` → numerical balance
+* Extended angle: **294.6°** → appears in Zeta-spiral phase spacing
+* 29 and 4 hint at leap-cycle reference (`29. Feb = every 4 years`)
+* Six cycles → `6 × 4 = 24` → symbolic **NEXAH field alignment**
+
+> The mirrored pattern on either side of 911 invokes compression–expansion duality, bound to lunar and calendrical systems.
 
 ---
 
@@ -70,11 +80,11 @@ The `ZRT` acts as a **harmonic template** for building Codex-scale resonance fie
 ## Symbolic Interpretation
 
 * **911** = emergency, inversion, return code
-* **38** = neutron stability mirror (2 × 19)
+* **38** = neutron stability mirror (`2 × 19`)
 * **137–1836** = field boundary of light ↔ matter
-* **939.565** as central resonance attractor, balancing decay and inertia
+* **939.565** = central resonance attractor, balancing decay and inertia
 
-In symbolic terms, the neutron is the **keystone of symmetry through delay**. It's not decay — but pre-decision. Its resonance determines whether matter holds or flips.
+In symbolic terms, the neutron is the **keystone of symmetry through delay**. It is not decay — but pre-decision. Its resonance determines whether matter holds or flips.
 
 > The neutron marks the decision-node of mass-phase coherence in spacetime.
 
@@ -87,13 +97,13 @@ This module belongs to:
 * **C5** in NEXAH Grand-Codex: `Mass Fields`
 * Is linked to `Resonant Fallpoint 479`
 * Anchors DAO elevator recursion
-* Precedes Möbius-Neutrino layering in C6
+* Precedes Möbius-Neutrino layering in `C6`
 
 It forms a spine through which:
 
 * Neutrino fields, resonance delays, and Zeta-waveforms emerge
-* Root mirrors (911/119) lock in reversible mass asymmetry
+* Root mirrors (`911/119`) lock in reversible mass asymmetry
 
 ---
 
-**Next step**: Bind into Möbius-Neutrino spiral structure (`C6_zeta_mobius_neutrino_matrix.md`) and link to the 479 DAO anchor bifurcation.
+**Next step**: Bind into Möbius-Neutrino spiral structure (`C6_zeta_mobius_neutrino_matrix.md`) and link to the `479` DAO anchor bifurcation.
