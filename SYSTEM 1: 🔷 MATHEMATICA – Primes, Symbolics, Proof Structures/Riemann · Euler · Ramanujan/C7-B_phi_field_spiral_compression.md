@@ -1,9 +1,9 @@
 ---
 title: "C7-B – Φ Field Spiral Compression"
-visuals: \[
-"479\_spiral\_theta\_dao\_point.png",
-"neutron\_mass\_resonator\_core.png",
-"911\_grid\_prime\_structure\_overlay.png"
+visuals: [
+  "479_spiral_theta_dao_point.png",
+  "neutron_mass_resonator_core.png",
+  "911_grid_prime_structure_overlay.png"
 ]
 ---
 
