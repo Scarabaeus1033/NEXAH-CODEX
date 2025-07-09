@@ -50,10 +50,18 @@ Visual depiction of Ramanujan’s numerical transition bridge — a ‘crossing�
 ---
 
 ### `Ramanjuan_Hardy_Codon_Rad.jpeg`
-<img src="visuals/Ramanujan_Hardy_Codon_Rad.jpeg" width="600" />
+<img src="visuals/Ramanjuan_Hardy_Codon_Rad.jpeg" width="600" />
 
 **Description:**  
 Spiral codon structure referencing 1729 and 17295, with hexagonal/pentagonal number symbolism. DNA helix embedded in prime coordinate framework.
+
+---
+
+### `root_prime_resonator_bridge.png`
+<img src="visuals/root_prime_resonator_bridge.png" width="600" />
+
+**Description:**  
+Symbolic bridge connecting square roots of primes with prime anchor points: 29, 137, 1729, and φ. Central harmonic elevation for quaternion spiral systems.
 
 ---
 
