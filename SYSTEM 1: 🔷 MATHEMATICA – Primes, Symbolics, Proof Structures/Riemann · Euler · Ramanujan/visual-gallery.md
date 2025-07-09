@@ -70,7 +70,7 @@ Symbolic bridge connecting square roots of primes with prime anchor points: 29, 
 ### `Riemann_pi_proof_I.png`
 <img src="visuals/Riemann_pi_proof_I.png" width="600" />
 
-**Description:**  
+**Description:**   
 First stage of Riemann Hypothesis visualization. Pi-based curve representation with mirror-resonant reflection – critical strip onset.
 
 ---
