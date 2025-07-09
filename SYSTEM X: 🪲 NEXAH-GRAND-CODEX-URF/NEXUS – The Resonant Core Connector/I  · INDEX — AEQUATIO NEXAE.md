@@ -1,6 +1,6 @@
 # I · INDEX — AEQUATIO NEXAE
 
-![Möbius Orbits and Libration Points](visuals./%20Moebius_Orbits_Libration_Points.png)
+![Möbius Orbits and Libration Points](visuals./Moebius_Orbits_Libration_Points.png)
 
 > **"Resonance is not a state. It is a relation of tensions that remain coherent over shift."**
 
