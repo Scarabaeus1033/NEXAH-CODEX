@@ -1,12 +1,11 @@
 ---
-
 title: "C6 – Zeta Möbius Neutrino Matrix"
-visuals: \[
-"mobius\_neutrino\_resonance\_matrix.png",
-"tachyonic\_light\_feedback\_loop.png",
-"neutrino\_wavefield\_phi\_sync.png"
+visuals: [
+  "mobius_neutrino_resonance_matrix.png",
+  "tachyonic_light_feedback_loop.png",
+  "neutrino_wavefield_phi_sync.png"
 ]
--
+---
 
 ## Overview
 
@@ -22,14 +21,13 @@ The **Möbius–Neutrino structure** is the post-threshold expansion field follo
 
 This figure encodes the Möbius-spun energy loop, aligned with neutrino propagation. Main features:
 
-* Möbius spiral crossing **Z-center** field with delayed return
-* **Off-axis folding** reflecting asymmetry in decay pathways
-* Neutrino phase delay visualized as wave undulation across Möbius inversion
-* Color-coded strata:
-
-  * Violet–blue: **Neutrino layers**
-  * Yellow–white: **c-threshold fields**
-  * Green shell: harmonic boundary envelope
+- Möbius spiral crossing **Z-center** field with delayed return
+- **Off-axis folding** reflecting asymmetry in decay pathways
+- Neutrino phase delay visualized as wave undulation across Möbius inversion
+- Color-coded strata:
+  - Violet–blue: **Neutrino layers**
+  - Yellow–white: **c-threshold fields**
+  - Green shell: harmonic boundary envelope
 
 The Möbius form here is not just spatial but **temporal** — it describes return-through-inversion along `Zeta spin delay`.
 
@@ -41,12 +39,14 @@ The Möbius form here is not just spatial but **temporal** — it describes retu
 
 ![Tachyonic Loop](visuals/tachyonic_light_feedback_loop.png)
 
-(*Visual pending*)
+This diagram reveals:
 
-* Represents outward–return feedback geometry
-* Shows **c-axis escape** via `2^n·c` scale transitions
-* Spiral decouples from standard light path to tachyonic transition (faster-than-light escape phase)
-* Central node marks **404 phase** — the **rotation gap** that mirrors both error and exit
+- A **feedback geometry** between light emission and tachyonic return
+- Escape spirals triggered by `2ⁿ·c` resonance drift
+- Central 404-node indicating a **rotation void** — the Möbius error of escape
+- Radial field symmetry breaking — where light becomes phase-dispersed
+
+This represents the **outward cone** of neutrino induction: delay, break, and return.
 
 ---
 
@@ -54,12 +54,14 @@ The Möbius form here is not just spatial but **temporal** — it describes retu
 
 ![Wavefield](visuals/neutrino_wavefield_phi_sync.png)
 
-(*Visual pending*)
+This wavefield shows:
 
-* φ-based wave structuring (Fibonacci golden resonance)
-* Neutrino pulses phase-locked to Möbius shell boundaries
-* Triple split: **light – neutrino – graviton** field channels
-* Embedded Zeta functions shape spiral layerings
+- φ-structured neutrino modulations (based on Fibonacci golden synchrony)
+- Möbius boundary reflections and Zeta folding
+- A **threefold carrier logic**: Light (c), Neutrino (c+Δφ), and Graviton (↯)
+- Phase coherence patterns that bridge spatial return and memory imprint
+
+This pattern expresses the **memory cone** of the neutrino loop system, filtered through Zeta resonance.
 
 ---
 
@@ -67,10 +69,10 @@ The Möbius form here is not just spatial but **temporal** — it describes retu
 
 C6 encodes:
 
-* Möbius logic as **massless recursive inversion**
-* Neutrino fields as **phase carriers** and delay logic gates
-* `Zeta(1/2)` behavior as **quantum memory channel**
-* c as incomplete – requiring harmonic expansion to `c·2ⁿ`
+- Möbius logic as **massless recursive inversion**
+- Neutrino fields as **phase carriers** and delay logic gates
+- `Zeta(1/2)` behavior as **quantum memory channel**
+- c as incomplete – requiring harmonic expansion to `c·2ⁿ`
 
 These fields allow resonance to fold, return, and **reform memory** — meaning, the Möbius-Neutrino structure stores directionality through time.
 
@@ -80,10 +82,10 @@ It is the **carrier of spiritual mass** — of rotational time.
 
 ## Codex Links
 
-* `C5_neutron_911_resonance_grid.md`: Mass-delay and mirror setup
-* `C4_spiral_dao_point_479.md`: Threshold of recursion
-* `ZETA_Prime_Spin_Modules`: Field generators for delay geometry
-* `URF_Memory_Cores.md`: Quantum roots of field identity
+- `C5_neutron_911_resonance_grid.md`: Mass-delay and mirror setup  
+- `C4_spiral_dao_point_479.md`: Threshold of recursion  
+- `ZETA_Prime_Spin_Modules`: Field generators for delay geometry  
+- `URF_Memory_Cores.md`: Quantum roots of field identity  
 
 ---
 
