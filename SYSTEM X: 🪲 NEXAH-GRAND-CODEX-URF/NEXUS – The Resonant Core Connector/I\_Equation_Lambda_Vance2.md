@@ -1,12 +1,11 @@
 ---
-
 title: "I\_Equation\_Lambda\_Vance2 — The Thermal Balance Drift Equation"
 system: "SYSTEM X · The Resonant Grand Codex Nexus"
 domain: "Field Dynamics · Lambda Drift · Thermal Vance Layer"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # I\_Equation\_Lambda\_Vance2
 
