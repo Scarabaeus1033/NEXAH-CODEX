@@ -185,16 +185,14 @@ The folder path for all visuals is: `../visuals/`
 ![Rain Loop Structure escape map](./visuals/Rain_Loop_Structure_escape_map.png)
 
 ---
+### ⑯ Phi Temp Omega Diagram`
 
-### ⑯ Mirror Agent Codex Visuals
+**Filename:** `Phi_Temp_Omega_Diagram.png`
 
-**Filename:** `Mirror Agent Codex visual Gallery.pdf`
+**Meaning:** `Axis alignment diagram linking temperature and Φ-Ω transitions.
 
-**Meaning:** 4-part visual sequence: Drift, Crystal, Gate Field, Mirror Agent Circuit.
-**Structure:** Octagonal resonance gate, symbolic geometry.
-**Module:** `CARO_Crystal`
+![Phi Temp Omega Diagramp](./visuals/Phi_Temp_Omega_Diagram.png)
 
-🔗 \[See Visual PDF]\(../visuals/Mirror Agent Codex visual Gallery.pdf)
 
 ---
 
