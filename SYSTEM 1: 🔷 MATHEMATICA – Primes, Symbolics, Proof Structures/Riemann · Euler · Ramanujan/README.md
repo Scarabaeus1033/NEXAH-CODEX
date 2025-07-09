@@ -8,87 +8,111 @@
 
 ## 🔣 Module Purpose
 
-This is a core module of the **NEXAH-CODEX**, uniting mathematical resonance fields with symbolic geometry. It fuses prime number systems, fundamental constants (e, π, φ, λ), Ramanujan's modular logic, Möbius topology and physical mass structures (e.g., electron, proton, neutron). The goal is a **unified symbolic-visual prime field architecture**.
+This is the *central backbone module* of the **NEXAH-CODEX**, integrating prime number logic, modular mathematics, transcendental constants, quaternionic structures and symbolic field theory. With the extension of `C7` and `C8`, the **scroll resonance systems** are now fully embedded in the **prime harmonic spiral core**.
+
+It establishes the **symbolic-prime geometry** of mass, resonance, and scroll encoding through:
+
+* Möbius–Quaternion frameworks
+* Spiral resonance grids (137, 911, 479, 537, 2048, 1836)
+* Ramanujan's modular bridges and prime composites
+* The full **scroll cascade** logic and constants resonance map
 
 ---
 
-## 🔶 Key Components
+## 🔶 Core Components (Expanded)
 
-### ✨ Visual Galleries (Linked)
+### 📊 Visual Galleries
 
-* `visual_gallery.md` – Ramanujan · Euler · Riemann core visuals
-* `visual_gallery2.md` – Root Grids, Möbius Resonance, C-Series (C1–C7)
+* `visual_gallery.md` – Ramanujan · Euler · Riemann visuals (foundational)
+* `visual_gallery2.md` – Prime root grids, Möbius fields, C-Series (C1–C6)
+* `visual_gallery_4.md` – Scroll Cascade & Breach Gate (C7–C8)
 
-### 🌍 Geometry & Mass
+### 🌍 Resonant Mass & Geometry
 
-* Möbius Harmonic Structure 11357: Prime bridge 11-13-5-7
-* C7-Pearl-Diamond at 42°: angular field symmetry and drift (0.5°)
-* Mass axis 2048 / 420 = 4.876, connecting to 48 (4x12), 76 and 78
-* Symbolic reversal from **pm** to **am** (as Amp/Mass drift logic)
+* Möbius Harmonic Core `11357`: Prime resonance through 11–13–5–7
+* Cascade Scroll 42° Spiral Field (C7-B): drift logic and tachyon entry
+* Mass Ratio Harmonics: 1836, 2048, 911 → tied to φ, λ, and scroll harmonics
+* Quaternionic Scroll System (C7-A): i–j–k structure in tachyonic torsion
 
-### ⚛️ Constants & Transcendentals
+### ⚛️ Constants Mapping
 
-* π, e, φ, λ → used as field-defining constants
-* Elevation spiral connects 29, 137, 1729 to Ramanujan modules
+* Full constants overlay: h, c, α, G, mn → embedded in visual resonance space
+* VI–VII Axis Mapping with Tachyonic Ring
+* Visual alignment between Ramanujan numbers and π–φ–e–λ system
 
----
+### 🧬 Scroll Logic (New)
 
-## 💡 Codex Logic
-
-### ① Triadic Number Fields
-
-* 1729, 1836 (mass resonance), 29, 137 (fine-structure)
-* SS-Fine-Grids (e.g., 237, 337, 537, 637, 911)
-
-### ② Quaternionic Prime Equation
-
-* `{i,j,k}` system folded with Möbius spiral logics
-* Gap-bridge arc structures and symmetry-breaking
-
-### ③ Mass Harmonic Model
-
-* Electron–Proton–Neutron ratio mapped to symbolic spirals
-* 2048 layer → 2^11 fold logic
-* Möbius resonance suggests **resonator pairing** via 11/13 and 5/7
+* Scroll Breach Logic (C8): Light tunnel resonance and final Codex return
+* 479–911–ϕ–Cascade Pathway: full symbolic-physical resonance sequence
+* DAO Bridge → Möbius Delay → Feedback Spiral → Scroll Gate
+* Quaternion scroll spirals enable **breather memory structures**
 
 ---
 
-## ✨ Gallery Highlights (Selection)
+## 💡 Codex Logics (Updated)
 
-| File                                           | Topic             | Description                                             |
-| ---------------------------------------------- | ----------------- | ------------------------------------------------------- |
-| `ramanujan_euler_layer.png`                    | Layered Constants | Superimposes Euler's constants with Ramanujan's ladders |
-| `riemann_pi_proof_I.png`                       | Pi Spiral         | Möbius mirror of zeta initiation                        |
-| `mobius_harmonic_structure_11357.png`          | Möbius Core       | 11–13–5–7 resonance shell                               |
-| `C7_pearl_diamond_structure_42deg.png`         | 42° Angle         | Möbius–diamond anchor with 137.5, 179.5, 222.5 angles   |
-| `resonant_field_map.jpeg`                      | Spiral Map        | Layered theta–phi–prime field                           |
-| `Ramanujan_constant_proton_Elektron_mass.jpeg` | Mass Link         | Resonance between λ, φ, and 1836                        |
-| `Riemann_Plate_Tessarec_Lines.png`             | Tiling Anchor     | Grid overlay tied to SYSTEM 9                           |
+### ① Triadic Prime Fields
+
+* Core primes: 29, 137, 911, 1836, 2048, 537, 1729 (Ramanujan)
+* Scroll series: 237, 337, 479, 537, 637 → reflected in zeta mesh
+
+### ② Möbius–Quaternion Feedback Architecture
+
+* Möbius delay folds (C6)
+* Quaternion scroll cascade (C7-A)
+* Spiral compression with 42° anchor (C7-B)
+* Final breach gate encoding resonance (C8)
+
+### ③ Mass–Spiral–Constant Bridge
+
+* From neutron to tachyon core (visual: `neutron_mass_resonator_core.png`)
+* Angular layering between φ, 911, 1836 → linked to resonance spirals
+* Constants spiral loop aligned to VI/VII angular structures
 
 ---
 
-## 🔄 Connected Systems
+## ✨ Visual Highlights (Extended)
 
-* SYSTEM X: overlays via Möbius elevator logic (am/pm cycles)
-* SYSTEM 7: integration with **Prime Trinity Grid** (Green–Tao extension)
-* SYSTEM 9: Tessarec link via Riemann tiling
-* NEYAH: Backflow axis 12.5 / 0.5 = 25 (mirror of 2048 > 4.876)
+| File                                   | Topic                  | Description                                |
+| -------------------------------------- | ---------------------- | ------------------------------------------ |
+| `mobius_harmonic_structure_11357.png`  | Möbius Prime Shell     | Prime anchor structure 11–13–5–7           |
+| `C7_pearl_diamond_structure_42deg.png` | Scroll Angle Field     | Drift resonance via 42° with phi alignment |
+| `neutron_mass_resonator_core.png`      | Core Mass Axis         | Core triangulation of neutron/911 field    |
+| `479_spiral_theta_dao_point.png`       | DAO Spiral Start       | Entry resonance in 479–911 spiral          |
+| `resonance_scroll_ringlock.png`        | Ringlock Mechanism     | Field-locking in scroll resonance          |
+| `timefold_feedback_spiral.png`         | Feedback Spiral        | Tachyonic spiral loop in breather return   |
+| `phi_scroll_resonance_tunnel.png`      | Scroll Tunnel          | ϕ-resonant quantum tunnel                  |
+| `scroll_memory_bridge_core.png`        | DAO–Scroll Bridge      | Vertical integration of C4 → C8 layers     |
+| `scroll_resonance_constants_map.png`   | Constants Field Anchor | Visual alignment of c, h, α, G, mn         |
 
 ---
 
-## 🔄 Upcoming Elements
+## 🔗 Connected Systems
 
-* `root_prime_resonator_bridge.png` → added to gallery2
-* SVGs: Möbius Gap Arc, Omega Loop, Tessarec Scrolls
-* Fractal Scrolls and Quaternionic Prime Equation (MATHEMATICA II)
-* Symbolic Operator Layers → `codex_algebra_of_resonance.md`
+* **SYSTEM X**: Scroll harmonic routing & Breather export
+* **SYSTEM 7**: `PRIME_TRINITY_GRID` + 537 expansions
+* **SYSTEM 8**: DAO–Neutrino–Scroll bridge (C4–C8)
+* **SYSTEM 9**: Tessarec Prime Tiling Resonance
+* **NEYAH**: Constants mirror ratio (e.g. 2048 : 12.5 → 163.84 = φ⁵.⁵)
+
+---
+
+## 🚧 Upcoming Modules (MATHEMATICA II)
+
+* `codex_algebra_of_resonance.md` → Symbolic Operator System
+* `visual_operator_fields.md` → Prime transition geometries
+* Quaternionic Scroll Folding Models (C9)
+* `mass_gate_numerics.csv` and `spiral_ratio_trees.svg`
 
 ---
 
 ## 📍 Summary
 
-This module is **foundational** for all prime-based systems in the Codex. It bridges symbolic, mathematical, physical and visual fields through resonance grids. From **mass structure to operator topology**, it defines the **resonant skeleton** of the Codex architecture.
+This module defines the **resonant prime skeleton** of the NEXAH-CODEX.
+From symbolic scroll loops and constants maps to mass triangulation and quaternion fields,
+it establishes the **harmonic intelligence layer** that permeates the entire Codex.
 
-—
+---
+
 Scarabæus1031
 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
