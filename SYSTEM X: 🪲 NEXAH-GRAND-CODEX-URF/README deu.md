@@ -1,141 +1,99 @@
 ---
-title: "SYSTEM X – NEXAH-GRAND-CODEX"
+title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
-domain: "Synthetischer Nexus · Resonanzintegration · Beweisarchitektur"
-color: "Gold/Schwarz"
+domain: "Synthesezentrum · Harmonische Gleichung · Visuelle Nexusstruktur"
+color: "Gold/Schwarz 🪲"
 status: "Aktiv · Version Juli 2025"
-kurator: "Thomas Hofmann (Scarabæus1033)"
-lizenz: "CC BY-NC-SA 4.0"
+curator: "Thomas Hofmann (Scarabäus1033)"
+license: "CC BY-NC-SA 4.0"
 ---
 
-# 🪲 SYSTEM X – NEXAH-GRAND-CODEX
+# 🪲 SYSTEM X – GRAND-CODEX NEXUS
+
+> **„Die Gleichung ist das Herz. Der Nexus ist der Puls.“**
+
+**SYSTEM X** ist das **Zentrum des gesamten NEXAH-CODEX** –
+die **Synthese der sechs Hauptsysteme**, verankert durch:
+
+* die **FINAL HARMONIC EQUATION**
+* das **SCARABÆUS META GATEWAYS-Modul**
+* die **C-Serie (C1–C8)** mit spiralisierter Scrollstruktur
+* alle **Scroll-Tor-Visuals, Breather-Kaskaden und Harmonischen Pulse**
 
 <p align="center">
-  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X — NEXAH-GRAND-CODEX Übersicht">
+  <img src="./GRAND-CODEX.png" width="720" alt="SYSTEM X – GRAND-CODEX Overview">
 </p>
 
-**Systemtyp:** Zentrales Synthesenexus  
-**Position:** Spitze der NEXAH-CODEX-Struktur  
-**Funktion:** Integration universeller Resonanzfelder und symbolischer Beweissynthese
+---
 
-> ℹ️ *Hinweis: Einzelne Module oder Abschnitte bleiben bewusst auf Deutsch. Bestimmte symbolische Tiefen, lautliche Codierungen und alphabetische Resonanzstrukturen sind in der Ursprungssprache verankert – insbesondere für Vokal-/Konsonanten-Harmonien und morphologische Codes.*
+## 🧭 Position im NEXAH-CODEX
+
+| System       | Farbe           | Domäne                           | Rolle                       |
+| ------------ | --------------- | -------------------------------- | --------------------------- |
+| SYSTEM 1     | 🔵 Blau         | Mathematik, Zahlen, Symmetrie    | Strukturfundament           |
+| SYSTEM 2     | 🗆 Tiefblau     | Feld, Energie, Frequenz          | Physikalischer Resonanzkern |
+| SYSTEM 3     | 🕣 Violett      | Raum, Licht, Sterne              | Kosmologischer Feldatlas    |
+| SYSTEM 8     | 🌕 Mondgrau     | Zyklen, Ursprung, Resonanz       | Lunare Rückverbindung       |
+| **SYSTEM X** | 🪲 Gold/Schwarz | Synthese, Gleichgewicht, Zentrum | Nexus aller Systeme         |
 
 ---
 
-## 🧭 Zweck von SYSTEM X
+## 🔮 Module in SYSTEM X
 
-**SYSTEM X** bildet den **intellektuellen und strukturellen Gipfel** des NEXAH-CODEX.  
-Es vereint alle symbolischen, mathematischen und physikalischen Module zu einem kohärenten Resonanz–Beweissystem.
+### 1. [`GRAND-CODEX/`](./GRAND-CODEX/)
 
-Es integriert:
+**Final Harmonic Equation, Field Pulses, Scroll-Kaskaden**
 
-* Mathematische Resonanzfelder (System 1)
-* Physikalische Feldmodelle (System 2)
-* Kosmologische Strukturen (System 3)
-* Symbolische Fundamente (System 4)
-* Glyphenbasierte Sprache & Gedächtniscodierung (System 5)
-* Universalkonstanten & Primharmonien (System 7)
-* Geometrische Harmonien (TESSAREC – System 9)
+> Enthält `E=mc·k^β`, Breather-Feldarchitektur, Möbius–Zeta–Spirale, Prime-Scroll–Resonanzen und visuelle Gleichungsstrukturen.
 
-Alle Stränge laufen zusammen in:
+### 2. [`SCARABÆUS_META_GATEWAYS/`](./SCARABÆUS_META_GATEWAYS/)
 
-* Die **Universale Stabilitätsgleichung**
-* **Dynamische Schwellenfelder** (Resonanz ↔ Kollaps)
-* **Symbolische Beweismatrizen**
+**Meta-Tore, Symbolfelder, Breather-Cascade**
 
-SYSTEM X vereint **Beweis, Resonanz und strukturelle Eleganz** auf höchstem symbolischem Niveau.
+> Übergänge zwischen SYSTEM 1, 3, 8 und X – inklusive Scroll-Kompression, Resonanzbruch, Fingerfields und visueller Achslogik.
 
----
+### 3. [`visual_gallery.md`](./visual_gallery.md)
 
-## 📂 Modulstruktur
+**Gallery I – Pulse, Fields, Constants**
 
-### 🔷 NEXAH-GRAND-CODEX
+> Enthält die zentralen Diagramme zur `FINAL HARMONIC EQUATION`, inklusive `mobius_pulse_diagram.svg`, `harmonic_pulse_animation.gif`, `numerical_verification.ipynb`
 
-Zentrales Modul für die **Universale Stabilitätsgleichung**:  
-`E = m · c · k^β`
+### 4. [`visual_gallery_2.md`](./visual_gallery_2.md)
 
-Enthält:
+**Gallery II – Scarab-Gateways & Constants**
 
-* `manifest.md` und zentrale Übersicht
-* `codex-mathematics/`: Fundamente der Resonanzmathematik
-* `visuals/`: Visuelle Galerie und Referenzsystem
-* `alphabet_resonance_field.md`, `resonance_fields.md`: Integration phonetik-symbolischer Geometrien
+> Visuals zu Zahlenspiralen, Codon-Gittern, Möbius-Formen und Scroll-Ebenen.
 
-➡ **Funktion:** Konzentration der Beweismodelle und Feldgleichungen
+### 5. [`visual_gallery_3.md`](./visual_gallery_3.md)
+
+**Gallery III – Scroll-Kompressionsstruktur**
+
+> Scroll-Slice-Diagramme C1–C8, Breather-Center, Scroll Core Loop.
+
+### 6. [`visual_gallery_4.md`](./visual_gallery_4.md)
+
+**Gallery IV – Scroll Endtor und Übergang**
+
+> C6–C8 Visuals: Tachyon-Quaternion, Timefold, Φ-Tunnel, Memory Bridge.
 
 ---
 
-### 🪲 NEUES MODUL: SCX Resonanzmodul – Primspiral-Navigation & Harmonisches Gitter
+## 📚 Lesestruktur und Verbindungen
 
-Eine symbolisch-resonante Synthese aus Primspiralen, Konstantenschleifen, musikalischer Feldlogik und Beobachter-Topologie.
-
-📁 Ordner: [`SCX_RESONANCE_MODULE/`](./SCX_RESONANCE_MODULE)  
-📊 Dateien:
-* `scx_field_equations.md`, `scx_zither_field.md`, `scx_penrose_projection.md`, ...
-* `visual_gallery.md` mit Spiral-Overlays und Beobachterprojektionen
-* Daten: CSVs zu Hinge-Punkten, Palindromen, Resonanzrhythmen
-
-🌀 Highlights:
-- Achsenfaltung um π, √2, ϕ und -1/12-Knoten
-- 12D-Beobachterrotation in dodekaedrischen Resonanzhüllen
-- Verbindungen zu `PRIME_TRINITY_GRID`, `riemann_blink_grid.md`, und `TESSAREC`
-
-➡ **Funktion:** Navigationssystem durch symbolisch-primare Spiralen und Beobachterlogik  
-➡ **Status:** ✅ Abgeschlossen · Version 1.0 · Juli 2025
+* **System X** sollte nach SYSTEM 1 (Mathematik), SYSTEM 2 (Feldphysik) und SYSTEM 3 (Kosmologie) gelesen werden.
+* Es enthält die komprimierte Scrollstruktur aus SYSTEM 8 – mit Verbindung zur Lunaren Ursprungsebene.
+* **Finale Gleichung, Scroll-Endtor, Codon-Spiralen, Zahlenspiegel** und das goldene Breather-Feld sind hier verankert.
 
 ---
 
-### 🧱 SCHLÜSSELMODUL: Das Codex-Vervollständigungsprinzip – `k^β` als Resonanzoperator
+## 🪲 Credits
 
-> *„k^β ist nicht nur eine Formel – es ist ein universeller Resonanzoperator auf klassische Modelle.“*
-
-Dieses Basismodul führt die **resonanzbasierte Vervollständigung** von Newton, Einstein und Higgs ein:
-
-$$
-F_{\text{Codex}} = F_{\text{Klassisch}} \cdot k^\beta
-$$
-
-📘 Modul: [`codex_completion_principle.md`](./CODEX%20COMPLETION%20PRINCIPLE/codex_completion_principle.md)  
-📊 Visuals: Möbius-Pyramidenfelder, 𝓧 = 131×108 Gitter, atmende Kristalldynamik  
-🌀 Animation: [`codex_crystal_breath.gif`](./CODEX%20COMPLETION%20PRINCIPLE/visuals/codex_crystal_breath.gif)
-
-➡ **Funktion:** Anker für Resonanzfaltung und universelle Operatorlogik  
-➡ **Status:** ✅ Abgeschlossen · Version 1.0 · Juni 2025
+**Autor & Kurator:** Thomas Hofmann (`Scarabäus1033`)
+**System:** SYSTEM X – GRAND-CODEX
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-## 🔧 Integration & Verbindungen
-
-SYSTEM X verbindet:
-
-* Primresonanz & numerische Gitter
-* Kollapsgeometrie & Beweiskompression
-* Glyphische Symbolfelder & universelle Konstanten
-
-Verlinkt mit:
-
-* System 1: K-Beta-Strukturen, Primzahlmathematik
-* System 2: Resonanzachsen, Neutrinofelder
-* System 3: Stellar-DNA, kosmisches Gedächtnis
-* System 4: Tensorstrukturen, Feldmorphologien
-* System 5: Sprachglyphen, Symbolprojektion
-* System 7: Grundkonstanten, Raumzeit
-* System 9: TESSAREC-Geometrie & Harmonien
-
----
-
-## 📌 Roadmap
-
-* [ ] Millennium-Kartographie: Prim–Resonanz-Mapping
-* [ ] Gödel-Logik-Matrix finalisieren
-* [ ] Codex Origio: Ausdehnung in materielle Symbolfelder
-* [ ] Alphabetische Resonanznavigation (symbolisch–phonetische Schnittstelle)
-* [ ] Verlinkung mit SYSTEM 8 + Observerium
-* [ ] Englische–Deutsche Doppelschicht für symbolische Integrität
-
----
-
-© Scarabæus1033 · Thomas Hofmann · 2025  
-Lizenz: CC BY-NC-SA 4.0  
-Web: [scarabaeus1033.net](https://www.scarabaeus1033.net)  
-GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+> *„SYSTEM X ist das lebendige Zentrum – dort, wo der ganze Codex atmet.“*
