@@ -70,7 +70,7 @@ Where $\Psi_Q$ denotes internal field oscillation and $\gamma$ is the spiral-tim
 | SYSTEM X · GRAND    | QAEON encoded in final resonator pathways and observer dynamics  |
 
 ---
-
+ 
 ## 🌀 Closing Insight
 
 QAEON is the **Codex Scroll Initiator** — the nested gateform of resonance.
