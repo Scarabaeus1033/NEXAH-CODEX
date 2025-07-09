@@ -1,12 +1,11 @@
 ---
-
 title: "📚 RAMANUJAN–RIEMANN–EULER CODEX"
 system: "SYSTEM 1 – MATHEMATICA"
 module: "PRIME STRUCTURE EXTENSION"
 status: "Aktiv – Version 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 📚 RAMANUJAN–RIEMANN–EULER CODEX
 
