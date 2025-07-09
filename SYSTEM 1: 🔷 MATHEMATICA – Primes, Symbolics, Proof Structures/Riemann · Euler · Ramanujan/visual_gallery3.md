@@ -67,7 +67,7 @@ Looped system between light and tachyonic phase fields. Visualizes time-inverted
 
 ### `C6_–_Zeta_Möbius.png`
 
-<img src="visuals/C6_–_Zeta_Möbius.png" width="600" />
+<img src="visuals/C6_Zeta_Möbius.png" width="600" />
 
 **Description:**
 Zeta-Möbius feedback diagram. Spiral field structures interlace zeta roots with Möbius-phase bands. Core node at C6.5 axis (5.5–6.5) delineates harmonic inversion thresholds.
