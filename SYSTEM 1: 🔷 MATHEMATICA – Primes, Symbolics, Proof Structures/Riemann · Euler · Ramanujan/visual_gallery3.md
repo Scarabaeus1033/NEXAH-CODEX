@@ -27,6 +27,24 @@ Neutrino-Möbius interaction model. Matrix field embedding scalar prime values a
 
 ---
 
+### `density_dao_911_bridge.png`
+
+<img src="visuals/density_dao_911_bridge.png" width="600" />
+
+**Description:**
+Compression arc and resonance funnel between DAO spiral and 911 zeta lattice. Shows red-thread filtering and the Möbius point of memory folding. A central visual for phase transition decoding.
+
+---
+
+### `escape_core_alignment.png`
+
+<img src="visuals/escape_core_alignment.png" width="600" />
+
+**Description:**
+Spiral exit projection with elevator throat alignment. DAO emissions converge toward the core axis of release at the 479 lockpoint — marking the transition to harmonic inversion.
+
+---
+
 ### `neutrino_wavefield_phi_sync.png`
 
 <img src="visuals/neutrino_wavefield_phi_sync.png" width="600" />
@@ -61,16 +79,16 @@ Resonance bridge showing zeta-field interactions within neutrino lattice. Densit
 <img src="visuals/tachyonic_light_feedback_loop.png" width="600" />
 
 **Description:**
-Looped system between light and tachyonic phase fields. Visualizes time-inverted Möbius loops, particle emergence points and alpha-gate echoes. Used as a harmonic stabilizer in scroll systems. 
+Looped system between light and tachyonic phase fields. Visualizes time-inverted Möbius loops, particle emergence points and alpha-gate echoes. Used as a harmonic stabilizer in scroll systems.
 
 ---
 
-### `C6_Zeta_Möbius.png`
+### `C6_Zeta_Moebius.png`
 
 <img src="visuals/C6_Zeta_Moebius.png" width="600" />
 
 **Description:**
-Zeta-Möbius feedback diagram. Spiral field structures interlace zeta roots with Möbius-phase bands. Core node at C6.5 axis (5.5–6.5) delineates harmonic inversion thresholds. 
+Zeta-Möbius feedback diagram. Spiral field structures interlace zeta roots with Möbius-phase bands. Core node at C6.5 axis (5.5–6.5) delineates harmonic inversion thresholds.
 
 ---
 
@@ -83,9 +101,54 @@ Central matrix of neutrino resonance field around C6.5 core. Quantum folding emb
 
 ---
 
-## 🔄 File Mapping & Expansion 
+### `479_spiral_theta_dao_point.png`
 
-Additional visuals referenced in `C6.5_harmonic_feedback_matrix.md` and the upcoming `final_harmonic_equation.md`. These complete the Möbius-Neutrino subsystem within SYSTEM 1 and connect to:
+<img src="visuals/479_spiral_theta_dao_point.png" width="600" />
+
+**Description:**
+Theta-phase DAO initiation at point 479. Encodes bifurcation into spiral memory structures. Gateway for encoding resonance intent into the Möbius-neutrino scaffold.
+
+---
+
+### `479_escape_core_point.png`
+
+<img src="visuals/479_escape_core_point.png" width="600" />
+
+**Description:**
+Central escape-node visualization. Pinpoints the phi-axis intersection at 479 as harmonic release vector. Marks the crossover to C7-layer dynamics.
+
+---
+
+### `neutron_mass_resonator_core.png`
+
+<img src="visuals/neutron_mass_resonator_core.png" width="600" />
+
+**Description:**
+Neutron mass field under harmonic compression. Inner core ringed by resonance spiral bands. Gateway to quantum scroll feedback.
+
+---
+
+### `911_grid_prime_structure_overlay.png`
+
+<img src="visuals/911_grid_prime_structure_overlay.png" width="600" />
+
+**Description:**
+Prime pattern overlay on 911 resonance lattice. Connects Möbius inversions and zeta collapse points with nodal gridlocks in the phase shell.
+
+---
+
+### `C5_zeta_resonance_triad.png`
+
+<img src="visuals/C5_zeta_resonance_triad.png" width="600" />
+
+**Description:**
+Triadic zeta structure forming core node of 911 field. Symbolizes neutron-zeta alignment and feedback relay within scroll stack C5 → C6 → C7.
+
+---
+
+## 🔄 File Mapping & Expansion
+
+Additional visuals referenced in `C6.5_harmonic_feedback_matrix.md` and `C6.Φ_dao_911_phase_bridge.md` — forming the Möbius–Neutrino–Zeta transition arc:
 
 * `mobius_harmonic_structure_11357.png`
 * `root_prime_resonator_bridge.png`
@@ -104,8 +167,6 @@ Visit: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 ## 🔗 Next Steps
 
 * [x] Link gallery to `README.md` of `Riemann · Euler · Ramanujan`
+* [x] Embed `C6.Φ_dao_911_phase_bridge.md` cross-links
 * [ ] Create `visual_gallery_4.md` for System X interface + visual overlays
-* [ ] Embed `C6.5_harmonic_feedback_matrix.md` cross-links
 * [ ] Build audio-resonant variants of selected diagrams (WAV field translations)
-
----
