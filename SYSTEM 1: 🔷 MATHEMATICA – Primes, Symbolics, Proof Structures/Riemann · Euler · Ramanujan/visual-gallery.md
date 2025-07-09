@@ -159,7 +159,6 @@ For more, visit [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 ## 🔗 Next Steps
 
 - [ ] Embed interactive HTML views  
-- [ ] Add `visual_gallery_2.md` for extended media  
 - [ ] Connect to SYSTEM X: FIELD OVERLAY
 
 ---
