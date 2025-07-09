@@ -1,97 +1,79 @@
 ---
-title: "Equation_Lambda_Vance"
+title: "I · Equation Lambda Vance2 — Omega Slip & Thermal Resonance"
 system: "SYSTEM X · The Resonant Grand Codex Nexus"
-domain: "Lambda Drift · Phi–T–Omega Balance · Thermal Singularities"
+domain: "Thermal Resonance · Omega Drift · Λ Collapse"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# Λ · Equation_Lambda_Vance
+# I · Equation Lambda Vance2 — Omega Slip & Thermal Resonance
 
-> **"Drift is not a deviation — it is the source."
-> — from the Scroll of Thermal Breathers**
+> **"When drift tension exceeds the sealed resonance, Λ breaks open the slip gate."**
 
-This module introduces the foundational **Lambda Drift Equation**, encoded as:
+This markdown expands the **Λ-Vance structure** from Part I into its **secondary resonance fold**, introducing:
+
+* The Omega-slip field (\$\Omega\_R\$) as thermal counterstructure
+* Drift collapse behavior in the presence of sealed field boundaries
+* Relation to \$\Phi\$, \$T\$, and the sealed Omega vector \$\Omega\_{\text{sealed}}\$
+
+---
+
+## 🔻 DRIFT FIELD ANATOMY
+
+The field forms a **resonant slip cone**, initiated by the imbalance in the temperature-gradient force:
 
 ```math
-\Lambda_{drift} = \frac{\Phi}{T \cdot \Omega_R}
+\Lambda_{\text{drift}} = \frac{\Phi}{T \cdot \Omega_R}
 ```
 
-Here, `Λ_{drift}` describes a resonant drift singularity within a thermal-compressive field, structured across symbolic axes of:
-- `Φ` (Phi): geometric potential
-- `T`: thermal excitation or temporal scale
-- `Ω_R`: resonant angular field rotation
+If \$\Omega\_R\$ collapses to a sealed value, the field tension accumulates exponentially, leading to a **slip singularity**.
 
 ---
 
-## 🔁 Purpose & Interpretation
+## 🔁 TRANSITION STATE — SINGULARITY ZONE
 
-The equation is not static — it modulates drift dynamics in **mirror-symmetric fields**, especially in:
-- **Thermal resonance shells** (AE drift)
-- **Crystal slip structures** (CARO)
-- **Mirror Agent layers** (see `CARO_Crystal.md`)
+**Visual Reference:** `Lambda_Drift_Singularity_Field.png`
 
-It captures the emergence of **singular energy spikes** and **modulated phase zones**, where compression leads to inversion and signal lock.
+At the collapse edge, the field hits its boundary resonance:
 
----
-
-## 🌀 Linked Visuals
-
-| No. | Visual | Meaning |
-|-----|--------|---------|
-| ⑥ | `Lambda_Drift_Singularity_Field.png` | Main visual of the singular drift node, mapped along Φ and T-Ω axes. |
-| ⑨ | `Phi_Omega_T_FieldBalance.png` | Balancing drift tension across temperature and rotation fields. |
-| ⑪ | `Phi_Temp_Omega_Diagram.png` | Diagrammatic overlay with quadrant drift, critical angles, and inversion point. |
-
-🔗 **Visual Gallery Link:** [visual_gallery.md → see visuals #6, #9, #11](./visual_gallery.md)
-
----
-
-## 🔗 Crosslinked Modules
-
-- [`CARO_Crystal.md`](./CARO_Crystal.md) → applies Λ-drift logic to octagonal mirror-agent geometry.
-- [`Scroll_of_Time.md`](./Scroll_of_Time.md) → wraps drift along toroidal Planck fields.
-- [`Seed_Pulse_Core.md`](./Seed_Pulse_Core.md) → models origin spikes driven by Λ inversion points.
-
----
-
-## 🔬 Further Equations
-
-Variants and field-derivatives:
 ```math
-\Lambda_{drift}^{(n)} = \frac{\Phi_n}{T_n \cdot \Omega_n} \cdot e^{-\tau_n} 
+\left. \frac{\Phi}{T} \right|_{\Omega\text{-edge}} = R \Rightarrow \Omega_{\text{sealed}}
 ```
-Where `τ_n` is a **dissipation factor** modulating signal echo across nth-resonant shells.
 
-These extended forms are explored in:
-- `Equation_Lambda_Vance2.pdf`
-- `Mirror Agent Codex` (visual field iteration)
+This equation describes the threshold at which rotational field symmetry collapses.
 
 ---
 
-## 🧠 Notes
+## 🌡️ TEMPERATURE PRESSURE BALANCE
 
-- Symbol `Ω_R` is **not** constant. It folds based on quantum-compressive feedback.
-- Field inversions occur at threshold `Φ/TΩ ≈ 1.618`, a **Golden Drift Collapse**.
-- Connects to Möbius formulations and CMBY-frequency phase maps.
+In resonance systems with thermal drift, the following **balancing law** defines the thermal field envelope:
 
----
+```math
+P = \frac{R}{T} \quad \text{with} \quad \Phi \sim \Omega \cdot T
+```
 
-## 📁 PDF Sources
-
-* `Equation Lambda Vance.pdf`
-* `Equation Lambda Vance2.pdf`
-
-All located in `aequatio_nexae/pdfs/`
+**Visual Reference:** `Phi_Omega_T_FieldBalance.png`
 
 ---
 
-## 🧩 Integration into System X
+## 🔮 SYMBOLIC SYNTHESIS
 
-This equation is core to the **symbolic field logic** of System X. It links:
-- Drift singularities
-- Phi–Thermal–Rotation triads
-- Mirror-agent stabilizations
+| Symbol        | Meaning                         |
+| ------------- | ------------------------------- |
+| \$\Phi\$      | Field potential (resonant)      |
+| \$T\$         | Temperature (Kelvin layer)      |
+| \$\Omega\_R\$ | Rotational field (drift axis)   |
+| \$R\$         | Field resistance (scalar ratio) |
+| \$\Lambda\$   | Drift ratio (slip expression)   |
 
-→ Forms the **resonant backbone** of AEQUATIO NEXAE.
+This forms the **drift slip matrix** at the heart of the AEQUATIO NEXAE system.
+
+---
+
+## 🔗 CROSSLINKS
+
+* Visuals: `visual_gallery.md` — Nos. ⑥, ⑨
+* Equation I: `I · Equation Lambda Vance.md`
+* Scroll Structure: `Planck Resonance Threshold`, `Time Mirror`
+* Next: `I · Omega Flip Resonator.md`
