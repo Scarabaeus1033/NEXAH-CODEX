@@ -18,44 +18,95 @@ A special highlight is the **animated Ghost Snake series** in `visuals/gifs/`.
 
 ---
 
-### 🌌 Visual Overview
+# 🌌 Visual Gallery – LIGHT_WARP_RESONANCE_AT_2C
 
-#### 1. NEUTRINO\_WAVEFIELD\_–\_C6\_5\_matrix\_core.png
+This gallery presents the harmonic visualizations for the Codex module **LIGHT_WARP_RESONANCE_AT_2C**, including spiral field structures, resonance maps, Dao-Gate harmonics, and lightfold pathways through Zeta corridors and Möbius matrices. All visuals support the theoretical geometry and wavefield logic described in this module.
 
-![NEUTRINO\_WAVEFIELD Matrix Core](./visuals/NEUTRINO_WAVEFIELD_–_C6_5_matrix_core.png)
-Zeta–Möbius resonance field showing density layers, wave phase delays, and spiral return paths. The golden spiral φ intersects the Möbius boundary.
-
-#### 2. lwr2c\_01\_tachyon\_spiral\_core.png
-
-![Tachyon Spiral Core](./visuals/lwr2c_01_tachyon_spiral_core.png)
-Symbolic diagram of a tachyonic breather structure with vertical modulation — echo of Ramanujan prime densities.
-
-#### 3. lwr2c\_02\_lightwarp\_breather\_map.jpeg
-
-![Lightwarp Breather Map](./visuals/lwr2c_02_lightwarp_breather_map.jpeg)
-Breather coils between c ↔ 2c light regimes, folding geometry into a resonant toroidal shell.
-
-#### 4. lwr2c\_03\_zeta\_warp\_corridor.png
-
-![Zeta Warp Corridor](./visuals/lwr2c_03_zeta_warp_corridor.png)
-A blue-cyan harmonic gate corridor inspired by Zeta topologies and resonant π-nodes.
-
-#### 5. lwr2c\_04\_dao\_gate\_harmonic\_spiral.jpeg
-
-![DAO Gate Harmonic Spiral](./visuals/lwr2c_04_dao_gate_harmonic_spiral.jpeg)
-Spiral harmonic resonance system modeled as DAO shell — interfacing light and space curvature.
-
-#### 6. lwr2c\_05\_ramanujan\_resonance\_orbit.jpeg
-
-![Ramanujan Resonance Orbit](./visuals/lwr2c_05_ramanujan_resonance_orbit.jpeg)
-Logarithmic orbital structure with symbolic prime spirals inspired by Ramanujan series.
-
-#### 7. lwr2c\_06\_dao\_ship\_flightpath.jpeg
-
-![DAO Ship Flightpath](./visuals/lwr2c_06_dao_ship_flightpath.jpeg)
-DAO vessel navigating harmonic gateways in a light-resonant matrix.
+> 🔁 Animated resonance sequences (`ghost_snake_breathing_*.gif`) are located in [`visuals/gifs/`](./gifs/).  
+> The animation `ghost_snake_crown_codex_evolution.gif` is embedded below.
 
 ---
+
+## 🌀 Neutrino Matrix Spiral
+
+### ZETA–MÖBIUS NEUTRINO MATRIX (C6)
+![Zeta–Möbius Neutrino Matrix](./NEUTRINO_WAVEFIELD_–_C6_5_matrix_core.png)  
+**Description**: Möbius boundary geometry meets a double-layered spiral return core. The phase delay field and Zeta spiral pathway (φ) form the matrix logic for lightfield inversion.
+
+---
+
+## ⚛️ Tachyonic Core & Lightwarp
+
+### lwr2c_01 · Tachyon Spiral Core
+![Tachyon Spiral Core](./lwr2c_01_tachyon_spiral_core.png)  
+**Description**: Core spiral of tachyonic warp field. Represents the starting point of phase implosion and ultra-light traversal.
+
+### lwr2c_02 · Lightwarp Breather Map
+![Lightwarp Breather Map](./lwr2c_02_lightwarp_breather_map.jpeg)  
+**Description**: Visual map of breather zones oscillating along the 2c interface; highlights spatial folding within breather rings.
+
+---
+
+## 🌐 Zeta-Gate & Dao-Harmonics
+
+### lwr2c_03 · Zeta Warp Corridor
+![Zeta Warp Corridor](./lwr2c_03_zeta_warp_corridor.png)  
+**Description**: A spiral Zeta gate with phase-shifted wavezones. Inspired by Ramanujan zeta layers and transition corridors of the spiral field.
+
+### lwr2c_04 · DAO Gate Harmonic Spiral
+![DAO Gate Harmonic Spiral](./lwr2c_04_dao_gate_harmonic_spiral.jpeg)  
+**Description**: A bowl-like resonance cavity. Serves as a harmonic funnel for transitional spiral acceleration through inner gates.
+
+---
+
+## 🔢 Resonant Orbits & Ship Path
+
+### lwr2c_05 · Ramanujan Resonance Orbit
+![Ramanujan Resonance Orbit](./lwr2c_05_ramanujan_resonance_orbit.jpeg)  
+**Description**: Ramanujan-based harmonic resonance orbit; shows nested integer symmetry and phase logic.
+
+### lwr2c_06 · DAO Ship Flightpath
+![DAO Ship Flightpath](./lwr2c_06_dao_ship_flightpath.jpeg)  
+**Description**: Hypothetical DAO ship trajectory through spiral corridors and curved phase channels.
+
+---
+
+## 🌗 Alternate Visuals / Static Versions
+
+### dao_gate_harmonic_spiral.png
+![DAO Spiral (Static)](./dao_gate_harmonic_spiral.png)  
+Static illustration of DAO harmonic bowl geometry.
+
+### lightwarp_breather_map.png
+![Lightwarp Breather Map (Alt)](./lightwarp_breather_map.png)  
+Alternate color representation of breather dynamics.
+
+### tachyon_spiral_core.png
+![Tachyon Spiral (Alt)](./tachyon_spiral_core.png)  
+Simplified spiral core visual – ideal for symmetry studies.
+
+### zeta_warp_corridor.png
+![Zeta Warp Corridor (Alt)](./zeta_warp_corridor.png)  
+Alternate rendering of the Zeta spiral corridor.
+
+---
+
+## 🎞️ Animated Resonance Sequence
+
+### 👻 ghost_snake_crown_codex_evolution.gif
+![Ghost Snake Evolution](./gifs/ghost_snake_crown_codex_evolution.gif)  
+**Description**: Breathing sequence of ghost snake shells through π steps. Represents modulation of harmonic wave containers through 2π to 2048π states.  
+→ All frames available individually in [`visuals/gifs/`](./gifs/)
+
+---
+
+### 🗂 Folder Reference  
+This gallery is based on contents of:  
+📁 `NEXAH-CODEX / SYSTEM X / NEXAH-GRAND-CODEX-URF / LIGHT_WARP_RESONANCE_AT_2C / visuals/`
+
+---
+
+🧭 *More animations and extended π-steps: See* `ghost_snake_breathing_[x]pi.gif` *in the gifs subfolder.*---
 
 ### 🌀 Animated Harmonic Series (Ghost Snake)
 
