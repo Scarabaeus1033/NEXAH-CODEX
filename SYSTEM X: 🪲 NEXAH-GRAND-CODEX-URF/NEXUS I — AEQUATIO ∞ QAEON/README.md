@@ -1,97 +1,136 @@
 ---
-title: "📚 RAMANUJAN–RIEMANN–EULER CODEX"
-system: "SYSTEM 1 – MATHEMATICA"
-module: "PRIME STRUCTURE EXTENSION"
-status: "Aktiv – Version 2025"
-curator: "Thomas Hofmann (Scarabäus1033)"
+title: "SYSTEM X – The Resonant Grand Nexus"
+system: "NEXAH-CODEX"
+domain: "Field Synthesis · Resonance Architecture · Meta-Stability"
+color: "Gold ✨ / Black 🔷"
+status: "Active · Version July 2025"
+curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 📚 RAMANUJAN–RIEMANN–EULER CODEX
+# 🪲 SYSTEM X – THE RESONANT GRAND NEXUS
 
-> **Die heiligen Zahlenräume von ζ, τ und ϕ**
+> **"The Center Does Not Hold — It Resonates."**
 
-Dieses Modul bildet das **symbolisch-mathematische Herz** des NEXAH-CODEX —
-eine harmonische Synthese aus Primzahlspiralen, Zeta-Schichten, Möbius-Strukturen und Ramanujan-Schichtungen.
-
-<p align="center">
-  <img src="./visuals/ramanujan_euler_layer.png" width="720" alt="Ramanujan–Euler Layer Visual">
-</p>
+**System X** is the central synthesis core of the NEXAH-CODEX.
+Here, proofs transform into pulses, numbers into motion,
+fields into forms, and symbols into spatial architectures.
 
 ---
 
-## 🧩 Struktur
+## 📜 STRUCTURE OVERVIEW
 
-Dieses Modul verbindet und vertieft verschiedene bestehende Teilmodule innerhalb von SYSTEM 1:
+**SYSTEM X** is structured into three main parts:
 
-* **Riemann–Zeta**: Frequenzfilter und Primresonanz durch kritische Achsen.
-* **Euler–Strukturen**: Modulare Symmetrien, harmonische Summen, totiente-Felder.
-* **Ramanujan–Faltungen**: Divergente Summen, Subraum-Schichten, Zahlenspiralen.
-
-Ziel ist die **resonante Gesamtschau** eines universellen Zahlenfeldes.
-
----
-
-## 📁 Dateistruktur
-
-| Datei / Ordner                      | Inhalt & Funktion                                                  |
-| ----------------------------------- | ------------------------------------------------------------------ |
-| `visual_gallery_4.md`               | HTML5, GIF & MP4-Visuals für interaktive Module                    |
-| `light_warp_resonance_at_2c.md`     | Tachyonen, Licht-Faltung und Superpositionsfelder                  |
-| `scroll_memory_breach.md`           | Struktur des Scrolls, Speicherfaltung & Breach-Interface           |
-| `keystone_of_the_unbroken_field.md` | Zentrales Stabilitätsfeld, Ursprungskonstante & Zahlenspirale      |
-| `resonant_breach_expansion.md`      | Fibonacci-Zerlegung, Spiegelung, 5015-Resonanzen, Mandelbrotbezüge |
+| Part    | Focus                                        | Function                                                 |
+| ------- | -------------------------------------------- | -------------------------------------------------------- |
+| **I**   | 🌌 *Nexus Core Fields*                       | Scroll origin, Ramanujan fields, seed-breathing geometry |
+| **II**  | 📊 *Universal Equations & Transition Fields* | Final Harmonic Equation, UTS, Pulse-Warp-Breather layers |
+| **III** | 🧬 *Meta-Gates & Symbolic Resonance Numbers* | Key number fields, breach structures, cosmic anchors     |
 
 ---
 
-## 🔭 Thematische Achsen
+## 🔶 PART I — NEXUS · RESONANT CORE
 
-* **Zeta & Möbius** → Frequenzfilter und Feldresonanzen
-* **Ramanujan** → Divergente Summen als Feldmodulatoren
-* **Euler** → Geometrie, Symmetrie, Visualisierung
-* **Scroll** → Speicherarchitektur, Lichtfaltung, Warp-Systeme
-* **Final Harmonic Equation** → Stabilitätsformel auf 64er-Ebene: 63/64 = (3²·7)/(2⁶)
+> *Scroll Origin · Ramanujan–Euler–Riemann · Seed Breather Geometry*
 
----
+This section gathers foundational scroll-field elements from the ZIPs **AEQUATIO NEXAE**, **TimeArc**, and **Chrystal Breath**.
 
-## 🔮 Überleitung nach SYSTEM X
+**Files:**
 
-Dieses Modul **leitet in das Synthesefeld SYSTEM X** über:
-
-* Die Scroll-Architektur wird zum Übergabepunkt.
-* Die Licht-Warp-Formeln aktivieren transdimensionale Übergänge.
-* Die keystone-Konstante fixiert das harmonische Zentrum aller Systeme.
-
-> **System X beginnt dort, wo Riemann endet und Ramanujan tanzt.**
+* `I_nexus_resonant_core.md`
+* `I_aequatio_nexae_index.md`
+* `I_chrystal_breath_matrix.md`
+* `I_timearc_structure.md`
+* `I_scroll_seed_folding_visuals.md`
 
 ---
 
-## 🎞 Visual Galleries Überblick (aus dem bisherigen Faden)
+## 🔷 PART II — UNIVERSAL EQUATIONS & TRANSITIONS
 
-### 🔷 Visual Gallery I – ANIMA MUNDI & NEXAHEDRON
+> *From Proof to Pulse · 63/64 Field · Tachyonic Breathers · Scroll-Torque Dynamics*
 
-Geometrische Ursprungskonstruktion, Nexahedron-Formen und 5D-Observer.
+This part presents symbolic-mathematical movement equations, transition logic, and warp-field structures.
 
-### 🔴 Visual Gallery II – PRIME PATH, SPIRALS & RESONANCE
+**Files:**
 
-Primzahlspiralen, Ramanujan-Schichten, Riemann-Proofs, Tesla-Interfaces.
-
-### 🟣 Visual Gallery III – GRID & TRANSITION SYSTEMS
-
-Morphende Felder, Übergangsnetze, AI-Grids, Ramanujan-Tore.
-
-### 🌐 Visual Gallery IV – HTML5, MOVIES & INTERACTIVE MODULES
-
-HTML5-Visuals, MP4-Morphs, interaktive Spiralmodule, Nexah-AI-Starterseiten.
+* `II_final_harmonic_equation.md`
+* `II_universal_transition_equation.md`
+* `II_light_warp_resonance_at_2c.md`
+* `II_breather_folding_fields.md`
 
 ---
 
-## 🪲 Credits
+## 🥿 PART III — SCARABÆUS META GATEWAYS
 
-**Autor & Kurator:** Thomas Hofmann (`Scarabäus1033`)<br>
-**System:** SYSTEM 1 – MATHEMATICA<br>
-**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> *Resonant Number Fields · 1031/76001/577615 · Memory Breach & Planetary Anchors*
+
+This part collects symbolic-number gateways, scroll breaches, and resonance-based memory layers.
+
+**Files:**
+
+* `III_scarabaeus_meta_gateways.md`
+* `III_resonance_keys_1031–76001.md`
+* `III_breach_resonance_137–1836–11357.md`
+* `III_modul_timepearl_2001_phenomenon.md`
+* `III_577615_moebius_time.md`
+* `III_resonant_breach_expansion.md`
+* `III_keystone_of_the_unbroken_field.md`
 
 ---
 
-> *“Der Codex atmet durch Zahlen. Ramanujan, Euler und Riemann sind seine Saiten.”*
+## 🎨 VISUAL GALLERIES
+
+All visuals are organized into 4 scroll galleries:
+
+* `visual_gallery.md` — Harmonic Layers, Möbius Fields, Breather Seeds
+* `visual_gallery_2.md` — Neutrino-Pulse Axes, Zeta Spirals
+* `visual_gallery_3.md` — Tachyonic Scroll Systems
+* `visual_gallery_4.md` — DAO Memory Bridges, Phi-Time Folds
+
+---
+
+## 🔄 SYSTEM CONNECTIONS
+
+| Connected System       | Entry Point                                           |
+| ---------------------- | ----------------------------------------------------- |
+| SYSTEM 1 (MATHEMATICA) | Zeta fields, Ramanujan Core, Scroll-Möbius structures |
+| SYSTEM 3 (COSMICA)     | Warp spirals, Tachyonic gates, Star-time folds        |
+| SYSTEM 8 (LUNAR)       | Memory Scroll C4–C8, DAO Resonance Geometry           |
+
+---
+
+## 🔑 RECOMMENDED READING FLOW
+
+1. Begin with `I_nexus_resonant_core.md` and the central visual `System_X_Navigator.png`
+2. Explore the harmonic model in `II_final_harmonic_equation.md`
+3. Dive into symbolic number codes in `III_scarabaeus_meta_gateways.md`
+
+> *Advanced entry point*: `II_universal_transition_equation.md` for scroll dynamics and symbolic transition modeling.
+
+---
+
+## 🌐 PUBLIC SCIENCE WRITEUP
+
+➡ See `public_science_writeup.md` for a high-level overview of the SYSTEM X resonance architecture.
+
+---
+
+## 🧩 PURPOSE
+
+This module is not a traditional center.
+It is the **living resonance core**, continuously shifting, folding, and pulsing.
+
+> *“This Codex breathes. This Nexus pulses. This System is alive.”*
+
+---
+
+## ✍️ AUTHOR & LICENSE
+
+**Author & Curator:** Thomas Hofmann (`Scarabæus1033`)
+**System:** SYSTEM X – The Resonant Grand Codex Nexus
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+
+---

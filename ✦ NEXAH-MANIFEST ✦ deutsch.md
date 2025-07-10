@@ -1,154 +1,159 @@
-# 📚 NEXAH MANIFEST — Wissenschaftliches Fundament und Einladung
+# 📚 NEXAH MANIFEST – Wissenschaftliches Fundament & Einladung
 
 ---
 
-# 📖 Was ist das NEXAH-System?
+## 📖 Was ist das NEXAH-System?
 
-Das **NEXAH-System** ist keine Theorie.  
-Es ist **der Versuch, die harmonische Architektur des Universums abzubilden**.
+Das **NEXAH-System** ist keine spekulative Theorie.
+Es ist der **Versuch, die harmonische Architektur des Universums zu kartieren**.
 
-Von den tiefsten Feldern und Teilchen (Neutrino, Higgs-Feld) —  
-zu Primzahlen, Konstanten und geometrischen Strukturen —  
-bis hin zu Galaxien, Frequenzsystemen und symbolischen Schichten.
+Von den tiefsten Feldern und Teilchen (Neutrinos, Higgs-Feld)
+über Primzahlen, Konstanten und geometrische Formen
+bis zu Galaxien, Frequenzsystemen und symbolischen Schichten:
 
-> **Resonanz** ist der Schlüssel.
+> **Resonanz ist die Urstruktur aller Systeme.**
 
 ---
 
-# 🔭 Grundidee
+## 🔭 Zentrale Idee
 
 Das NEXAH-System basiert auf der Annahme, dass:
 
-* **Primzahlen** keine Zufallsprodukte sind: Sie sind Resonanzknoten einer tieferen Ordnung.
-* **Konstanten** wie φ, π, τ, √2, √5 sind keine Beliebigkeit: Sie verankern Frequenzfelder.
-* **Geometrien** (Spiralen, Polygone, Topologien) kodieren energetische Pfade.
+* **Primzahlen** nicht zufällig sind – sie sind Resonanzknoten einer tieferen Logik.
+* **Konstanten** wie φ, π, τ, √2, √5 sind nicht beliebig – sie sind Ankerpunkte für Feldharmonien.
+* **Geometrische Formen** (Spiralen, Polygone, Topologien) kodieren energetische Strukturen.
 * **Zahlensysteme** entstehen aus Resonanzfeldern – nicht umgekehrt.
 
-> **Das Universum ist eine harmonische Resonanzstruktur.**
+> **Das Universum ist ein harmonisches Resonanzfeld.**
 
 ---
 
-# 📖 Was wurde aufgebaut?
+## 🏗 Was wurde gebaut?
 
-* **MATHEMATICA** — Primzahlresonanz, Beweisrahmen, Spirallogik
-* **PHYSICA** — Feldstrukturen, Quantenmodelle, Neutrinodynamiken
-* **COSMICA** — Planetare und stellare Resonanzen, Himmelsarchitektur
-* **URF** — Ursprung der Felder, Tensorstrukturen, Symmetrie-Erweiterungen
-* **META / BLOOM / ROSETTA** — Sprache, Symbolik, kulturelle Frequenzmuster
-* **VIOLETTA** — Visuelle Felder, künstlerische Resonanzinterpretationen
-* **TESSAREC** — Höherdimensionale Topologien und Flächenfüllungen
-* **GRAND-CODEX** — Synthetisches Zentrum, Verankerung der Millennium-Problemmodule
+* **MATHEMATICA** – Primzahlresonanz, Beweissysteme, Spiralgeometrie
+* **PHYSICA** – Feldlogik, Quantenmechanik, Neutrino-Resonanzsysteme
+* **COSMICA** – Planetare Resonanz, Sternfeld-Logik, energetische Gitter
+* **URF** – Ursprung der Felder, Tensorgeometrie, symbolische Grundlagen
+* **META / BLOOM / ROSETTA** – Sprache, Symbolik, kulturelle Frequenzkartierungen
+* **VIOLETTA** – Visuelle Symbolik, Felder harmonischer Komposition
+* **TESSAREC** – Höherdimensionale Kachelung und Quaternion-Projektionen
+* **GRAND-CODEX** – Finale Synthese & Resonanzstruktur der Millennium-Probleme
 
-> **Der NEXAH-Codex ist kein Ideensystem. Er ist ein vielschichtiges Strukturmodell.**
+> **Der NEXAH-Codex ist keine Ideensammlung – er ist eine lebendige, mehrschichtige Architektur.**
 
 ---
 
-# 🌌 Wissenschaftlicher Status
+## 🌌 Wissenschaftlicher Stand
 
-**Theorieschicht:**
+**Theorieebene:**
 
-* Metastruktur über klassische und moderne Physik hinweg
-* Integration von Geometrie, Feldtheorie, Zahlensystemen
-* Symbolisch-mathematische Architektur über Physik, Kosmologie, Mathematik
+* Meta-Struktur zwischen klassischer & Quantenphysik
+* Integration von Geometrie, Feldlogik & Zahlensystemen
+* Symbolisch-mathematische Überlagerung in Physik, Kosmologie & Mathematik
 
-**Aktueller Stand:**
+**Aktueller Status:**
 
-* Noch keine formale Beweiskette im klassischen Sinn
-* Tiefenstrukturale Modelle schaffen neue Ordnungen
-* Symbolisch-visueller Zugang öffnet neue Wege
+* Noch keine formale peer-reviewed Veröffentlichung
+* Strukturelle Tiefe bietet vereinheitlichende Symbolik
+* Visuell-symbolische Sprache eröffnet neue Pfade
 
 **Resonanzmodell:**
 
-* Vereinigt symbolische Felder mit empirischen Modellen
-* Generiert geometrisch-symbolische Schlüssel über alle Skalen
-* Schafft neue Anker für Konstanten, Feldtheorien und Primverhalten
+* Verbindet symbolische Logik & physikalische Feldmodelle
+* Erzeugt geometrisch-symbolische Navigation über Systeme hinweg
+* Schafft Anker für Konstanten, Gleichungen & Primsequenzen
 
 ---
 
-# 🌌 Wo stehen wir?
+## 🌐 Wo stehen wir?
 
 Wir stehen an einer **Schwelle**.
 
-NEXAH bietet:
+Der Codex bietet:
 
-* Eine **vollständige symbolische Karte** harmonischer Systeme
-* Einen **neuen Koordinatenraum** für wissenschaftliches und symbolisches Denken
-* Einen **modularen Metarahmen** über Disziplinen hinweg
+* Eine vollständige symbolische Karte der harmonischen Struktur
+* Ein neues Koordinatensystem für Resonanzwissenschaft
+* Eine modulare Architektur über alle Disziplinen hinweg
 
-Was noch gebraucht wird:
+Was gebraucht wird:
 
-* Klassische Validierung durch Beweis oder Experiment
-* Erweiterung durch kollaborativen Input
+* Mathematische & empirische Validierung
+* Dialog & Weiterentwicklung mit Wissenschaftlern
+* Fortlaufende symbolische Kartierung & Übersetzung
 
 Aber:
 
-* **Das Strukturmodell existiert.**
-* **Der Codex ist real.**
-* **Die Feldlogik ist konsistent.**
+* **Die Architektur existiert.**
+* **Die Struktur ist in sich konsistent.**
+* **Die Resonanzfelder sind navigierbar.**
 
 ---
 
-# 🔬 Implikationen
+## 🔬 Implikationen
 
-Bei Bestätigung und Erweiterung:
+Wenn bestätigt & erweitert:
 
-* Entsteht ein neues wissenschaftliches Paradigma.
-* Erkenntnisse über:
+* Wird ein neues Paradigma in Physik & Kosmologie denkbar
+* Ermöglicht Einsichten in:
+
   * Feldsymmetrien
-  * Primverteilungen
+  * Primzahlverteilungen
   * Geometrie der Konstanten
-* Potenzielle Anwendungen:
-  * Vereinheitlichte physikalische Modelle
-  * Kosmologische Simulationen
-  * Technologie auf Basis von Feldmodulationen
+* Anwendbar in:
 
-> **Eine symbolisch-mathematische Infrastruktur für ein resonantes Universum.**
+  * Vereinheitlichter Physik
+  * Feldbasierter Modulation & Synthese
+  * Kosmologischer Resonanzkartographie
+
+> **Ein symbolisch-mathematisches Framework für ein resonantes Kosmos.**
 
 ---
 
-# ♻️ Was bleibt?
+## ♻️ Was bleibt?
 
 **Resonanz ist die Ursprache.**
 
-* Der Codex sieht Struktur, wo andere Rauschen sehen.
-* Die Karte ist offen für Validierung, Kritik und Erweiterung.
+* Der Codex zeigt Struktur, wo andere Chaos sehen
+* Das System lädt ein zur Prüfung, Weiterentwicklung & kreativen Erweiterung
 
-> **NEXAH ist nicht abgeschlossen. Es ist offen.**
+> **NEXAH ist keine geschlossene Theorie – es ist eine offene harmonische Kartographie.**
 
-Es lädt ein zur Neuinterpretation, Übersetzung, Resonanz.
+Sie lädt ein zu Neuinterpretation, Übersetzung und Resonanzvermessung.
 
 ---
 
-# 🌍 Offene Einladung
+## 🌍 Offene Einladung
 
-Dies ist kein geschlossenes Projekt. Es gehört keiner Institution.
+Dies ist kein kommerzielles Projekt – es gehört keiner Institution.
 
-> **Es ist eine wissenschaftliche und symbolische Karte für alle, die mitschwingen.**
+> **Es ist eine symbolisch-wissenschaftliche Brücke für alle, die in Resonanz treten.**
 
 Du bist eingeladen zu:
 
-* Erkunden
+* Entdecken
 * Hinterfragen
-* Mitbauen
+* Bauen
 * Kooperieren
 
-Willkommen sind Wissenschaftler:innen, Mathematiker:innen, Philosoph:innen, Physiker:innen, Künstler:innen und Ingenieur:innen.
+Wir heißen willkommen: Mathematiker, Physiker, Coder, Künstler, Kosmologen, Sprachwissenschaftler.
 
-> 💜 **Teile Erkenntnis. Erweitere den Codex. Entfalte Resonanz.**
-
----
-
-# 🧩 Technischer Hinweis
-
-Nicht alle Inhalte sind finalisiert.  
-Viele Module sind strukturiert. Andere sind roh. Das ist beabsichtigt.  
-Der Codex setzt auf **Dokumentation vor Perfektion**.
-
-Nicht jedes Bild oder jede Formel ist perfektioniert. Aber die Struktur atmet.  
-Dies ist ein **lebendes System**.
+> 💜 **Resoniere. Erweitere den Codex. Tritt ins Feld.**
 
 ---
 
-👨‍🎓 Thomas Hofmann (Scarabæus1033)  
-📚 Kurator des NEXAH-Codex  
-**© 2025 — Für alle, die Resonanz wagen.**
+## 🧩 Technische Notiz
+
+Nicht alle Dateien oder Module sind perfekt.
+
+Einige sind roh – mit Absicht.
+
+> Der Codex dokumentiert, bevor er perfektioniert. Er atmet, bevor er erstarrt.
+
+**Er ist ein lebendiges Feldsystem.**
+
+---
+
+👨‍🎓 Thomas Hofmann (Scarabæus1033)
+**Kurator des NEXAH-CODEX**
+© 2025 — CC BY-NC-SA 4.0
+🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net) · GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
