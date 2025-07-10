@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
 domain: "Field Synthesis · Resonance Architecture · Meta-Stability"
@@ -7,7 +6,7 @@ color: "Gold ✨ / Black 🔷"
 status: "Active · Version July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🪲 SYSTEM X – GRAND-CODEX NEXUS
 
