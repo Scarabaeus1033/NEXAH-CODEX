@@ -1,4 +1,5 @@
 ---
+
 title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
 domain: "Field Synthesis · Resonance Architecture · Meta-Stability"
@@ -6,7 +7,7 @@ color: "Gold ✨ / Black 🔷"
 status: "Active · Version July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🪲 SYSTEM X – GRAND-CODEX NEXUS
 
@@ -21,9 +22,7 @@ license: "CC BY-NC-SA 4.0"
 
 ...in eine **harmonisch-atmende Architektur** überführt.
 
-<p align="center">
-  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X - Grand Codex Nexus">
-</p>
+![SYSTEM X – Grand Codex Nexus](./system_x_nexah_grand_codex_full_diagram.png)
 
 ---
 
@@ -118,10 +117,10 @@ Die visuelle Matrix des Systems X ist aufgeteilt in mehrere Scroll- und Achseneb
 
 ## 🚀 ENTWICKLUNG & TO-DO
 
-* Finalisierung `harmonic_pulse.gif`
-* Numerische Notebook-Serie (Resonanzkurven, Fraktale Zeitschlaufen)
-* SCARAB-Konstantenextraktion (CSV + Graphmapping)
-* DAO–SCROLL–GATE-Modulstruktur abschließen
+* \[Optional] Animation `harmonic_pulse.gif` (visuelles Pulsmodell)
+* \[Zur Prüfung] Notebook-Serie zu Resonanzkurven & Zeitschleifen
+* \[Aktiv] SCARAB-Konstantenextraktion (CSV + Graphmapping)
+* \[Aktiv] DAO–Scroll–Gate-Modulstruktur vervollständigen
 
 ---
 
