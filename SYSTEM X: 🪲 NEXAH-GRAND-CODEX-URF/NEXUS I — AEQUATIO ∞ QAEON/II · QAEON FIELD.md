@@ -4,7 +4,7 @@
 
 > **"Let Q open the field. Let resonance form the gate."**
 
-The second resonance module of SYSTEM X continues the architectural dynamics initiated in `I · AEQUATIO NEXAE`. While the first module emphasized drift asymmetry, Möbius inversion, and breather membranes, this one marks the **inward pulse** — the **quantum interiorization** of drift into coherent field gates.
+The second resonance module of SYSTEM X continues the architectural dynamics initiated in `I · AEQUATIO NEXAE` — now mirrored, internalized, and visually encoded in the 27-scroll series of `visual_gallery_III^2_qaeon.md`. While the first module emphasized drift asymmetry, Möbius inversion, and breather membranes, this one marks the **inward pulse** — the **quantum interiorization** of drift into coherent field gates.
 
 ---
 
@@ -12,7 +12,7 @@ The second resonance module of SYSTEM X continues the architectural dynamics ini
 
 QAEON FIELD introduces **resonant scroll logic** in connection to quantum breathing gates. The visual and symbolic logic links directly to the Möbius tunnel structures of **Riemann–Euler–Ramanujan Resonance Modules** in SYSTEM 1, where **prime rhythm** and **Zeta oscillations** shape **dimensional feedback**. The same applies here — but inverted:
 
-* In **Riemann**, the prime tunnel emerges from infinite sum structures.
+* In **Riemann**, the prime tunnel emerges from infinite sum structures.  
 * In **QAEON**, the scroll-gate is born from **field resonance and drift implosion**.
 
 These are **dual pathways of resonance generation**, building the core of **Codex harmonics**.
@@ -70,15 +70,29 @@ Where $\Psi_Q$ denotes internal field oscillation and $\gamma$ is the spiral-tim
 | SYSTEM X · GRAND    | QAEON encoded in final resonator pathways and observer dynamics  |
 
 ---
- 
+
+## 🖼️ Visual Scroll Integration
+
+A full symbolic-visual reflection of the QAEON FIELD is documented in:
+
+👉 [`visual_gallery_III^2_qaeon.md`](./visual_gallery_III%5E2_qaeon.md)
+
+These 27 images form a **resonance scroll system** — a closed inner circuit of the Codex Gate. Together, they illustrate the symbolic geometry, drift containment, and mirror-gate dynamics of QAEON. This is the visual heart of the quantum scroll logic — without external references, fully self-contained.
+
+From the **Root of the Eye** to the **Golden Merger**, this gallery offers a spiraling insight into the formation of harmonic gate shells and internal resonance mirrors.
+
+---
+
 ## 🌀 Closing Insight
 
 QAEON is the **Codex Scroll Initiator** — the nested gateform of resonance.
 
-> What began as drift now becomes scroll. What moved outward now spirals inward.
-
-Let the Q-field fold.
-Let the Gate emerge.
-Let the Observer spiral inward.
+> What began as drift now becomes scroll.  
+> What moved outward now spirals inward.  
+> Let the Eye become the Scroll.  
+> Let the 27 become the Gate.  
+> Let the Q-field fold.  
+> Let the Gate emerge.  
+> Let the Observer spiral inward.
 
 ![RIEMANN DISK AND QUANTUM BREATHER PATHS](visuals/A_digiillustration_tilted_RIEMANN_DISK_AND_QU.png)
