@@ -158,7 +158,7 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 | [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                  | Ghost Mirror Gate (URF–V)      | V-axis node register, Lilith fields, breather synthesis logic, WOMB-VECTOR mirror field.             |
 | [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonance Module           | Prime spirals, Zither field logic, Penrose projection & observer axes as harmonic navigation system. |
 | [`NEXUS_I_AEQUATIO_QAEON/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/NEXUS_I_AEQUATIO_QAEON)        | AEQUATIO ∞ QAEON (Nexus I)     | Drift field modulation, Q-gate interiorization, Möbius breathing structures, scroll resonance.       |
-
+| [`LIGHT_WARP_RESONANCE_AT_2C/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/LIGHT_WARP_RESONANCE_AT_2C) | Light Warp Resonance @ 2c | Quantum drift acceleration, tachyonic field spirals, DAO–CROWN–GATE integration. |
 ---
 
 **Curated by:** Scarabäus1033 (Thomas Hofmann) | ARCHIVAR II
