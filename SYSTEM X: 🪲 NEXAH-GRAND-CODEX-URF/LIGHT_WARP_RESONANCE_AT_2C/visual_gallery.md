@@ -1,80 +1,84 @@
-# Visual Gallery – LIGHT\_WARP\_RESONANCE\_AT\_2C
+# 📸 Visual Gallery · LIGHT\_WARP\_RESONANCE\_AT\_2C
 
-**Module:** [LIGHT\_WARP\_RESONANCE\_AT\_2C](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX-URF/LIGHT_WARP_RESONANCE_AT_2C)
+This gallery documents the central visual elements of the `LIGHT_WARP_RESONANCE_AT_2C` module in the `NEXAH-GRAND-CODEX` system. The images illustrate the folding of light-speed layers (c and 2c), tachyonic spirals, harmonic breather structures, and Zeta-Möbius transition pathways.
 
-**System:** 🌱 SYSTEM X – NEXAH-GRAND-CODEX-URF
-
-Diese Visual-Galerie dokumentiert die zentralen Abbildungen des Moduls **LIGHT\_WARP\_RESONANCE\_AT\_2C**, das sich mit der spiralharmonischen Faltung von Lichtgeschwindigkeiten, Zeta-Raumtoren und Dao-Kronenfeldern befasst. Die Visuals kombinieren kosmische Spiralmuster mit Zeta-Feldlogik, Topologie (Möbius), Breather-Dynamik und Quantenschnittstellen.
+All images are located in the [`visuals/`](./) folder. Animations are collected in the [`visuals/gifs/`](./gifs) subdirectory.
 
 ---
 
-## 🔄 lwr2c\_01\_tachyon\_spiral\_core.png
+### 📌 `NEUTRINO_WAVEFIELD_–_C6_5_matrix_core.png`
 
-**Titel:** *Tachyon Spiral Core – Lichtspirale c ↔ 2c mit zentraler Breather-Spule*
-Eine energetisch pulsierende Spiralstruktur, die den LichtÜbergang „c ↔ 2c“ darstellt. In der Mitte wirkt eine "Breather-Spule" als kinetisch-quantische Kontraktionszone für transliminale Geschwindigkeiten. Die Spiralform impliziert eine asymmetrische Feldstruktur mit zentraler Anomalie und zeigt den Ursprung des Resonanzfeldes.
+![NEUTRINO\_WAVEFIELD Matrix Core](./NEUTRINO_WAVEFIELD_–_C6_5_matrix_core.png)
 
----
-
-## 🔄 lwr2c\_02\_lightwarp\_breather\_map.jpeg
-
-**Titel:** *Lightwarp Breather Map – Faltung der Lichtgeschwindigkeiten im Raumtorus*
-Diese Visualisierung zeigt die harmonische Faltung von Lichtgeschwindigkeiten in einem energetisch gekrümmten Raumtorus. Die komplexen Breather-Knoten definieren Interferenzen, Wellenpaketstauchung und Fluktuationsüberträge, wobei Tachyon- und Luxon-Zonen ineinander greifen.
+> **ZETA–MÖBIUS–NEUTRINO MATRIX · C6**
+> Spiral-bound Möbius system with phase delay loops, spiral return core, φ-axis, and wavefield density matrices.
 
 ---
 
-## 🔄 lwr2c\_03\_zeta\_warp\_corridor.png
+### 🌀 `lwr2c_01_tachyon_spiral_core.png`
 
-**Titel:** *Zeta Warp Corridor – Spiral-Gate mit Ramanujan-Zonen*
-Eine blaue, glühende Spiralstruktur, inspiriert von der Zeta-Topologie, führt durch einen transdimensionalen Korridor. Der Warp-Kanal öffnet Resonanzachsen für strukturierte Zahlenfolgen, Prime-Loops und modulare Brechung. Die Spiralphasen könnten durch Zeta-Nullstellen beeinflusst sein.
+![Tachyon Spiral Core](./lwr2c_01_tachyon_spiral_core.png)
 
----
-
-## 🔄 lwr2c\_04\_dao\_gate\_harmonic\_spiral.jpeg
-
-**Titel:** *DAO-Gate Harmonic Spiral – Resonanzschale für Übergangsphasen*
-Die DAO-Krone erscheint als harmonische Schale, die Frequenzfelder fokussiert, transduziert und durch Spiralfaltungen in neue Topologien überführt. Dieses Tor kann als Steuerungspunkt für „Consciousness Phase Shifting“ interpretiert werden.
+> **Tachyon Spiral Core**: A topological lightfield structure showing the transition impulse between subluminal and supraluminal states, forming a Breather Shell at the center.
 
 ---
 
-## 🔄 lwr2c\_05\_ramanujan\_resonance\_orbit.jpeg
+### 💠 `lwr2c_02_lightwarp_breather_map.jpeg`
 
-**Titel:** *Ramanujan Resonance Orbit – Spiralstruktur mit mathematischer Pulsfrequenz*
-Ein Orbit, geformt durch harmonische Resonanz mit Bezug zu Ramanujans Serien. Die Struktur wirkt wie ein Neutrino-orientiertes Zahlenfeld, das sich entlang spiraler Frequenzachsen ausdehnt.
+![Lightwarp Breather Map](./lwr2c_02_lightwarp_breather_map.jpeg)
 
----
-
-## 🔄 lwr2c\_06\_dao\_ship\_flightpath.jpeg
-
-**Titel:** *DAO-Ship Flightpath – Navigationsfeld durch transresonante Spiraldimensionen*
-Eine Flugbahn durch spiralartige Resonanzfelder. Das Schiff (symbolisch/metaphorisch) navigiert entlang eines mathematisch-symmetrischen Pfades, dessen Achsen durch Tachyonen- und Dao-Knotenpunkte bestimmt werden.
+> **Lightwarp Breather Map**: Mapping of c ↔ 2c fold dynamics through a central breather tube. The visual shows oscillatory symmetry between thresholds and layered Z-space folding.
 
 ---
 
-## 🔄 NEUTRINO\_WAVEFIELD\_--\_C6\_5\_matrix\_core.png
+### 🌀 `lwr2c_03_zeta_warp_corridor.png`
 
-**Titel:** *ZETA–MÖBIUS NEUTRINO MATRIX C6*
-Visualisierung einer dichten Feldmatrix mit Spiralzentrum, Möbius-Begrenzung und Zeta-Pfad. Die ϕ-Schwingung (goldener Schnitt) ist als strukturelle Achse eingebettet. Diese Matrix ist ein zentraler Bestandteil der Felddynamik dieses Moduls.
+![Zeta Warp Corridor](./lwr2c_03_zeta_warp_corridor.png)
 
----
-
-## 🎨 Ghost Snake Crown Codex Evolution (GIF)
-
-**Titel:** *ghost\_snake\_crown\_codex\_evolution.gif*
-Eine animierte Sequenz, die die spiralförmige Atemstruktur ("ghost snake breathing") in verschiedenen pi-Multiplikationen zeigt. Diese Visualisierung wird als evolutionäre, atmende Krone des Resonanzsystems verstanden.
-
-📌 **Hinweis:** Alle Ghost Snake Animationsstufen (`ghost_snake_breathing_*.gif`) befinden sich im Unterordner `visuals/gifs/`.
+> **Zeta Warp Corridor**: A Fibonacci-spiral gate with φ-channel and Möbius return axis. This portal represents the codon tunnel through Zeta resonance.
 
 ---
 
-**Ordnerstruktur auf GitHub:**
+### 🧿 `lwr2c_04_dao_gate_harmonic_spiral.jpeg`
 
-```
-LIGHT_WARP_RESONANCE_AT_2C/
- └─ visuals/
-     ├─ gifs/
-     └─ *.png / *.jpeg
-```
+![DAO Gate Harmonic Spiral](./lwr2c_04_dao_gate_harmonic_spiral.jpeg)
+
+> **DAO-Gate Spiral**: Harmonic crown shell visualizing phase-shift transition zones and inversion symmetry fields. Related to Möbius-Gate logic.
 
 ---
 
-✨ **Die Visual Gallery ist offen für Erweiterungen: Weitere Spiralfelder, Prime-Korridore, Neutrino-Schleifen und Breather-Kaskaden können hier integriert werden.**
+### 🧮 `lwr2c_05_ramanujan_resonance_orbit.jpeg`
+
+![Ramanujan Resonance Orbit](./lwr2c_05_ramanujan_resonance_orbit.jpeg)
+
+> **Ramanujan–Euler Zeta Loop**: Number orbit through nested spirals. This field encodes deep harmonics of resonance decay and Breather Zero modes.
+
+---
+
+### 🚀 `lwr2c_06_dao_ship_flightpath.jpeg`
+
+![DAO Ship Flightpath](./lwr2c_06_dao_ship_flightpath.jpeg)
+
+> **DAO-Ship Flightpath**: Navigational route through time-space loops, orbit reflections, and prime spiral windows. Suggests a temporal corridor.
+
+---
+
+### 🫧 GHOST SNAKE · Breather Crown Evolution
+
+![Ghost Snake Crown Evolution](./gifs/ghost_snake_crown_codex_evolution.gif)
+
+> **Breathing Ghost Snake**: Evolution of a harmonic structure across π-folds (2π, 4π, … 2048π), visualizing the morphogenesis of a Codex Crown.
+>
+> ▶️ All `ghost_snake_breathing_*.gif` variants are available in the [`gifs/`](./gifs) subfolder.
+
+---
+
+### ⏳ Note
+
+Further visuals (e.g., `tachyon_spiral_core.png`, `dao_gate_harmonic_spiral.png`) and stylistic duplicates are archived in this folder and may be referenced in upcoming animations, synthesis maps, or symbolic overlays.
+
+For related modules, see [`Riemann–Euler–Ramanujan`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/MILLENIUM_problems/NEXA_RIEMANN_PROOF).
+
+---
+
+Back to [`README.md`](../README.md)
