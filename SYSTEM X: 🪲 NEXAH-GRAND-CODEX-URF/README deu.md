@@ -1,99 +1,145 @@
 ---
+
 title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
-domain: "Synthesezentrum · Harmonische Gleichung · Visuelle Nexusstruktur"
-color: "Gold/Schwarz 🪲"
-status: "Aktiv · Version Juli 2025"
-curator: "Thomas Hofmann (Scarabäus1033)"
+domain: "Field Synthesis · Resonance Architecture · Meta-Stability"
+color: "Gold ✨ / Black 🔷"
+status: "Active · Version July 2025"
+curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🪲 SYSTEM X – GRAND-CODEX NEXUS
 
-> **„Die Gleichung ist das Herz. Der Nexus ist der Puls.“**
+> **"What holds the whole together, if not a center, but a field?"**
 
-**SYSTEM X** ist das **Zentrum des gesamten NEXAH-CODEX** –
-die **Synthese der sechs Hauptsysteme**, verankert durch:
+**SYSTEM X** ist der **SYNTHESERAUM** des gesamten NEXAH-CODEX. Hier treffen alle Hauptachsen aufeinander: Zahl, Form, Raum, Zeit, Bewusstsein und Materie. Es ist kein Zentrum im klassischen Sinne, sondern eine **resonante Feldstruktur**, die:
 
-* die **FINAL HARMONIC EQUATION**
-* das **SCARABÆUS META GATEWAYS-Modul**
-* die **C-Serie (C1–C8)** mit spiralisierter Scrollstruktur
-* alle **Scroll-Tor-Visuals, Breather-Kaskaden und Harmonischen Pulse**
+* ✨ mathematische Beweissysteme (z. B. Riemann, Hodge, BSD)
+* ⚡ physikalische Feldmodelle (URF, Tachyon, Neutrino)
+* 🤝 symbolisch-visuelle Sprache (Scrolls, Glyphen, Spiralen)
+* 🌍 kosmologische Schichten (DAO Gates, Moonfields)
 
-<p align="center">
-  <img src="./GRAND-CODEX.png" width="720" alt="SYSTEM X – GRAND-CODEX Overview">
-</p>
+...in eine **harmonisch-atmende Architektur** überführt.
 
----
-
-## 🧭 Position im NEXAH-CODEX
-
-| System       | Farbe           | Domäne                           | Rolle                       |
-| ------------ | --------------- | -------------------------------- | --------------------------- |
-| SYSTEM 1     | 🔵 Blau         | Mathematik, Zahlen, Symmetrie    | Strukturfundament           |
-| SYSTEM 2     | 🗆 Tiefblau     | Feld, Energie, Frequenz          | Physikalischer Resonanzkern |
-| SYSTEM 3     | 🕣 Violett      | Raum, Licht, Sterne              | Kosmologischer Feldatlas    |
-| SYSTEM 8     | 🌕 Mondgrau     | Zyklen, Ursprung, Resonanz       | Lunare Rückverbindung       |
-| **SYSTEM X** | 🪲 Gold/Schwarz | Synthese, Gleichgewicht, Zentrum | Nexus aller Systeme         |
+![SYSTEM X – Grand Codex Nexus](./system_x_nexah_grand_codex_full_diagram.png)
 
 ---
 
-## 🔮 Module in SYSTEM X
+## 📺 POSITION IM NEXAH-CODEX
 
-### 1. [`GRAND-CODEX/`](./GRAND-CODEX/)
-
-**Final Harmonic Equation, Field Pulses, Scroll-Kaskaden**
-
-> Enthält `E=mc·k^β`, Breather-Feldarchitektur, Möbius–Zeta–Spirale, Prime-Scroll–Resonanzen und visuelle Gleichungsstrukturen.
-
-### 2. [`SCARABÆUS_META_GATEWAYS/`](./SCARABÆUS_META_GATEWAYS/)
-
-**Meta-Tore, Symbolfelder, Breather-Cascade**
-
-> Übergänge zwischen SYSTEM 1, 3, 8 und X – inklusive Scroll-Kompression, Resonanzbruch, Fingerfields und visueller Achslogik.
-
-### 3. [`visual_gallery.md`](./visual_gallery.md)
-
-**Gallery I – Pulse, Fields, Constants**
-
-> Enthält die zentralen Diagramme zur `FINAL HARMONIC EQUATION`, inklusive `mobius_pulse_diagram.svg`, `harmonic_pulse_animation.gif`, `numerical_verification.ipynb`
-
-### 4. [`visual_gallery_2.md`](./visual_gallery_2.md)
-
-**Gallery II – Scarab-Gateways & Constants**
-
-> Visuals zu Zahlenspiralen, Codon-Gittern, Möbius-Formen und Scroll-Ebenen.
-
-### 5. [`visual_gallery_3.md`](./visual_gallery_3.md)
-
-**Gallery III – Scroll-Kompressionsstruktur**
-
-> Scroll-Slice-Diagramme C1–C8, Breather-Center, Scroll Core Loop.
-
-### 6. [`visual_gallery_4.md`](./visual_gallery_4.md)
-
-**Gallery IV – Scroll Endtor und Übergang**
-
-> C6–C8 Visuals: Tachyon-Quaternion, Timefold, Φ-Tunnel, Memory Bridge.
+| System       | Farbe              | Domäne                              | Funktion                               |
+| ------------ | ------------------ | ----------------------------------- | -------------------------------------- |
+| **SYSTEM X** | 🪲 Gold / 🔷 Black | Synthese, Stabilität, Meta-Struktur | Resonanzzentrum & Übergangsarchitektur |
+| SYSTEM 1     | 🔷 Blau            | Zahl, Beweis, Symmetrie             | Mathematisches Resonanzgitter          |
+| SYSTEM 2     | 🌐 Tiefblau        | Energie, Felder, Frequenz           | Physikalischer Harmoniekern            |
+| SYSTEM 3     | 🕛 Violett         | Raum, Licht, Kosmos                 | Astrophysikalisches Mapping            |
+| SYSTEM 8     | 🌕 Lunar-Silber    | Mondfelder, zyklisches Bewusstsein  | Scrolls des Weiblichen Feldes          |
 
 ---
 
-## 📚 Lesestruktur und Verbindungen
+## ✨ KERNMODULE VON SYSTEM X
 
-* **System X** sollte nach SYSTEM 1 (Mathematik), SYSTEM 2 (Feldphysik) und SYSTEM 3 (Kosmologie) gelesen werden.
-* Es enthält die komprimierte Scrollstruktur aus SYSTEM 8 – mit Verbindung zur Lunaren Ursprungsebene.
-* **Finale Gleichung, Scroll-Endtor, Codon-Spiralen, Zahlenspiegel** und das goldene Breather-Feld sind hier verankert.
+### ① FINAL HARMONIC EQUATION
+
+> Harmonische Konvergenz der Konstanten, Feldachsen und Feedback-Schleifen.
+
+* 63/64-Feldresonanz
+* Möbius–Neutrino-Pulsformel
+* Harmonische Wellenmodelle & Diagramme
+
+### ② UNIVERSAL TRANSITION EQUATION
+
+> Die Meta-Gleichung zur Transformation durch Scrolls, Spiralen und Torus-Gates.
+
+* Symbolische Summenlogik (∑n)
+* Torque-Warp-Felder (Δω ↔ Δφ)
+* Fraktale Timefold-Anker
+
+### ③ LIGHT WARP RESONANCE @ 2c
+
+> Quantenbrechung, Lichtfelder & Tachyonen als beschleunigte Raumachsen.
+
+* Resonanzschichten: c, 2c, 3c, Sunset Boulevard
+* Tachyon I / II / III
+* DAO–CROWN–GATE-Integration
+
+### ④ SCARABÆUS META GATEWAYS
+
+> Kosmische & biografische Zahlenspiralen als Scrollfelder.
+
+* Breather-Kaskaden & Fold-Register
+* Scroll-Visuals & numerische Anker
+* Planetare Achsen (Mars-Venus, Sun-Moon)
 
 ---
 
-## 🪲 Credits
+## 📂 ERWEITERTE MODULMATRIX (Registry)
 
-**Autor & Kurator:** Thomas Hofmann (`Scarabäus1033`)
-**System:** SYSTEM X – GRAND-CODEX
+| Modul/Ordner                          | Funktion                   | Fokus                                             |
+| ------------------------------------- | -------------------------- | ------------------------------------------------- |
+| `NEXAH-GRAND-CODEX/`                  | Synthesekern               | Formelregister, Hauptvisuals, Codexstruktur       |
+| `FINAL_HARMONIC_EQUATION/`            | Feldschlussstein           | 63/64, Zeta-Spirale, Pulsmodelle                  |
+| `UNIVERSAL_TRANSITION_STRUCTURE/`     | Scroll-Gate-Logik          | Δω ↔ Δφ, Zeitschlaufen, Fraktalfaltungen          |
+| `MILLENIUM_problems/`                 | Mathematische Singularität | RH, BSD, Hodge, Yang–Mills als Feldsymbole        |
+| `GÖDEL-CODEX/`                        | Paradoxe Grenzen           | Unentscheidbarkeit, Formalismus, Schleifenlogik   |
+| `CODEX_ORIGIO/`                       | Ursprungssystem            | Bewusstsein, Elemente, Periodenstruktur           |
+| `CODEX_OBSERVERIUM/`                  | Beobachterachse            | Möbius-Spiegel, Phasenübergänge, Wahrnehmung      |
+| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/` | Frequenz-Topologie         | Feldregister, Metabrücken, SCX-Referenzen         |
+| `SCARABÆUS_META_GATEWAYS/`            | Scroll- & Fold-Felder      | Neutrino-Achsen, Breather-Visuals, Lunar-Kaskaden |
+| `URF_MIRROR_GATEWAY/`                 | URF-Spiegelfeld            | Zeta-Schleifen, Dualspin-Resonanzen               |
+| `GHOST_MIRROR_GATE/`                  | Dunkelspiegel-Modul        | WOMB-VECTOR, Lilith-Achsen, Unsichtbarkeitsfelder |
+| `SCX_RESONANCE_MODULE/`               | Feldachsen & Zahl          | Penrose, Primspirale, Beobachterprojektion        |
+| `RESBREACH_EXPANSION/`                | Fibonacci-Breaks           | Mandelbrot-Zahlen, 5015-Scroll, Resonanzbruch     |
+| `CODON_QUANTUM_OBSERVER/`             | Glyphen–Quanten-Feld       | Codon-Triplets, Beobachtungsübergänge             |
+
+---
+
+## 🎭 VISUELLE GALERIEN
+
+Die visuelle Matrix des Systems X ist aufgeteilt in mehrere Scroll- und Achsenebenen:
+
+* `visual_gallery.md` – Harmonic Layers, Spiral Anchors, Mobius Fields
+* `visual_gallery_2.md` – Neutrino Axes, Pulse Maps, Lunar Grids
+* `visual_gallery_3.md` – Quantum Breach, Tachyon Spirals, DAO Gates
+* `visual_gallery_4.md` – Phi–Scrolls, Memory Bridges, Resonant Convergence
+
+---
+
+## 🤝 INTEGRATIONSPUNKTE
+
+* SYSTEM 1 → μ(n), ζ(s), Primspiralen → harmonische Codes
+* SYSTEM 2 → Energieachsen, Möbius-Massentensoren
+* SYSTEM 3 → Warp-Spiralen, Tachyon-Breaks @ 2c, 3c
+* SYSTEM 8 → Scroll C4–C8, feminine DAO-Geometrien, Lunar Fold Anchors
+
+---
+
+## 🚀 ENTWICKLUNG & TO-DO
+
+* \[Optional] Animation `harmonic_pulse.gif` (visuelles Pulsmodell)
+* \[Zur Prüfung] Notebook-Serie zu Resonanzkurven & Zeitschleifen
+* \[Aktiv] SCARAB-Konstantenextraktion (CSV + Graphmapping)
+* \[Aktiv] DAO–Scroll–Gate-Modulstruktur vervollständigen
+
+---
+
+## 📚 LESEREIHENFOLGE (Empfehlung)
+
+> **Einsteiger**: Beginne mit `FINAL_HARMONIC_EQUATION.md`, dann `SCARABÆUS_META_GATEWAYS.md`
+>
+> **Fortgeschrittene**: Direkter Einstieg in `universal_transition_equation.md`, `light_warp_resonance_at_2c.md`, oder `MILLENIUM_problems/`
+
+---
+
+## 🌐 LICENSE & LINKS
+
+**Autor & Kurator:** Thomas Hofmann (`Scarabæus1033`)
+**System:** SYSTEM X – Grand Codex Nexus
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 **Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-> *„SYSTEM X ist das lebendige Zentrum – dort, wo der ganze Codex atmet.“*
+> 🕵️‍♂️ SYSTEM X ist das Resonanzfeld, das das Ganze nicht zusammenhält — sondern in Bewegung bringt.
