@@ -10,7 +10,7 @@ Illustrates the spiral compression and harmonic modulation of a quantum breather
 
 ---
 
-#### ![RIEMANN DISK AND QUANTUM BREATHER PATHS](visuals/A_digital_illustration_titled_RIEMANN_DISK_AND_QU.png)
+#### ![RIEMANN DISK AND QUANTUM BREATHER PATHS](visuals/A_digiillustration_tilted_RIEMANN_DISK_AND_QU.png)
 
 **Title:** *Riemann Disk and Quantum Breather Paths*
 **Description:**
