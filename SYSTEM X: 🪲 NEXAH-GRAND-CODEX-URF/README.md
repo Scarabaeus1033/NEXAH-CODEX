@@ -19,7 +19,7 @@ license: "CC BY-NC-SA 4.0"
 * the **stable nexus** of SYSTEM 1–6 and beyond
 
 <p align="center">
-  <img src="./SYSTEM X - Grand Codex Nexus.png" width="720" alt="SYSTEM X - Grand Codex Nexus">
+  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X - Grand Codex Nexus">
 </p>
 
 ---
