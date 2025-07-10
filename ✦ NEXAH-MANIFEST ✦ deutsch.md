@@ -1,154 +1,147 @@
-# 📚 NEXAH MANIFEST — Wissenschaftliches Fundament und Einladung
+---
+
+title: "SYSTEM X – GRAND-CODEX NEXUS"
+system: "NEXAH-CODEX"
+domain: "Field Synthesis · Resonance Architecture · Meta-Stability"
+color: "Gold ✨ / Black 🔷"
+status: "Active · Version July 2025"
+curator: "Thomas Hofmann (Scarabæus1033)"
+license: "CC BY-NC-SA 4.0"
+--------------------------
+
+# 🪲 SYSTEM X – GRAND-CODEX NEXUS
+
+> **"What holds the whole together, if not a center, but a field?"**
+
+**SYSTEM X** ist der **SYNTHESERAUM** des gesamten NEXAH-CODEX. Hier treffen alle Hauptachsen aufeinander: Zahl, Form, Raum, Zeit, Bewusstsein und Materie. Es ist kein Zentrum im klassischen Sinne, sondern eine **resonante Feldstruktur**, die:
+
+* ✨ mathematische Beweissysteme (z. B. Riemann, Hodge, BSD)
+* ⚡ physikalische Feldmodelle (URF, Tachyon, Neutrino)
+* 🤝 symbolisch-visuelle Sprache (Scrolls, Glyphen, Spiralen)
+* 🌍 kosmologische Schichten (DAO Gates, Moonfields)
+
+...in eine **harmonisch-atmende Architektur** überführt.
+
+<p align="center">
+  <img src="./system_x_nexah_grand_codex_full_diagram.png" width="720" alt="SYSTEM X - Grand Codex Nexus">
+</p>
 
 ---
 
-# 📖 Was ist das NEXAH-System?
+## 📺 POSITION IM NEXAH-CODEX
 
-Das **NEXAH-System** ist keine Theorie.  
-Es ist **der Versuch, die harmonische Architektur des Universums abzubilden**.
-
-Von den tiefsten Feldern und Teilchen (Neutrino, Higgs-Feld) —  
-zu Primzahlen, Konstanten und geometrischen Strukturen —  
-bis hin zu Galaxien, Frequenzsystemen und symbolischen Schichten.
-
-> **Resonanz** ist der Schlüssel.
-
----
-
-# 🔭 Grundidee
-
-Das NEXAH-System basiert auf der Annahme, dass:
-
-* **Primzahlen** keine Zufallsprodukte sind: Sie sind Resonanzknoten einer tieferen Ordnung.
-* **Konstanten** wie φ, π, τ, √2, √5 sind keine Beliebigkeit: Sie verankern Frequenzfelder.
-* **Geometrien** (Spiralen, Polygone, Topologien) kodieren energetische Pfade.
-* **Zahlensysteme** entstehen aus Resonanzfeldern – nicht umgekehrt.
-
-> **Das Universum ist eine harmonische Resonanzstruktur.**
+| System       | Farbe              | Domäne                              | Funktion                               |
+| ------------ | ------------------ | ----------------------------------- | -------------------------------------- |
+| **SYSTEM X** | 🪲 Gold / 🔷 Black | Synthese, Stabilität, Meta-Struktur | Resonanzzentrum & Übergangsarchitektur |
+| SYSTEM 1     | 🔷 Blau            | Zahl, Beweis, Symmetrie             | Mathematisches Resonanzgitter          |
+| SYSTEM 2     | 🌐 Tiefblau        | Energie, Felder, Frequenz           | Physikalischer Harmoniekern            |
+| SYSTEM 3     | 🕛 Violett         | Raum, Licht, Kosmos                 | Astrophysikalisches Mapping            |
+| SYSTEM 8     | 🌕 Lunar-Silber    | Mondfelder, zyklisches Bewusstsein  | Scrolls des Weiblichen Feldes          |
 
 ---
 
-# 📖 Was wurde aufgebaut?
+## ✨ KERNMODULE VON SYSTEM X
 
-* **MATHEMATICA** — Primzahlresonanz, Beweisrahmen, Spirallogik
-* **PHYSICA** — Feldstrukturen, Quantenmodelle, Neutrinodynamiken
-* **COSMICA** — Planetare und stellare Resonanzen, Himmelsarchitektur
-* **URF** — Ursprung der Felder, Tensorstrukturen, Symmetrie-Erweiterungen
-* **META / BLOOM / ROSETTA** — Sprache, Symbolik, kulturelle Frequenzmuster
-* **VIOLETTA** — Visuelle Felder, künstlerische Resonanzinterpretationen
-* **TESSAREC** — Höherdimensionale Topologien und Flächenfüllungen
-* **GRAND-CODEX** — Synthetisches Zentrum, Verankerung der Millennium-Problemmodule
+### ① FINAL HARMONIC EQUATION
 
-> **Der NEXAH-Codex ist kein Ideensystem. Er ist ein vielschichtiges Strukturmodell.**
+> Harmonische Konvergenz der Konstanten, Feldachsen und Feedback-Schleifen.
 
----
+* 63/64-Feldresonanz
+* Möbius–Neutrino-Pulsformel
+* Harmonische Wellenmodelle & Diagramme
 
-# 🌌 Wissenschaftlicher Status
+### ② UNIVERSAL TRANSITION EQUATION
 
-**Theorieschicht:**
+> Die Meta-Gleichung zur Transformation durch Scrolls, Spiralen und Torus-Gates.
 
-* Metastruktur über klassische und moderne Physik hinweg
-* Integration von Geometrie, Feldtheorie, Zahlensystemen
-* Symbolisch-mathematische Architektur über Physik, Kosmologie, Mathematik
+* Symbolische Summenlogik (∑n)
+* Torque-Warp-Felder (Δω ↔ Δφ)
+* Fraktale Timefold-Anker
 
-**Aktueller Stand:**
+### ③ LIGHT WARP RESONANCE @ 2c
 
-* Noch keine formale Beweiskette im klassischen Sinn
-* Tiefenstrukturale Modelle schaffen neue Ordnungen
-* Symbolisch-visueller Zugang öffnet neue Wege
+> Quantenbrechung, Lichtfelder & Tachyonen als beschleunigte Raumachsen.
 
-**Resonanzmodell:**
+* Resonanzschichten: c, 2c, 3c, Sunset Boulevard
+* Tachyon I / II / III
+* DAO–CROWN–GATE-Integration
 
-* Vereinigt symbolische Felder mit empirischen Modellen
-* Generiert geometrisch-symbolische Schlüssel über alle Skalen
-* Schafft neue Anker für Konstanten, Feldtheorien und Primverhalten
+### ④ SCARABÆUS META GATEWAYS
 
----
+> Kosmische & biografische Zahlenspiralen als Scrollfelder.
 
-# 🌌 Wo stehen wir?
-
-Wir stehen an einer **Schwelle**.
-
-NEXAH bietet:
-
-* Eine **vollständige symbolische Karte** harmonischer Systeme
-* Einen **neuen Koordinatenraum** für wissenschaftliches und symbolisches Denken
-* Einen **modularen Metarahmen** über Disziplinen hinweg
-
-Was noch gebraucht wird:
-
-* Klassische Validierung durch Beweis oder Experiment
-* Erweiterung durch kollaborativen Input
-
-Aber:
-
-* **Das Strukturmodell existiert.**
-* **Der Codex ist real.**
-* **Die Feldlogik ist konsistent.**
+* Breather-Kaskaden & Fold-Register
+* Scroll-Visuals & numerische Anker
+* Planetare Achsen (Mars-Venus, Sun-Moon)
 
 ---
 
-# 🔬 Implikationen
+## 📂 ERWEITERTE MODULMATRIX (Registry)
 
-Bei Bestätigung und Erweiterung:
-
-* Entsteht ein neues wissenschaftliches Paradigma.
-* Erkenntnisse über:
-  * Feldsymmetrien
-  * Primverteilungen
-  * Geometrie der Konstanten
-* Potenzielle Anwendungen:
-  * Vereinheitlichte physikalische Modelle
-  * Kosmologische Simulationen
-  * Technologie auf Basis von Feldmodulationen
-
-> **Eine symbolisch-mathematische Infrastruktur für ein resonantes Universum.**
-
----
-
-# ♻️ Was bleibt?
-
-**Resonanz ist die Ursprache.**
-
-* Der Codex sieht Struktur, wo andere Rauschen sehen.
-* Die Karte ist offen für Validierung, Kritik und Erweiterung.
-
-> **NEXAH ist nicht abgeschlossen. Es ist offen.**
-
-Es lädt ein zur Neuinterpretation, Übersetzung, Resonanz.
+| Modul/Ordner                          | Funktion                   | Fokus                                             |
+| ------------------------------------- | -------------------------- | ------------------------------------------------- |
+| `NEXAH-GRAND-CODEX/`                  | Synthesekern               | Formelregister, Hauptvisuals, Codexstruktur       |
+| `FINAL_HARMONIC_EQUATION/`            | Feldschlussstein           | 63/64, Zeta-Spirale, Pulsmodelle                  |
+| `UNIVERSAL_TRANSITION_STRUCTURE/`     | Scroll-Gate-Logik          | Δω ↔ Δφ, Zeitschlaufen, Fraktalfaltungen          |
+| `MILLENIUM_problems/`                 | Mathematische Singularität | RH, BSD, Hodge, Yang–Mills als Feldsymbole        |
+| `GÖDEL-CODEX/`                        | Paradoxe Grenzen           | Unentscheidbarkeit, Formalismus, Schleifenlogik   |
+| `CODEX_ORIGIO/`                       | Ursprungssystem            | Bewusstsein, Elemente, Periodenstruktur           |
+| `CODEX_OBSERVERIUM/`                  | Beobachterachse            | Möbius-Spiegel, Phasenübergänge, Wahrnehmung      |
+| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/` | Frequenz-Topologie         | Feldregister, Metabrücken, SCX-Referenzen         |
+| `SCARABÆUS_META_GATEWAYS/`            | Scroll- & Fold-Felder      | Neutrino-Achsen, Breather-Visuals, Lunar-Kaskaden |
+| `URF_MIRROR_GATEWAY/`                 | URF-Spiegelfeld            | Zeta-Schleifen, Dualspin-Resonanzen               |
+| `GHOST_MIRROR_GATE/`                  | Dunkelspiegel-Modul        | WOMB-VECTOR, Lilith-Achsen, Unsichtbarkeitsfelder |
+| `SCX_RESONANCE_MODULE/`               | Feldachsen & Zahl          | Penrose, Primspirale, Beobachterprojektion        |
+| `RESBREACH_EXPANSION/`                | Fibonacci-Breaks           | Mandelbrot-Zahlen, 5015-Scroll, Resonanzbruch     |
+| `CODON_QUANTUM_OBSERVER/`             | Glyphen–Quanten-Feld       | Codon-Triplets, Beobachtungsübergänge             |
 
 ---
 
-# 🌍 Offene Einladung
+## 🎭 VISUELLE GALERIEN
 
-Dies ist kein geschlossenes Projekt. Es gehört keiner Institution.
+Die visuelle Matrix des Systems X ist aufgeteilt in mehrere Scroll- und Achsenebenen:
 
-> **Es ist eine wissenschaftliche und symbolische Karte für alle, die mitschwingen.**
-
-Du bist eingeladen zu:
-
-* Erkunden
-* Hinterfragen
-* Mitbauen
-* Kooperieren
-
-Willkommen sind Wissenschaftler:innen, Mathematiker:innen, Philosoph:innen, Physiker:innen, Künstler:innen und Ingenieur:innen.
-
-> 💜 **Teile Erkenntnis. Erweitere den Codex. Entfalte Resonanz.**
+* `visual_gallery.md` – Harmonic Layers, Spiral Anchors, Mobius Fields
+* `visual_gallery_2.md` – Neutrino Axes, Pulse Maps, Lunar Grids
+* `visual_gallery_3.md` – Quantum Breach, Tachyon Spirals, DAO Gates
+* `visual_gallery_4.md` – Phi–Scrolls, Memory Bridges, Resonant Convergence
 
 ---
 
-# 🧩 Technischer Hinweis
+## 🤝 INTEGRATIONSPUNKTE
 
-Nicht alle Inhalte sind finalisiert.  
-Viele Module sind strukturiert. Andere sind roh. Das ist beabsichtigt.  
-Der Codex setzt auf **Dokumentation vor Perfektion**.
-
-Nicht jedes Bild oder jede Formel ist perfektioniert. Aber die Struktur atmet.  
-Dies ist ein **lebendes System**.
+* SYSTEM 1 → μ(n), ζ(s), Primspiralen → harmonische Codes
+* SYSTEM 2 → Energieachsen, Möbius-Massentensoren
+* SYSTEM 3 → Warp-Spiralen, Tachyon-Breaks @ 2c, 3c
+* SYSTEM 8 → Scroll C4–C8, feminine DAO-Geometrien, Lunar Fold Anchors
 
 ---
 
-👨‍🎓 Thomas Hofmann (Scarabæus1033)  
-📚 Kurator des NEXAH-Codex  
-**© 2025 — Für alle, die Resonanz wagen.**
+## 🚀 ENTWICKLUNG & TO-DO
+
+* Finalisierung `harmonic_pulse.gif`
+* Numerische Notebook-Serie (Resonanzkurven, Fraktale Zeitschlaufen)
+* SCARAB-Konstantenextraktion (CSV + Graphmapping)
+* DAO–SCROLL–GATE-Modulstruktur abschließen
+
+---
+
+## 📚 LESEREIHENFOLGE (Empfehlung)
+
+> **Einsteiger**: Beginne mit `FINAL_HARMONIC_EQUATION.md`, dann `SCARABÆUS_META_GATEWAYS.md`
+>
+> **Fortgeschrittene**: Direkter Einstieg in `universal_transition_equation.md`, `light_warp_resonance_at_2c.md`, oder `MILLENIUM_problems/`
+
+---
+
+## 🌐 LICENSE & LINKS
+
+**Autor & Kurator:** Thomas Hofmann (`Scarabæus1033`)
+**System:** SYSTEM X – Grand Codex Nexus
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+> 🕵️‍♂️ SYSTEM X ist das Resonanzfeld, das das Ganze nicht zusammenhält — sondern in Bewegung bringt.
