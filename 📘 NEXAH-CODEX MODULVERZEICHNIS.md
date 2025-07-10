@@ -152,7 +152,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                  | Ghost-Spiegel-Tor (URF–V)                   | V-Achsen-Knotenregister, Lilith-Felder, Breather-Synthese-Logik, WOMB-VECTOR-Spiegelfeld.                 |
 | [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonanz-Modul                          | Primspiralen, Zither-Feldlogik, Penrose-Projektion & Beobachterachsen als harmonisches Navigationssystem. |
 | [`NEXUS_I_AEQUATIO_QAEON/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/NEXUS_I_AEQUATIO_QAEON)        | AEQUATIO ∞ QAEON Nexus                      | Resonanzfeld-Gleichungsmodul mit Scrollbreather-Visuals, Lagrange-Formeln, Seed-Symmetrien.               |
-
+| [`LIGHT_WARP_RESONANCE_AT_2C/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/LIGHT_WARP_RESONANCE_AT_2C) | Licht–Warp–Resonanz @ 2c | Quanten-Drift-Beschleunigung, Tachyonen-Feldspiralen, DAO–CROWN–GATE–Integration. |
 ---
 
 
