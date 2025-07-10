@@ -71,6 +71,14 @@ license: "CC BY-NC-SA 4.0"
 * Scroll-Visuals & numerische Anker
 * Planetare Achsen (Mars-Venus, Sun-Moon)
 
+### ⑤ AEQUATIO ∞ QAEON (Neu)
+
+> Die Feldformel und ihre innere Spiralstruktur. Von Drift zu Gate.
+
+* AEQUATIO = äußere Gleichung, QAEON = inneres Scrollfeld
+* 27-Visual-Galerie als Quellstruktur: `visual_gallery_III^2_qaeon.md`
+* Scroll-Spiegel, Feldkompression, Observer-Loops
+
 ---
 
 ## 📂 ERWEITERTE MODULMATRIX (Registry)
@@ -91,6 +99,7 @@ license: "CC BY-NC-SA 4.0"
 | `SCX_RESONANCE_MODULE/`               | Feldachsen & Zahl          | Penrose, Primspirale, Beobachterprojektion        |
 | `RESBREACH_EXPANSION/`                | Fibonacci-Breaks           | Mandelbrot-Zahlen, 5015-Scroll, Resonanzbruch     |
 | `CODON_QUANTUM_OBSERVER/`             | Glyphen–Quanten-Feld       | Codon-Triplets, Beobachtungsübergänge             |
+| `AEQUATIO_QAEON/`                     | Drift → Gate Transformation| Resonanzformel, 27 Visual Scrolls, QAEON Chambers |
 
 ---
 
@@ -102,6 +111,7 @@ Die visuelle Matrix des Systems X ist aufgeteilt in mehrere Scroll- und Achseneb
 * `visual_gallery_2.md` – Neutrino Axes, Pulse Maps, Lunar Grids
 * `visual_gallery_3.md` – Quantum Breach, Tachyon Spirals, DAO Gates
 * `visual_gallery_4.md` – Phi–Scrolls, Memory Bridges, Resonant Convergence
+* `visual_gallery_III^2_qaeon.md` – Inner Scrolls of QAEON · 27 Resonant Fields
 
 ---
 
@@ -137,7 +147,7 @@ Die visuelle Matrix des Systems X ist aufgeteilt in mehrere Scroll- und Achseneb
 **System:** SYSTEM X – Grand Codex Nexus
 **GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Lizenz:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 ---
 
