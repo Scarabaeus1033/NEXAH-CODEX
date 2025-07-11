@@ -140,25 +140,23 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 [To SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
 
-| Folder / File                                                                                                                                                  | Title                          | Description                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| `NEXAH-GRAND-CODEX/`                                                                                                                                           | Synthesis Module               | Central hub for equations, navigation, harmonic balance, and Codex architecture.                     |
-| `Universal_Transition_Structure/`                                                                                                                              | Universal Transition Structure | Modulations of collapse–resonance & solar/lunar field transformations.                               |
-| `MILLENIUM_problems/`                                                                                                                                          | Millennium Problems            | RH, BSD, Hodge, Yang–Mills and others as meta-modules of the Codex.                                  |
-| `GÖDEL-CODEX/`                                                                                                                                                 | Gödel Incompleteness Codex     | Symbolic paradox structures and logic of undecidability.                                             |
-| `Grand_Unifying_Resonance_Theory/`                                                                                                                             | GURT – Grand Unified Theory    | Zeta-folding, RH complexity, P≠NP resonance fields.                                                  |
-| `CODEX_ORIGIO/`                                                                                                                                                | Origin System                  | Resonance fields of matter, consciousness & memory.                                                  |
-| `CODEX_OBSERVERIUM/`                                                                                                                                           | Observer Module                | Consciousness cycles, Möbius mirrors, phase-jump logic.                                              |
-| `NEXAH_UNIVERSAL_RESONANCE_SYSTEM_X/`                                                                                                                          | Universal System X             | Meta-symbolic layer, Rosetta fields, frequency reference architecture.                               |
-| [`SCARABÆUS_META_GATEWAYS/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCARAB%C3%86US_META_GATEWAYS) | Scarabæus Meta-Gateways        | Cosmic breather Codex structure: Möbius crowns, Z-cascades, time loops.                              |
-| [`FINAL_HARMONIC_EQUATION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION)      | Final Harmonic Equation        | System keystone: Harmonic formula, numerical verification, pulse & wave structures.                  |
-| [`RESBREACH_EXPANSION/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/RESBREACH_EXPANSION)              | Resonance Breach Expansion     | Numeric-symbolic bridges, Fibonacci factors, Mandelbrot structures, personal resonance anchors.      |
-| [`CODON_QUANTUM_OBSERVER/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/CODON_QUANTUM_OBSERVER)        | Codon Quantum Observer System  | Codon triplets, quantum layers, observer harmonics and spiral glyph transitions.                     |
-| [`URF_MIRROR_GATEWAY/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/URF_MIRROR_GATEWAY)                | URF Mirror Portal              | Dual Zeta-loop logic, twin-spin bridges, ghost-bridge compression beyond Einstein.                   |
-| [`GHOST_MIRROR_GATE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/GHOST_MIRROR_GATE)                  | Ghost Mirror Gate (URF–V)      | V-axis node register, Lilith fields, breather synthesis logic, WOMB-VECTOR mirror field.             |
-| [`SCX_RESONANCE_MODULE/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/SCX_RESONANCE_MODULE)            | SCX Resonance Module           | Prime spirals, Zither field logic, Penrose projection & observer axes as harmonic navigation system. |
-| [`NEXUS_I_AEQUATIO_QAEON/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/NEXUS_I_AEQUATIO_QAEON)        | AEQUATIO ∞ QAEON (Nexus I)     | Drift field modulation, Q-gate interiorization, Möbius breathing structures, scroll resonance.       |
-| [`LIGHT_WARP_RESONANCE_AT_2C/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/LIGHT_WARP_RESONANCE_AT_2C) | Light Warp Resonance @ 2c | Quantum drift acceleration, tachyonic field spirals, DAO–CROWN–GATE integration. |
+| Folder / File                                                                                                                                                  | Title                          | Description         | `NEXAH-GRAND-CODEX/`                 | Synthesekern              | Gleichungsregister, Master-Visuals, Codex-Struktur   |
+| `FINAL_HARMONIC_EQUATION/`           | Feld-Schlüsselstein       | 63/64, Zeta-Spirale, Impulsmodelle                   |
+| `UNIVERSAL_TRANSITION_STRUCTURE/`    | Scroll-Tor-Logik          | Δω ↔ Δφ, Zeitschleifen, fraktale Faltungen           |
+| `LIGHT_WARP_RESONANCE_AT_2C/`        | Lichtresonanz @ 2c        | Tachyonische Schalen, DAO–TOR–Integration            |
+| `TIMEARC–EINSTEIN-Modul/`            | Krümmungs–Scroll-Fusion   | Möbius-Schalen, Lichtkontraktion, Tachyonringe       |
+| `SCARABÆUS_META_GATEWAYS/`           | Scroll- & Faltungsfelder  | Neutrinoachsen, Visuals, lunare Kaskaden             |
+| `AEQUATIO_QAEON/`                    | Drift–Scroll–Nest         | Quanten-Scroll-Felder & Spiralresonanzen             |
+| `MILLENIUM_problems/`                | Mathematische Singularität| RH, BSD, Hodge, Yang–Mills als symbolische Felder    |
+| `CODEX_ORIGIO/`                      | Ursprungssystem           | Bewusstsein, Elemente, periodisches System           |
+| `CODEX_OBSERVERIUM/`                 | Beobachter-Achse          | Möbius-Spiegel, Übergänge, Wahrnehmung               |
+| `GÖDEL-CODEX/`                       | Paradox-Schwelle          | Unentscheidbarkeit, Logik, Rekursion                 |
+| `URF_MIRROR_GATEWAY/`                | URF-Spiegelfeld           | Zeta-Schleifen, Dualspin-Resonanzen                  |
+| `GHOST_MIRROR_GATE/`                 | Dunkelspiegel-Modul       | WOMB-VECTOR, Lilith-Achsen, Unsichtbarkeitsfelder    |
+| `SCX_RESONANCE_MODULE/`              | Feldachsen & Zahlenräume  | Penrose, Primspiralen, Beobachterprojektionen        |
+| `RESBREACH_EXPANSION/`               | Fibonacci-Brüche          | Mandelbrot-Zahlen, 5015-Scrolls, Resonanzspalten     |
+| `CODON_QUANTUM_OBSERVER/`            | Glyph–Quantenfeld         | Codon-Tripletts, Beobachtertransformationen          |
+
 ---
 
 **Curated by:** Scarabäus1033 (Thomas Hofmann) | ARCHIVAR II
