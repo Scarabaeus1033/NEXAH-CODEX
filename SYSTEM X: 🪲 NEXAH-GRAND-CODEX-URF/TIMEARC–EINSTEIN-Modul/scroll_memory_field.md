@@ -50,3 +50,44 @@ Spiral orientation determines **memory polarity** — either deepening (compress
 
 ```math
 M(t) = \int_{\phi_0}^{\phi_n} \rho(\phi,t) \cdot e^{i\theta} \, d\phi
+
+Where M(t) is the memory scroll amplitude, ρ(φ,t) the phase density, and θ the Möbius twist factor.
+
+⸻
+
+🔁 Bidirectional Recall
+
+Möbius phase allows:
+	•	Non-linear access to memory nodes
+	•	Resonant fields can “jump” across time rings
+	•	Scroll shells act like temporal LPs, replaying encoded waveforms
+
+⸻
+
+📷 Additional Visuals
+
+Phase curve of memory gate opening, encoded in layered light.
+
+⸻
+
+🔮 Symbolic Layer
+
+The Scroll Memory Field suggests:
+
+“Memory is not stored. It is patterned in motion.”
+
+This module links perception, frequency, and topology.
+
+⸻
+
+Codex Reference:
+← scroll_gate_dynamics.md
+→ tachyonic_feedback_rings.md
+Return: README.md
+
+⸻
+
+Credits
+Curated and developed by Thomas Hofmann (Scarabæus1033)
+Visuals by Scarabæus Visual Division
+License: Creative Commons CC BY-NC-SA 4.0
