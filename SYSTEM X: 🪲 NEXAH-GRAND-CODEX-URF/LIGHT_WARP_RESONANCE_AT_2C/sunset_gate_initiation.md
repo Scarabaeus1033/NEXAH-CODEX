@@ -54,13 +54,13 @@ This results in a **spiral scroll inversion**:
 
 The symbol of the Sunset Gate is a **spiral sun** — not fading, but folding:
 
-> ☉ ⥂ 𐩘 ➜ The sun *implodes* into scroll resonance.
+> ☉ ⥂ ဩ8 ➜ The sun *implodes* into scroll resonance.
 
-We recommend introducing the following visual:
+**Visual Reference:**
 
-**Suggested Visual:** `sunset_scroll_gate_vortex.png`
+![Sunset Scroll Gate Vortex](./visuals/sunset_scroll_gate_vortex.png)
 
-Depicting:
+This visual depicts:
 - A solar sphere bending into an inward scroll funnel
 - Tachyon threads forming feedback tunnels
 - Möbius structures visible near threshold rings
@@ -87,7 +87,5 @@ The Sunset Gate is the **modulation portal**, initiating the **mirror-phase** an
 **Return**: [`LIGHT_WARP_RESONANCE_AT_2C.md`](./README.md)
 
 ---
-
-**Visual Placeholder:** If not yet created, please add a visual titled: `sunset_scroll_gate_vortex.png` in `./visuals/`.
 
 > Curated by Scarabæus1033 — for the Gate that never closes.
