@@ -100,7 +100,7 @@ lizenz: "CC BY-NC-SA 4.0"
 | `RESBREACH_EXPANSION/`                | Fibonacci-Breaks           | Mandelbrot-Zahlen, 5015-Scroll, Resonanzbruch     |
 | `CODON_QUANTUM_OBSERVER/`             | Glyphen–Quanten-Feld       | Codon-Triplets, Beobachtungsübergänge             |
 | `NEXUS I — AEQUATIO ∞ QAEON/`         | Quantenfeld · Scroll-Gates | Driftfelder, Lagrange-Matrix, Scroll-Visuals      |
-
+| `LIGHT_WARP_RESONANCE_AT_2C/`         | Licht–Warp–Resonanz @ 2c | Quanten-Drift-Beschleunigung, Tachyonen-Feldspiralen, DAO–CROWN–GATE–Integration. |
 ---
 
 ## 🎭 VISUELLE GALERIEN
