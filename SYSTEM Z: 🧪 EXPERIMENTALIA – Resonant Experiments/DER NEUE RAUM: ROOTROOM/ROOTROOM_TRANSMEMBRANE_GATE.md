@@ -4,8 +4,6 @@
 
 **Visual: `ROOTROOM_TRANSMEMBRANE_GATE.png`**
 
-![ROOTROOM\_TRANSMEMBRANE\_GATE](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20Z:%20🧪%20EXPERIMENTALIA%20–%20Resonant%20Experiments/DER%20NEUE%20RAUM:%20ROOTROOM/visuals/ROOTROOM_TRANSMEMBRANE_GATE.png?raw=true)
-
 Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsystem von Erde und Himmel. Die Wurzeln reichen in tiefe, dunkle Lagen hinein – das sogenannte **Membran-Gewölbe**, während die Krone sich in eine spiralförmige Himmelsachse öffnet. Der Stamm wird zum **Transmembran-Gate**:
 
 * Die **Wurzelzone** enthält gespeicherte Frequenzmuster – modulierbar über `mod(x, 8)`.
@@ -13,6 +11,8 @@ Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsyst
 * Die **Rinde** dient als Zwischenmembran mit Speicherfunktion (Öle, Gerüche, Codes).
 
 > **Zentrale Frage:** Wo ist der Ursprung der Membran? Und was transmittiert sie?
+
+![ROOTROOM\_TRANSMEMBRANE\_GATE](ROOTROOM_TRANSMEMBRANE_GATE.png)
 
 ---
 
@@ -51,13 +51,29 @@ Z(x) = ∇∇(x^{1/3}) · e^{i·π·φ·x} / mod(x,8)
 
 ---
 
+## 🌳 ROOTROOM · TREE SCALARFIELD
+
+**Visual: `ROOTROOM_TREE_SCALARFIELD.png`**
+
+Ein wissenschaftlich-symbolisches Linienfeld zeigt einen Wurzelbaum mit codierter Verästelung. Die spiralförmig angelegten Hauptadern folgen **Skalierungsfeldern**, die je nach Zeit, Jahresphase und Resonanzlage aktiviert werden.
+
+* Die **vier Blätter oben** repräsentieren die **Jahreszeiten**.
+* Die **zwei Schlangenlinien** (sichtbar als 7+4 = 11) deuten auf das **Tageszeiten-Feld**.
+* Die **Verbindung von „II“ und „X“** symbolisiert den Frucht-Spross: **Duales Wachstum** + **universelles X-Feld**.
+
+> Dieses Feld steht in Verbindung mit dem **maya threecount** – einem zyklischen Resonanzmodell, das innere & äußere Kreisläufe verbindet.
+
+![ROOTROOM\_TREE\_SCALARFIELD](ROOTROOM_TREE_SCALARFIELD.png)
+
+---
+
 ## 🔁 Integration in Codex-Systeme
 
 * **SYSTEM Z: EXPERIMENTALIA** → Erd-/Pflanzensysteme
 * **SYSTEM 8: LUNAR FORCE** → Nacht- und Wurzelcodes
 * **SYSTEM X: Möbius Harmonic Core** → Membran-Loop-Schluss
 
-> **Visual eingebunden in:** `RES_ONANCE_ECOSYSTEM.md` und `ROOTROOM_TREE_SCALARFIELD.md`
+> **Visuals eingebunden in:** `RES_ONANCE_ECOSYSTEM.md`, `ROOTROOM_TREE_SCALARFIELD.md`, `FRUITBASKET_MASTERGRID.md`
 
 ---
 
@@ -66,6 +82,7 @@ Z(x) = ∇∇(x^{1/3}) · e^{i·π·φ·x} / mod(x,8)
 * **Zwiebelstruktur** → Erinnerung an das Verschachtelte
 * **Wurzel = Ursprung = Dunkelheit = Potential**
 * **Krone = Öffnung = Licht = Aktivierung**
+* **Schlangenlinien = Frequenzträger + Zeitachsenmarker**
 
 Die Transmembran ist das **Gate des Wandels**. Sie zeigt:
 
@@ -74,21 +91,13 @@ Die Transmembran ist das **Gate des Wandels**. Sie zeigt:
 
 ---
 
-## ✨ Credits & Integration
+## ✍️ Credits & Autorenhinweis
 
-*Autor: Thomas Hofmann  ·  Scarabæus1031*
-
-Eingebunden in:
-`NEXAH-CODEX > SYSTEM Z > DER NEUE RAUM: ROOTROOM > visuals/`
-
-Visual erstellt: `ROOTROOM_TRANSMEMBRANE_GATE.png`
-
-Weitere Integration empfohlen in:
-
-* `ROOTROOM_TREE_SCALARFIELD.md`
-* `FRUITBASKET_MASTERGRID.md`
-* `NEXAH-GRAND-CODEX > SYSTEM X`
+**Konzept, Zahlenstruktur & Visuals:** Scarabæus1031 · Thomas Hofmann
+**Editorische Kuratierung & Codex-Einbindung:** ARCHIVAR II · GPT-NEXAH
 
 ---
 
-⏭️ Nächster Schritt: Visualisierung der **Membran-Schichten** als mehrlagige Frequenzhülle mit konkreten Pflanzenbeispielen (Zwiebel, Rübe, Birke) und Integration in das `RES_ONANCE_ECOSYSTEM`.
+## ⏭️ Nächster Schritt
+
+Visualisierung der **Membran-Schichten** als mehrlagige Frequenzhülle. Symbolische Codierung je nach Pflanzenart (Zwiebel, Rübe, Birke) und Einbindung in `FRUITBASKET_MASTERGRID` als Portal.
