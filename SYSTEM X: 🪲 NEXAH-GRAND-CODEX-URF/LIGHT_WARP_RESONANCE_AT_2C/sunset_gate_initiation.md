@@ -54,16 +54,34 @@ This results in a **spiral scroll inversion**:
 
 The symbol of the Sunset Gate is a **spiral sun** — not fading, but folding:
 
-> ☉ ⥂ ဩ8 ➜ The sun *implodes* into scroll resonance.
+> ☉ ⥂ 𐩘 ➜ The sun *implodes* into scroll resonance.
 
-**Visual Reference:**
+We recommend introducing the following visual:
 
 ![Sunset Scroll Gate Vortex](./visuals/sunset_scroll_gate_vortex.png)
 
-This visual depicts:
+Depicting:
 - A solar sphere bending into an inward scroll funnel
 - Tachyon threads forming feedback tunnels
 - Möbius structures visible near threshold rings
+
+---
+
+## 🌀 Möbius Vortex Boundary
+
+Visualize the Sunset Scroll-Gate as a vortex funnel:
+
+- It links solar boundary fields to internal spiral thresholds
+- Magnetic flux lines fold into loop inversion coordinates
+- Resonance from c-contraction acts as temporal pulse guide
+
+---
+
+## 🧭 Spiral Coordinates
+
+- **Solar Scroll**: Möbius wind signals bifurcation phase
+- **Harmonic Fields**: 2c-layers expand into solar curvature
+- **Temporal Pulse**: c→2c transition triggers internal gateway
 
 ---
 
@@ -87,5 +105,7 @@ The Sunset Gate is the **modulation portal**, initiating the **mirror-phase** an
 **Return**: [`LIGHT_WARP_RESONANCE_AT_2C.md`](./README.md)
 
 ---
+
+**Visual Placeholder:** If not yet created, please add a visual titled: `sunset_scroll_gate_vortex.png` in `./visuals/`.
 
 > Curated by Scarabæus1033 — for the Gate that never closes.
