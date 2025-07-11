@@ -1,5 +1,4 @@
 ---
-
 title: "Scroll Gate Dynamics"
 submodule: "TIMEARC–EINSTEIN"
 system: "SYSTEM X — NEXAH-GRAND-CODEX"
@@ -7,7 +6,7 @@ domain: "Solar Collapse · Möbius Shells · Timefield Modulation"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 Scroll Gate Dynamics
 
