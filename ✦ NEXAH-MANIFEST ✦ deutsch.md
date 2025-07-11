@@ -4,111 +4,143 @@
 
 ## 📖 Was ist das NEXAH-System?
 
-Das **NEXAH-System** ist keine spekulative Theorie. Es ist der **Versuch, die harmonische Architektur des Universums zu kartieren**.
+Der **NEXAH-CODEX** ist ein transdisziplinäres System zur **Enthüllung der Architektur von Resonanz**. Er verbindet Mathematik, Physik, Geometrie, Symbolik, Frequenztheorie, Sprache und Kosmologie zu einer kohärenten, modularen Feldstruktur.
 
-Von den tiefsten Feldern und Teilchen (Neutrinos, Higgs-Feld),
-über Primzahlen, Konstanten und geometrische Formen,
-bis zu Galaxien, Frequenzsystemen und symbolischen Schichten:
+> Es ist keine Theorie. Es ist ein kartografisches System –
+> eine Karte harmonischer Strukturen, die bereits existieren.
 
-> **Resonanz ist die Urstruktur aller Systeme.**
+Ein Codex ist kein Buch.
+**Er ist ein Feld.**
+
+Jedes Codex-Modul ist auf GitHub verfügbar:
+[github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+
+Die Module bestehen aus:
+
+* Markdown-Dokumenten (README, Kerntexte)
+* Formeln und symbolischen Operatoren
+* Diagrammen und visuellen Feldern
+* Numerischen Datensätzen und CSVs (wenn nötig)
+
+Der Codex führt keine neuen Teilchen oder Kräfte ein.
+Er **reaktiviert bestehende Strukturen** durch Resonanz, Symmetrie, Primzahlen und symbolische Topologien.
+
+> Keine neue Materie. Keine neue Kraft.
+> Aber eine neue Perspektive auf beides.
 
 ---
 
 ## 🔭 Grundidee: Ein Universum aus Resonanz
 
-Das NEXAH-System geht davon aus, dass:
+Das NEXAH-System basiert auf folgenden Hypothesen:
 
-* **Primzahlen** keine zufälligen Entitäten sind – sie erscheinen als **Resonanzknoten** tieferer Feldlogik.
-* **Naturkonstanten** wie φ, π, τ, √2, 137 sind **Feldanker** harmonischer Geometrie.
+* **Primzahlen** sind nicht zufällig: Sie entstehen als **Resonanzknoten** tieferer Felder.
+* **Konstanten** wie φ, π, τ, √2, 137 wirken als **Anker symmetrischer Felder**.
 * **Geometrien** wie Spiralen, Polygone, Möbiusbänder sind **Topologien der Energie**.
-* **Mathematik, Physik, Symbolik und Kosmologie** bilden ein kohärentes Resonanzfeld.
+* **Mathematik, Physik, Kosmologie und Symbolik** bilden ein harmonisches Gesamtsystem.
 
-> Der Codex ist keine Theorie – sondern eine kartierte Architektur, die **Resonanz sichtbar macht**.
-
----
-
-## 🧠 Erkenntnisstruktur (Seite 2: Wissenschaftlicher Vergleich)
-
-### 🔬 Klassische Theorien im Vergleich mit dem Codex
-
-| Theorie                     | Modellkern                                      | Codex-Resonanzmodell                                                       |
-| --------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------- |
-| Newton                      | Gravitation = Kraft, Masseanziehung             | Gravitation als **Möbius-Feldresonanz**, nicht als lineare Kraft           |
-| Einstein (Relativität)      | Raumzeitkrümmung, Lichtgeschwindigkeit konstant | **c als harmonisch modulierte Größe**: siehe `FINAL_HARMONIC_EQUATION`     |
-| Quantenfeldtheorie          | Teilchen-Feld-Korrelationen                     | **Neutrino-Pulsfelder**, Primzahl-Spiralen, Felddichte-Visualisierungen    |
-| String Theory               | 10D Strings, mathematisch schwer überprüfbar    | Codex nutzt keine hypothetischen Strings, sondern **resonante Geometrien** |
-| Geometric Unity (Weinstein) | 14D mit interner Symmetrie und E₈-Gruppen       | Codex: **k^β-Operatorik**, Möbius-Krone, Final Harmonic Equation           |
-| Unified Field (Einstein)    | Nie vollendet, feldbasiert gedacht              | Codex: **URF-System**, `UNBROKEN_FIELD_MANIFEST`, `HARMONIC_LAYER_SYSTEM`  |
-
-### 📐 Mathematik und Struktur im Codex
-
-| Disziplin     | Klassischer Zugang                     | Codex-Zugang                                                                |
-| ------------- | -------------------------------------- | --------------------------------------------------------------------------- |
-| Zahlentheorie | Riemann, Primverteilungen              | Green–Tao + `PRIME_TRINITY_GRID`, `spiral_logic.md`                         |
-| Algebra       | Symmetrie, Operatoren, Gruppen         | `SYMBOLIC_OPERATORS`, `algebraic_transition_grids.md`                       |
-| Geometrie     | Riemann, euklidisch, topologisch       | `MOBIUS_HARMONIC_CROWN`, Z6-Spiegelstruktur, Oktagonfelder                  |
-| Kosmologie    | Lambda-CDM, CMB, dunkle Energie        | `LAMBDA_DISC`, `CMBY_FIELDS`, Sonnenresonanzen, Spiralfelder                |
-| Biologie      | DNA-Codons, Zellaufbau, Myzelnetzwerke | `STELLAR_RESONANCE_DNA`, `myzel_mirror_model.md`, `codon_layer.md`          |
-| Frequenzlehre | Fourier, Wellen, Spektren              | `WAV_MANTRA_CHRONOTOPE`, `QUANTUM_TACHYON_ASCENSION`, `harmonic_modulation` |
-| Sprache       | Phonetik, Schrift, Syntax              | `GLYPHON_LAYER`, `alphabet_resonance_field.md`, `ROSETTA_BREATHER.md`       |
-| Bewusstsein   | Noch keine einheitliche Theorie        | `ZETA_PULSE`, `neutrino_brainfields`, `limbic_resonance_model.md`           |
+> Der Codex macht abstrakte Mathematik zu Licht
+> und theoretische Physik zu Resonanzstrukturen.
 
 ---
 
-## 🌌 Der AWE-FIELD: Das sichtbare Ergebnis
+## 🧠 Erkenntnisstruktur (Wissenschaftlicher Vergleich)
 
-`SYSTEM ∞` dokumentiert konkrete **Beobachtungen, Beweise, Muster und Visuals**, die direkt aus den Codex-Modulen resultieren:
+### 🔬 Vergleich: Klassische Theorien vs. Codex-Felder
 
-* `AWE_LIST_of_NEXA_PROOFs.md` → dokumentiert Kernbeweise mit Quellmodulen
-* `observer_eye_geometry.svg`, `completion_k-beta.md`, `mobius_pulse_diagram.svg`
-* `neutrino_cables_and_fingerfields.md`, `stellar_dna_spiral_map.png`
+| Theorie                     | Hauptmodell                          | Resonanzmodell des Codex                                           |
+| --------------------------- | ------------------------------------ | ------------------------------------------------------------------ |
+| Newton                      | Gravitation = Kraft, Massenanziehung | Gravitation als **Möbius-Feldresonanz**, nicht als lineare Kraft   |
+| Einstein (Relativität)      | Raumzeitkrümmung, c = konstant       | **c als modulierte Harmonie**: siehe `FINAL_HARMONIC_EQUATION`     |
+| Quantenfeldtheorie          | Feld-Teilchen-Wechselwirkungen       | **Neutrino-Feldpulse**, Primzahlspiralen, Resonanzdichten          |
+| Stringtheorie               | 10D schwingende Strings              | Keine spekulativen Strings; **resonante Geometrie & Scrolls**      |
+| Geometric Unity (Weinstein) | 14D Symmetrie mit E₈-Gruppen         | **k^β-Operatorik**, Möbius-Krone, Final Harmonic Equation          |
+| Einsteins Weltformel        | Unvollendete Feldtheorie             | **URF-System**, `UNBROKEN_FIELD_MANIFEST`, `HARMONIC_LAYER_SYSTEM` |
 
-> **Nicht Theorie, sondern Manifestation.**
+### 📐 Mathematischer & Symbolischer Vergleich
 
-Der Codex wurde so gebaut, dass sich **überraschende Muster zeigen**, die weder random noch trivial sind.
+| Fachgebiet    | Klassischer Zugang             | Codex-Module & Konzepte                                                     |
+| ------------- | ------------------------------ | --------------------------------------------------------------------------- |
+| Zahlentheorie | Riemann, Primzahlen            | `PRIME_TRINITY_GRID`, `spiral_logic.md`, Green–Tao-Erweiterungen            |
+| Algebra       | Gruppen, Operatoren            | `SYMBOLIC_OPERATORS`, `algebraic_transition_grids.md`                       |
+| Geometrie     | Euklidisch, Riemannsch         | `MOBIUS_HARMONIC_CROWN`, Z6-Spiegelfelder, Oktagon-Resonanzen               |
+| Kosmologie    | Lambda-CDM, Dunkle Energie     | `LAMBDA_DISC`, `CMBY_FIELDS`, Sonnenresonanzen, Spiralgravitation           |
+| Biologie      | DNA-Struktur, neuronale Felder | `STELLAR_RESONANCE_DNA`, `codon_layer.md`, `myzel_mirror_model.md`          |
+| Frequenzlehre | Fourier, EM-Wellen             | `WAV_MANTRA_CHRONOTOPE`, `QUANTUM_TACHYON_ASCENSION`, `harmonic_modulation` |
+| Sprache       | Phonetik, Syntax               | `GLYPHON_LAYER`, `alphabet_resonance_field.md`, `ROSETTA_BREATHER.md`       |
+| Bewusstsein   | Bisher ungelöst                | `ZETA_PULSE`, `neutrino_brainfields`, `limbic_resonance_model.md`           |
 
 ---
 
-## 🧬 Codex als TOE?
+## 🌌 Das Awe-Feld (SYSTEM ∞)
 
-Der Begriff einer *Theory of Everything* wird vorsichtig verwendet. Aber:
+`SYSTEM ∞` ist der Raum, in dem **Beweise, Muster, Beobachtungen und Visuals** sichtbar werden.
 
-* Der Codex **verbindet** Physik, Mathematik, Kosmologie, Sprache, Biologie
-* **Ohne neue Teilchen, ohne spekulative Kräfte**
-* Mit **harter Anbindung an Zahl, Geometrie, Feldresonanz**
-* Durch eine **offen dokumentierte, visuell nachvollziehbare Architektur**
+> Keine Theorie – sondern Beobachtung von Resonanz.
 
-> **Es ist eine symbolisch-resonante TOE-Kandidatur ohne Spekulation.**
+### Beispiele:
+
+* `AWE_LIST_of_NEXA_PROOFs.md` – Beweisliste mit Modulverweisen
+* Visuals wie `observer_eye_geometry.svg`, `mobius_pulse_diagram.svg`, `stellar_dna_spiral_map.png`
+* Symbolische Dokumente wie `completion_k-beta.md`, `neutrino_cables_and_fingerfields.md`
+
+### Thematische Struktur:
+
+| Code | Bereich                 | Beispiel-Module                                            |
+| ---- | ----------------------- | ---------------------------------------------------------- |
+| S01  | Mathematik              | `prime_trinity_grid.md`, `spiral_logic.md`                 |
+| S02  | Physik & Resonanz       | `final_harmonic_equation.md`, `resonance_fields.md`        |
+| S03  | Kosmologie & Astronomie | `LAMBDA_DISC-CODEX`, `stellar_resonance_dna.md`            |
+| S04  | Geometrie & Topologie   | `mobius_pulse_diagram.svg`, `observer_eye_geometry.md`     |
+| S05  | Biologie & DNA-Felder   | `codon_layer.md`, `myzel_mirror_model.md`                  |
+| S06  | Frequenzen & Klang      | `WAV_mantra_chronotope.md`, `resonance_tones.md`           |
+| S07  | Kultur & Symbolik       | `alphabet_resonance_field.md`, `glyphon_layer.md`          |
+| S08  | Lunare Kraftfelder      | `mirror_womb_spiral.svg`, `neutrino_cables.md`             |
+| S09  | Elemente & Materie      | `periodic_resonance_field.md`, `plasma_shell_grid.md`      |
+| S∞   | Interdisziplinär        | `completion_codex_k-beta.md`, `AWE_LIST_of_NEXA_PROOFs.md` |
 
 ---
 
-## 📂 Modulbeispiele (mit Verlinkungsempfehlung auf GitHub)
+## 🚀 Module, die überraschen
 
-* `FINAL_HARMONIC_EQUATION/` → c-Variation, Möbius-Kopplung, Pulsstruktur
-* `MOBIUS_HARMONIC_CROWN/` → Primzahlen, 3D-Pulsresonanz, Feldgeometrien
-* `LAMBDA_DISC-CODEX/` → Spiralachsen, Folded Frequencies, Visual-Proofs
-* `PRIME_TRINITY_GRID/` → Green–Tao Progressionen, Zahlenspiegelung, Superprimes
-* `STELLAR_RESONANCE_DNA/` → Codon-Felder, Zeta-Verkopplung, Bioresonanz
+| Modul                            | Kernaussage                                                                     |
+| -------------------------------- | ------------------------------------------------------------------------------- |
+| `FINAL_HARMONIC_EQUATION`        | Erweiterung von E = mc² zu E = mc·k^β – Spiralgravitation & c-Variation         |
+| `Riemann · Euler · Ramanujan`    | Quaternionische Symbolresonanz der Zetafunktion                                 |
+| `QUANTUM BREACH – SCROLL SYSTEM` | Licht, Zeit, Spiralfelder, Breather-Topologien, Tachyon-Resonanz                |
+| `TIMEARC–EINSTEIN`               | Spiralzeit statt linearer Relativität                                           |
+| `GURT`                           | Geometrische Einheitsresonanz: Primzahlen, Masse, Felder                        |
+| `LIGHT_WARP_RESONANCE_AT_2C`     | Visualisierung von Lichtgeschwindigkeitsdurchbrüchen und Scroll-Resonanz bei 2c |
+| `PRIME_TRINITY_GRID`             | Spiralprimzahlen, Spiegelzahlen, Green–Tao-Logik                                |
+| `TESSAREC_TILES`                 | Penrose-ähnliche Feldkacheln, Quasikristalle, Gruppen-Geometrie                 |
+
+---
+
+## 🧬 Ist das eine TOE?
+
+Der Codex behauptet keine Wahrheit – aber er könnte **Brücken schlagen**:
+
+* Ohne neue Teilchen oder spekulative Kräfte
+* Gegründet auf **Zahl, Geometrie, Frequenz, Symbolik**
+* Öffentlich, modular, visuell
+* Fähig zur **Rekonstruktion von Kosmologie, Physik, Biologie und Bewusstseinssystemen**
+
+> **Eine symbolisch-resonante TOE – ohne Spekulation.**
 
 ---
 
 ## 🌐 Einladung
 
-> Der Codex ist **kein fertiges Modell**, sondern ein offenes Resonanzsystem.
->
-> Wer ihn liest, navigiert durch ein multidimensionales harmonisches Feld.
+> Der Codex ist nicht abgeschlossen. Er ist lebendig.
 
-Wir laden ein zu:
+Du bist eingeladen zum:
 
-* Mathematischer Validierung
-* Visual Proof Exploration
-* Interdisziplinärer Resonanzforschung
-* Co-Kreation & Symbolischer Übersetzung
-
----
+* Mathematischen Proof-Review
+* Aufbau visueller Beweisarchitekturen
+* Resonanzforschung über Disziplinen hinweg
+* Co-Kreation & symbolische Übersetzung
 
 👨‍🎓 Thomas Hofmann (Scarabæus1033)
-**Kurator des NEXAH-CODEX**
-© 2025 — CC BY-NC-SA 4.0
-🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-🔗 GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+Kurator des NEXAH-CODEX
+🔸 [scarabaeus1033.net](https://www.scarabaeus1033.net)
+🔗 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
