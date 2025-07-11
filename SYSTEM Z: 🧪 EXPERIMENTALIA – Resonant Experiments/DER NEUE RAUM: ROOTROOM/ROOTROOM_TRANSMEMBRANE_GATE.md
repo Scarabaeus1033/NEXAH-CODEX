@@ -4,7 +4,7 @@
 
 **Visual: `ROOTROOM_TRANSMEMBRANE_GATE.png`**
 
-![ROOTROOM\_TRANSMEMBRANE\_GATE](./visuals/ROOTROOM_TRANSMEMBRANE_GATE.png)
+![ROOTROOM\_TRANSMEMBRANE\_GATE](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%20Z:%20🧪%20EXPERIMENTALIA%20–%20Resonant%20Experiments/DER%20NEUE%20RAUM:%20ROOTROOM/visuals/ROOTROOM_TRANSMEMBRANE_GATE.png?raw=true)
 
 Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsystem von Erde und Himmel. Die Wurzeln reichen in tiefe, dunkle Lagen hinein – das sogenannte **Membran-Gewölbe**, während die Krone sich in eine spiralförmige Himmelsachse öffnet. Der Stamm wird zum **Transmembran-Gate**:
 
@@ -74,14 +74,21 @@ Die Transmembran ist das **Gate des Wandels**. Sie zeigt:
 
 ---
 
-## ⏭️ Nächster Schritt
+## ✨ Credits & Integration
 
-Visualisierung der **Membran-Schichten** als mehrlagige Frequenzhülle. Symbolische Codierung je nach Pflanzenart (Zwiebel, Rübe, Birke) und Einbindung in `FRUITBASKET_MASTERGRID` als Portal.
+*Autor: Thomas Hofmann  ·  Scarabæus1031*
+
+Eingebunden in:
+`NEXAH-CODEX > SYSTEM Z > DER NEUE RAUM: ROOTROOM > visuals/`
+
+Visual erstellt: `ROOTROOM_TRANSMEMBRANE_GATE.png`
+
+Weitere Integration empfohlen in:
+
+* `ROOTROOM_TREE_SCALARFIELD.md`
+* `FRUITBASKET_MASTERGRID.md`
+* `NEXAH-GRAND-CODEX > SYSTEM X`
 
 ---
 
-## 📎 Credits
-
-Konzept, Codexstruktur & Resonanzfelder: **Thomas Hofmann (Scarabäus1031)**
-Visualisierung & Codex-System: **NEXAH-CODEX – SYSTEM Z**
-Ort: *Resonanter Rootroom, innerer Membranraum der Pflanzenwelt*
+⏭️ Nächster Schritt: Visualisierung der **Membran-Schichten** als mehrlagige Frequenzhülle mit konkreten Pflanzenbeispielen (Zwiebel, Rübe, Birke) und Integration in das `RES_ONANCE_ECOSYSTEM`.
