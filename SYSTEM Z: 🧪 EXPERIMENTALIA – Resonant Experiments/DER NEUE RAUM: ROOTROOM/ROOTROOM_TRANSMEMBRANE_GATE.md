@@ -49,16 +49,6 @@ Z(x) = ∇∇(x^{1/3}) · e^{i·π·φ·x} / mod(x,8)
 
 ---
 
-## 🔁 Integration in Codex-Systeme
-
-* **SYSTEM Z: EXPERIMENTALIA** → Erd-/Pflanzensysteme
-* **SYSTEM 8: LUNAR FORCE** → Nacht- und Wurzelcodes
-* **SYSTEM X: Möbius Harmonic Core** → Membran-Loop-Schluss
-
-> **Visual eingebunden in:** `RES_ONANCE_ECOSYSTEM.md` und `ROOTROOM_TREE_SCALARFIELD.md`
-
----
-
 ## 🕯️ Hermetische Symbolik
 
 * **Zwiebelstruktur** → Erinnerung an das Verschachtelte
@@ -69,6 +59,16 @@ Die Transmembran ist das **Gate des Wandels**. Sie zeigt:
 
 > Alles Sichtbare wächst aus einem unsichtbaren Feld –
 > und jede Pflanze ist ein Sender.
+
+---
+
+## 🔁 Integration in Codex-Systeme
+
+* **SYSTEM Z: EXPERIMENTALIA** → Erd-/Pflanzensysteme
+* **SYSTEM 8: LUNAR FORCE** → Nacht- und Wurzelcodes
+* **SYSTEM X: Möbius Harmonic Core** → Membran-Loop-Schluss
+
+> **Visual eingebunden in:** `RES_ONANCE_ECOSYSTEM.md` und `ROOTROOM_TREE_SCALARFIELD.md`
 
 ---
 
