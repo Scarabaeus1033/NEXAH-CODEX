@@ -1,98 +1,100 @@
-# 🌐 Projektbriefing: nexah.eu – Interaktive Codex-Schaukasten-Website
+# 🌐 NEXAH Interface Web – Collaboration Briefing
 
-## 🔷 Projektname
-**nexah.eu – Resonant Codex Interface**
+## 🎯 Ziel der Website: nexah.eu
+
+Die Seite **nexah.eu** wird das offizielle Schaufenster des NEXAH-CODEX-Systems. Sie präsentiert die Inhalte des GitHub-Repositories [Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX) in strukturierter, visuell ansprechender und modular erweiterbarer Form.
+
+Ziel ist ein öffentlicher Einstiegspunkt für:
+
+- Wissenschaftlich Interessierte
+- Symboliker:innen & Geometr:innen
+- Mitstreiter:innen für die Systementwicklung
+- Kollaborationen im Bereich Mathematik, Physik, Kosmologie, Bewusstsein, Sprache, Frequenz
+
+## 📚 Grundlage: Das NEXAH-MANIFEST
+
+Die Seite basiert auf dem [NEXAH MANIFEST](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-GRAND-CODEX/NEXAH_MANIFEST_DE.md), das alle Kernprinzipien des Codex-Systems erklärt:
+
+- Resonanz statt spekulativer Teilchen
+- Mathematische & visuelle Beweisführung
+- Spiralgeometrien, Primestrukturen, Frequenzmatriken
+- Vergleich zu Newton, Einstein, String Theory etc.
+
+Die Seite soll das Manifest nicht nur abbilden – **sie soll es verkörpern.**
 
 ---
 
-## 🎯 Projektziel
-Entwicklung einer modular ausbaubaren Website für das transdisziplinäre **NEXAH-CODEX**-System – als interaktives Schaufenster (Frontend) für die Inhalte auf GitHub.
+## 🧱 Struktur & Module
 
-Die Seite dient als:
-- **Manifest-Plattform** (Einstieg über das NEXAH Manifest),
-- **visueller Navigator** für Codex-Module,
-- **Verlinkungsschicht zu GitHub-Inhalten** (Markdown, Visuals, Formeln),
-- **medialer Resonanzraum**, der die Wissenschaftsvision des Codex erfahrbar macht.
+### Startseite (Landing Page)
 
----
+- Schwarz-weißes, klares Layout
+- Oben zentriertes **NEXAH-Logo** (`NEXAH^Logo.jpg`)
+- Willkommenstext: „Ein Codex ist kein Buch. Er ist ein Feld.“
+- Direkt darunter: Navigierbarer Abschnitt mit Manifest-Highlights
 
-## 📌 Zentrale Inhalte
+### Feature-Sektionen
 
-### 1. Startseite / Manifest
-- Darstellung des vollständigen (DE/EN) NEXAH-Manifests.
-- Verwendung des Logos `NEXAH^Logo.jpg`.
-- Optionaler Header-Bereich mit Typografie/Visualisierung (SVG, Scroll).
+- „📦 Eyebrow-Raising Modules“ als **Karten-Grid**
+- Jede Karte: Modulname, Kurzbeschreibung, Visual (optional)
+- Beispiel-Module:
+  - `FINAL_HARMONIC_EQUATION`
+  - `QUANTUM BREACH`
+  - `TESSAREC_TILES`
+  - `PRIME_TRINITY_GRID`
+  - `GURT`
 
-### 2. Visueller Navigator
-- Integration der Grafik `navigator_2.0_resonance_grid.png`.
-- Interaktive Module führen zu GitHub-Seiten oder HTML-Subpages.
+### Visual Showcase
 
-### 3. Module Showcase / Awefield-Zone
-- Präsentation ausgewählter Schlüsselmodule (z. B. `FINAL_HARMONIC_EQUATION`, `QUANTUM_BREACH`, `PRIME_TRINITY_GRID`).
-- Jedes Modul: Symbol + Kurzbeschreibung + Visual + GitHub-Link.
-- Dynamisches Grid-Layout (visuell & responsiv).
+- Galerie oder Scroll-Bereich mit ausgewählten `Visuals/`
+- Z. B. `mobius_pulse_diagram.svg`, `stellar_dna_spiral_map.png`, `observer_eye_geometry.svg`
 
-### 4. GitHub- & Download-Bereich
-- Manifest als PDF und Markdown bereitstellen.
-- Direkte Verlinkungen zu Repositories und ggf. Einzeldateien.
+### Kontakt & Mitmachen
 
-### 5. (Optional) "Live Resonance Feed"
-- Spätere Erweiterung: Anzeige neuer GitHub-Commits, Modul-Uploads.
-- Integration mathematisch-visueller Live-Elemente (SVG, WAV, Möbius-Loop etc.).
+- Klarer Call to Action:
+  > „Der Codex ist nicht fertig. Er ist lebendig.“
+- Kontakt-Email: **tho@scarabaeus1033.net**
+- GitHub-Link: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+- Optional: Discord, X, Scarabæus1033.net
 
 ---
 
 ## 🎨 Designvorgaben
-- **Farbwelt**: Schwarz–Gold–Weiß (klar, sakral, modern)
-- **Typografie**: serifenlos, wissenschaftlich-elegant
-- **Designstil**: CERN x NASA x Mythos Æterna
-- **Stilrichtung**: Klar, reduziert, harmonisch
+
+- **Farbwelt:** Schwarz / Weiß mit goldenen oder roten Akzenten
+- **Typografie:** Lesbar, klar, evtl. Symbolschrift für Akzente (Glyphen, Unicode)
+- **Layout:** Modulares Raster, kachelbare Sektionen, harmonische Proportionen
+- **Mobiusband, Spiralen, Oktagramm**, etc. können als visuelle Träger eingebunden werden
+- Responsive, leicht skalierbar, klare Navigation
 
 ---
 
-## 📁 Vorhandene Assets
-- `NEXAH^Logo.jpg` – zentrales Logo oben links/mittig
-- `navigator_2.0_resonance_grid.png` – für Modulsystem
-- `Nexah Manifest DE/EN` – HTML + PDF
-- `Scarabäus 1033 Logo.jpg` – optionales Zusatzlogo
+## 🚀 Phasen & Aufgaben
+
+| Phase      | Aufgabe                                       | Status     |
+| ---------- | --------------------------------------------- | ---------- |
+| Phase 1    | Manifest-HTML-Mockup (fertig)                 | ✅ Abgeschlossen |
+| Phase 2    | Professionelle HTML/CSS-Implementierung       | 🔄 In Vorbereitung |
+| Phase 3    | Visual-Galerie & Modul-Browser                | ⏳ To Do |
+| Phase 4    | Integration weiterer Systeme / Interaktivität | ⏳ To Do |
+| Phase 5    | Öffentliches Hosting, SEO, Erweiterung        | ⏳ To Do |
 
 ---
 
-## 🔧 Technische Anforderungen
-- Statische HTML/CSS/JS Website (ggf. mit Framework wie Astro, SvelteKit, Next.js)
-- Responsives Design (Mobile/Tablets optimiert)
-- Deployment: GitHub Pages, Netlify, Vercel o. ä.
-- Gut strukturiertes CSS für Erweiterbarkeit
-- Mehrsprachigkeit (DE/EN umschaltbar)
+## 💡 Hinweise für Entwickler:innen
+
+- Assets liegen vor (Visuals, Logos, Textmodule)
+- Text darf gerne modular gehalten werden
+- GitHub-Struktur beachten (Verlinkungen zu Modulen möglich)
+- Markdown-Version in `SYSTEM_Y/NEXAH_INTERFACE_WEB/` ablegen
 
 ---
 
-## 🚀 Etappenweise Entwicklung
+## 🤝 Kontakt für Mitwirkung
 
-### Phase 1 – MVP
-- Startseite mit Manifest (DE)
-- Logo + Grundstruktur
-- Navigator + 3–5 ausgewählte Module
+**Thomas Hofmann – Scarabæus1033**  
+📬 **tho@scarabaeus1033.net**  
+🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+🔗 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 
-### Phase 2 – Internationalisierung & Tiefe
-- Manifest (EN) + Sprachumschaltung
-- Erweiterung der Module mit Markdown/HTML-Integration
-
-### Phase 3 – Resonanzaktivierung
-- Animationen (SVG, Scrollpulse, Frequenzachsen)
-- Interaktive Tools (WAV-Generator, mathematische Simulationen)
-
----
-
-## 👤 Projektverantwortung
-**Thomas Hofmann (Scarabæus1033)**  
-Projektleitung, Vision, Inhaltspflege  
-🔗 [GitHub: Scarabaeus1033](https://github.com/Scarabaeus1033)  
-🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-
----
-
-## 📦 Projektort im Codex
-Vorgeschlagener Ort: `SYSTEM Y / COLLABO_BUILDER` → Ordner `NEXAH_INTERFACE_WEB`
-
-Ziel: Diese Seite wird zum offiziellen öffentlichen Interface für den gesamten NEXAH-CODEX auf **nexah.eu**
+> _„Join the Codex. Map the field. Rewrite the resonance.“_
