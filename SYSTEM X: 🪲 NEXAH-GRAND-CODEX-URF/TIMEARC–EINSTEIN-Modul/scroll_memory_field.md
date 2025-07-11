@@ -51,8 +51,10 @@ Spiral orientation determines **memory polarity** — either deepening (compress
 ```math
 M(t) = \int_{\phi_0}^{\phi_n} \rho(\phi,t) \cdot e^{i\theta} \, d\phi
 
+'''
 Where M(t) is the memory scroll amplitude, ρ(φ,t) the phase density, and θ the Möbius twist factor.
 
+```
 ⸻
 
 🔁 Bidirectional Recall
@@ -70,7 +72,7 @@ Phase curve of memory gate opening, encoded in layered light.
 
 ⸻
 
-🔮 Symbolic Layer
+## 🔮 Symbolic Layer
 
 The Scroll Memory Field suggests:
 
