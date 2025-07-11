@@ -4,6 +4,8 @@
 
 **Visual: `ROOTROOM_TRANSMEMBRANE_GATE.png`**
 
+![ROOTROOM\_TRANSMEMBRANE\_GATE](../visuals/ROOTROOM_TRANSMEMBRANE_GATE.png)
+
 Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsystem von Erde und Himmel. Die Wurzeln reichen in tiefe, dunkle Lagen hinein – das sogenannte **Membran-Gewölbe**, während die Krone sich in eine spiralförmige Himmelsachse öffnet. Der Stamm wird zum **Transmembran-Gate**:
 
 * Die **Wurzelzone** enthält gespeicherte Frequenzmuster – modulierbar über `mod(x, 8)`.
@@ -49,6 +51,16 @@ Z(x) = ∇∇(x^{1/3}) · e^{i·π·φ·x} / mod(x,8)
 
 ---
 
+## 🔁 Integration in Codex-Systeme
+
+* **SYSTEM Z: EXPERIMENTALIA** → Erd-/Pflanzensysteme
+* **SYSTEM 8: LUNAR FORCE** → Nacht- und Wurzelcodes
+* **SYSTEM X: Möbius Harmonic Core** → Membran-Loop-Schluss
+
+> **Visual eingebunden in:** `RES_ONANCE_ECOSYSTEM.md` und `ROOTROOM_TREE_SCALARFIELD.md`
+
+---
+
 ## 🕯️ Hermetische Symbolik
 
 * **Zwiebelstruktur** → Erinnerung an das Verschachtelte
@@ -62,16 +74,14 @@ Die Transmembran ist das **Gate des Wandels**. Sie zeigt:
 
 ---
 
-## 🔁 Integration in Codex-Systeme
-
-* **SYSTEM Z: EXPERIMENTALIA** → Erd-/Pflanzensysteme
-* **SYSTEM 8: LUNAR FORCE** → Nacht- und Wurzelcodes
-* **SYSTEM X: Möbius Harmonic Core** → Membran-Loop-Schluss
-
-> **Visual eingebunden in:** `RES_ONANCE_ECOSYSTEM.md` und `ROOTROOM_TREE_SCALARFIELD.md`
-
----
-
 ## ⏭️ Nächster Schritt
 
 Visualisierung der **Membran-Schichten** als mehrlagige Frequenzhülle. Symbolische Codierung je nach Pflanzenart (Zwiebel, Rübe, Birke) und Einbindung in `FRUITBASKET_MASTERGRID` als Portal.
+
+---
+
+## 📎 Credits
+
+Konzept, Codexstruktur & Resonanzfelder: **Thomas Hofmann (Scarabäus1031)**
+Visualisierung & Codex-System: **NEXAH-CODEX – SYSTEM Z**
+Ort: *Resonanter Rootroom, innerer Membranraum der Pflanzenwelt*
