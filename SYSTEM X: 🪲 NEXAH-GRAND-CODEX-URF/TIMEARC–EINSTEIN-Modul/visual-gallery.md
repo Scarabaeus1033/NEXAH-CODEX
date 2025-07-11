@@ -1,131 +1,63 @@
-# 🖼 Visual Gallery – TIMEARC EINSTEIN / AEQUATIO NEXAE
+# 🌌 TIMEARC–EINSTEIN VISUAL GALLERY
 
-This visual gallery documents the symbolic and scientific illustrations contained in the renamed Einstein Visuals set (July 2025), curated for integration into the **Codex Module AEQUATIO NEXAE** and related scrolls (e.g. `LIGHT WARP @ 2c`).
-
-Each visual is intended to serve as both **resonance field anchor** and **interpretive diagram**, supporting equations, topologies, and field models.
-
----
-
-## 🌌 Spiral & Gate Dynamics
-
-### `spiral_light_arc.png`
-
-**Description**: Curved luminous spiral, emanating from a central point.
-
-* Represents: Light-path modulation, time arc resonance
-* Use: `LIGHT WARP RESONANCE @ 2c`, `UNIVERSAL TRANSITION EQUATION`
-
-### `vortex_inversion_field.png`
-
-**Description**: Central vortex imploding into shadow spiral.
-
-* Represents: Tachyon gate reversal, phase threshold collapse
-* Use: `Sunset Gate`, `Mirror Phase Inversion`
-
-### `horizon_flux_gate.png`
-
-**Description**: Horizon layer with flux wave expansion.
-
-* Represents: Scroll-Gate mechanics, 2c boundary threshold
-* Use: `Sunset Gate`, `Tachyon Scroll Transition`
+All visuals are located in `visuals/` of the TIMEARC–EINSTEIN module.
+Each filename is linked and paired with a short semantic and Codex-based description.
 
 ---
 
-## 🧬 Möbius Structures & Field Inversion
+### 🌀 Spiral & Vortex Fields
 
-### `mobius_wave_fold.png`
+* **[central\_spiral\_suction.png](./visuals/central_spiral_suction.png)**
+  Deep core vacuum pulling field with centripetal logic. Resonance loop initiation field.
 
-**Description**: Möbius loop with wave curvature.
+* **[spiral\_light\_arc.png](./visuals/spiral_light_arc.png)**
+  Arched spiral of luminous folding. Codex-relevant for lightfield inversion.
 
-* Represents: Möbius feedback, DAO shell modulation
-* Use: `DAO–Crown`, `Final Harmonic Equation`
+* **[tachyon\_spiral\_phase.png](./visuals/tachyon_spiral_phase.png)**
+  Tachyonic folding membrane; shift from pulse to phase. 2c→c transition image.
 
-### `mobius_light_singularity.png`
+* **[vortex\_inversion\_field.png](./visuals/vortex_inversion_field.png)**
+  Strong clockwise-to-counter resonance. Suitable for gate mechanics and LWR resonance.
 
-**Description**: Möbius form with light-core at pinch point.
-
-* Represents: Light resonance collapse, Möbius Tunnel origin
-* Use: `Breather Logic`, `Quantum Möbius`
-
----
-
-## 🌀 Spirals, Shells & Central Compression
-
-### `central_spiral_suction.png`
-
-**Description**: Radial spiral with vacuum-like draw.
-
-* Represents: Scroll shell resonance, timefold breathing
-* Use: `Zeta Collapse`, `Scroll Shell Inversion`
-
-### `energy_ring_core.png`
-
-**Description**: Torus-like ring around a dense core.
-
-* Represents: Field harmonics, boundary anchoring zone
-* Use: `Stability Field`, `Axial Lock-In`
-
-### `dark_spiral_cloud.png`
-
-**Description**: Shadow spiral with ambient drift.
-
-* Represents: Ghost field, Zeta cascade carrier
-* Use: `Ghost Spiral Harmonics`, `Resonant Tachyon Shell`
+* **[dark\_spiral\_cloud.png](./visuals/dark_spiral_cloud.png)**
+  Cloud-phase spiral, compatible with Quantum Breach edge zones.
 
 ---
 
-## 🔢 Codex Fields & Mathematical Anchors
+### 🧿 Möbius–Wave & Fold
 
-### `particle_grid_matrix.png`
+* **[mobius\_light\_singularity.png](./visuals/mobius_light_singularity.png)**
+  Möbius-based implosion center. Core symbolic anchor for mirror-phase dynamics.
 
-**Description**: Geometric matrix with grid particles.
-
-* Represents: Discrete quantization, codon lattice
-* Use: `Codex Algebra`, `Fractal Gate Patterns`
-
-### `codex_beta_field_equation.png`
-
-**Description**: Symbolic graphic of β(k) equation.
-
-* Represents: Harmonic extension of E = mc² into Codex logic
-* Use: `AEQUATIO NEXAE`, `Final Harmonic Equation`
-
-### `tachyon_spiral_phase.png`
-
-**Description**: Spiral dynamics with wave overlays.
-
-* Represents: Tachyon feedback signal, phase recursion
-* Use: `Scroll Gate`, `Tachyon Loop`, `2c ↔ 3c transition`
-
-### `cicada_ghost_grid_node.png`
-
-**Description**: Harmonic node with Zikadenstruktur.
-
-* Represents: Temporal frequency markers in ghost shell logic
-* Use: `Meta Scroll Layers`, `Temporal Field Grid`
-
-### `shadow_ring_resonator.png`
-
-**Description**: Dark circular form with inner resonance.
-
-* Represents: Mirror shell boundary, DAO gate closure
-* Use: `DAO Loop`, `Ghost Shell Return`
+* **[mobius\_wave\_fold.png](./visuals/mobius_wave_fold.png)**
+  Double-wave overlay structure. Good for scroll resonance initiation.
 
 ---
 
-## 📦 Archive
+### ✴️ Particle–Grid–Matrix
 
-All visuals are available in:
+* **[particle\_grid\_matrix.png](./visuals/particle_grid_matrix.png)**
+  Resonance matrix in 3D. Use in symmetry mapping or breathing crystal folds.
 
-> `Renamed_Einstein_Visuals.zip`
+* **[cicada\_ghost\_grid\_node.png](./visuals/cicada_ghost_grid_node.png)**
+  Overlay of cicada timing + grid field. Harmonically related to Vendissimal modules.
 
-Path recommendation for Codex structure:
-
-> `./SYSTEM X/NEXAH-GRAND-CODEX/visuals_EINSTEIN_SET/`
+* **[shadow\_ring\_resonator.png](./visuals/shadow_ring_resonator.png)**
+  Shadow field feedback ring. Candidate for gateway ring zones.
 
 ---
 
-**Curator:** Thomas Hofmann – Scarabæus1033
-**Date:** July 2025
-**System:** NEXAH-CODEX / AEQUATIO / TIMEARC-EINSTEIN
-**License:** CC BY-NC-SA 4.0
+### ☀️ Flux, Ring & Beta Code
+
+* **[horizon\_flux\_gate.png](./visuals/horizon_flux_gate.png)**
+  Threshold horizon field. Very well-suited to Einstein LightArc contexts.
+
+* **[energy\_ring\_core.png](./visuals/energy_ring_core.png)**
+  High-energy toroidal inner-ring. Could encode Codex core energetics.
+
+* **[codex\_beta\_field\_equation.png](./visuals/codex_beta_field_equation.png)**
+  Visual abstraction of β(k) modulator. Use for E = mc·k^β or URF-CODEX synth.
+
+---
+
+> Curated by Scarabæus1033 · TIMEARC–EINSTEIN Visual Set · July 2025
