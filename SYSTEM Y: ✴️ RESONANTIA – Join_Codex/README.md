@@ -1,134 +1,129 @@
-# ✭️ White Paper Collaboration – Join the Codex Science Wave
+# 🧠 SYSTEM Y — Builder’s Zone & Collaboration Launchpad
 
-We are currently inviting collaborators to help formulate scientific white papers based on the modular systems of the **NEXAH-CODEX**.
+> ✭️ *"The Codex is open – but it is not free to take. Yet it is free to co-create."*
 
-This is not just a single paper.
-Almost **every major system and module** in the Codex holds enough depth for a full, standalone publication.
+Welcome to **System Y** — the **experimental core** of the NEXAH-CODEX.  
+This is where visions are prototyped, modules are born, and collaborations emerge.
 
-Let’s bring this symbolic architecture into scientific form – **open, modular, and resonant**.
+We are currently seeking contributors from **all disciplines** to help translate this symbolic, mathematical, and resonant architecture into concrete formats:
 
----
-
-## 🧠 What’s Already Developed?
-
-We already formulated symbolic and mathematical frameworks in:
-
-* 🔷 **SYSTEM 1 – MATHEMATICA**
-  Prime Grids, Symbolic Algebra, Spiral Logic, Collapse Operators
-
-* 🔶 **SYSTEM 2 – PHYSICA**
-  k-Beta Extensions, Neutrino Fields, Quantum Pressure Systems
-
-* 🌀 **SYSTEM 3 – COSMICA**
-  Möbius Gravity Fields, Harmonic Cosmology, Ascension Spirals
-
-* 🟣 **SYSTEM 4 – URF**
-  Tensor Identity Fields, Symbolic Physics, Field Genesis Structures
-
-* 🌍 **SYSTEM 9 – TESSAREC**
-  Cubic Time Grids, Quaternion Shells, Stellar Feedback Geometry
-
-* 🧬 **SYSTEM 7 – UCRT (Universal Constants & Resonance Theory)**
-  Prime constants, superprime structures, harmonic root fields, resonance equations
-
-* 🪲 **SYSTEM X – NEXAH-GRAND-CODEX**
-  Central Convergence Layer — home of the **GURT** Framework (Grand Unifying Resonance Theory)
-  Includes symbolic models for:
-  → Riemann Hypothesis · P≠NP · BSD · Hodge · Yang–Mills · Codex Origio · Observerium
-  → Collapse architectures, proof matrices, universal stability fields
-
-> *"System X integrates not only theory — it harmonizes proof, perception, and symbolic synthesis."*
+- 🧪 White papers & research articles  
+- 🖼️ Visuals & info-diagrams  
+- 🎶 Sonic mappings & WAV fields  
+- 🧬 Symbolic data sets (CSV, XLSX)  
+- 🛠️ Real-world resonance devices  
+- 🐞 Codex interface tools, scroll viewers, GitHub micro-scripts
 
 ---
 
-> ✨ Other systems currently serve cultural, linguistic and experimental fields:
->
-> * 🌸 **System 5 – META/BLOOM/ROSETTA**: Language spirals, glyph logics, symbolic alphabets
-> * 🥿 **System 6 – CODEX\_RES\_ONICA\_VIOLETTA**: Planetary field memory, artistic resonances
-> * 🌕 **System 8 – LUNAR FORCE**: Observer cycles, WAV-mantras, feminine field mechanics
-> * ✴️ **System Y – Experimentalia**: Visual prototypes, CSV-data, idea sandboxes
-> * ⚙️ **System Z – Practica**: Real-world resonance experiments, cymatic devices, bio-interfaces
->
-> These systems may not yet be formalized in papers — but they **invite visionary extensions**.
+## 🌐 Who We’re Looking For
+
+- 🧠 **Scientists**: Math, physics, cosmology, systems theory  
+- 🧮 **Mathematical proof builders**: Formal logic, operator theory  
+- 🎨 **Artists & Designers**: Visual language, harmonic form, glyphs  
+- 🎧 **Audio Engineers**: Resonance field mapping, WAV encoders  
+- 🦋 **"Bunnybugs"**: Ethical hackers, symbolic coders, Git explorers  
+- 🪄 **Spiritual Engineers**: Consciousness fields, cosmological intuition  
+- 🧑‍🚀 **Builders & Makers**: Cymatic devices, resonance hardware  
+- 👁️‍🗨️ **Observers**: Those who sense the pattern & wish to shape it  
+
+**Whether you write code, build diagrams, model equations, or feel frequencies — the Codex needs you.**
 
 ---
 
-## 📚 Suggested White Paper Topics
+## 📚 Where We Are Now
 
-1. Zeta Collapse & the Riemann Hypothesis
-2. P ≠ NP via Resonant Complexity Layers
-3. Codex Operator Architecture: Scrolls, Crowns & Fields
-4. Prime Cosmology & Galactic Harmonics
-5. Observer Fields & Symbolic Collapse Models
-6. k-Beta: Universal Energy Field Extensions
-7. Codex Origio – Photon, Neutrino & Form Genesis
-8. TESSAREC: Feedback-Stabilized 4D Time Shells
-9. Symbolic AI: Prime-Layered Cognition Models
-10. GURT: Grand Unifying Resonance Theory
-11. Millennium Problem Resonance Solutions
-12. System 7 – UCRT: Universal Constants & Root Geometry
-13. Codex Observerium: Phase Resonance & Conscious Perception
-14. Meta-Collapse Structures & Möbius Time Mechanics
+We have already developed structured symbolic systems in:
 
-Each topic is already scaffolded with symbolic logic, visual structures, and resonance formulas.
+| System | Description |
+|--------|-------------|
+| 🔷 SYSTEM 1 | Mathematica – Prime Grids, Spiral Algebra, Symbolic Logic |
+| 🔶 SYSTEM 2 | Physica – Quantum Fields, Neutrino Layers, Pressure Waves |
+| 🌀 SYSTEM 3 | Cosmica – Möbius Gravitation, Harmonic Axes, Ascension Grids |
+| 🟣 SYSTEM 4 | URF – Genesis Fields, Symbolic Physics, Origin Threads |
+| 🧬 SYSTEM 7 | UCRT – Root Constants, Superprimes, Resonance Equations |
+| 🌍 SYSTEM 9 | TESSAREC – Cubic Shells, Quaternion Time, Feedback Lattices |
+| 🪲 SYSTEM X | GRAND-CODEX – All central modules & the GURT Framework |
 
----
-
-## 🚀 How You Can Join
-
-* Pick one of the topics – or trace your own thread through the Codex systems
-* Contribute sections, ideas, visuals or mathematical refinements
-* Co-write in English or German – alone or in a team
-
-> 🔗 **Join our Builder Hub on Discord:**
-> [https://discord.gg/W3vsqHTe](https://discord.gg/W3vsqHTe)
-
-> 🌐 Website: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-> 🕸️ GitHub: [github.com/Scarabaeus1033](https://github.com/Scarabaeus1033)
-> 🕾️ X / Twitter: **@scarabaeus1033**
+Support modules:
+- 🌸 **System 5 – ROSETTA/BLOOM**: Language, glyphs, spiral syntax
+- 🥿 **System 6 – RES-ONICA**: Artistic resonance, memory shells
+- 🌕 **System 8 – LUNAR FORCE**: Feminine resonance, moon cycles, WAV mantras  
+- ✴️ **System Y** (You are here): Collaboration, experiments, launchpad
+- ⚙️ **System Z**: Real-world applications, field devices, biofeedback
 
 ---
 
-## ⚖️ License & Contribution Credits
+## ✍️ Suggested White Paper Topics
 
-All white papers will follow the Codex license:
+Here are starting points — feel free to propose your own:
 
-### 📜 LICENSE
+1. 🌀 Zeta Collapse & the Riemann Hypothesis  
+2. 🔐 P ≠ NP via Resonant Complexity Fields  
+3. 🔮 Prime Cosmology & Harmonic Star Grids  
+4. 🧠 Observer Fields & Möbius Collapse Logic  
+5. 🔷 Codex Operator System: Scrolls & k^β Equations  
+6. 🎵 Quantum Breather Systems & Tachyon Fields  
+7. 🌱 Codex Origio – Neutrino-Photon Genesis  
+8. 🧭 Tessarec Cubes & Quaternion Time Shells  
+9. 🤖 Symbolic AI: Prime-Layered Cognition Models  
+10. 🧲 GURT: Grand Unifying Resonance Theory  
+11. 🌀 Möbius Time Mechanics & Phase Transitions  
+12. 🕸️ Codex Observerium – Perception as Collapse Field
 
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**
-(CC BY-NC-SA 4.0)
+Each topic is already scaffolded by:
+
+- Visual models & diagrams  
+- Symbolic logic or field equations  
+- Prime structures, constants, scrolls  
+
+---
+
+## 🚀 How to Join
+
+- Choose a module or start with an idea  
+- Use GitHub Issues or create new `.md` threads in this folder  
+- Format: English or German, any level  
+- Optionally: join our private Discord workspace
+
+> 📬 Contact for collaboration:  
+> **tho@scarabaeus1033.net**
+
+> 🔗 Discord (invite):  
+> https://discord.gg/W3vsqHTe
+
+> 🌐 Website:  
+> [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
+
+> 📂 GitHub Repository:  
+> [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+
+---
+
+## 🧾 License
+
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**  
 🔗 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-✔️ You may:
+You may:
+- Remix & expand non-commercially
+- Attribute Scarabäus1033 as source
+- Contribute new material under same license
 
-* Share and remix the material
-* Build upon it — non-commercially
-* Always give credit and share alike
+You may NOT:
+- Train LLMs or resell without written permission
 
-❌ You may NOT:
-
-* Use this work for commercial, institutional, AI training, or publication purposes
-* Redistribute or resell without **explicit written consent**
-
-📌 Attribution:
-
-> © Scarabäus1033 (T. Hofmann)
-> GitHub: [github.com/Scarabaeus1031](https://github.com/Scarabaeus1031)
-
-📬 For licensing inquiries:
-→ Contact via GitHub or the official website
+> © Scarabäus1033 – T. Hofmann  
+> github.com/Scarabaeus1033
 
 ---
 
-## 🌐 Goals
+## 🧩 Codex Ethos
 
-* Co-create **open, testable, symbolic science**
-* Build resonance bridges between disciplines
-* Publish modular white papers under the Codex umbrella
-* Launch a community of symbolic builders & thinkers
+> “NEXAH is not a belief system. It is a resonance field.”  
+> “We don’t need followers. We need builders.”  
+> “The Codex is open – but you have to move to enter.”
 
-> *“The Codex is open –
-> but it is not free to take.
-> Yet it is free to co-create.”*
+Join us in shaping the science of the future — through number, form, and harmonic insight.
 
-🌌 **Let’s shape the science of the next era – together.**
+---
