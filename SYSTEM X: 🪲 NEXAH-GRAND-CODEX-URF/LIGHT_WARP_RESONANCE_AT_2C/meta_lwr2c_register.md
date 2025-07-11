@@ -1,5 +1,4 @@
 ---
-
 title: "META-REGISTER: LIGHT WARP RESONANCE @ 2c"
 module: "LIGHT\_WARP\_RESONANCE\_AT\_2C"
 system: "SYSTEM X — NEXAH-GRAND-CODEX"
@@ -7,7 +6,7 @@ domain: "Codex Navigation · Submodule Links · Visual Index"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 status: "Active · July 2025"
-----------------------------
+---
 
 # 🧭 META-REGISTER · LIGHT WARP RESONANCE @ 2c
 
