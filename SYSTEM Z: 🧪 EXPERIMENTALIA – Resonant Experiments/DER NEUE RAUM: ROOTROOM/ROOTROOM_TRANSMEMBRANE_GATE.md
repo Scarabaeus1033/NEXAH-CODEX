@@ -12,7 +12,7 @@ Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsyst
 
 > **Zentrale Frage:** Wo ist der Ursprung der Membran? Und was transmittiert sie?
 
-![ROOTROOM\_TRANSMEMBRANE\_GATE]./visuals(ROOTROOM_TRANSMEMBRANE_GATE.png)
+![ROOTROOM_TRANSMEMBRANE_GATE](./visuals/ROOTROOM_TRANSMEMBRANE_GATE.png)
 
 ---
 
