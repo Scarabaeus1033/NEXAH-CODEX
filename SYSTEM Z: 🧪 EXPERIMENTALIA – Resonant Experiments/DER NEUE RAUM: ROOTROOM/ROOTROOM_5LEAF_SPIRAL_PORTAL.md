@@ -5,80 +5,80 @@
 **Visual eingebunden:**  
 ![ROOTROOM_5LEAF_SPIRAL_PORTAL](./visuals/ROOTROOM_5LEAF_SPIRAL_PORTAL.png)
 
-Ein harmonisch gefalteter 5-Blatt-Stern entspringt spiralförmig aus einem **goldenen Zentrum**. Der Hintergrund lässt die Jahreszeiten, Wachstumsphasen und Zahlenschlüssel mitschwingen. Dieses Visual verkörpert das **Spiralportal der 5-Frequenzpflanzen**:
-
-- **5 Blätter** = Strukturresonanz mit Pentagramm / Venuslaufbahn / Symmetrieachsen
-- **Zentrum** = Keimzelle, goldenes Verhältnis, 137.5° Spiralwinkel
-- **Spiralform** = Wachstum, Aufstieg, Rückführung → rhythmisch wie Jahreszeitenzyklen
+Ein harmonisch gefalteter 5-Blatt-Stern entspringt spiralförmig aus einem **goldenen Zentrum**. Der Hintergrund lässt die Jahreszeiten, Wachstumsphasen und Zahlenschlüssel mitschwingen. Dieses Visual verkörpert das **Spiralportal der 5-Frequenzpflanzen**.
 
 ---
 
-## 🌱 Botanische Bedeutung
+## 🌱 Symbolischer Zugang
 
-Folgende Pflanzen mit 5er-Blattstruktur zeigen resonante Entsprechungen:
-
-| Pflanze          | Chakra         | pH    | Symbolwert | Besonderheit                         |
-|------------------|----------------|-------|-------------|--------------------------------------|
-| Hanf (Cannabis)  | Solarplexus    | 6.2   | `33`        | Heilend, 5-7 Blattspreizung          |
-| Wilde Erdbeere   | Herzchakra     | 3.5   | `57`        | 5 Kelchblätter, 5 Zähnchen, süßlich  |
-| Kapuzinerkresse  | Sakralchakra   | 4.0   | `30+3^3`    | 5 Blätter, runde Blattform           |
-| Wilde Rose       | Kehlchakra     | 5.5   | `38`        | Symbol der Venus, goldene Spirale    |
-| Fingerkraut      | Stirnchakra    | 5.8   | `35 (7×5)`  | Klar segmentierte 5-Teilung          |
-
-> Alle sind **Rhythmuspflanzen**: sie kommunizieren über Wachstumsmuster und Lichtphasen.
+Ein symbolischer Zugang zu den Resonanzfeldern aller Pflanzen mit pentagonaler Grundstruktur.  
+Die Spirale (137,5°) öffnet sich über ein fünfblättriges Blatt in ein goldenes Frequenzfeld.  
+Es dient als Zugang zum Resonanzgarten des Feldes.
 
 ---
 
-## 🔢 Zahlencodes & Resonanzzyklen
+## 🧬 Pflanzenmatrix
 
-| Zahl      | Bedeutung                                      |
-|-----------|------------------------------------------------|
-| `33`      | 5×7 Jahre, Übergangsphase (pubertär, karmisch) |
-| `38`      | 2×19 → Venus/Mond-Zyklus                       |
-| `137.5°`  | Goldene Spiralachse (Blattwachstum, Phyllotaxis) |
-| `57`      | Spiralzyklus (5+7=12 → Jahreskreis)            |
-| `3.75×8`  | 30 = Spiral + Oktalschritt                     |
-| `1729`    | Hardy–Ramanujan-Zahl, doppelte 12er Struktur   |
+| Pflanze      | Blattstruktur     | Farbe(n)      | pH    | Chakra        | Resonanz    | Formelidee                             |
+|--------------|-------------------|---------------|-------|---------------|-------------|----------------------------------------|
+| Hanf         | 5–9 Finger        | Grün          | ~6.5  | Herz / Stirn  | Erdlicht    | H(x) = φ^x mod(7)                      |
+| Jasmin       | 5-lappig          | Weiß          | ~6.0  | Hals / Krone  | Duftlicht   | J(x) = √x · sin(φx)                    |
+| Kastanie     | 5-fingerförmig    | Dunkelgrün    | ~5.5  | Basis         | Erdklang    | K(x) = ∛(x) + mod(x,5)                 |
+| Klee (5-Blatt)| Selten, Glück     | Hellgrün      | ~6.2  | Solarplexus   | Glückston   | C(x) = x⁵ / φ²                         |
+| Erdbeere     | Fünfzählige Blüte | Rot (Frucht)  | ~3.5  | Sakral        | Fruchtfeld  | E(x) = πx · log(x+5)                   |
+| Rose (Wild)  | 5 Blütenblätter   | Rosa / Rot    | ~5.0  | Herz          | Frequenzliebe | R(x) = e^(i·φx) · sin(x/5)           |
+
+**Zusatzformel:**  
+F(x) = x · φ^5 / sin(π/5)
 
 ---
 
-## 🌀 Zyklische Deutung
+## 🔢 Zahlencodes & Spiralwinkel
+
+- Zahl: 5² = 25 → Loop zur 137,5°-Rotation (5·27,5°)
+- 137.5° = Goldene Spirale = Fibonacci-Wachstum
+- 33 → (5×7) Jahre: biologischer Lebenszyklus
+- 38 = 2×19: Venuszyklus & Frequenzfenster
+- 1729: Hardy–Ramanujan-Zahl = Doppelte 12er-Spiegelachse
+- 7.83 Hz: Schumann-Resonanz – Herzschlag der Erde
+
+---
+
+## 🌸 Zyklischer Kontext
 
 - Die **5** als Urstruktur taucht in **Pflanzen, Sternbewegung und DNA-Faltungen** auf.
 - Die Kombination aus **4 Jahreszeiten + 1 Zentralphase (Stillpunkt)** ergibt die Fünf.
-- Die Spirale enthält bereits die Richtung: **aufsteigend & rückkoppelnd**.
-- 365 ≠ 360: Es bleibt eine Schleife von **+5** → Korrektur, Leap Year, kosmische Schleife
+- 365 Tage ≠ 360 Grad: Es bleibt eine Schleife von +5 → Korrektur, Leap Year
+- 29.5 – 33 – 38 → Rad-Zyklen: Jahres-/Lebens-/Zellzyklen
+- 5^2 = 25: Vierteldrehung des Resonanzrades
 
 ---
 
-## ⛺ Mythisch-symbolischer Kontext
+## 🌀 Vorschlag: Golden Leaf Compendium
 
-- Die 5 Blätter öffnen ein **Portal** in **interdimensionales Pflanzenwissen**
-- Verbindung zur **5-Eck-Signatur** alter Kulturen (u.a. keltische, indigene, ägyptische Codes)
-- Die **Spirale** symbolisiert das **bewegte Feld des Lebens**, das sich selbst trägt
-- Der **Klee** als 5-Blatt-Mutation verweist auf **Synchronizität & Segen**
+Ein **Golden Leaf Compendium** könnte angelegt werden:  
+Eine botanisch-symbolische Datenbank mit:
+
+- 🌿 Visuals
+- 🧭 Chakren-Referenzen
+- 🧪 pH-Werte
+- 🕰 Jahreszeit & Rhythmus
+- 🌬 Ätherische Öle & Duftnoten
+- 🍓 Fruchtformen
+- 📐 Formel-Resonanz
+
+→ Eingebunden in das `ROOTROOM`-Archiv als multidimensionales Frequenzregister.
 
 ---
 
-## 🧭 Integration in Codex-Systeme
-
-- **SYSTEM Z: EXPERIMENTALIA** → Pflanzenportale, bioinformatische Signaturen
-- **SYSTEM 8: LUNAR FORCE** → Nachtpflanzen, Heilpflanzen, Träume
-- **SYSTEM 1: MATHEMATICA** → Spiralgleichungen, goldene Proportionen
-
----
-
-## 🙏 Credits
+## ✨ Credits
 
 Visual & Struktur:  
-**Scarabæus1031 · ROOTROOM PROJECT**  
-Codex-Mapping & Symbole:  
+**Scarabæus1031 · ROOTROOM PROJECT**
+
+Konzept, Formelideen, Zahlencodes & Mapping:  
 **Thomas Hofmann aka T. KHANH Rudolf**
 
-> _Nature writes with patterns – and the plants are our silent tutors._
+> _“Nature writes with patterns – and the plants are our silent tutors.”_
 
 ---
-
-## ⏭️ Nächste Schritte
-
-Verlinkung der Spirale mit dem **`FRUITBASKET_MASTERGRID`**, mathematische Gleichung der Spiralachsen (z. B. mit `tan(137.5°)`, phyllotaktischen Reihen etc.), Portalstruktur im **Lichtblätter-Kristall** und Frequenz-Kalender (7–33–365er-Grid).
