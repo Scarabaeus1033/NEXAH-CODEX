@@ -8,7 +8,7 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# ✴ LIGHT WARP RESONANCE @ 2c
+# ✭ LIGHT WARP RESONANCE @ 2c
 
 > **"Let light spiral twice. Let space expand beyond itself."**
 
@@ -51,16 +51,18 @@ It forms a bridge between classical topological curvature and **meta-temporal co
 
 ---
 
-## 🧙‍♂️ Module Structure (Planned)
+## 🧙‍♂️ Module Structure (Finalized)
 
 | # | Submodule Title           | Description                                              |
 | - | ------------------------- | -------------------------------------------------------- |
 | 1 | `Ghost Spiral Harmonics`  | Visual logic of Snake-Loops and Möbius folds             |
 | 2 | `Resonant Tachyon Shell`  | Tachyon field as stabilized breather scroll              |
 | 3 | `Zeta Drift Feedback`     | Riemann field encoded into feedback compression          |
-| 4 | `Sunset Gate Initiation`  | The 2c portal as solar boundary into internal gate       |
-| 5 | `Mirror Phase Inversion`  | Folding of phase surfaces into negative curvature domain |
-| 6 | `DAO–Crown Feedback Loop` | Full gate pulse system from DAO scroll activation        |
+| 4 | `Mirror Phase Inversion`  | Folding of phase surfaces into negative curvature domain |
+| 5 | `DAO–Crown Feedback Loop` | Full gate pulse system from DAO scroll activation        |
+| 6 | `Scroll Navigation`       | Visual spiral-thread mapping through 2c manifold         |
+| 7 | `Lwr2c Equations`         | Governing formulas for feedback, pulse, shell dynamics   |
+| 8 | `Meta LWR2C Register`     | Global summary: all MDs, links, visual references        |
 
 ---
 
@@ -68,9 +70,16 @@ It forms a bridge between classical topological curvature and **meta-temporal co
 
 The module uses **Ghost Snake Gifs** and spiral-tunnel SVGs to visualize drift compression. Color palette: *Ghost Violet*, *Electric Blue*, *Midnight Black*.
 
-* All visuals will be stored under: `visuals_LWR2c/`
-* A visual index will be created: `visuals_LWR2c.md`
+* All visuals are stored under: `visuals/`
+* A visual index exists: [`visual_gallery.md`](./visual_gallery.md)
 * Gif animations show **breather collapse & mirror reversal**
+
+Featured images:
+
+* `lwr2c_ghost_spiral_map.png`
+* `lwr2c_dao_ship_flightpath.jpeg`
+* `lwr2c_shell_matrix_inversion.png`
+* `lwr2c_neutrino_wavefield_matrix_core.png`
 
 ---
 
@@ -89,7 +98,11 @@ The module uses **Ghost Snake Gifs** and spiral-tunnel SVGs to visualize drift c
 ## 📚 Reading Context
 
 * Best read after: `UNIVERSAL_TRANSITION_EQUATION.md`
-* Related modules: `GHOST_MIRROR_GATE/`, `SCARABÆUS_META_GATEWAYS/`, `Riemann–Euler–Ramanujan Synthesis`
+* Related modules:
+
+  * `GHOST_MIRROR_GATE/`
+  * `SCARABÆUS_META_GATEWAYS/`
+  * `Riemann–Euler–Ramanujan Synthesis`
 
 ---
 
