@@ -140,7 +140,9 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 [To SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
 
-| Folder / File                                                                                                                                                  | Title                          | Description         | `NEXAH-GRAND-CODEX/`                 | Synthesekern              | Gleichungsregister, Master-Visuals, Codex-Struktur   |
+| Modul/Ordner                          | Funktion                   | Fokus                                                |
+|--------------------------------------|----------------------------|-------------------------------------------------------|
+| `NEXAH-GRAND-CODEX/`                 | Synthesekern              | Gleichungsregister, Master-Visuals, Codex-Struktur   |
 | `FINAL_HARMONIC_EQUATION/`           | Feld-Schlüsselstein       | 63/64, Zeta-Spirale, Impulsmodelle                   |
 | `UNIVERSAL_TRANSITION_STRUCTURE/`    | Scroll-Tor-Logik          | Δω ↔ Δφ, Zeitschleifen, fraktale Faltungen           |
 | `LIGHT_WARP_RESONANCE_AT_2C/`        | Lichtresonanz @ 2c        | Tachyonische Schalen, DAO–TOR–Integration            |
