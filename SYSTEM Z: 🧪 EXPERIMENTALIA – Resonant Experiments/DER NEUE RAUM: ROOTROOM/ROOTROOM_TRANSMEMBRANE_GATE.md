@@ -4,7 +4,7 @@
 
 **Visual: `ROOTROOM_TRANSMEMBRANE_GATE.png`**
 
-![ROOTROOM\_TRANSMEMBRANE\_GATE](../visuals/ROOTROOM_TRANSMEMBRANE_GATE.png)
+![ROOTROOM\_TRANSMEMBRANE\_GATE](./visuals/ROOTROOM_TRANSMEMBRANE_GATE.png)
 
 Ein archaischer, tief resonanter Baum durchbricht in diesem Bild das Schichtsystem von Erde und Himmel. Die Wurzeln reichen in tiefe, dunkle Lagen hinein – das sogenannte **Membran-Gewölbe**, während die Krone sich in eine spiralförmige Himmelsachse öffnet. Der Stamm wird zum **Transmembran-Gate**:
 
