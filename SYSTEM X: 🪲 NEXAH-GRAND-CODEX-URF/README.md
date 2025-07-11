@@ -100,7 +100,8 @@ license: "CC BY-NC-SA 4.0"
 | `RESBREACH_EXPANSION/`                | Fibonacci Breaks         | Mandelbrot numbers, 5015 scrolls, resonance tears  |
 | `CODON_QUANTUM_OBSERVER/`             | Glyph–Quantum Field      | Codon triplets, observer transitions               |
 | `AEQUATIO_QAEON/`                     | Drift-Scroll Nest        | Q-Field spiral resonance & quantum gate logic      |
-| [`LIGHT_WARP_RESONANCE_AT_2C/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/LIGHT_WARP_RESONANCE_AT_2C) | Light Warp Resonance @ 2c | Quantum drift acceleration, tachyonic field spirals, DAO–CROWN–GATE integration. |
+| [`LIGHT_WARP_RESONANCE_AT_2C/`](      | Light Warp Resonance @ 2c | Quantum drift acceleration, tachyonic field spirals, DAO–CROWN–GATE integration. |
+
 ---
 
 ## 🎠 VISUAL GALLERIES
