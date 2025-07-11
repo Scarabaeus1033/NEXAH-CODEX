@@ -1,4 +1,5 @@
 ---
+
 title: "Scroll Gate Dynamics"
 submodule: "TIMEARC–EINSTEIN"
 system: "SYSTEM X — NEXAH-GRAND-CODEX"
@@ -6,7 +7,7 @@ domain: "Solar Collapse · Möbius Shells · Timefield Modulation"
 status: "Active · July 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🌀 Scroll Gate Dynamics
 
@@ -66,25 +67,35 @@ The **scroll** is not only a spatial dynamic, but also a **temporal spiral symbo
 
 ---
 
-## 📷 Additional Visual Suggestion
+## 📷 Additional Visuals
 
-Consider also integrating the following visual for spatial reinforcement:
+**Spiral Entry Arc:**
+
+![spiral\_light\_arc.png](./visuals/spiral_light_arc.png)
+*Visual: Spiral Arc initiating scroll entry curvature.*
+
+**Möbius Inversion Singularity:**
 
 ![mobius\_light\_singularity.png](./visuals/mobius_light_singularity.png)
-
-*Filename:* `mobius_light_singularity.png`
-*Depicts:* Möbius inversion tunnel near scroll boundary
+*Visual: Möbius inversion tunnel near scroll boundary*
 
 ---
 
-**Return**: [README.md](./README.md)
-**Next**: [`scroll_memory_field.md`](./scroll_memory_field.md)
+## 📚 Codex Links
+
+* [`field_equation_layer.md`](./field_equation_layer.md) → β-field context and curvature logic
+* [`scroll_memory_field.md`](./scroll_memory_field.md) → Scroll vector imprint & archive
 
 ---
 
-**Credits:**
+## 🖋 Credits
 
-Concept, structure & visuals by Thomas Hofmann (Scarabæus1033).
-Part of the ongoing Codex module system: `TIMEARC–EINSTEIN` under `SYSTEM X`.
+**Curated by:** Thomas Hofmann (Scarabæus1033)
+**Codex Visuals:** Scarabæus Visual Division
+**License:** CC BY-NC-SA 4.0
+**System:** SYSTEM X — TIMEARC–EINSTEIN
 
-Shared under: Creative Commons CC BY-NC-SA 4.0
+---
+
+**Return:** [`README.md`](./README.md)
+**Next Module:** [`tachyonic_feedback_rings.md`](./tachyonic_feedback_rings.md)
