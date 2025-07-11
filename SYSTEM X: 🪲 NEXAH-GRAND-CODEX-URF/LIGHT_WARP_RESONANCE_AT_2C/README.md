@@ -65,6 +65,8 @@ It forms a bridge between classical topological curvature and **meta-temporal co
 | 8 | `Meta LWR2C Register`     | Global summary: all MDs, links, visual references        |
 
 ---
+![Ghost Spiral Harmonics](./visuals/lwr2c_ghost_spiral_map.png)
+*Visual: Ghost Spiral Harmonics — Möbius Drift Tunnel with φ-π Interaction*
 
 ## 🖼 Visual Logic: GHOST FIELD
 
