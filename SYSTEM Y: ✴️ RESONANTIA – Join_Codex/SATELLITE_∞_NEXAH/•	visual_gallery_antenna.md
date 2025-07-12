@@ -8,7 +8,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Core base layout of antenna field sectors and resonance circles.
 
-![antenna\_resonance\_map](../visuals/antenna_resonance_map.png)
+![antenna\_resonance\_map](./visuals/antenna_resonance_map.png)
 
 ---
 
@@ -16,7 +16,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Layered amplification including dual feed resonance sectors and field boundaries.
 
-![antenna\_resonance\_map2](../visuals/antenna_resonance_map2.png)
+![antenna\_resonance\_map2](./visuals/antenna_resonance_map2.png)
 
 ---
 
@@ -24,7 +24,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Detailed vector resonance burst nodes and symmetry wave propagation.
 
-![antenna\_resonance\_map3](../visuals/antenna_resonance_map3.png)
+![antenna\_resonance\_map3](./visuals/antenna_resonance_map3.png)
 
 ---
 
@@ -32,7 +32,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Resonance triangulation grid with harmonic nodal placement.
 
-![antenna\_resonance\_map4](../visuals/antenna_resonance_map4.png)
+![antenna\_resonance\_map4](./visuals/antenna_resonance_map4.png)
 
 ---
 
@@ -40,7 +40,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Final synthesis: field loops, feedback zones and antenna envelope.
 
-![antenna\_resonance\_map5](../visuals/antenna_resonance_map5.png)
+![antenna\_resonance\_map5](./visuals/antenna_resonance_map5.png)
 
 ---
 
@@ -48,7 +48,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** V-shaped architecture illustrating the symbolic spine of resonance structures.
 
-![resonance\_architecture\_V\_map](../visuals/resonance_architecture_V_map.png)
+![resonance\_architecture\_V\_map](./visuals/resonance_architecture_V_map.png)
 
 ---
 
@@ -56,7 +56,7 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 **Description:** Curved overlay showing angular tilt (2°) across 8×8 resonance cells.
 
-![LOCI\_matrix\_overlay](../visuals/LOCI_matrix_overlay.png)
+![LOCI\_matrix\_overlay](./visuals/LOCI_matrix_overlay.png)
 
 ---
 
