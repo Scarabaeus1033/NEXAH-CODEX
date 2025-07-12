@@ -9,7 +9,7 @@ This gallery collects symbolic, architectural, and metaphor-based visualizations
 **Description:**  
 A conceptual lunar harvesting bridge linking satellite intake systems with surface energy flows. The arched structure serves both as a thermal channel and a symbolic resonator between orbital nodes and ground-based frequencies.
 
-![lunar_harvest_bridge](./visuals/lunar_harvest_bridge.png)
+![](./visuals/lunar_harvest_bridge.png)
 
 ---
 
@@ -18,7 +18,7 @@ A conceptual lunar harvesting bridge linking satellite intake systems with surfa
 **Description:**  
 Annotated matrix overlay diagram visualizing curvature, field segmentation, and 2° axial tilt. Serves to interpret the symbolic and energetic logic embedded within the 8×8 LOCI grid.
 
-![loci_matrix_overlay](./visuals/loci_matrix_overlay.png)
+![](./visuals/loci_matrix_overlay.png)
 
 ---
 
@@ -27,7 +27,7 @@ Annotated matrix overlay diagram visualizing curvature, field segmentation, and 
 **Description:**  
 2D logic diagram displaying symbolic thermal symmetry across resonance layers. Combines heat-field distribution with geometric flow and feedback fields.
 
-![thermal_gradient_logic](./visuals/thermal_gradient_logic.svg)
+![](./visuals/thermal_gradient_logic.svg)
 
 ---
 
@@ -36,7 +36,7 @@ Annotated matrix overlay diagram visualizing curvature, field segmentation, and 
 **Description:**  
 Playful yet precise symbolic mapping of the LOCI matrix using a tomato as metaphor for inner coherence. Suggests organic field integrity, flavor structure, and internal compartmentalization.
 
-![loci_64_tomato_matrix](./visuals/loci_64_tomato_matrix.png)
+![](./visuals/loci_64_tomato_matrix.png)
 
 ---
 
@@ -45,7 +45,7 @@ Playful yet precise symbolic mapping of the LOCI matrix using a tomato as metaph
 **Description:**  
 Shell-cut illustration used symbolically to explain inner field layers, plasma-bounded resonance cores, and harmonic containment. Can be interpreted both literally and metaphorically.
 
-![thorium_reactor_shell_cut](./visuals/thorium_reactor_shell_cut.png)
+![](./visuals/thorium_reactor_shell_cut.png)
 
 ---
 
@@ -54,7 +54,7 @@ Shell-cut illustration used symbolically to explain inner field layers, plasma-b
 **Description:**  
 Represents the symbolic backbone or “spine” of harmonic systems. The “V” shape suggests dual-arc balancing, convergence, and field navigation.
 
-![resonance_architecture_V_map](./visuals/resonance_architecture_V_map.png)
+![](./visuals/resonance_architecture_V_map.png)
 
 ---
 
