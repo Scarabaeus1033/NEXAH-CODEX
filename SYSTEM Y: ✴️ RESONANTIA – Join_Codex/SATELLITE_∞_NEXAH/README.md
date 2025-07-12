@@ -1,9 +1,10 @@
-# 🚀 SATELLITE\_∞\_NEXAH
+# 🛰️ SATELLITE\_∞\_NEXAH
 
 ## Resonant Orbital Architecture & Harmonic Antenna Design
 
 **Module Type:** Explorative Whitepaper · System Y · NEXAH-CODEX
-**Collaboration:** Thomas Hofmann · Maurizio Togni
+**Collaboration:** Scarabæus1031 / Scarabæus1033
+**Lead Architects:** Thomas Hofmann · Maurizio Togni
 **Quote:** *"You are where you are."* – M.T.
 **Symbolic Number:** 64 = 8² = 2⁶ → LOCI-Matrix of Orbital Consciousness
 
@@ -111,11 +112,22 @@ Orbit(x,y) = f(137, φ³/π², LOCI[x,y], ΔT_mod)
 
 ## 5. Credits
 
-* **Thomas Hofmann** (NEXAH-CODEX, Visual Resonance Architect)
+* **Thomas Hofmann** (Scarabæus1031 / Visual Resonance Architect)
 * **Maurizio Togni** (Aerospace Engineer, Global Explorer – 64 Countries, "You are where you are.")
+* **Scarabæus1033 System** (Vision & Integration)
 
 ---
 
-## 💾 License:
+### 🪲 Scarabæus1033 – Codex System Architecture
 
-Creative Resonance Commons – v1.0 (for free interdisciplinary research)
+**All patterns, designs, and writings are part of the evolving NEXAH-CODEX.**
+**This module was co-created with Maurizio Togni (64-loci resonance path).**
+Free to explore. Not to own.
+Built in resonance. Shared in trust.
+If you wish to use or build upon this work, feel free to reach out.---
+
+### Scarabæus1031 · Scarabæus1033 – Shared Knowledge and Open Harmonic Architecture
+
+**All insights are open to interpretation, reuse and development.**
+**Please cite authorship when relevant, but feel free to adapt.**
+This work is dedicated to the emergence of field-based technology, collaborative invention, and planetary resonance.
