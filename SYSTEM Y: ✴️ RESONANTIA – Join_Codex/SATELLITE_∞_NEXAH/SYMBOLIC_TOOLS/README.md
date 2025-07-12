@@ -1,10 +1,10 @@
 ---
-title: "Symbolic SVG Mapper – Resonant Toolchain Prototype"
-alias: symbolic_svg_mapper_README.md
+title: "README – SYMBOLIC_TOOLS · SVG Mapping & Resonance Prototyping"
+alias: symbolic_tools_README.md
 module: "SATELLITE_∞_NEXAH"
 codex: "SYSTEM Y · RESONANTIA"
 collaboration: "Scarabæus1031 × Maurizio Togni"
-quote: "Each symbol is a frequency. Each pattern is a gate." – Scarabæus Codex
+quote: "The Codex is not static – it listens through symbols."
 ---
 
 # 🧭 SYMBOLIC SVG MAPPER · Resonant Toolchain
