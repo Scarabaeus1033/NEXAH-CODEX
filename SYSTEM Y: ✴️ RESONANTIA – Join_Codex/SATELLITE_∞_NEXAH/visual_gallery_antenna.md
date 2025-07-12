@@ -62,4 +62,4 @@ This gallery collects all visual representations of resonance systems, antenna f
 
 > ✨ All visuals are part of the symbolic-frequency synthesis of the NEXAH Codex. Use and share freely under Codex License: Quote & Use permitted. For monetization or redistribution, explicit permission from Scarabaeus1033 is required.
 
-— Visuals by TH & Dipl.-Ing. Maurizio, Scarabæus1031
+— Visuals by TH & Maurizio Togni, Scarabæus1031
