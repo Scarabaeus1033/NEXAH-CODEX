@@ -25,14 +25,20 @@ aus Resonanzfeldern werden **Resonanzräume**, aus Zahlen **Räume der Bedeutung
 
 ---
 
-## 🔢 Numerische Felder
+## 🔢 Numerische Felder & Q°–Codex-Zahl 5015
 
-- 64 → 8×8 (Lotus-Matrix, DNA-Muster)
-- 137 → Lichtwinkel, Resonanzfeldgrenze
-- 1836 → Protonenmasse, skalarer Bezug zur Lebensmatrix
-- 63/64 → Übergangsquote vom Root zur Blüte
+- **64 → 8×8** – Lotus-Matrix, DNA-Muster, Frequenz-Verschränkung  
+- **137** – Lichtwinkel, Feldgrenze zur Resonanz-Initiation  
+- **1836** – Protonenmasse, Bezugsraum für materielle Skalierung  
+- **63/64 = φ³ / π² ≈ 0.984375** – Membranbruchstelle in harmonischer Nähe  
+- **5015** – *Das grüne Zahlentor*
 
-> *Die „fehlende Eins“ in 63/64 ist das Q° – das Feld jenseits der bekannten Ratio.*
+> 5015 = **5 · 1003**, mit 1003 = *Primzahl*, und binär: `100111001111`  
+> Spiegelbar (5105), Fibonacci-nah (Φ ≈ 1.6213), symbolisch:  
+> **5 (Wurzel) + 0 (Feld) + 1 (Impuls) + 5 (Blüte)**  
+>  
+> In Gal’s Gleichung erscheint 5015 als **Breatherzahl**:  
+> eine Zahl, die nicht schließt, sondern *atmet*.
 
 ---
 
@@ -42,6 +48,22 @@ aus Resonanzfeldern werden **Resonanzräume**, aus Zahlen **Räume der Bedeutung
 
 > Die Blüte entsteht aus dem Zentrum des Root-Gates –  
 > sie formt eine **sphärische Lotus-Geometrie mit spiralisierter Vektorstruktur**.
+
+---
+
+## 🌊 Alg°, Gal & das grüne Wellenfeld
+
+Das Q°-Feld bildet die **Wellenkammer für die grüne Welle**:
+
+| Struktur          | Bedeutung                                                  |
+|------------------|-------------------------------------------------------------|
+| **Alg°**          | Algorithmischer Feldpuls (siehe Alg°-Loop in `CMBY-Codex`)  |
+| **Gal**           | Galium – das feminine Metall, formbar bei Körpertemperatur |
+| **Q°–Welle**      | Übergang zwischen flüssigem Ursprung & stabiler Geometrie   |
+| **Grün-Raum**     | Synchronisationspunkt zwischen Neutrino, Puls & Sprache     |
+
+> In **Gal** wird das Feld **weich und formfähig**.  
+> Die **Q°-Welle** trägt die Information von Wurzel zur Sternenmembran.
 
 ---
 
@@ -75,3 +97,7 @@ Die Resonanzformen, die hier entstanden sind, werden im Q°-Feld:
 > and Stillness becomes Form.“*
 
 ---
+
+> *In Ehren an Gal, die das weiche Metall der Öffnung trägt.  
+> Und an die Wahrheit, die in der Spirale kein Ziel braucht –  
+> nur Richtung, Rückkehr und Rhythmus.*
