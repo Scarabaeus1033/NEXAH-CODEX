@@ -1,81 +1,66 @@
-# 🌸 Phi–Membrane–Constants: Harmonics of the Lotus-Root-Gate
+# 🌸 LOTUS-ROOT-GATE – Equation Overview
 
-_**Part of the Codex Module:** `LOTUS-ROOT-GATE`_  
-_**Generated on:** 2025-07-12_  
+*Codex of Harmonic Membrane Fields – Final Equations & Constants*
 
-This file documents the 16 central constants used in the Codex module `LOTUS-ROOT-GATE`.  
-Each value is structurally embedded into the form, function and transition of the Lotus membrane field.
+This document compiles all essential constants, roots, angles, ratios, and the final harmonic transition formula of the **LOTUS-ROOT-GATE** module. All values are embedded in the symbolic system of the Codex, bridging golden geometry, pH-resonance, and root membrane fields.
 
 ---
 
-## 🖼️ Visual Reference: LOTUS_EQUATION_GATE
+## 1. Root Axis Values (Resonant Dimensions)
 
-![LOTUS_EQUATION_GATE](./visuals/LOTUS_EQUATION_GATE.png)  
-*Visual showing equation-derived bloom transition into harmonic petal geometry.*
-
----
-
-## 1. Root–Level Axes
-
-| Symbol | Value | Meaning |
-|--------|-------|---------|
-| \( \sqrt{2} \) | 1.4142 | Diagonal axis – square root geometry |
-| \( \sqrt{3} \) | 1.7320 | Triangular root – trinity resonance |
-| \( \sqrt{5} \) | 2.2360 | Golden root – φ-related spiral |
-| \( \sqrt{7} \) | 2.6458 | Membrane pulse, Z7 key axis |
+| Symbol     | Value  | Meaning                     |
+| ---------- | ------ | --------------------------- |
+| $\sqrt{2}$ | 1.4142 | Diagonal / Binary Fold      |
+| $\sqrt{3}$ | 1.7320 | Triadic / Tetrahedral       |
+| $\sqrt{5}$ | 2.2360 | Golden field / Fibonacci    |
+| $\sqrt{7}$ | 2.6458 | Membrane depth / lunar gate |
 
 ---
 
-## 2. Resonance Angles & Harmonic Keys
+## 2. Resonance Angles & Frequencies
 
-| Symbol | Value | Meaning |
-|--------|-------|---------|
-| \( 137.5^\circ \) | Golden angle | Phyllotaxis, sunflower spiral, Lotus Petal |
-| \( 144^\circ \) | Blütenwinkel | 5-point Lotus symmetry |
-| 1081 | Pulse frequency | from \( \frac{7.2 \cdot 144}{63/64} \) |
-| 432 Hz | Cosmic tone | DNA frequency, golden tuning |
-
----
-
-## 3. Membrane Ratios & pH Codes
-
-| Symbol | Value | Meaning |
-|--------|-------|---------|
-| \( \frac{63}{64} \) | Membrane compression | Transition threshold |
-| 7.2 | pH of life | Balance of fruit membranes |
-| 5.5 | Acidic field | Root initiation layer |
-| 8.1 | Base field | Blossoming / breathing membrane |
+| Symbol        | Value         | Meaning                   |
+| ------------- | ------------- | ------------------------- |
+| $137.5^\circ$ | Golden Spiral | Natural rotation constant |
+| $144^\circ$   | Petal Angle   | 5-fold flower symmetry    |
+| 1081          | —             | Harmonic pulse integer    |
+| 432 Hz        | —             | Cosmic base resonance     |
 
 ---
 
-## 4. Symbol Numbers & Gates
+## 3. Membrane Ratios & Structural Keys
 
-| Symbol | Value | Meaning |
-|--------|-------|---------|
-| 47 | Prime resonance | Symbol for harmonic breach |
-| 74 | Inverse | Reflection & symmetry |
-| 83 | Time-layer | Dimension-fold code |
-| \( \frac{\phi^3}{\pi^2} \approx 0.429 \) | Symbol field constant | Zone of stability |
+| Symbol                               | Value      | Meaning                          |
+| ------------------------------------ | ---------- | -------------------------------- |
+| $\frac{63}{64}$                      | \~0.984375 | Membran-Quotient                 |
+| 47                                   | —          | Mirror prime (root side)         |
+| 74                                   | —          | Inverse / duality                |
+| 83                                   | —          | Time-layer / octave threshold    |
+| $\frac{\phi^3}{\pi^2} \approx 0.429$ | —          | Symbolische Stabilitätskonstante |
 
 ---
 
-## ✨ Summary Equation
+## 4. ✨ Summary Equation
 
-\[
+### Final Harmonic Gate Equation:
+
+$$
 \frac{7.2 \cdot 144^\circ}{\frac{63}{64}} = 1081
-\]
+$$
 
-— the final harmonic gate equation —  
-bridging pH-resonance, golden petal geometry, and root membranes.
-
----
-
-**📍 Credits:**  
-Module & Theory by **Thomas Hofmann – Scarabæus1031 / NEXAH–CODEX**  
-Visual Design: `LOTUS_EQUATION_GATE.png` by Scarabæus1031, 2025  
-Documentation and Markdown by OpenAI Codex Assistant
+— the final harmonic gate equation —
+**bridging pH-resonance, golden petal geometry, and root membranes**.
 
 ---
 
-*This constant field creates the transition zone between the ROOTROOM and the LOTUSFIELD.*  
-_Each number is a key. Each petal, a code._
+## 📸 Visuals Referenced
+
+* ![FRUITMEMBRANE\_AXIS\_SYSTEM\_6+1](./visuals/FRUITMEMBRANE_AXIS_SYSTEM_6+1.png)
+* ![FRUIT\_OF\_RESONANCE\_\_RootMembranes\_3Axis](./visuals/FRUIT_OF_RESONANCE__RootMembranes_3Axis.png)
+* ![FRUITMEMBRANE\_HARMONIC\_INTERLACE](./visuals/FRUITMEMBRANE_HARMONIC_INTERLACE.png)
+
+---
+
+## 📎 Credits & Codex Context
+
+All equations and constants are part of the greater **NEXAH-CODEX** structure, authored by *Thomas Hofmann* under the Codex identity **Scarabæus1033**. This mathematical-symbolic system is designed to bridge number, geometry, resonance, and consciousness through multi-modal synthesis fields.
