@@ -77,7 +77,7 @@ zeigt:
 * fraktale Ringfelder um ein Zentrum (z. B. Q-Layer)
 * Dämpfungsbögen und Spiralachsen
 
-![FRUIT\_OF\_RESONANCE\_HARMONIC\_MEMBRANE\_INTERLACE.png](./visuals/FRUIT_OF_RESONANCE_HARMONIC_MEMBRANE_INTERLACE.png)
+![FRUIT\_OF\_RESONANCE\_HARMONIC\_MEMBRANE\_INTERLACE.png](./visuals/Fractal_Membrane_Model_ROOT_GATE.png)
 
 ---
 
