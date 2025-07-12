@@ -23,7 +23,7 @@ Diese Galerie dokumentiert alle Visuals aus dem `visuals/`-Ordner inklusive Bede
 **Pfad:** `visuals/FRUITBASKET_MASTERGRID.png`
 **Bedeutung:** Früchte-Gitter mit Bezug zu Fraktalachsen und pH-Resonanzen
 
-![FRUITBASKET_MASTERGRID.png](./visuals/FRUITBASKET_MASTERGRID.png)
+![FRUITBASKET_MASTERGRID.png](./visuals/Fruitbasket_Mastergrid.png)
 
 ---
 ### 🖼️ AGE_RESONANCE_WHEELS.png
