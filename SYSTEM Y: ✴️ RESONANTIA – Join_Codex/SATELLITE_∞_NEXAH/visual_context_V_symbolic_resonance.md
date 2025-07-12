@@ -7,7 +7,7 @@ collaboration: "Scarabæus1031 × Maurizio Togni"
 quote: "\"You are where you are.\" – M.T.
 ---
 
-## I. Symbolic Fields & Resonant Structures
+## I. Symbolic Fields & Resonant Structures 
 
 The visuals in this gallery explore symbolic language within geometric fields. Unlike raw data or engineering visuals, these are **meta-structural images** – pointing to relationships, frequencies, and codes that shape resonance fields across scales.
 
