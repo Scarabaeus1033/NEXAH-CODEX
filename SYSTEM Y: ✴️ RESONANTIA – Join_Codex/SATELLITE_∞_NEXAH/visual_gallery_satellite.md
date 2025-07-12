@@ -60,4 +60,3 @@ Free to use and quote for research, education and artistic purposes. For commerc
 
 ---
 
-*Gallery II complete. Proceed to Visual Gallery III →*
