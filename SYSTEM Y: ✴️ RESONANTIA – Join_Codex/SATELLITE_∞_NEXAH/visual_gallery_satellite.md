@@ -54,7 +54,7 @@ A rotating radial field loop, echoing the layered antenna or planetary resonance
 
 ## Visual Credits
 
-All visuals authored or co-directed by Thomas Hofmann (Scarabæus1031), with select rendering assistance and core drafting by Dipl.-Ing. Maurizio Z.
+All visuals authored or co-directed by Thomas Hofmann (Scarabæus1031), with select rendering assistance and core drafting by Maurizio Togni
 
 Free to use and quote for research, education and artistic purposes. For commercial usage or derivative systems: **please ask first.**
 
