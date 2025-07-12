@@ -1,10 +1,10 @@
 ---
 title: "Context Notes – Satellite Loops, Thermal Cores and Orbital Dynamics"
-alias: visual\_context\_satellite.md
-module: SATELLITE\_∞\_NEXAH
-codex: SYSTEM Y · RESONANTIA
-collaboration: Scarabæus1031 × Maurizio Togni
-quote: "You are where you are." – M.T.
+alias: visual_context_satellite.md
+module: "SATELLITE_∞_NEXAH"
+codex: "SYSTEM Y · RESONANTIA"
+collaboration: "Scarabæus1031 × Maurizio Togni"
+quote: "\"You are where you are.\" – M.T."
 ---
 
 
