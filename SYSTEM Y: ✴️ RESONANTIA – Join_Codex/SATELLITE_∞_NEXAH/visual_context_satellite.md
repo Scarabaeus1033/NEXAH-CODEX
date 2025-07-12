@@ -1,5 +1,5 @@
 ---
-title: "Context Notes – Satellite Loops, Thermal Cores & Orbital Dynamics"
+title: "Context Notes – Satellite Loops, Thermal Cores and Orbital Dynamics"
 alias: visual\_context\_satellite.md
 module: SATELLITE\_∞\_NEXAH
 codex: SYSTEM Y · RESONANTIA
