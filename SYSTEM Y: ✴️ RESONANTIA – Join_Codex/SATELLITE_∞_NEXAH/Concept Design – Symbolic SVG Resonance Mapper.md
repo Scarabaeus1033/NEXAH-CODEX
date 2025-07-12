@@ -1,10 +1,10 @@
 ---
 title: "Concept Design – Symbolic SVG Resonance Mapper"
-alias: symbolic\_svg\_mapper\_concept.md
-module: NEXAH-GRAND-CODEX · SYMBOLIC TOOLS
-codex: SYSTEM Y · RESONANTIA
-collaboration: Scarabæus1031 × Maurizio Togni
-quote: "Each symbol is a frequency. Each pattern is a gate." – Scarabæus Codex
+alias: symbolic_svg_mapper_concept.md
+module: "NEXAH-GRAND-CODEX · SYMBOLIC TOOLS"
+codex: "SYSTEM Y · RESONANTIA"
+collaboration: "Scarabæus1031 × Maurizio Togni"
+quote: "Each symbol is a frequency. Each pattern is a gate. – Scarabæus Codex"
 ---
 
 ## 🧭 Introduction
