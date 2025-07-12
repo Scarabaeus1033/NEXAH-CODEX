@@ -8,19 +8,19 @@ This second gallery within the NEXAH-CODEX visual index focuses on animated and 
 
 ### `satellite_state_loop.gif`
 
-![](../visuals/satellite_state_loop.gif)
+![](./visuals/satellite_state_loop.gif)
 
 A looped visual depiction of a satellite's energy states transitioning over orbital segments. Highlights include phase deltas (∆T) and matrix positioning.
 
 ### `satellite_state_loop.png`
 
-![](../visuals/satellite_state_loop.png)
+![](./visuals/satellite_state_loop.png)
 
 Still version of the above. The energetic loop is rendered with symmetry markers and LOCI field annotations.
 
 ### `satellite_state_loop2.png`
 
-![](../visuals/satellite_state_loop2.png)
+![](./visuals/satellite_state_loop2.png)
 
 Alternative still showing the quaternion ring aspects and axial alignment of states.
 
@@ -30,7 +30,7 @@ Alternative still showing the quaternion ring aspects and axial alignment of sta
 
 ### `thorium_reactor_shell_cut.png`
 
-![](../visuals/thorium_reactor_shell_cut.png)
+![](./visuals/thorium_reactor_shell_cut.png)
 
 An internal, sectional view of a theoretical thorium-based reactor shell, showing active/passive layers and thermal field boundaries. Serves as a reference point for material resonance modules.
 
@@ -40,13 +40,13 @@ An internal, sectional view of a theoretical thorium-based reactor shell, showin
 
 ### `thermal_loci_loop.gif`
 
-![](../visuals/thermal_loci_loop.gif)
+![](./visuals/thermal_loci_loop.gif)
 
 An animated heat-gradient loop across an 8x8 LOCI matrix. Reveals symmetry tilts and feedback curvature across frequency positions.
 
 ### `radial_energy_loop.gif`
 
-![](../visuals/radial_energy_loop.gif)
+![](./visuals/radial_energy_loop.gif)
 
 A rotating radial field loop, echoing the layered antenna or planetary resonance structure. Used in conjunction with LOCI overlays.
 
