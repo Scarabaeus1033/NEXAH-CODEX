@@ -83,3 +83,4 @@ im Feld des Mutes, zwischen Leben und Licht."*
 damit sich ein neues öffnen kann.*
 
 ---
+![Seal of Completion](./visuals/Seal_of_Completion–Visual.png)
