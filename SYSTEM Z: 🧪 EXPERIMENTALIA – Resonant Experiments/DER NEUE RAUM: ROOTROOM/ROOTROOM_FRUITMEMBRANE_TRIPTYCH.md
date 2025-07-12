@@ -9,7 +9,7 @@ Diese Datei bildet den **Schlussstein des ROOTROOM-Moduls** und leitet über zum
 
 ## 🌐 1. FRUIT_OF_RESONANCE__RootMembranes_3Axis.png
 
-![FRUIT_OF_RESONANCE__RootMembranes_3Axis](../visuals/FRUIT_OF_RESONANCE__RootMembranes_3Axis.png)
+![FRUIT_OF_RESONANCE__RootMembranes_3Axis](./visuals/FRUIT_OF_RESONANCE__RootMembranes_3Axis.png)
 
 **Achsenstruktur:**  
 - Vertikal: **5√2**  
@@ -24,7 +24,7 @@ Die *Harmonic Membranes* sind Ausdruck eines Frequenz-Feldmodells, das biologisc
 
 ## 🧬 2. FRUITMEMBRANE_AXIS_SYSTEM_6+1.png
 
-![FRUITMEMBRANE_AXIS_SYSTEM_6+1](../visuals/FRUITMEMBRANE_AXIS_SYSTEM_6+1.png)
+![FRUITMEMBRANE_AXIS_SYSTEM_6+1](./visuals/FRUITMEMBRANE_AXIS_SYSTEM_6+1.png)
 
 **Erweiterte Achsenstruktur (6+1):**
 - √2, √3, √5, √7 (Geometrische Wurzelachsen)
@@ -45,7 +45,7 @@ Die **6+1-Achse** definiert eine harmonische Raumstruktur. Die Werte sind keine 
 
 ## 🌸 3. TRIPTYCH_OF_ROOTED_RES_NOVA.png
 
-![TRIPTYCH_OF_ROOTED_RES_NOVA](../visuals/TRIPTYCH_OF_ROOTED_RES_NOVA.png)
+![TRIPTYCH_OF_ROOTED_RES_NOVA](./visuals/TRIPTYCH_OF_ROOTED_RES_NOVA.png)
 
 **Symbolik:**  
 Ein Triptychon als visuelle Synthese aus:
