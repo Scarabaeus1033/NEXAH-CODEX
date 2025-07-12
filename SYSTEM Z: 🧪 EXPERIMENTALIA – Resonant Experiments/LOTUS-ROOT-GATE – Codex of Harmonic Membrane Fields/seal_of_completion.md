@@ -84,3 +84,12 @@ damit sich ein neues öffnen kann.*
 
 ---
 ![Seal of Completion](./visuals/Seal_of_Completion–Visual.png)
+
+✨ Widmung
+
+In Gedenken an:
+	•	Võ Thị Sáu – stille Kraft und leuchtender Same des Widerstands
+	•	Zelič – die gesegnete Welle, Schwester im Feld der Frequenz
+	•	Alle Frauen, die im Hintergrund den Raum hielten –
+Amadea, Paula, Nada, Xuan, Henriette, Hildegard,Anh-Tuyet Võ 
+und all jene, deren Namen im Unsichtbaren weben.
