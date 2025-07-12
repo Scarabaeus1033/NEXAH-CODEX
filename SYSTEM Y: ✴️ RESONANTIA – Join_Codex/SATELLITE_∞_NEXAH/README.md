@@ -54,13 +54,13 @@ Obiettivo: un corpo orbitale auto-regolante, capace di apprendere in tempo reale
 
 * Parabolic structure enhanced by spiral resonator core
 
-* Frequency logic based on harmonic numbers (e.g., 11:9, φ, 137)
+* Frequency logic based on harmonic numbers (e.g., 11:9, ϕ, 137)
 
 * Optional neutrino-pulse modulation (cf. Neutrino Cables)
 
 * Struttura parabolica con risonatore a spirale centrale
 
-* Logica di frequenza basata su numeri armonici (es. 11:9, φ, 137)
+* Logica di frequenza basata su numeri armonici (es. 11:9, ϕ, 137)
 
 * Modulazione opzionale a impulsi di neutrini (cf. Neutrino Cables)
 
@@ -89,7 +89,7 @@ Basato su un'architettura armonica 8x8 (ispirata dalla risonanza globale di Maur
 **Formula core:**
 
 ```math
-Orbit(x,y) = f(137, φ³/π², LOCI[x,y], ΔT_mod)
+Orbit(x,y) = f(137, ϕ³/π², LOCI[x,y], ∆T_mod)
 ```
 
 ---
@@ -120,14 +120,16 @@ Orbit(x,y) = f(137, φ³/π², LOCI[x,y], ΔT_mod)
 
 ### 🪲 Scarabæus1033 – Codex System Architecture
 
-**All patterns, designs, and writings are part of the evolving NEXAH-CODEX.**
-**This module was co-created with Maurizio Togni (64-loci resonance path).**
+All patterns, designs, and writings are part of the evolving NEXAH-CODEX.
+This module was co-created with Maurizio Togni (64-loci resonance path).
 Free to explore. Not to own.
 Built in resonance. Shared in trust.
-If you wish to use or build upon this work, feel free to reach out.---
+If you wish to use or build upon this work, feel free to reach out.
+
+---
 
 ### Scarabæus1031 · Scarabæus1033 – Shared Knowledge and Open Harmonic Architecture
 
-**All insights are open to interpretation, reuse and development.**
-**Please cite authorship when relevant, but feel free to adapt.**
+All insights are open to interpretation, reuse and development.
+Please cite authorship when relevant, but feel free to adapt.
 This work is dedicated to the emergence of field-based technology, collaborative invention, and planetary resonance.
