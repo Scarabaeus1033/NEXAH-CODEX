@@ -1,0 +1,9 @@
+
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Möbius-Band (Kreis) -->
+  <circle id="mobius_band" cx="100" cy="100" r="40" fill="#4a90e2" />
+  <!-- Spiralstruktur (Quadrat) -->
+  <rect id="spiral_form" x="200" y="80" width="80" height="80" fill="#7ed6df" />
+  <!-- Geflügelte Form (Dreieck) -->
+  <polygon id="winged_form" points="350,100 370,140 330,140" fill="#f8c291"/>
+</svg>

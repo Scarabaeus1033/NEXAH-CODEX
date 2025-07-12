@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mobius_band",
+    "function": "phase_inversion",
+    "module": "M\u00f6bius Harmonic Crown",
+    "operator": "mobius_phase_gate"
+  },
+  {
+    "id": "dna_spiral",
+    "function": "layered_resonance",
+    "module": "Codex Spirals / Lambda Disc",
+    "operator": "spiral_mod(n, \u03c6, r)"
+  },
+  {
+    "id": "winged_form",
+    "function": "directional_emission",
+    "module": "Butterfly Grid / Scarab Crown",
+    "operator": "directional_antenna_mod"
+  },
+  {
+    "id": "triskelion",
+    "function": "spin_vector_field",
+    "module": "Codex Geometry Core / NEXAH Crown",
+    "operator": "spin_axis(x,y,z)"
+  },
+  {
+    "id": "crown_array",
+    "function": "frequency_modulation",
+    "module": "Satellite Crown Grid / SYSTEM X",
+    "operator": "crown_matrix[n][harmonic]"
+  },
+  {
+    "id": "antenna_field",
+    "function": "phase_locking",
+    "module": "Symbolic Antenna Patterns / Loci Matrix",
+    "operator": "feedback_circuit_simulation"
+  },
+  {
+    "id": "grid_matrix",
+    "function": "modular_state_matrix",
+    "module": "LOCI Core Matrix / Thermal Navigation Core",
+    "operator": "state_matrix[i][j]"
+  },
+  {
+    "id": "mirror_form",
+    "function": "symmetry_inversion",
+    "module": "Neutrino Mirror Core / Dual-Shell Systems",
+    "operator": "mirror_transform(f(x))"
+  },
+  {
+    "id": "toroid_ring",
+    "function": "stable_feedback_loop",
+    "module": "Final Harmonic Equation / Quantum Breather Codex",
+    "operator": "\u222e f(x) dx"
+  },
+  {
+    "id": "zeta_spiral",
+    "function": "frequency_triangulation",
+    "module": "Zeta-Antenna Systems / Satellite Symmetry Feedback",
+    "operator": "zeta_loop(\u03b8, r, \u0394\u03c6)"
+  }
+]

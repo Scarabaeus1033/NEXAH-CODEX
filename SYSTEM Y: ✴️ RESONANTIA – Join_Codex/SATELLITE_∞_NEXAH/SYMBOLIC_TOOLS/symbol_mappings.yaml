@@ -1,0 +1,70 @@
+- codex: SYSTEM X
+  description: Resonance loops and Möbius phase gates
+  function: phase_inversion
+  id: mobius_band
+  module: Möbius Harmonic Crown / Neutrino Fields
+  operator: mobius_phase_gate
+  symbol: 🧲
+- codex: SYSTEM 3
+  description: Recursive structuring through spiral modulation
+  function: layered_resonance
+  id: spiral_structure
+  module: Codex Spirals / Lambda Disc
+  operator: spiral_mod(n, φ, r)
+  symbol: 🧬
+- codex: SYSTEM 4
+  description: Directional control and modulation of output
+  function: directional_emission
+  id: winged_form
+  module: Butterfly Grid / Scarab Crown
+  operator: directional_antenna_modulation
+  symbol: 🦋
+- codex: SYSTEM 5
+  description: 3-fold symmetry and spin-based field logic
+  function: spin_vector_symmetry
+  id: triskelion
+  module: Codex Geometry Core / NEXAH Crown
+  operator: spin_axis(x,y,z)
+  symbol: 🌀
+- codex: SYSTEM X
+  description: Frequency harmonics via modular crown array
+  function: harmonic_modulation
+  id: crown_array
+  module: Satellite Crown Grid
+  operator: crown_matrix[n][harmonic]
+  symbol: ♾
+- codex: SYSTEM Y
+  description: Feedback phase circuits for transmission
+  function: transmission_phase_lock
+  id: antenna_field
+  module: Symbolic Antenna Patterns / Loci Matrix
+  operator: phase_lock_feedback
+  symbol: 📡
+- codex: SYSTEM Y
+  description: 64x I-Ching style modular resonance board
+  function: modular_state_logic
+  id: matrix_grid
+  module: LOCI Core Matrix / Thermal Navigation Core
+  operator: state_matrix[i][j]
+  symbol: 🔲
+- codex: SYSTEM 8
+  description: Dual core mirror inversion
+  function: symmetry_inversion
+  id: mirror_form
+  module: Neutrino Mirror Core / Dual-Shell Systems
+  operator: mirror_transform(f(x))
+  symbol: 🪞
+- codex: SYSTEM X
+  description: Closed-loop harmonic system
+  function: stable_routing
+  id: toroid_loop
+  module: Final Harmonic Equation / Quantum Breather Codex
+  operator: ∮ f(x) dx
+  symbol: 🔄
+- codex: SYSTEM Y
+  description: Triangulation of zeta-based harmonics
+  function: deep_resonance_mapping
+  id: zeta_spiral
+  module: Zeta-Antenna Systems / Satellite Symmetry Feedback
+  operator: zeta_loop(θ, r, Δφ)
+  symbol: 🌐

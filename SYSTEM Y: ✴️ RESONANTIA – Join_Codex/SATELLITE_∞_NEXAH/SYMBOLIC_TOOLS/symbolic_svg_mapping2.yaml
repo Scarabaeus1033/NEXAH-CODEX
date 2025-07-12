@@ -1,0 +1,12 @@
+- id: mobius_band
+  function: Phase inversion, resonance loops
+  module: Möbius Harmonic Crown
+  operator: mobius_phase_gate
+- id: spiral_form
+  function: Layered resonance, recursive structuring
+  module: Codex Spirals / Lambda Disc
+  operator: spiral_mod(n, φ, r)
+- id: winged_form
+  function: Directionality, emission control
+  module: Butterfly Grid / Scarab Crown
+  operator: directional_antenna_modulation

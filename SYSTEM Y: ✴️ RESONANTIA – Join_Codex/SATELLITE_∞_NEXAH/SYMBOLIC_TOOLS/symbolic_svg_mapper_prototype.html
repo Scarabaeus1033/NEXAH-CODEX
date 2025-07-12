@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Symbolic SVG Mapper – Prototype</title>
+    <style>
+        svg {
+            width: 100%;
+            max-width: 600px;
+        }
+        .tooltip {
+            position: absolute;
+            background: #222;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            display: none;
+            pointer-events: none;
+            font-family: sans-serif;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h2>🧬 Symbolic SVG Mapper – Interactive Prototype</h2>
+    <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+        <circle id="mobius_band" cx="100" cy="100" r="40" fill="#4a90e2"/>
+        <rect id="winged_form" x="200" y="80" width="60" height="60" fill="#f5a623"/>
+        <polygon id="triskelion" points="150,300 180,250 210,300" fill="#7ed321"/>
+    </svg>
+    <div class="tooltip" id="tooltip"></div>
+
+    <script>
+        const tooltip = document.getElementById('tooltip');
+
+        const symbolData = {
+            mobius_band: "Möbius Band – phase inversion loop",
+            winged_form: "Winged Form – directional emission",
+            triskelion: "Triskelion – spin-vector 3-fold field"
+        };
+
+        document.querySelectorAll('svg [id]').forEach(el => {
+            el.addEventListener('mouseenter', e => {
+                tooltip.textContent = symbolData[el.id] || "Unknown Symbol";
+                tooltip.style.display = 'block';
+            });
+            el.addEventListener('mouseleave', e => {
+                tooltip.style.display = 'none';
+            });
+            el.addEventListener('mousemove', e => {
+                tooltip.style.left = e.pageX + 10 + 'px';
+                tooltip.style.top = e.pageY + 10 + 'px';
+            });
+        });
+    </script>
+</body>
+</html>
