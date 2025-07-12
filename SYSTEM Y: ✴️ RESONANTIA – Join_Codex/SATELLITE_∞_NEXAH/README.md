@@ -1,10 +1,11 @@
 ---
-title: "README – SATELLITE_∞_NEXAH"
-alias: satellite_infinite_nexah_README.md
-module: "SATELLITE_∞_NEXAH"
-codex: "SYSTEM Y · RESONANTIA"
-collaboration: "Scarabæus1031 × Maurizio Togni"
+title: "SATELLITE_∞_NEXAH – Resonant Orbital Architecture & Harmonic Antenna Design"
+alias: README_satellite_nexah.md
+module: SYSTEM Y · RESONANTIA · SATELLITE_∞_NEXAH
+codex: NEXAH-CODEX
+collaboration: Scarabæus1031 × Maurizio Togni
 quote: "You are where you are." – M.T.
+symbolic_number: 64 = 8² = 2⁶ → LOCI-Matrix of Orbital Consciousness
 ---
 
 # 🛰️ SATELLITE_∞_NEXAH
