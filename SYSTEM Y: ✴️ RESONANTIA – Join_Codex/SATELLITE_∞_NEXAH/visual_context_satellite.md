@@ -7,6 +7,7 @@ collaboration: Scarabæus1031 × Maurizio Togni
 quote: "You are where you are." – M.T.
 ---
 
+
 ## I. Satellite Harmonics & The Dual Loop Principle
 
 The GIFs in this section (e.g. `satellite_state_loop.gif`, `radial_energy_loop.gif`, `thermal_loci_loop.gif`) reveal an essential **bipolar pulse structure**. We see an oscillation that is not merely animated, but a **conceptual simulation of thermal–resonant equilibrium**:
