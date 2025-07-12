@@ -18,7 +18,7 @@ A conceptual lunar harvesting bridge linking satellite intake systems with surfa
 **Description:**  
 Annotated matrix overlay diagram visualizing curvature, field segmentation, and 2° axial tilt. Serves to interpret the symbolic and energetic logic embedded within the 8×8 LOCI grid.
 
-![](./visuals/loci_matrix_overlay.png)
+![](./visuals/LOCI_matrix_overlay.png)
 
 ---
 
@@ -27,7 +27,7 @@ Annotated matrix overlay diagram visualizing curvature, field segmentation, and 
 **Description:**  
 2D logic diagram displaying symbolic thermal symmetry across resonance layers. Combines heat-field distribution with geometric flow and feedback fields.
 
-![](./visuals/thermal_gradient_logic.svg)
+![](./visuals/thermal_gradient_logic.png)
 
 ---
 
