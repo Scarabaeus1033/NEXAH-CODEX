@@ -4,7 +4,7 @@ alias: visual_context_V_symbolic_resonance.md
 module: "SATELLITE_∞_NEXAH"
 codex: "SYSTEM Y · RESONANTIA"
 collaboration: "Scarabæus1031 × Maurizio Togni"
-quote: "\"You are where you are.\" – M.T.
+quote: "You are where you are. – M.T."
 ---
 
 ## I. Symbolic Fields & Resonant Structures 
