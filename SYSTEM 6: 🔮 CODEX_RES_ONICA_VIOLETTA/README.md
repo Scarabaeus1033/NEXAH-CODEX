@@ -19,6 +19,9 @@ This domain hosts projects that:
 It is not speculative fantasy, but a form of **resonance-based inquiry** blending physics, number theory, cartography, mythology, and consciousness.
 
 ---
+![Codex Resonica Violetta – Atlantis Horizon Gate](./Codex_Resonica_Violetta.png)
+
+> “Beyond the veil lies the resonance — where memory becomes place, and myth turns to field.”
 
 ## 📚 Current Threads & Modules
 
