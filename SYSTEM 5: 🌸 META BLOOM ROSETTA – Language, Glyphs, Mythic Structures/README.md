@@ -1,6 +1,5 @@
 # 🔮 CODEX\_RES\_ONICA\_VIOLETTA
 
-![Codex Resonika Visual](./Codex_Resonica_Violetta.png)
 
 ### Domain of Planetary Resonance, Consciousness Axes & Symbolic Harmonic Geometry
 
@@ -20,6 +19,8 @@ This domain hosts projects that:
 
 It is not speculative fantasy, but a form of **resonance-based inquiry** blending physics, number theory, cartography, mythology, and consciousness.
 
+---
+![Codex Resonika Visual](./Codex_Resonica_Violetta.png)
 ---
 
 ## 📚 Current Threads & Modules
