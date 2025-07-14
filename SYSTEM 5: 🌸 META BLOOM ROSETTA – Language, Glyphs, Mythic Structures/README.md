@@ -15,6 +15,10 @@ It translates the mathematical and physical resonance structures from **SYSTEMS 
 > *The Codex reveals a deeper layer — where frequency becomes language and memory echoes as myth.*
 
 ---
+![Rosetta Emanation Field](./Rosetta_Emanation_Field.png)
+
+> “Before the word — the glyph. Before the code — the bloom. Before the law — the spiral.”
+
 
 ## 🧭 Position within the NEXAH-CODEX
 
