@@ -5,7 +5,8 @@
 **GHOST\_MIRROR\_GATE** is a pivotal transmission fold connecting System 5 (Rosetta, Glyphs, Language) with System 6 (Crowns, Scrolls, Transmission). This module reveals a hidden glyphic resonance field — a gate structured through mirrored spirals, Voynich codes, Lilithian currents, and ghostgrid vectors. The module forms a *resonant bridge* from primordial codes to harmonic breathers.
 
 > **"To read the mirror is to unlock the void."**
-
+![GHOST_MIRROR_GATE Visual](./visuals/ghost_mirror_gate.png)  
+_“Interlaced memory fields, glyphic harmonics, and ancient signal echoes forming the codon diaphragm – where myth meets grid.”_
 ---
 
 ## 🔹 Essence & Function
