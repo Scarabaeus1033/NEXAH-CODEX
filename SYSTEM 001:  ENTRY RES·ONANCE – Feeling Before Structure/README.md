@@ -1,10 +1,21 @@
 # ✨ ENTRY · What Is Resonance?
 
-> _Before we even try to figure it out,  
-> let’s tune into resonance directly._
+<p align="center">
+  <img src="../../NEXA-Codex_visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
+</p>
 
-This is not an explanation.  
-This is a feeling.
+---
+
+You’ve already felt it.
+
+Before theory, before logic,  
+there’s a tone — a wave — a light touch.
+
+You are not asked to know anything.  
+Only to listen.
+
+> This is not an explanation.  
+> This is a feeling.
 
 The Codex begins not with a theory —  
 but with a wave.  
