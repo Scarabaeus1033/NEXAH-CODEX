@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
 </p>
----
+
+
 # ✨ ENTRY · What Is Resonance?
 
 You’ve already felt it.
