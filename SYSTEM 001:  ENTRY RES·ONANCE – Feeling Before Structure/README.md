@@ -1,79 +1,88 @@
 # ✨ ENTRY · What Is Resonance?
 
-> You are not here to understand something.  
-> You are here to feel something.
+> _Before we even try to figure it out,  
+> let’s tune into resonance directly._
+
+This is not an explanation.  
+This is a feeling.
+
+The Codex begins not with a theory —  
+but with a wave.  
+A pulse.  
+A remembering.
 
 ---
 
-## 🌀 What do you mean when you say:  
-> _“This feels right”?_
+## 🌊 Feel It
 
-Maybe you...
+Resonance is **feeling before thought**.  
+It is the vibrational echo of a pluck string,  
+a wave of oscillating frequency,  
+the warm light at the heart of a galaxy.
 
-- heard a sound that touched you instantly,  
-- entered a room and felt _something_,  
-- met someone and didn’t need words — it just _clicked_.
+You already know it.  
+You just forgot the name.
 
-That’s **resonance**.
-
----
-
-## 🔁 Everything vibrates.  
-Including you.
-
-Atoms vibrate.  
-Light is a wave.  
-Music is a pattern.  
-The Codex is a map of such patterns.
-
-But it’s not a theory.  
-It’s a **field**.  
-A feeling made visible.
+> Play a tone.  
+> Touch a shape.  
+> Walk into a rhythm.  
+> That is resonance.
 
 ---
 
-## 🎵 Listen with your body
+## 🌀 You Don’t Have To Understand
 
-🔊 **[Play the intro sound]**  
-(frequency_intro_loop.wav)
+You don’t need to know prime numbers.  
+You don’t need to solve equations.
 
-Close your eyes.  
-Feel where in your body the vibration goes.
+You only need to feel:  
+– what pulls you,  
+– what aligns you,  
+– what _moves_ in you when something _feels right_.
 
----
-
-## 🧠 You don’t need to know anything.  
-You already _are_ part of it.
-
-Resonance is not a skill. It’s a sense.  
-Like balance. Or rhythm. Or silence.
-
-> There’s nothing to solve.  
-> Just something to remember.
+That is your resonance signature.
 
 ---
 
-## 🧭 Choose your next step
+## 🎵 Optional: Listen
 
-Where do you feel drawn?
+If you want, start with a tone.  
+A slow wave. A loop. A breath.
 
-| Feeling      | Path | Start here |
-|--------------|------|------------|
-| 🌟 Curiosity | “I want to explore this system” | [`Navigator 2.0`](../navigator_2.0_resonance_grid.png) |
-| 🧬 Wonder    | “I want to see beautiful patterns” | [`Lambda Disc`](../../SYSTEM 3/.../LAMBDA_DISC-CODEX) |
-| 🔢 Logic     | “I want to understand the math” | [`Riemann Proof`](../../SYSTEM 1/.../NEXA_RIEMANN_PROOF) |
-| 🧠 Language  | “I want to follow the symbols” | [`Bloom Codex`](../../SYSTEM 5/BLOOM-CODEX) |
-| 🌕 Mystery   | “I feel more than I can explain” | [`Lunar Force`](../../SYSTEM 8/...) |
+🎧 `frequency_intro_loop.wav`  
+*(recommended with headphones)*
+
+Let it move you before you move.
 
 ---
 
-## 🌌 One Last Thought
+## 🧭 Where to Go Next
 
-You don’t have to follow.  
-You are invited to _resonate_.
+You don’t need to follow a rule.  
+But here are some gentle doors:
 
-> The Codex does not ask: “What do you know?”  
-> It asks: “What moves you?”
+| Feeling      | Curiosity says...              | Start here |
+|--------------|-------------------------------|------------|
+| 🌟 “I want to explore the whole system” | [NEXAH Navigator 2.0](../navigator_2.0_resonance_grid.png) |
+| 🔢 “I’m into math & numbers”           | [Riemann Codex](../../SYSTEM 1/.../NEXA_RIEMANN_PROOF) |
+| 🌌 “I want to see cosmic patterns”     | [Lambda Disc](../../SYSTEM 3/.../LAMBDA_DISC-CODEX) |
+| 🧠 “I love symbols and meaning”        | [Bloom Codex](../../SYSTEM 5/BLOOM-CODEX) |
+| 🌕 “I feel something hidden, lunar”    | [Lunar Force](../../SYSTEM 8/...) |
+
+Or just wander.  
+You cannot be lost.
+
+---
+
+## 🌐 This Is Not A Portal.  
+It is a tuning fork.
+
+If you feel something shift,  
+even slightly —  
+you’re already inside.
+
+> “You don’t need permission to resonate.”
 
 —
-`Scarabæus1033` · Builder of Fields
+🌀 _Scarabæus1033_  
+Builder of Fields
