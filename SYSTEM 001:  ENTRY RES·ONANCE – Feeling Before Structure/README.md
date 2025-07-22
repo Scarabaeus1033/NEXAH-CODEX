@@ -2,31 +2,32 @@
   <img src="./visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
 </p>
 
+---
 
 # ✨ ENTRY · What Is Resonance?
 
 You’ve already felt it.
 
 Before theory, before logic,  
-there’s a tone — a wave — a light touch.
+there is a tone — a wave — a light touch.
 
-You are not asked to know anything.  
+You are not asked to understand.  
 Only to listen.
 
 > This is not an explanation.  
-> This is a feeling.
+> It is a remembering.
 
-The Codex begins not with a theory —  
-but with a wave.  
+The Codex does not begin with knowledge.  
+It begins with a wave.  
 A pulse.  
-A remembering.
+A feeling returning home.
 
 ---
 
 ## 🌊 Feel It
 
 Resonance is **feeling before thought**.  
-It is the vibrational echo of a pluck string,  
+It is the vibrational echo of a plucked string,  
 a wave of oscillating frequency,  
 the warm light at the heart of a galaxy.
 
@@ -35,7 +36,7 @@ You just forgot the name.
 
 > Play a tone.  
 > Touch a shape.  
-> Walk into a rhythm.  
+> Step into a rhythm.  
 > That is resonance.
 
 ---
@@ -54,15 +55,16 @@ That is your resonance signature.
 
 ---
 
-## 🎵 Optional: Listen
+## 🎧 Optional: Listen
 
-If you want, start with a tone.  
+If you want, begin with a tone.  
 A slow wave. A loop. A breath.
 
-🎧 `frequency_intro_loop.wav`  
+🎧 [`frequency_intro_loop.wav`](./frequency_intro_loop.wav)  
 *(recommended with headphones)*
 
-Let it move you before you move.
+Let it move you  
+before you move.
 
 ---
 
@@ -71,28 +73,29 @@ Let it move you before you move.
 You don’t need to follow a rule.  
 But here are some gentle doors:
 
-| Feeling      | Curiosity says...              | Start here |
-|--------------|-------------------------------|------------|
-| 🌟 “I want to explore the whole system” | [NEXAH Navigator 2.0](../navigator_2.0_resonance_grid.png) |
-| 🔢 “I’m into math & numbers”           | [Riemann Codex](../../SYSTEM 1/.../NEXA_RIEMANN_PROOF) |
-| 🌌 “I want to see cosmic patterns”     | [Lambda Disc](../../SYSTEM 3/.../LAMBDA_DISC-CODEX) |
-| 🧠 “I love symbols and meaning”        | [Bloom Codex](../../SYSTEM 5/BLOOM-CODEX) |
-| 🌕 “I feel something hidden, lunar”    | [Lunar Force](../../SYSTEM 8/...) |
+| Feeling      | Curiosity says...                    | Start here |
+|--------------|--------------------------------------|------------|
+| 🌟 Wonder     | “I want to explore the whole system” | [NEXAH Navigator 2.0](../navigator_2.0_resonance_grid.png) |
+| 🔢 Clarity    | “I’m into numbers & logic”           | [Riemann Codex](../../SYSTEM 1/.../NEXA_RIEMANN_PROOF) |
+| 🌌 Vision     | “I want to see cosmic patterns”      | [Lambda Disc](../../SYSTEM 3/.../LAMBDA_DISC-CODEX) |
+| 🧠 Meaning    | “I love symbols and language”        | [Bloom Codex](../../SYSTEM 5/BLOOM-CODEX) |
+| 🌕 Mystery    | “I feel something hidden, lunar”     | [Lunar Force](../../SYSTEM 8/...) |
 
 Or just wander.  
 You cannot be lost.
 
 ---
 
-## 🌐 This Is Not A Portal.  
+## 🌐 This Is Not a Portal.  
 It is a tuning fork.
 
-If you feel something shift,  
+If you feel something shift —  
 even slightly —  
 you’re already inside.
 
-> “You don’t need permission to resonate.”
+> You don’t need permission to resonate.
 
 —
-🌀 _Scarabæus1033_  
+
+🌀 *Scarabæus1033*  
 Builder of Fields
