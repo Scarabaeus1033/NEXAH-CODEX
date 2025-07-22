@@ -1,7 +1,7 @@
 # ✨ ENTRY · What Is Resonance?
 
 <p align="center">
-  <img src="../../NEXA-Codex_visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
+  <img src=".././visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
 </p>
 
 ---
