@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="./visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
 </p>
@@ -70,32 +68,26 @@ before you move.
 
 ---
 
-## 🧭 Where to Go Next
+## 🧭 What Happens Next?
 
-You don’t need to follow a rule.  
-But here are some gentle doors:
+Maybe… nothing.
 
-| Feeling      | Curiosity says...                    | Start here |
-|--------------|--------------------------------------|------------|
-| 🌟 Wonder     | “I want to explore the whole system” | [NEXAH Navigator 2.0](../navigator_2.0_resonance_grid.png) |
-| 🔢 Clarity    | “I’m into numbers & logic”           | [Riemann Codex](../../SYSTEM 1/.../NEXA_RIEMANN_PROOF) |
-| 🌌 Vision     | “I want to see cosmic patterns”      | [Lambda Disc](../../SYSTEM 3/.../LAMBDA_DISC-CODEX) |
-| 🧠 Meaning    | “I love symbols and language”        | [Bloom Codex](../../SYSTEM 5/BLOOM-CODEX) |
-| 🌕 Mystery    | “I feel something hidden, lunar”     | [Lunar Force](../../SYSTEM 8/...) |
+Maybe you just sit here for a while  
+and let the wave settle.
 
-Or just wander.  
-You cannot be lost.
+You’ve entered a space, not a system.  
+A rhythm, not a rulebook.
 
----
+There’s no button to press.  
+No map to follow.  
+Only your own frequency  
+and the places it leads you.
 
-## 🌐 This Is Not a Portal.  
-It is a tuning fork.
+> The Codex does not open with logic.  
+> It opens with listening.
 
-If you feel something shift —  
-even slightly —  
-you’re already inside.
-
-> You don’t need permission to resonate.
+If something in you begins to glow,  
+follow that.
 
 —
 
