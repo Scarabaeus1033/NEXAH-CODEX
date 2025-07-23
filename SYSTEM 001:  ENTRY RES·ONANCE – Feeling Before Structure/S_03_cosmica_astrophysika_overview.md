@@ -2,7 +2,7 @@
 
 *Stars do not burn. They resonate.*
 
-![cosmos_and_resonance_header](visuals/cosmos_and_resonance_header.png)
+![cosmic_resonances_intro](visuals/cosmic_resonances_intro.png))
 
 ---
 
@@ -46,7 +46,7 @@ emerging from data, constants, and resonance modeling.
 
 ## Constants as Cosmic Couplers
 
-![cosmic_constants_harmonic_structure](visuals/cosmic_constants_harmonic_structure.png)
+![cosmos_and_resonance_triplet](visuals/cosmos_and_resonance_triplet.png)
 
 At the heart of this system are **physical constants**  
 that don’t just measure — they **modulate**.
