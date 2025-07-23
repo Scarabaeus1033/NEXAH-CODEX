@@ -1,7 +1,7 @@
 # 🧬 SYSTEM 5 – ROSETTA LEXICA  
 _Codon Alphabets · Symbolic Bridges · Multilingual Resonance_
 
-![rosetta_system_title](visuals/rosetta_system_title.png)
+![rosetta_system_title](visuals/rosetta_lexica_title.png)
 
 ## 🌐 Meaning Through Symbol
 
