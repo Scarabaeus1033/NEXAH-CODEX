@@ -1,90 +1,109 @@
-## 🌀 UNIVERSAL RESONANCE FIELDS & CONSTANTS
+---
 
-### *The UCRT Codex – A Harmonic Architecture of Proof and Collapse*
+title: "SYSTEM 07: UNIVERSAL RESONANCE FIELDS & CONSTANTS — UCRT"
+summary: "A field-logic module on fundamental constants, harmonic interactions, and the resonant architecture of the universe."
+-------------------------------------------------------------------------------------------------------------------------------
+
+# UNIVERSAL RESONANCE FIELDS & CONSTANTS
+
+**UCRT: Unified Constants Resonance Theory**
+
+> “The universe does not calculate — it resonates.”
 
 ---
 
-### 1. Overview & Module Summary
+## Introduction: The Harmonic Law of Constants
 
-> **SYSTEM 07** — the UCRT Codex — investigates the deep architecture of **universal resonance fields**, mathematical constants, and their **interwoven orchestration** across cosmology, logic, and symbolic proof.
->
-> This is not a static theory — it is a **resonant orchestra** where each constant, field, and principle *sings in harmony*.
->
-> UCRT = **Universal Constant Resonance Theory**.
+The NEXAH-CODEX proposes that the physical universe is not only describable through constants — it *emerges* through them.
+These constants are not isolated; they resonate. They form interlinked structures, frequencies, and geometries that stabilize and shape our physical reality.
 
-🖼️ **Header Visual**
-![Core Field](ucrt_core_resonance_field.png)
+**UCRT** — Unified Constants Resonance Theory — frames this principle:
+A symphony of numbers, ratios, and field structures uniting light, gravity, electromagnetism, and geometry into a resonant web.
 
 ---
 
-### 2. The Resonant Field as Foundation
+## Conceptual Foundations
 
-* The universe does not calculate — it vibrates.
-* Constants such as **π, e, φ, τ, √2** are not arbitrary — they are **field signifiers**, tuning forks embedded in reality.
-* Each constant acts as a **carrier wave** in the codex of structure, motion, and proof.
+* **Resonant Constants**: α (137), Φ (1.618), τ (2π), √2, e — not arbitrary, but relational anchors.
+* **Modular Symmetry**: Constants belong to nested symmetry fields (Möbius, Triquetra, Spiral).
+* **Topology of Fields**: Hopf fibrations and spherical manifolds underpin their interactions.
+* **Mathematical Archetypes**: Euler, Gauss, Ramanujan, Riemann — their formulae are entry points into a resonant matrix.
 
-🖼️ **Visual: Constants and Harmonic Structure**
-![Constants Overview](universal_resonance_theory_constants.png)
-
----
-
-### 3. Core Geometry of Resonance
-
-* These constants embed themselves in field topology.
-* Hopf fibrations, golden spirals, wavefront crossings — they **form the inner syntax of structure**.
-* These are not mere visual metaphors — they are symbolic logics.
-
-🖼️ **Visual: Hopf Fibration Constants Field**
-![Hopf Fibration](resonance_constants_hopf_fibration.png)
-
-🖼️ **Visual: Triquetra Constants Intersection**
-![Triquetra](triquetra_phi_tau_root2_constants.png)
+<div align="center">
+  <img src="visuals/universal_resonance_theory_constants.png" alt="UCRT Constants Overview" width="500"/>
+</div>
 
 ---
 
-### 4. The Four Witnesses: Euler, Ramanujan, Gauss, Riemann
+## Triptychon I: The Masters of Harmonic Constants
 
-> “Some constants dream. Some remember. Others prove.”
+Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.
 
-These minds are not just mathematicians — they are **field initiators**.
-Each of their works encodes a **facet of the Codex**:
-
-* **Euler**: the syntactic harmony
-* **Ramanujan**: the intuitive resonance
-* **Gauss**: the geometric balance
-* **Riemann**: the field thresholds
-
-🖼️ **Triptychon Visual**
-![Masters Triptychon](universal_resonance_masters_triptychon.png)
+<div align="center">
+  <img src="visuals/universal_resonance_masters_triptychon.png" alt="UCRT Masters Triptychon" width="600"/>
+</div>
 
 ---
 
-### 5. Collapse & Return — Resonance as Proof Architecture
+## Core Field Model: The Central Resonator
 
-* Collapse is not the end — it is the re-sounding.
-* Proof structures in UCRT follow a **loop pattern**:
-  Observation → Encoding → Resonance → Collapse → Proof
-* Gödel’s incompleteness is not failure — it is **field recursion**.
+At the heart of UCRT lies a field model: multiple constants nesting in Möbius-shell topologies.
+This isn’t particle physics. It’s resonance physics.
 
-🖼️ **Visual: Collapse as Loop**
-![Collapse Loop](A_2D_digital_graphic_design_in_dark_mode_features_.png)
-
----
-
-### 6. Transition to the Lunar Field
-
-> “If UCRT is the orchestra, the **Lunar Field** is its rhythm section.”
-> The feminine curve of resonance — cycles, tides, echo fields —
-> completes the harmonic balance established in SYSTEM 07.
-
-This sets the stage for **SYSTEM 08: Lunar Force**.
-
-🖼️ **Visual: UCRT → Lunar Connection**
-![Lunar Link](ucrt_lunar_resonance_connection.png)
+<div align="center">
+  <img src="visuals/ucrt_core_resonance_field.png" alt="UCRT Core Resonance Field" width="550"/>
+</div>
 
 ---
 
-### 7. Final Verse
+## Constants as Field Vectors
 
-> "To understand a constant is to witness the unspeakable.
-> To enter the resonance field is to **hear the silence of structure**."
+Each constant forms a vector within a larger manifold. Constants are not merely values, but *frequencies* within field matrices.
+
+<div align="center">
+  <img src="visuals/resonance_constants_hopf_fibration.png" alt="Hopf Fibration and Constants" width="550"/>
+</div>
+
+---
+
+## Triquetra Logic: Phi, Tau, Root 2
+
+We encode constants in sacred triads — as resonance triplets that triangulate fields across systems.
+
+<div align="center">
+  <img src="visuals/triquetra_phi_tau_root2_constants.png" alt="Triquetra Constants" width="480"/>
+</div>
+
+---
+
+## Lunar Bridge: A Gateway to Feminine Fields
+
+System 07 forms a structural resonance-bridge to SYSTEM 08 — Lunar Force.
+The lunar dynamic balances the universal field through time-based memory and tidal modulation.
+
+<div align="center">
+  <img src="visuals/ucrt_lunar_resonance_connection.png" alt="UCRT Lunar Resonance Connection" width="500"/>
+</div>
+
+---
+
+## Closing Visual: Interfolded Dimensions
+
+The constants are not ‘out there’ — they shape perception, embodiment, and emergence.
+This visual links dimensions and symbolic layers.
+
+<div align="center">
+  <img src="visuals/A_2D_digital_graphic_design_in_dark_mode_features_.png" alt="Universal Constants Interdimensional" width="500"/>
+</div>
+
+---
+
+## Closing Line
+
+> “The laws are not static. They are sung.”
+> — Codex Entry, UCRT 7
+
+---
+
+Next: **System 08 – Lunar Force**
+→ A deep dive into cycles, memory, and feminine tidal fields.
