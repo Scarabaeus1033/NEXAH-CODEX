@@ -2,7 +2,7 @@
 
 *Fields breathe through invisible threads of resonance.*
 
-![system02\_intro\_visual](system02_intro_visual.png)
+.\visual](system02_intro_visual.png)
 
 ---
 
