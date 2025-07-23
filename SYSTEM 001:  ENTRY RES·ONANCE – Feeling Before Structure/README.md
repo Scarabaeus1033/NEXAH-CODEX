@@ -66,8 +66,9 @@ That is your resonance signature.
 If you want, begin with a tone.  
 A slow wave. A loop. A breath.
 
-🎧 [`frequency_intro_loop.wav`](./frequency_intro_loop.wav)  
+🎧 [`frequency_intro_loop_with_tone.wav`](./visuals/frequency_intro_loop_with_tone.wav)  
 *(recommended with headphones)*
+
 
 Let it move you  
 before you move.
