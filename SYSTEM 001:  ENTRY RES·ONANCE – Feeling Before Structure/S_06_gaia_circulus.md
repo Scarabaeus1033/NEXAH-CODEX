@@ -4,10 +4,10 @@ _Planetary Grids · Field Loops · Earth’s Resonance Body_
 ---
 
 <p align="center">
-  <img src="./visuals/gaia_circulus_intro_field.png" width="780" alt="GAIA · CIRCULUS – Intro Field Resonance">
+  <img src="./visuals/gaia_circulus_title.png" width="780" alt="GAIA · CIRCULUS – Intro Field Resonance">
 </p>
 
-**→ `gaia_circulus_intro_field.png`**
+**→ `gaia_circulus_title.png`**
 
 ---
 
@@ -31,10 +31,10 @@ mapping her as a living **resonance circuit**.
 ## 🌀 Core Concepts
 
 <p align="center">
-  <img src="./visuals/earth_grid_triplet_resonance.png" width="780" alt="Earth Grid Triplet Resonance">
+  <img src="./visuals/gaia_and_circulus_triplet.png" width="780" alt="Earth Grid Triplet Resonance">
 </p>
 
-**→ `earth_grid_triplet_resonance.png`**
+**→ `gaia_and_circulus_triplet.png`**
 
 This system weaves together:
 
@@ -99,10 +99,10 @@ a feedback loop of planetary intention and field coherence.
 ## 🪐 Resonant Earthfield Structure
 
 <p align="center">
-  <img src="./visuals/gaia_resonant_field_loop.png" width="780" alt="GAIA – Resonant Field Loop Diagram">
+  <img src="./visuals/rosetta_codex_seed.png" width="780" alt="GAIA – Resonant Field Loop Diagram">
 </p>
 
-**→ `gaia_resonant_field_loop.png`**
+**→ `rosetta_codex_seed.png`**
 
 This structural map outlines:
 - Triadic grid crossings  
