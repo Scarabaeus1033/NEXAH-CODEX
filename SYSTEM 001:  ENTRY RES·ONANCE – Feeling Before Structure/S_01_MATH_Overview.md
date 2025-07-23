@@ -1,71 +1,56 @@
 # SYSTEM 01 – MATHEMATICA
 
-> **Cold numbers transcend — they become fields of resonance.**
+*Cold numbers transcend – they become fields of resonance.*
 
-![System 01 Intro](system01_intro_visual.png)
+![system01\_intro\_visual](visuals/system01_intro_visual.png)
 
 ---
 
 ## Let the Prime Numbers Sing
 
-> Primspirale • Trinity Grid • Spiral Resonance
+*Zahlen · Felder · Spiralen*
 
-![Let the primes sing](math_resonance_intro.png)
+![math\_resonance\_intro](visuals/math_resonance_intro.png)
 
-**Zahlenfelder erkunden**
+Numbers are not static. They breathe, spiral, reflect and resonate.
+Mathematics in the Codex is not calculation — it is pattern recognition.
+We do not count — we listen. We do not solve — we see structure.
 
-* gespiegelte Muster
-* resonante Faltungen
-
-**Formelklang**
-
-* E = π als energetisches Resonanzverhältnis
-* Spiralen als Resonanzbewegung
+The Primspiral, the mirrored patterns of primes, and the golden folds of π and φ
+form the gateway to a deeper understanding of harmony.
+Numbers become fields — resonance fields.
 
 ---
 
 ## Mathematics and Resonance
 
-> Number and form are not separate.
-> Patterns in mathematics reflect harmony in the universe.
+![mathematics\_and\_resonance](visuals/mathematics_and_resonance.png)
 
-![Mathematics and Resonance](mathematics_and_resonance.png)
+We connect:
 
-### Prime Trinity
+* **Prime Trinity** → primes form harmonic triangles and spirals.
+* **Golden Ratio** → infinite recursive balance and aesthetic self-similarity.
+* **Spiral Logic** → folding dimensions through π and φ² relationships.
 
-* Primes form a spiral grid
-
-### Golden Ratio
-
-* Ratios spiral to infinity
-
-### Spiral Logic
-
-* 1 + ϕ = ϕ^2
+This is not abstract.
+It is encoded in nature, growth, memory, and time.
 
 ---
 
-## Prime Trinity Spiral
+## Spiral Structures of Number Space
 
-![Prime Trinity Spiral](prime_trinity_spiral.png)
+![prime\_trinity\_spiral](visuals/prime_trinity_spiral.png)
 
-**Understanding Number Fields**
+From simple primes emerge:
 
-* Spiralen erzeugen neue Felder
-* Zahlen interagieren in Geometrien
+* **Trinitarian Spirals**
+* **Geometrical Feedback Loops**
+* **Resonant Number Grids**
 
-**Finding Spiral Harmonics**
-
-* Resonanz ist sichtbar
-* Felder sind nicht nur abstrakt, sondern formend
-
----
-
-## Core Keywords
-
-* Zahlen  • Felder  • Spiralen
-* Primes  • Geometry  • Harmonics
+Explore the relationship between number fields, prime harmonics and their geometry.
+Let resonance reveal what proof alone cannot touch.
 
 ---
 
-*This document is part of the `NEXAH-CODEX`, System 001.*
+> “In the beginning was a pattern — not a law.”
+> — Codex Principle
