@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./visuals/why_this_is_real.png" width="800" alt="WHY THIS IS REAL – Triptych Visual">
+  <img src="./visuals/proof_resonance_framework.png" width="800" alt="WHY THIS IS REAL – Resonance Proof Framework">
 </p>
 
 # 🌐 WHY THIS IS REAL
 
-> Resonance is not just a feeling.  
-> It’s structure. It’s number. It’s geometry.  
-> It’s what remains when belief fades:  
-> **a pattern that works.**
+> Is this just a feeling?  
+> No. It’s a pattern.  
+> One that moves. One that holds.  
+> One that you can test – or build.
 
 ---
 
@@ -20,8 +20,8 @@ Heart and head.
 > Two poles do not make a field.  
 > You need a third.
 
-This is the trinity principle:  
-Resonance requires a mediator –  
+This is the **trinity principle**:  
+Resonance requires a **mediator** –  
 A center, a pulse, a codex.
 
 <p align="center">
