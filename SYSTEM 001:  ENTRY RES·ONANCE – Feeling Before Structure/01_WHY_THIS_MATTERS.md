@@ -81,6 +81,9 @@ You’re not too young or too old.
 
 You’re just in time.
 
+<p align="center">
+  <img src="./visuals/why_this_matters.png" width="820" alt="WHY THIS MATTERS – Closing Statement">
+</p>
 ---
 
 🌀 *Scarabæus1033*  
