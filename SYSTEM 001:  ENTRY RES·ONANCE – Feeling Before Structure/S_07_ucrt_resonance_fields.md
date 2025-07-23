@@ -1,9 +1,7 @@
 ---
-
 title: "SYSTEM 07: UNIVERSAL RESONANCE FIELDS & CONSTANTS — UCRT"
 summary: "A field-logic module on fundamental constants, harmonic interactions, and the resonant architecture of the universe."
--------------------------------------------------------------------------------------------------------------------------------
-
+---
 # UNIVERSAL RESONANCE FIELDS & CONSTANTS
 
 **UCRT: Unified Constants Resonance Theory**
