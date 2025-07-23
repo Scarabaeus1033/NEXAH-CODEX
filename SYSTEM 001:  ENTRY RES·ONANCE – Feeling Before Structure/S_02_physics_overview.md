@@ -1,13 +1,6 @@
 ![system02\_intro\_visual](./visuals/system02_intro_visual.png)
 
 ---
-
-## Resonant Physics
-
-*From constants to fields, from laws to patterns.*
-
-![system02\_intro\_layout](./visuals/system02_intro_layout.png)
-
 Physics in the Codex is not a set of frozen equations.
 It is a **living structure** — a breathing, pulsating geometry of motion, field, and feedback.
 
@@ -19,6 +12,12 @@ The physical world becomes a **symphony of resonant systems**.
 And physics returns to its origin: **physis** — the unfolding of nature.
 
 ---
+
+## Resonant Physics
+
+*From constants to fields, from laws to patterns.*
+
+![system02\_intro\_layout](./visuals/system02_intro_layout.png)
 
 ## The Final Harmonic Equation
 
