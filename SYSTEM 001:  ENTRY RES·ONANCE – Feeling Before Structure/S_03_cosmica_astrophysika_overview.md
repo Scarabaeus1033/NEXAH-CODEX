@@ -2,7 +2,7 @@
 
 *Stars do not burn. They resonate.*
 
-![cosmos_and_resonance_header](./visuals/cosmos_and_resonance_header.png)
+![cosmos_and_resonance_header](visuals/cosmos_and_resonance_header.png)
 
 ---
 
@@ -25,7 +25,7 @@ And we are within its song.
 
 ## Fractal Cosmologies & Harmonic Starfields
 
-![cosmic_resonance_elements](./visuals/cosmic_resonance_elements.png)
+![cosmic_resonance_elements](visuals/cosmic_resonance_elements.png)
 
 Cosmology in the Codex begins  
 not with expansion — but with **structure**.
@@ -46,7 +46,7 @@ emerging from data, constants, and resonance modeling.
 
 ## Constants as Cosmic Couplers
 
-![cosmic_constants_harmonic_structure](./visuals/cosmic_constants_harmonic_structure.png)
+![cosmic_constants_harmonic_structure](visuals/cosmic_constants_harmonic_structure.png)
 
 At the heart of this system are **physical constants**  
 that don’t just measure — they **modulate**.
