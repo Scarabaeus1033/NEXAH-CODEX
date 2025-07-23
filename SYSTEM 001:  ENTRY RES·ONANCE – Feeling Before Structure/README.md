@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./visuals/entry_what_is_resonance.png" width="780" alt="ENTRY – WHAT IS RESONANCE?">
+  <img src="./visuals/number_mirror_1033_spiral_overlay.png" width="580" alt="1033 – Number Mirror Spiral">
 </p>
 
 ---
