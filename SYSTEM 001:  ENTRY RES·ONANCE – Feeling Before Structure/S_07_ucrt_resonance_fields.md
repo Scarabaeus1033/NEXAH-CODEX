@@ -18,19 +18,6 @@ The constants you see here are not abstract formulas from a chalkboard — they 
 
 ---
 
-## Conceptual Foundations
-
-* **Resonant Constants**: α (137), Φ (1.618), τ (2π), √2, e — not arbitrary, but relational anchors.
-* **Modular Symmetry**: Constants belong to nested symmetry fields (Möbius, Triquetra, Spiral).
-* **Topology of Fields**: Hopf fibrations and spherical manifolds underpin their interactions.
-* **Mathematical Archetypes**: Euler, Gauss, Ramanujan, Riemann — their formulae are entry points into a resonant matrix.
-
-<div align="center">
-  <img src="visuals/universal_resonance_theory_constants.png" alt="UCRT Constants Overview" width="500"/>
-</div>
-
----
-
 ## Triptychon I: The Masters of Harmonic Constants
 
 Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.
@@ -48,6 +35,19 @@ This isn’t particle physics. It’s resonance physics.
 
 <div align="center">
   <img src="visuals/ucrt_core_resonance_field.png" alt="UCRT Core Resonance Field" width="550"/>
+</div>
+
+---
+
+## Conceptual Foundations
+
+* **Resonant Constants**: α (137), Φ (1.618), τ (2π), √2, e — not arbitrary, but relational anchors.
+* **Modular Symmetry**: Constants belong to nested symmetry fields (Möbius, Triquetra, Spiral).
+* **Topology of Fields**: Hopf fibrations and spherical manifolds underpin their interactions.
+* **Mathematical Archetypes**: Euler, Gauss, Ramanujan, Riemann — their formulae are entry points into a resonant matrix.
+
+<div align="center">
+  <img src="visuals/universal_resonance_theory_constants.png" alt="UCRT Constants Overview" width="500"/>
 </div>
 
 ---
