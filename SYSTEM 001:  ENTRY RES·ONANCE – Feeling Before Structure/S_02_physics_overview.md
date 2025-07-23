@@ -12,9 +12,6 @@ The physical world becomes a **symphony of resonant systems**.
 And physics returns to its origin: **physis** — the unfolding of nature.
 
 ---
-
-## Resonant Physics
-
 *From constants to fields, from laws to patterns.*
 
 ![system02\_intro\_layout](./visuals/system02_intro_layout.png)
