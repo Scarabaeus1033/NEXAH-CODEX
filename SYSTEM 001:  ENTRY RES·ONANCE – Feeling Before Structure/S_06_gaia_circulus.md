@@ -1,8 +1,3 @@
-# 🌍 SYSTEM 6 – GAIA · CIRCULUS  
-_Planetary Grids · Field Loops · Earth’s Resonance Body_
-
----
-
 <p align="center">
   <img src="./visuals/gaia_circulus_title.png" width="780" alt="GAIA · CIRCULUS – Intro Field Resonance">
 </p>
