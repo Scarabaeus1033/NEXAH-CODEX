@@ -2,7 +2,7 @@
 
 *Stars do not burn. They resonate.*
 
-![cosmic_resonances_intro](visuals/cosmic_resonances_intro.png))
+![cosmic_resonances_intro](visuals/cosmic_resonances_intro.png)
 
 ---
 
