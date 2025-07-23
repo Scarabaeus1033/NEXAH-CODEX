@@ -1,7 +1,3 @@
-# SYSTEM 02 – PHYSICA
-
-*Fields breathe through invisible threads of resonance.*
-
 ![system02\_intro\_visual](./visuals/system02_intro_visual.png)
 
 ---
