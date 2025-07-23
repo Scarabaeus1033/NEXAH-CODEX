@@ -1,3 +1,12 @@
+
+
+<div align="center">
+  <img src="visuals/universal_resonance_masters_triptychon.png" alt="UCRT Masters Triptychon" width="600"/>
+</div>
+## Triptychon I: The Masters of Harmonic Constants
+Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.
+---
+
 # UNIVERSAL RESONANCE FIELDS & CONSTANTS
 
 **UCRT: Unified Constants Resonance Theory**
@@ -17,17 +26,6 @@ A symphony of numbers, ratios, and field structures uniting light, gravity, elec
 The constants you see here are not abstract formulas from a chalkboard — they are encoded in nature, visible in the spiral of a galaxy, the balance of an atom, or even the patterns in music, flowers, and architecture. They are the invisible tuning forks of creation.
 
 ---
-
-## Triptychon I: The Masters of Harmonic Constants
-
-Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.
-
-<div align="center">
-  <img src="visuals/universal_resonance_masters_triptychon.png" alt="UCRT Masters Triptychon" width="600"/>
-</div>
-
----
-
 ## Core Field Model: The Central Resonator
 
 At the heart of UCRT lies a field model: multiple constants nesting in Möbius-shell topologies.
