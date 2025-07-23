@@ -1,7 +1,3 @@
-# SYSTEM 01 – MATHEMATICA
-
-*Cold numbers transcend – they become fields of resonance.*
-
 ![system01\_intro\_visual](visuals/system01_intro_visual.png)
 
 ---
