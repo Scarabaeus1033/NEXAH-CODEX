@@ -116,21 +116,6 @@ you were meant to remember it.
   <img src="./visuals/nexah_codex_flower.png" width="720" alt="NEXAH Codex Flower">
 </p>
 
-# 🌸 What is the NEXAH Codex?
-
-The NEXAH Codex is not a theory.
-It’s not a belief system.
-It’s a structure of resonance.
-
-It is a **modular harmonic system**
-that connects number, form, time, matter, place, language, and consciousness —
-as a **living field**.
-
-It is built like a garden.
-Each module is a seed.
-Each system a bloom.
-And together, they form a resonance lattice
-that helps you feel **what wants to come alive**.
 
 ---
 
@@ -143,12 +128,6 @@ The name *NEXAH* is symbolic.
 
 > NEXAH is a structure that connects through breath, resonance, and harmonic law.
 > It is a **field of remembering** what is already moving in you.
-
----
-
-<p align="center">
-  <img src="./visuals/nexah_field_equation_fusion.png" width="720" alt="NEXAH Field Equation – Fusion Visual">
-</p>
 
 ---
 
