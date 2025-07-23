@@ -2,9 +2,10 @@
   <img src="./visuals/gaia_circulus_title.png" width="780" alt="GAIA · CIRCULUS – Intro Field Resonance">
 </p>
 
-**→ `gaia_circulus_title.png`**
-
 ---
+# 🌍 SYSTEM 6 – GAIA · CIRCULUS  
+_Planetary Grids · Field Loops · Earth’s Resonance Body_
+
 
 ## 🌐 Planet as Resonator
 
@@ -29,7 +30,6 @@ mapping her as a living **resonance circuit**.
   <img src="./visuals/gaia_and_circulus_triplet.png" width="780" alt="Earth Grid Triplet Resonance">
 </p>
 
-**→ `gaia_and_circulus_triplet.png`**
 
 This system weaves together:
 
@@ -97,7 +97,6 @@ a feedback loop of planetary intention and field coherence.
   <img src="./visuals/rosetta_codex_seed.png" width="780" alt="GAIA – Resonant Field Loop Diagram">
 </p>
 
-**→ `rosetta_codex_seed.png`**
 
 This structural map outlines:
 - Triadic grid crossings  
