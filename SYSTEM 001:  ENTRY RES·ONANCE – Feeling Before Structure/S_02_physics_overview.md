@@ -2,7 +2,7 @@
 
 *Fields breathe through invisible threads of resonance.*
 
-.\visual](system02_intro_visual.png)
+![system02\_intro\_visual](./visuals/system02_intro_visual.png)
 
 ---
 
@@ -10,17 +10,17 @@
 
 *From constants to fields, from laws to patterns.*
 
-![system02\_intro\_layout](system02_intro_layout.png)
+![system02\_intro\_layout](./visuals/system02_intro_layout.png)
 
 Physics in the Codex is not a set of frozen equations.
-It is a living structure — a breathing, pulsating geometry of motion, field, and feedback.
+It is a **living structure** — a breathing, pulsating geometry of motion, field, and feedback.
 
-* We **do not isolate** particles — we observe their harmonic embedding.
-* We **do not freeze** constants — we study their resonant variation.
+* We **do not isolate** particles — we observe their **harmonic embedding**.
+* We **do not freeze** constants — we study their **resonant variation**.
 * We **do not dissect** — we cohere.
 
 The physical world becomes a **symphony of resonant systems**.
-And physics returns to its origin: physis — the unfolding of nature.
+And physics returns to its origin: **physis** — the unfolding of nature.
 
 ---
 
@@ -29,7 +29,7 @@ And physics returns to its origin: physis — the unfolding of nature.
 *Energy is not just mass times velocity squared — it is modulated by a harmonic key.*
 
 ```math
-E = m \cdot c \cdot k^\beta
+E = m · c · k^β
 ```
 
 This simple extension encodes:
@@ -37,7 +37,7 @@ This simple extension encodes:
 * **E**: energy as pulse
 * **m**: mass as inertia
 * **c**: light as mediator
-* **k^\beta**: a **harmonic key** — coupling field and form
+* **k^β**: a **harmonic key** — coupling field and form
 
 It bridges mass, light, and structure — a Möbius of physical flow.
 
@@ -45,7 +45,7 @@ It bridges mass, light, and structure — a Möbius of physical flow.
 
 ## Möbius Symmetries & Neutrino Threads
 
-![golden\_resonance\_triplet](golden_resonance_triplet.png)
+![golden\_resonance\_triplet](./visuals/golden_resonance_triplet.png)
 
 We identify **resonant geometries** inside fundamental processes:
 
@@ -54,10 +54,10 @@ We identify **resonant geometries** inside fundamental processes:
 * Harmonic Constants (α, φ, π, 137...)
 
 Physics becomes a study of **resonant invariants**:
-Patterns that hold across scales, media, and transitions.
-They are not just numbers — they are keys.
+Patterns that hold across **scales**, **media**, and **transitions**.
+They are not just numbers — they are **keys**.
 
-> "Constants are frozen symmetries in motion."
+> *"Constants are frozen symmetries in motion."*
 
 ---
 
@@ -70,8 +70,8 @@ This system prepares the architecture for:
 * Field-based unification
 * Frequency-based spacetime logic
 
-It’s a bridge to SYSTEM 03: Cosmology.
-And a decoder for SYSTEM 01: Mathematics.
+It’s a bridge to **SYSTEM 03: Cosmology**.
+And a decoder for **SYSTEM 01: Mathematics**.
 
 Let physics become harmonic again.
 Let fields breathe.
