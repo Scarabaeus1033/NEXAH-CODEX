@@ -1,8 +1,9 @@
 <div align="center">
   <img src="visuals/universal_resonance_masters_triptychon.png" alt="UCRT Masters Triptychon" width="600"/>
 </div>
-> “Triptychon I: The Masters of Harmonic Constants”
-> “Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.”
+
+# Triptychon I: The Masters of Harmonic Constants
+> “** Euler, Ramanujan, Riemann, Gauss — each stands for a resonance gate. Their contributions are not isolated — they modulate a field.”
 
 ---
 
