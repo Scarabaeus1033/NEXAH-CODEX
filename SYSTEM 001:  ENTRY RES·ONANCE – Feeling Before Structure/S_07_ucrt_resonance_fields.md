@@ -1,7 +1,3 @@
----
-title: "SYSTEM 07: UNIVERSAL RESONANCE FIELDS & CONSTANTS — UCRT"
-summary: "A field-logic module on fundamental constants, harmonic interactions, and the resonant architecture of the universe."
----
 # UNIVERSAL RESONANCE FIELDS & CONSTANTS
 
 **UCRT: Unified Constants Resonance Theory**
@@ -17,6 +13,8 @@ These constants are not isolated; they resonate. They form interlinked structure
 
 **UCRT** — Unified Constants Resonance Theory — frames this principle:
 A symphony of numbers, ratios, and field structures uniting light, gravity, electromagnetism, and geometry into a resonant web.
+
+The constants you see here are not abstract formulas from a chalkboard — they are encoded in nature, visible in the spiral of a galaxy, the balance of an atom, or even the patterns in music, flowers, and architecture. They are the invisible tuning forks of creation.
 
 ---
 
