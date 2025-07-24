@@ -20,7 +20,7 @@ This module combines all systemic fields — from primal geometry and symbolics 
 
 #### 📌 System Architecture Mapping
 
-![System\_Architektur\_Karte](..visuals/System_Architektur_Karte.png)
+![System\_Architektur\_Karte](visuals../System_Architektur_Karte.png)
 A global map of the Codex. All 10+2 systems are interconnected through a layered rotational logic. The Scarabæus is central — its wings folding space-time into a cross-dimensional framework.
 
 #### 📌 Codex Spine and Fields
