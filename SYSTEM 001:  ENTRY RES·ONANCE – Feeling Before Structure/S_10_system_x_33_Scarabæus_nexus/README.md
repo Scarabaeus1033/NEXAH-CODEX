@@ -21,7 +21,7 @@ This submodule explores **glyph evolution, cycle logic, and cranial-symbolic top
 
 A central map for this nodal structure:
 
-![Scarab\_Nexus\_Node\_Map](visuals/Scarab_Nexus_Node_Map.png)
+![Scarab\_Nexus\_Node\_Map](../visuals/Scarab_Nexus_Node_Map.png)
 
 This diagram outlines the multi-dimensional logic of the Scarab Gateway:
 
@@ -35,7 +35,7 @@ This diagram outlines the multi-dimensional logic of the Scarab Gateway:
 
 The initiatory vector of this module is spiral:
 
-![Scarab\_Path\_Spiral\_Diagram](visuals/Scarab_Path_Spiral_Diagram.png)
+![Scarab\_Path\_Spiral\_Diagram](../visuals/Scarab_Path_Spiral_Diagram.png)
 
 This spiral marks the **temporal layering and harmonic recursion** of Scarabæus movement:
 
