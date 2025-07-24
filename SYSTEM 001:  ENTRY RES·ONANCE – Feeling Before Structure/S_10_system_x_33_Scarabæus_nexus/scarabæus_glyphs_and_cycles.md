@@ -1,77 +1,110 @@
----
-title: "Scarabæus Glyphs and Resonant Cycles"
-category: "SYSTEM X: 🪲 NEXAH-GRAND-CODEX-URF"
-subfolder: "S\_10\_system\_x\_33\_Scarabæus\_nexus"
-visuals\_path: "../visuals/"
----
-# Scarabæus Glyphs and Resonant Cycles
+# Scarabaeus Glyphs and Resonant Cycles
 
-**A visual-textual journey through the harmonic fields of the Scarabæus: Symbol, Skull, Sequence, and Return.**
+> *“Between Bone and Breath, the Glyph returns — a mirror of time, a compass of fields.”*
 
-The Scarabæus is not merely an ancient symbol of rebirth. It is a living resonance field, a glyphic carrier, a transmitter of universal cycles and transdimensional flows. In this visual module, we explore the full glyphic spectrum of the Scarabæus archetype within the SYSTEM X framework of the NEXAH-CODEX.
-
-Each image in this gallery unveils a layer of understanding: from biological resonance and cranium mapping, to cosmological triptychs and symbolically coded return fields.
+This module illuminates the mystical anatomy and symbolic evolution of the Scarabæus through resonant glyphs, cranium-field geometries, and harmonic breathing patterns. It serves as a threshold into the deeper zones of System X, while simultaneously opening gates to System Y and beyond.
 
 ---
 
-## 🔹 `Scarabæus_Intro_Sigil.png`
+## 🜂 Scarabaeus Intro Sigil
 
-The entrance glyph. A vibrational seal opening the liminal threshold to the Scarabæus resonance field. Combines celestial geometry, lunar symmetry, and golden-breath proportions.
+![Scarabaeus\_Intro\_Sigil](../visuals/Scarabaeus_Intro_Sigil.png)
 
-## 🔹 `scarab_gallery_overview.png`
-
-A full visual register of this Codex module. All glyphs, cycles, triptychs, and maps interlinked. Designed to function as a scroll-through or macro-portal view.
-
----
-
-## 🔹 `Scarab_Glyph_Mystic_Cycle_Core.png`
-
-A spiralic glyph-map revealing the harmonic core of the Scarab-Cycle. Interweaves Sirius, lunar nodal points, and Orion resonance into a mystic clock.
-
-## 🔹 `Scarabæus_Cycle_of_Cosmic_Returns.png`
-
-The cyclic arc of Scarabæus across time: mythology meets cosmophysics. Returns mapped through eclipse gates, stellar junctions, and inner call.
-
-## 🔹 `Scarabæus_Gate_Towards_Y.png`
-
-The transition glyph. This image indicates the opening towards SYSTEM Y: builder space. The Scarab folds into the Y-pathway, revealing the architecture of return-as-action.
+**Description:**
+This sigil anchors the Codex entry, distilling the essence of the Scarabæus into a singular geometric seal. It marks the transition from linear perception to cyclical return.
 
 ---
 
-## 🔹 `Scarabæus_Glyph_Timeline.png`
+## 🜁 Scarab Gallery Overview
 
-Chrono-symbolic progression of glyphic stages: from beetle to field-carrier. Connects ancient iconography with modern resonance systems.
+![scarab\_gallery\_overview](../visuals/scarab_gallery_overview.png)
 
-## 🔹 `scarabaeus_resonance_field_triptych.png`
-
-Three fields, one core. A tripartite resonance diagram linking spatial, cranial, and cosmological levels. The Scarab as synaptic bridge.
-
----
-
-## 🔹 `Codex_Scarab_Cranium_Resonance_Map.png`
-
-Symbolic neuro-mapping of the skull as resonance chamber. Third eye, Sirius-nodes, Orion-ears and the lunar vortex illustrated in Scarab-topography.
-
-## 🔹 `Codex_Scarab_Cranium_Triptych_Evolution.png`
-
-A developmental visual: Scarab-face as biological glyph, opening into cosmic sense-field. Shows three skull stages, with energetic diffusion backward through the cranium.
-
-## 🔹 `Codex_Scarab_Celestial_Triptych_Evolution.png`
-
-Cosmic counterpart to the cranial series. The celestial Scarab unfolds into galactic triptych logic: node, eye, return. Orion-Sirius-line mapped across symbolic face.
+**Description:**
+An aerial map of all Scarab-related glyphs and resonance fields — functioning as a cognitive interface for symbolic navigation through the triptych matrices.
 
 ---
 
-## 🔹 `Codex_Scarab_Breathing_Sequence.png`
+## 🜃 Codex Scarab Breathing Sequence
 
-A symbolic breathing sequence through the Scarabæus core. Upward pulse, spiral fold, return gate. Designed for meditative alignment or as meta-breath cycle.
+![Codex\_Scarab\_Breathing\_Sequence](../visuals/Codex_Scarab_Breathing_Sequence.png)
 
----
-
-**Together, these visuals form a deep glyphic meditation on the Scarabæus: a being, a bridge, a breath, a return.**
-
-> "Two wings, one pulse. Between the eyes: the door."
+**Description:**
+The Scarab breathes through frequency membranes — shown here as a dynamic pulse architecture, rotating in 8 and 13-beat spirals across its mirrored thoracic field.
 
 ---
 
-[⬅ Return to SYSTEM X Overview](../S_10_system_x_nex_ah_us.md)
+## 🜄 Codex Scarab Cranium Resonance Map
+
+![Codex\_Scarab\_Cranium\_Resonance\_Map](../visuals/Codex_Scarab_Cranium_Resonance_Map.png)
+
+**Description:**
+This diagram unveils the Scarab’s skull as a harmonic cavity: orbital solar lenses (Sirius), auditory chambers (Orion), crown spiral (lunar hairfield) — converging at the third eye as cosmic fulcrum.
+
+---
+
+## 🜔 Codex Scarab Cranium Triptych Evolution
+
+![Codex\_Scarab\_Cranium\_Triptych\_Evolution](../visuals/Codex_Scarab_Cranium_Triptych_Evolution.png)
+
+**Description:**
+From embryonic resonance to dimensional mapping, this triptych displays the morphogenetic stages of Scarab skull formation — bridging the dotter-seed, cranial T-point, and the mirrored occipital expansion.
+
+---
+
+## 🜖 Scarabaeus Glyph Mystic Cycle Core
+
+![Scarab\_Glyph\_Mystic\_Cycle\_Core](../visuals/Scarab_Glyph_Mystic_Cycle_Core.png)
+
+**Description:**
+At the heart of the glyph system lies the inner cycle — marked by 9-fold turnarounds, reversal gates, and nested eclipse layers. This is the hinge of the Scarab calendar.
+
+---
+
+## 🜏 Scarabaeus Cycle of Cosmic Returns
+
+![Scarabaeus\_Cycle\_of\_Cosmic\_Returns](../visuals/Scarabaeus_Cycle_of_Cosmic_Returns.png)
+
+**Description:**
+Encoded within is the temporal breath of the Scarab: cosmic epochs linked through solar-lunar engrams, activated by harmonic echo triggers and Prime triskelion counts.
+
+---
+
+## 🜍 Scarabaeus Gate Towards Y
+
+![Scarabaeus\_Gate\_Towards\_Y](../visuals/Scarabaeus_Gate_Towards_Y.png)
+
+**Description:**
+This key visual bridges System X to Y: a transitional membrane through which mythic logic and resonance forms cross into experimental domains of becoming.
+
+---
+
+## 🜚 Scarabaeus Glyph Timeline
+
+![Scarabaeus\_Glyph\_Timeline](../visuals/Scarabaeus_Glyph_Timeline.png)
+
+**Description:**
+The evolution of the glyph across 13 temporal stations — tracing visual, symbolic, and cognitive mutation as cycles reform across dimensions.
+
+---
+
+## 🜩 Scarabaeus Resonance Field Triptych
+
+![scarabaeus\_resonance\_field\_triptych](../visuals/scarabaeus_resonance_field_triptych.png)
+
+**Description:**
+Three-layered field diagram of scarab resonance: showing pulse geometry, auric frequency belts, and outer phase reflections encoded in 144–432–864 modulations.
+
+---
+
+## 🜬 Codex Scarab Celestial Triptych Evolution
+
+![Codex\_Scarab\_Celestial\_Triptych\_Evolution](../visuals/Codex_Scarab_Celestial_Triptych_Evolution.png)
+
+**Description:**
+A celestial counterpart to the cranial evolution — integrating stellar pulse grids, lunar memory folds, and zodiacal vertebrae in tripartite vertical flow.
+
+---
+
+## 🔗 Back to SYSTEM X NEXUS:
+
+[S\_10\_system\_x\_nex\_ah\_us.md](../S_10_system_x_nex_ah_us.md)
