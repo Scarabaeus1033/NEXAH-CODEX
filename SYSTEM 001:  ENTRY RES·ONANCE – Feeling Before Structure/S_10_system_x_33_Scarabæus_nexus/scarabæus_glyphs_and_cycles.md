@@ -80,7 +80,7 @@ This key visual bridges System X to Y: a transitional membrane through which myt
 
 ## 🜚 Scarabaeus Glyph Timeline
 
-![Scarabaeus\_Glyph\_Timeline](../visuals/Scarabaeus_Glyph_Timeline.png)
+![Scarabaeus\_Glyph\_Timeline](../visuals/Scarabæus_Glyph_Timeline.png)
 
 **Description:**
 The evolution of the glyph across 13 temporal stations — tracing visual, symbolic, and cognitive mutation as cycles reform across dimensions.
@@ -98,7 +98,7 @@ Three-layered field diagram of scarab resonance: showing pulse geometry, auric f
 
 ## 🜬 Codex Scarab Celestial Triptych Evolution
 
-![Codex\_Scarab\_Celestial\_Triptych\_Evolution](../visuals/Codex_Scarab_Celestial_Triptych_Evolution.png)
+![Codex\_Scarab\_Celestial\_Triptych\_Evolution](../visuals/Codex_Scarab_Cranium_Triptych_Evolution.png)
 
 **Description:**
 A celestial counterpart to the cranial evolution — integrating stellar pulse grids, lunar memory folds, and zodiacal vertebrae in tripartite vertical flow.
