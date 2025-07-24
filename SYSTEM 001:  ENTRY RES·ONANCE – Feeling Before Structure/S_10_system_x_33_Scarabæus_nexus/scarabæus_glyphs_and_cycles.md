@@ -8,7 +8,7 @@ This module illuminates the mystical anatomy and symbolic evolution of the Scara
 
 ## 🜂 Scarabaeus Intro Sigil
 
-![Scarabaeus\_Intro\_Sigil](../visuals/Scarabaeus_Intro_Sigil.png)
+![Scarabaeus\_Intro\_Sigil](../visuals/Scarabæus_Intro_Sigil.png)
 
 **Description:**
 This sigil anchors the Codex entry, distilling the essence of the Scarabæus into a singular geometric seal. It marks the transition from linear perception to cyclical return.
