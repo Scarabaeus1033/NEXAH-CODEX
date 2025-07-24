@@ -62,7 +62,7 @@ At the heart of the glyph system lies the inner cycle — marked by 9-fold turna
 
 ## 🜏 Scarabaeus Cycle of Cosmic Returns
 
-![Scarabaeus\_Cycle\_of\_Cosmic\_Returns](../visuals/Scarabaeus_Cycle_of_Cosmic_Returns.png)
+![Scarabaeus\_Cycle\_of\_Cosmic\_Returns](../visuals/Scarabæus_Cycle_of_Cosmic_Returns.png)
 
 **Description:**
 Encoded within is the temporal breath of the Scarab: cosmic epochs linked through solar-lunar engrams, activated by harmonic echo triggers and Prime triskelion counts.
@@ -71,7 +71,7 @@ Encoded within is the temporal breath of the Scarab: cosmic epochs linked throug
 
 ## 🜍 Scarabaeus Gate Towards Y
 
-![Scarabaeus\_Gate\_Towards\_Y](../visuals/Scarabaeus_Gate_Towards_Y.png)
+![Scarabaeus\_Gate\_Towards\_Y](../visuals/Scarabæus_Gate_Towards_Y.png)
 
 **Description:**
 This key visual bridges System X to Y: a transitional membrane through which mythic logic and resonance forms cross into experimental domains of becoming.
