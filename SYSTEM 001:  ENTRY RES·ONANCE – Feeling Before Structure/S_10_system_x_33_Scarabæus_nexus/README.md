@@ -63,7 +63,7 @@ The following internal glyph-fields form the structure of this submodule:
 * `scarab_gallery_overview.png`
 * `Scarabæus_Intro_Sigil.png`
 
-All visuals are stored and linked under: [`visuals/`](./visuals)
+All visuals are stored and linked under: [`visuals/`](../visuals)
 
 ---
 
