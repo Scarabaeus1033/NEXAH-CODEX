@@ -1,11 +1,9 @@
 ---
-
 title: "Scarabæus Glyphs and Resonant Cycles"
 category: "SYSTEM X: 🪲 NEXAH-GRAND-CODEX-URF"
 subfolder: "S\_10\_system\_x\_33\_Scarabæus\_nexus"
 visuals\_path: "../visuals/"
-----------------------------
-
+---
 # Scarabæus Glyphs and Resonant Cycles
 
 **A visual-textual journey through the harmonic fields of the Scarabæus: Symbol, Skull, Sequence, and Return.**
