@@ -129,7 +129,7 @@ It includes:
 ## 🌀 The Resonant Activation Field  
 
 <p align="center">
-  <img src="./visuals/resonant_field_architecture.png" width="720" alt="NEXAH Field · Resonance Architecture">
+  <img src="/visuals/resonant_field_architecture.png" width="720" alt="NEXAH Field · Resonance Architecture">
 </p>
 
 The **Resonant Field Diagram** visualizes the *activation phase* of the NEXAH-CODEX —  
@@ -144,7 +144,7 @@ and external construction (Y + Z).
 ## 🌗 Continuum Transition Map  
 
 <p align="center">
-  <img src="./visuals/continuum_transition_map.png" width="760" alt="Continuum Transition Map · Harmonic Continuum">
+  <img src="/visuals/continuum_transition_map.png" width="760" alt="Continuum Transition Map · Harmonic Continuum">
 </p>
 
 This visual illustrates the **transition bridge between mathematics and field physics** —  
@@ -186,7 +186,7 @@ for artists, scientists, and collaborators.
 ### 🕊️ Builder Hub · Join the Codex  
 
 <p align="center">
-  <img src="./visuals/Scarabaeus_the_first_five.png" width="720" alt="Scarabæus1033 · The First Five · Builder Hub Visual">
+  <img src="/visuals/Scarabaeus_the_first_five.png" width="720" alt="Scarabæus1033 · The First Five · Builder Hub Visual">
 </p>
 
 > *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.”*  
