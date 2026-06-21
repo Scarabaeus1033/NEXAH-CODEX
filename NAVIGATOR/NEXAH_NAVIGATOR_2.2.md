@@ -84,7 +84,7 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
 ## 🌌 Visual Entry Map
 
 <p align="center">
-  <img src="./visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.2 · Resonance Grid">
+  <img src="/visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.2 · Resonance Grid">
 </p>
 
 The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.  
