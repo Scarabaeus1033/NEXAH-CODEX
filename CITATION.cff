@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: "If you use NEXAH-CODEX, please cite it using the metadata below."
+message: "If you use the historical v1.0.1 release, cite it using the metadata below. For the current repository state, also inspect LICENSES.md and cite the exact artifact used."
 title: "NEXAH-CODEX — Navigator 2.2 (Public Edition) + GEOMETRIA NOVA"
 abstract: >
-  Open research repository for the NEXAH-CODEX, a transdisciplinary framework
-  exploring resonance architecture across mathematics, physics, geometry and
-  consciousness. This release publishes the Navigator 2.2 (Public Edition)
-  and the core module GEOMETRIA NOVA, including systems map, visual navigation
-  grid, and public builder interface.
+  Frozen historical archive of the NEXAH-CODEX exploratory phase. The v1.0.1
+  release published Navigator 2.2 (Public Edition) and GEOMETRIA NOVA,
+  including a systems map, visual navigation grid, and public builder
+  interface. Speculative, symbolic, and artistic material is retained as
+  developmental history rather than presented as established science.
 authors:
   - family-names: Hofmann
     given-names: Thomas K. R.

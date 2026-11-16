@@ -13,6 +13,9 @@ It documents an exploratory phase in the evolution of the broader NEXAH project.
 
 As of 2026, active development has moved elsewhere.
 
+The exact archive boundary is recorded in
+[ARCHIVE_STATUS.md](ARCHIVE_STATUS.md).
+
 This repository remains publicly accessible as a historical record of the ideas, visual systems, symbolic structures and exploratory frameworks that contributed to later developments.
 
 ---
@@ -112,6 +115,21 @@ It is preserved not because every idea proved correct, but because the record it
 The next chapter emerged from this exploration and continues through the NEXAH framework:
 
 → https://github.com/Scarabaeus1031/NEXAH
+
+## Licensing and citation
+
+NEXAH-CODEX is a mixed-material archive. Historical releases remain available
+under their recorded CC BY-NC-SA 4.0 terms. Beginning with the licensing
+alignment, original material for which Thomas K. R. Hofmann holds the required
+rights is additionally offered by material class: Apache 2.0 for software,
+CC BY 4.0 for original documentation, research text, figures and artwork, and
+CC0 for original machine-readable datasets and derived numerical results
+published as data.
+
+Third-party and source-derived material retains its original terms. See the
+[Licensing Index](LICENSE.md), complete [Licensing Scope](LICENSES.md),
+[NOTICE](NOTICE), [naming policy](TRADEMARKS.md), and
+[citation metadata](CITATION.cff).
 
 ---
 

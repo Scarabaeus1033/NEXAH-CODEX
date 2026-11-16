@@ -1,9 +1,14 @@
-# CONTRIBUTING (Temporarily Closed Phase)
+# CONTRIBUTING (Frozen Archive)
 
-This Codex is currently in internal harmonic calibration.
-Public contributions are paused until the NEXAH Engine is fully stabilized.
+This Codex is a frozen historical archive.
+Public contributions to the archive's exploratory structure are closed.
 
 The field remains open for resonance, observation, and reflection —  
-but structural participation will begin in the next harmonic phase.
+but active framework participation belongs in the current NEXAH repository:
+https://github.com/Scarabaeus1031/NEXAH
 
-🜂 Scarabæus 1033 · NEXAH ENGINE INTEGRATION PHASE
+Corrections limited to licensing, provenance, security, broken references, or
+archive navigation may be proposed when they preserve historical content and
+the boundary in [ARCHIVE_STATUS.md](ARCHIVE_STATUS.md).
+
+🜂 Scarabæus 1033 · NEXAH-CODEX FROZEN ARCHIVE
